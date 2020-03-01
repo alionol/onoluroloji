@@ -1,0 +1,82 @@
+{
+  "name": "onol-uroloji-website",
+  "version": "1.0.0",
+  "main": "_src/base.js",
+  "license": "AGPL-3.0-or-later",
+  "description": "",
+  "keywords": [
+    "jekyll",
+    "webpack"
+  ],
+  "homepage": "https://www.onoluroloji.com",
+  "author": {
+    "name": "Cagatay Aydin",
+    "email": "aydincagatay@yandex.com",
+    "url": "https://www.kmotoko.com"
+  },
+  "contributors": [
+    {
+      "name": "Cagatay Aydin",
+      "email": "aydincagatay@yandex.com",
+      "url": "https://www.kmotoko.com"
+    }
+  ],
+  "private": true,
+  "scripts": {
+    "start": "yarn cleanup && yarn build:webpack:dev && concurrently --kill-others 'yarn start:webpack:dev' 'yarn start:jekyll:dev'",
+    "start:webpack:dev": "NODE_ENV=development webpack-dev-server --mode development",
+    "start:jekyll:dev": "JEKYLL_ENV=development bundle exec jekyll serve --trace",
+    "build": "yarn cleanup && yarn build:webpack && yarn build:jekyll",
+    "build:webpack": "NODE_ENV=production yarn webpack --mode production",
+    "build:webpack:dev": "NODE_ENV=development yarn webpack --mode development",
+    "build:jekyll": "JEKYLL_ENV=production bundle exec jekyll build --strict_front_matter --trace",
+    "test": "yarn cleanup && yarn build:webpack && JEKYLL_ENV=production bundle exec rake test",
+    "lint:css": "yarn stylelint '**/*.css'",
+    "lint:css:fix": "yarn stylelint '**/*.css' --fix",
+    "lint:scss": "yarn stylelint '**/*.scss'",
+    "lint:scss:fix": "yarn stylelint '**/*.scss' --fix",
+    "lint:js": "yarn eslint .",
+    "lint:js:fix": "yarn eslint --fix .",
+    "lint:all": "yarn lint:css; yarn lint:scss; yarn lint:js",
+    "lint:all:fix": "yarn lint:css:fix; yarn lint:scss:fix; yarn lint:js:fix",
+    "cleanup": "rm -rvf ./build/ ./_site/ ./assets/"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.7.4",
+    "@babel/core": "^7.7.4",
+    "@babel/preset-env": "^7.7.4",
+    "autoprefixer": "^9.7.0",
+    "babel-eslint": "^10.0.3",
+    "babel-loader": "^8.0.6",
+    "bootstrap.native-loader": "^2.0.0",
+    "browserslist": "^4.7.3",
+    "concurrently": "^5.1.0",
+    "copy-webpack-plugin": "^5.0.4",
+    "css-loader": "^3.2.0",
+    "eslint": "^6.6.0",
+    "eslint-config-standard": "^14.1.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-node": "^10.0.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1",
+    "file-loader": "^4.2.0",
+    "html-webpack-plugin": "^3.2.0",
+    "mini-css-extract-plugin": "^0.8.0",
+    "node-sass": "^4.13.1",
+    "optimize-css-assets-webpack-plugin": "^5.0.3",
+    "postcss-loader": "^3.0.0",
+    "sass-loader": "^8.0.2",
+    "style-loader": "^1.0.0",
+    "stylelint": "^11.1.1",
+    "stylelint-config-standard": "^19.0.0",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.9",
+    "webpack-dev-server": "^3.10.2"
+  },
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "bootstrap.native": "^2.0.27",
+    "core-js": "3",
+    "lazysizes": "^5.1.2"
+  }
+}

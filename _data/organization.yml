@@ -1,0 +1,21 @@
+name: ""
+facebook: ""
+twitter: ""
+instagram: ""
+stdata:
+  alternateName: ""
+  url: ""
+  logo: ""
+  description: ""
+  address:
+    addressLocality: "Istanbul"
+    addressCountry: "Turkey"
+  foundingDate: ""
+  founders: [
+    "",
+    ""
+  ]
+  sameAs: [
+    "",
+    ""
+  ]

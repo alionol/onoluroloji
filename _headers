@@ -1,0 +1,43 @@
+/*
+    X-Frame-Options: DENY
+    X-XSS-Protection: 1; mode=block
+    X-Content-Type-Options: nosniff
+    Referrer-Policy: strict-origin-when-cross-origin
+    Feature-Policy: microphone 'none'; camera 'none'; payment 'none'; autoplay 'none'; midi 'none'
+    Cache-Control: public, s-max-age=900, max-age=900
+/assets/favicons/*
+    Last-Modified: Wed, 15 Jan 2020 09:00:00 GMT
+    If-Modified-Since: Wed, 18 Dec 2019 09:00:00 GMT
+    Cache-Control: public, s-max-age=2160000, max-age=2160000
+/assets/fonts/*
+    Cache-Control: public, s-max-age=2160000, max-age=2160000
+/assets/img/*
+    Cache-Control: public, s-max-age=2160000, max-age=2160000
+/assets/*.css
+    Cache-Control: public, s-max-age=2160000, max-age=2160000
+/assets/*.js
+    Cache-Control: public, s-max-age=2160000, max-age=2160000
+/*.ico
+    Last-Modified: Wed, 15 Jan 2020 09:00:00 GMT
+    If-Modified-Since: Wed, 18 Dec 2019 09:00:00 GMT
+    Cache-Control: public, s-max-age=2160000, max-age=2160000
+/favicon*.png
+    Last-Modified: Wed, 15 Jan 2020 09:00:00 GMT
+    If-Modified-Since: Wed, 18 Dec 2019 09:00:00 GMT
+    Cache-Control: public, s-max-age=2160000, max-age=2160000
+/mstile*.png
+    Last-Modified: Wed, 15 Jan 2020 09:00:00 GMT
+    If-Modified-Since: Wed, 18 Dec 2019 09:00:00 GMT
+    Cache-Control: public, s-max-age=2160000, max-age=2160000
+/android-chrome*.png
+    Last-Modified: Wed, 15 Jan 2020 09:00:00 GMT
+    If-Modified-Since: Wed, 18 Dec 2019 09:00:00 GMT
+    Cache-Control: public, s-max-age=2160000, max-age=2160000
+/apple-touch-icon.png
+    Last-Modified: Wed, 15 Jan 2020 09:00:00 GMT
+    If-Modified-Since: Wed, 18 Dec 2019 09:00:00 GMT
+    Cache-Control: public, s-max-age=2160000, max-age=2160000
+/safari-pinned-tab.svg
+    Last-Modified: Wed, 15 Jan 2020 09:00:00 GMT
+    If-Modified-Since: Wed, 18 Dec 2019 09:00:00 GMT
+    Cache-Control: public, s-max-age=2160000, max-age=2160000

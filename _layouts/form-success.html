@@ -1,0 +1,21 @@
+---
+layout: default
+---
+<main aria-label="Main Content">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-lg-auto text-center">
+        <h1 class="display-2 text-orange pt-5">{{- site.data.i18n.formsuccess.title["en"] | strip_html | strip_newlines | xml_escape -}}</h1>
+        <p>{{- site.data.i18n.formsuccess.message["en"] | strip_html | strip_newlines | xml_escape -}}</p>
+        <a href="{{- '/' | strip_html | strip_newlines | uri_escape | relative_url -}}">
+        {{- site.data.i18n.formsuccess.back["en"] | strip_html | strip_newlines | xml_escape -}}
+        </a>
+      </div>
+    </div>
+    <div class="row justify-content-center">
+      <div class="col-lg-auto text-justify py-4">
+        {{ page.content }}
+      </div>
+    </div>
+  </div>
+</main>

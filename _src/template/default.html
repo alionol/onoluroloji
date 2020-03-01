@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  <head>
+  {% include head.html %}
+  </head>
+
+  <body>
+    <div class="push-footer">
+      {% include navigation.html %}
+
+      {{ content }}
+
+    </div>
+
+    {% include footer.html %}
+
+    {%- if site.analytics.google.name and site.analytics.google.dir %}
+    {%- assign gsource = site.analytics.google.dir | append: site.analytics.google.name -%}
+    <script type="text/javascript" src="{{- gsource | strip_html | strip_newlines | uri_escape | relative_url -}}" defer></script>
+    {%- endif %}
+  </body>
+</html>

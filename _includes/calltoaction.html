@@ -1,0 +1,32 @@
+<div class="calltoaction text-center py-2">
+  <h2 class="font-weight-bold">{{- site.data.i18n.share["en"] | strip_html | strip_newlines | xml_escape -}}</h2>
+  <div class="calltoaction-social">
+    <a rel="nofollow noreferrer noopener" class="calltoaction-facebook px-1" target="_blank" href="https://www.facebook.com/sharer.php?u={{- page.url | replace:'index.html','' | absolute_url -}}" title="Share on Facebook">
+      <i class="fa-facebook-square"></i>
+    </a>
+    {%- if site.data.organization.twitter -%}
+    <a rel="nofollow noreferrer noopener" class="calltoaction-twitter px-1" target="_blank" href="https://twitter.com/intent/tweet?url={{- page.url | replace:'index.html','' | absolute_url -}}&via={{- site.data.organization.twitter | strip_html | strip_newlines | uri_escape -}}&text={{- page.title | strip_html | strip_newlines | uri_escape -}}" title="Share on Twitter">
+      <i class="fa-twitter-square"></i>
+    </a>
+    {%- else -%}
+    <a rel="nofollow noreferrer noopener" class="calltoaction-twitter px-1" target="_blank" href="https://twitter.com/intent/tweet?url={{- page.url | replace:'index.html','' | absolute_url -}}&text={{- page.title | strip_html | strip_newlines | uri_escape -}}" title="Share on Twitter">
+      <i class="fa-twitter-square"></i>
+    </a>
+    {%- endif -%}
+    <a rel="nofollow noreferrer noopener" class="calltoaction-reddit px-1" target="_blank" href="https://reddit.com/submit?url={{- page.url | replace:'index.html','' | absolute_url -}}&title={{- page.title | strip_html | strip_newlines | uri_escape -}}" title="Share on Reddit">
+      <i class="fa-reddit-square"></i>
+    </a>
+    {%- if page.summary -%}
+    <a rel="nofollow noreferrer noopener" class="calltoaction-linkedin px-1" target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url={{- page.url | replace:'index.html','' | absolute_url -}}&title={{- page.title | strip_html | strip_newlines | truncate: 199 | uri_escape -}}&summary={{- page.summary | strip_html | strip_newlines | truncate: 255 | uri_escape -}}" title="Share on LinkedIn">
+      <i class="fa-linkedin"></i>
+    </a>
+    {%- else -%}
+    <a rel="nofollow noreferrer noopener" class="calltoaction-linkedin px-1" target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url={{- page.url | replace:'index.html','' | absolute_url -}}&title={{- page.title | strip_html | strip_newlines | truncate: 199 | uri_escape -}}" title="Share on LinkedIn">
+      <i class="fa-linkedin"></i>
+    </a>
+    {%- endif -%}
+    <a rel="nofollow noreferrer noopener" class="calltoaction-telegram px-1" target="_blank" href="https://t.me/share/url?url={{- page.url | replace:'index.html','' | absolute_url -}}&text={{- page.title | strip_html | strip_newlines | uri_escape -}}" title="Share on Telegram">
+      <i class="fa-telegram"></i>
+    </a>
+  </div>
+</div>

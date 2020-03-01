@@ -1,0 +1,18 @@
+- id: "home"
+  name:
+    en: "Home"
+  link:
+    en: "/"
+  invisible: false
+- id: "articles"
+  name:
+    en: "Articles"
+  link:
+    en: "/articles/"
+  invisible: false
+- id: "contact"
+  name:
+    en: "Contact"
+  link:
+    en: "#footer"
+  invisible: false

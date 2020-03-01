@@ -1,0 +1,407 @@
+// GENERAL SETTINGS
+html {
+  height: 100%;
+
+  body {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+}
+
+img {
+  width: 100%;
+  max-width: 100%;
+}
+
+a {
+  transition-duration: $link-transition-duration;
+  transition-timing-function: $link-timing-function;
+}
+
+.text-lightgrey {
+  color: $gray-300;
+}
+
+.text-midgrey {
+  color: $gray-600;
+}
+
+.text-darkgrey {
+  color: $gray-700;
+}
+
+.text-orange {
+  color: $orange;
+}
+
+.text-justify {
+  hyphens: auto;
+
+  p {
+    hyphens: auto !important;
+  }
+}
+
+.push-footer {
+  flex: 1 0 auto;
+}
+
+/**
+ * Blockquotes
+ */
+
+blockquote {
+  color: $gray-600;
+  padding-left: map-get($spacers, 4);
+  padding-right: map-get($spacers, 2);
+  font-size: $blockquote-font-size;
+}
+
+/**
+ * Code formatting
+ */
+
+pre {
+  display: block;
+  padding-top: map-get($spacers, 2);
+  padding-bottom: map-get($spacers, 2);
+  padding-left: map-get($spacers, 2);
+  padding-right: map-get($spacers, 2);
+  text-align: left;
+  overflow-x: auto;
+
+  // rouge adds a table if line numbers are shown
+  table {
+    margin-left: 0;
+    // there is a second pre element when rouge outputs code
+    // bootstrap calculation results in double scaling-down
+    // normalize it back to the intended size
+    pre {
+      font-size: $font-size-base * ($code-font-size / 100%);
+    }
+  }
+}
+
+pre.highlight,
+figure.highlight,
+code.highlighter-rouge {
+  background-color: darken($body-bg-grey, 3%);
+}
+
+code.highlighter-rouge {
+  padding-top: map-get($spacers, 2);
+  padding-bottom: map-get($spacers, 1) / 2;
+  padding-left: map-get($spacers, 1);
+  padding-right: map-get($spacers, 1);
+}
+
+// HOME PAGE
+
+.entrance {
+  position: relative;
+  z-index: 100;
+  height: 95vh;
+
+  .entrance-info {
+    position: absolute;
+    width: 100%;
+    top: 35%;
+  }
+
+  a {
+    font-size: $font-size-base * 1.5;
+    color: $black;
+  }
+}
+
+#particles-js {
+  canvas {
+    display: block;
+  }
+}
+
+.honeypot {
+  display: none !important;
+}
+
+.jumbotron-fluid {
+  position: relative;
+  min-height: 90vh;
+  display: flex;
+  align-items: center;
+}
+
+.info-full {
+  background-color: $gray-900;
+
+  .info-overlay {
+    position: relative;
+  }
+
+  .info-caption {
+    position: absolute;
+    top: 40%;
+    left: 0;
+    width: 100%;
+  }
+
+  h1 {
+    position: relative;
+    top: 50%;
+  }
+
+  img {
+    width: 85%;
+    height: auto;
+  }
+}
+
+.info-double {
+  .info-title {
+    position: relative;
+    display: flex;
+    align-items: center;
+  }
+
+  img {
+    width: 85%;
+    height: auto;
+
+    @media only all and (min-width: map-get($grid-breakpoints, sm)) {
+      width: 85%;
+      height: auto;
+    }
+
+    @media only all and (min-width: map-get($grid-breakpoints, md)) {
+      width: 50%;
+      height: auto;
+    }
+
+    @media only all and (min-width: map-get($grid-breakpoints, lg)) {
+      width: 100%;
+      height: auto;
+    }
+  }
+}
+
+// ARCHIVE-POSTLIST
+
+.archive {
+  .archive-image-wrapper {
+    // fix extra text nodes
+    font-size: 0;
+    line-height: 0;
+  }
+
+  .archive-noarticle {
+    background-color: $gray-100;
+  }
+
+  .fa-exclamation-circle {
+    font-size: $social-media-icon-size;
+  }
+}
+
+// POST
+
+.post {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-weight: bold;
+  }
+
+  .post-header {
+    .post-image-wrapper {
+      // fix extra text nodes
+      font-size: 0;
+      line-height: 0;
+    }
+
+    .post-header-author {
+      display: inline;
+    }
+
+    .post-header-time {
+      display: inline;
+    }
+  }
+
+  .post-content {
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+      text-align: left;
+    }
+
+    p {
+      text-align: justify;
+      hyphens: auto;
+    }
+  }
+
+  .post-author {
+    .post-author-image {
+      text-align: center;
+
+      .user-picture {
+        border-radius: 50%;
+        width: 50%;
+        height: auto;
+
+        @media only all and (min-width: map-get($grid-breakpoints, sm)) {
+          width: 50%;
+        }
+
+        @media only all and (min-width: map-get($grid-breakpoints, md)) {
+          width: 85%;
+        }
+
+        @media only all and (min-width: map-get($grid-breakpoints, lg)) {
+          width: 75%;
+        }
+      }
+    }
+
+    .post-author-info {
+      line-height: $alt-line-height;
+
+      .user-name {
+        font-size: $font-size-lg;
+      }
+
+      .user-shortbio {
+        color: $gray-600;
+        font-size: $font-size-sm;
+      }
+    }
+  }
+}
+
+// CALL TO ACTION
+.calltoaction {
+  line-height: $alt-line-height;
+
+  .calltoaction-social {
+    font-size: $social-media-icon-size;
+
+    .calltoaction-facebook {
+      color: $facebook-blue;
+    }
+
+    .calltoaction-facebook:hover {
+      color: darken($facebook-blue, $social-media-icon-hover);
+    }
+
+    .calltoaction-twitter {
+      color: $twitter-blue;
+    }
+
+    .calltoaction-twitter:hover {
+      color: darken($twitter-blue, $social-media-icon-hover);
+    }
+
+    .calltoaction-reddit {
+      color: $reddit-red;
+    }
+
+    .calltoaction-reddit:hover {
+      color: darken($reddit-red, $social-media-icon-hover);
+    }
+
+    .calltoaction-linkedin {
+      color: $linkedin-blue;
+    }
+
+    .calltoaction-linkedin:hover {
+      color: darken($linkedin-blue, $social-media-icon-hover);
+    }
+
+    .calltoaction-telegram {
+      color: $telegram-blue;
+    }
+
+    .calltoaction-telegram:hover {
+      color: darken($telegram-blue, $social-media-icon-hover);
+    }
+  }
+}
+
+// NAVIGATION BAR
+
+.navbar {
+  line-height: $alt-line-height;
+
+  .navbar-brand {
+    img {
+      width: auto;
+    }
+  }
+
+  .nav-item {
+    font-size: $alt-font-size;
+
+    .nav-link {
+      color: $gray-200;
+    }
+
+    .nav-link:hover {
+      color: $orange;
+    }
+  }
+
+  .navbar-toggler {
+    .navbar-toggler-icon {
+      width: 1.625em;
+      height: 1.625em;
+    }
+  }
+
+  .dropdown-menu {
+    font-size: $alt-font-size;
+    line-height: $alt-line-height;
+
+    .dropdown-item {
+      font-size: $alt-font-size;
+      line-height: $alt-line-height;
+    }
+
+    .dropdown-item:hover {
+      background-color: $gray-400;
+    }
+  }
+}
+
+// FOOTER
+
+footer {
+  flex-shrink: 0;
+  line-height: $alt-line-height;
+
+  .social-media {
+    font-size: $social-media-icon-size;
+  }
+}
+
+// Lazysizes.js Start
+// Set at least min height and width to minimize reflows
+// Fade image in after load
+.lazyload,
+.lazyloading {
+  min-height: 100px;
+  min-width: 100px;
+  opacity: 0;
+}
+
+.lazyloaded {
+  opacity: 1;
+  transition: opacity 300ms;
+}
+// Lazysizes.js End

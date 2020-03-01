@@ -1,0 +1,52 @@
+{% if site.data.organization.name and site.data.organization.stdata.sameAs %}
+<script type="application/ld+json">
+{
+"@context": "http://www.schema.org",
+"@type": "Organization",
+"name": "{{- site.data.organization.name | strip_html | strip_newlines | xml_escape -}}",
+{% if site.data.organization.stdata.alternateName -%}
+"alternateName": "{{- site.data.organization.stdata.alternateName | strip_html | strip_newlines | xml_escape -}}",
+{%- endif %}
+{% if site.data.organization.stdata.url -%}
+"url": "{{- site.data.organization.stdata.url | strip_html | strip_newlines | uri_escape -}}",
+{%- endif %}
+{% if site.data.organization.stdata.logo -%}
+"logo": "{{- site.data.organization.stdata.logo | strip_html | strip_newlines | uri_escape -}}",
+{%- endif %}
+{% if site.data.organization.stdata.description -%}
+"description": "{{- site.data.organization.stdata.description | strip_html | strip_newlines | xml_escape -}}",
+{%- endif %}
+{% if site.data.organization.stdata.address.addressLocality and site.data.organization.stdata.address.addressCountry -%}
+"address": {
+  "@type": "PostalAddress",
+  "addressLocality": "{{- site.data.organization.stdata.address.addressLocality | strip_html | strip_newlines | xml_escape -}}",
+  "addressCountry": "{{- site.data.organization.stdata.address.addressCountry | strip_html | strip_newlines | xml_escape -}}"
+},
+{%- endif %}
+{% if site.email -%}
+"email": "{{- site.email | strip_html | strip_newlines | uri_escape -}}",
+{%- endif %}
+{% if site.data.organization.stdata.foundingDate -%}
+"foundingDate": "{{ site.data.organization.stdata.foundingDate | strip_html | strip_newlines | xml_escape }}",
+{%- endif %}
+{% if site.data.organization.stdata.founders -%}
+"founders": [
+  {%- for founder in site.data.organization.stdata.founders %}
+  {%- if founder != site.data.organization.stdata.founders[-1] %}
+  {
+  "@type": "Person",
+  "name": "{{ founder | strip_html | strip_newlines | xml_escape }}"
+  },
+  {%- else %}
+  {
+  "@type": "Person",
+  "name": "{{ founder | strip_html | strip_newlines | xml_escape }}"
+  }
+  {%- endif %}
+  {%- endfor %}
+],
+{%- endif %}
+"sameAs": {{ site.data.organization.stdata.sameAs | strip_html }}
+}
+</script>
+{%- endif %}

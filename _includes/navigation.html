@@ -1,0 +1,50 @@
+<nav class="navbar navbar-expand-lg sticky-top pt-2 pb-2 text-uppercase font-weight-bold">
+  <div class="container">
+    {%- assign headerlogo = site.thumbnail.base | append: site.thumbnail.header_logo.dir | append: site.thumbnail.header_logo.name | append: '.png' -%}
+    <a class="navbar-brand py-0" href="{{- '/' | uri_escape | relative_url -}}">
+      <img src="{{- headerlogo | strip_html | strip_newlines | uri_escape | relative_url -}}" height="35" alt="{{- site.data.organization.name | strip_html | strip_newlines | xml_escape }} Logo" class="d-inline-block align-top" />
+    </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNavDropdown">
+      <ul class="navbar-nav ml-auto pt-2">
+        {%- for my_page in site.data.navigation -%}
+        {%- unless my_page.invisible -%}
+        {% if my_page.id == "home" -%}
+        <li class="nav-item">
+          <a class="nav-link" href="{{- my_page.link['en'] | strip_html | strip_newlines | uri_escape | relative_url -}}">
+            {{- my_page.name["en"] | strip_html | strip_newlines | xml_escape -}}
+          </a>
+        </li>
+        {%- endif %}
+        {% if my_page.id == "articles" -%}
+        <li class="nav-item">
+          <a class="nav-link" href="{{- my_page.link['en'] | strip_html | strip_newlines | uri_escape -}}">
+            {{- my_page.name["en"] | strip_html | strip_newlines | xml_escape -}}
+          </a>
+        </li>
+        {%- endif %}
+        {% if my_page.id == "contact" -%}
+        <li class="nav-item">
+          <a class="nav-link" href="{{- my_page.link['en'] | strip_html | strip_newlines | uri_escape -}}">
+            {{- my_page.name["en"] | strip_html | strip_newlines | xml_escape -}}
+          </a>
+        </li>
+        {%- endif %}
+        {%- endunless -%}
+        {%- endfor -%}
+      </ul>
+    </div>
+  </div>
+</nav>
+<!-- No JS warning -->
+{% if site.data.i18n.nojs["en"] -%}
+<noscript>
+  <div class="container text-center text-danger font-weight-bold pt-2">
+    <p>
+      {{- site.data.i18n.nojs["en"] | strip_html | strip_newlines | xml_escape -}}
+    </p>
+  </div>
+</noscript>
+{%- endif %}

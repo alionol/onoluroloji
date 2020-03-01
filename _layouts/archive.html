@@ -1,0 +1,69 @@
+---
+layout: default
+---
+
+<div class="container archive">
+  <h1 class="font-weight-bold text-center pt-3">
+    {{- page.title | strip_html | strip_newlines | xml_escape -}}
+  </h1>
+
+  <p class="text-center"><small>{{- page.summary | strip_html | strip_newlines | xml_escape -}}</small></p>
+
+  <main aria-label="Main Content">
+    {% assign posts = site.posts -%}
+    {%- for post in paginator.posts -%}
+    <article>
+      <div class="row pb-5">
+        <div class="col-lg-12">
+          <h2 class="font-weight-bold">
+            <a href="{{- post.url | strip_html | strip_newlines | uri_escape | relative_url -}}">
+              {{- post.title | strip_html | strip_newlines | xml_escape -}}
+            </a>
+          </h2>
+          <div class="text-midgrey pb-2">
+            <time datetime="{{- post.date | strip_html | strip_newlines | date_to_xmlschema -}}">
+            {{- post.date | date: site.data.i18n.dateformat["en"] | strip_html | strip_newlines | xml_escape -}}
+            </time>
+          </div>
+        </div>
+        <div class="col-lg-4">
+          {% if site.thumbnail.base and post.thumbnail.name -%}
+          <div class="archive-image-wrapper">
+            <a href="{{- post.url | strip_html | strip_newlines | uri_escape | relative_url -}}">
+              ​<picture>
+                {% assign thumb_base = site.thumbnail.base | strip_html | strip_newlines | uri_escape -%}
+                {%- assign thumb_sq = post.thumbnail.name | append: site.thumbnail.square_ext | strip_html | strip_newlines | uri_escape -%}
+                {%- assign thumb_mid = post.thumbnail.name | append: site.thumbnail.mid_ext | strip_html | strip_newlines | uri_escape -%}
+                {%- assign thumb_wide = post.thumbnail.name | append: site.thumbnail.wide_ext | strip_html | strip_newlines | uri_escape -%}
+                {%- assign thumb_alt = post.title | strip_html | strip_newlines | xml_escape -%}
+                {%- if post.thumbnail.webp -%}
+                <source srcset="{{- thumb_base | append: site.thumbnail.mid | append: thumb_mid | append: '.webp' | relative_url -}}" type="image/webp"/>
+                {%- endif -%}
+                <source srcset="{{- thumb_base | append: site.thumbnail.mid | append: thumb_mid | append: '.jpg'| relative_url -}}" type="image/jpeg"/>
+                <img src="{{- thumb_base | append: site.thumbnail.mid | append: thumb_mid | append: '.jpg' | relative_url -}}" alt="{{- thumb_alt -}}"/>
+              </picture>
+            </a>
+          </div>
+          {%- endif %}
+        </div>
+        <div class="col-lg-8 text-justify">
+            <p class="pt-1 lead">
+              {% if post.summary -%}
+                {{- post.summary | strip_html | strip_newlines | xml_escape -}}
+              {%- endif %}
+            </p>
+        </div>
+      </div>
+    </article>
+    {%- else %}
+    <div class="text-center py-3 mb-5 archive-noarticle">
+      <i class="fa-exclamation-circle text-warning"></i>
+      <p class="mb-1">
+        {{- site.data.i18n.noarticle["en"] | strip_html | strip_newlines | xml_escape -}}
+      </p>
+    </div>
+    {%- endfor %}
+  </main>
+
+  {%- include pagination.html -%}
+</div>
