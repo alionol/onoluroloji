@@ -1,0 +1,36 @@
+---
+layout: default
+---
+<main class="contact-page">
+  <div class="jumbotron jumbotron-fluid">
+    <div class="container">
+      <h1>{{ page.title }}</h1>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="row my-5">
+      <div class="col-md-6">
+        <form>
+          <div class="form-group">
+            <label for="namesurname">{{- site.data.i18n.contact.namesurname['tr'] -}}</label>
+            <input type="text" class="form-control" id="namesurname" placeholder="{{- site.data.i18n.contact.namesurname['tr'] -}}">
+          </div>
+          <div class="form-group">
+            <label for="inputemail">{{- site.data.i18n.contact.email['tr'] -}}</label>
+            <input type="email" class="form-control" id="inputemail" placeholder="{{- site.data.i18n.contact.email['tr'] -}}">
+          </div>
+          <div class="form-group">
+            <label for="subject">{{- site.data.i18n.contact.subject['tr'] -}}</label>
+            <input type="text" class="form-control" id="subject" placeholder="{{- site.data.i18n.contact.subject['tr'] -}}">
+          </div>
+          <div class="form-group">
+            <label for="textarea">{{- site.data.i18n.contact.msg['tr'] -}}</label>
+            <textarea class="form-control" id="textarea" rows="3"></textarea>
+          </div>
+          <button type="submit" class="btn btn-primary">{{- site.data.i18n.contact.submit['tr'] -}}</button>
+        </form>
+      </div>
+    </div>
+  </div>
+</main>

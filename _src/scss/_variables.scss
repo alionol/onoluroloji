@@ -4,16 +4,25 @@ $body-bg-grey: #f7f7f7;
 $link-transition-duration: 0.3s;
 $link-timing-function: ease-in;
 
-$alt-font-size: 1rem;
-$alt-line-height: 1.4;  // where being compact is needed
+$alt-font-size: 1.05rem;
+$alt-line-height: 1.5;  // where being compact is needed
 
 $social-media-icon-size: 3rem;
 $twitter-blue: #1da1f2;
 $facebook-blue: #3b5998;
+$instagram-violet: #8a3ab9;
+$youtube-red: #b31217;
 $reddit-red: #ff4500;
 $linkedin-blue: #4875b4;
 $telegram-blue: #08c;
 $social-media-icon-hover: 15%;  // used in darken/lighten on hover
+
+$brand: #4c939f;
+$urologue-green: #097747;
+
+
+$footer-bg: #60daa6;
+$info-box-bg: #60daa6;
 
 // BOOTSTRAP VARIABLES
 
@@ -86,7 +95,7 @@ $colors: map-merge(
   $colors
 );
 
-$primary: $blue;
+$primary: $brand;
 $secondary: $gray-500;
 $success: $green;
 $info: $cyan;
@@ -121,16 +130,16 @@ $enable-responsive-font-sizes: true;
 //
 // Settings for the `<body>` element.
 
-$body-bg: $body-bg-grey;
+$body-bg: $white;
 $body-color: $gray-800;
 
 // Links
 //
 // Style anchor elements.
 
-$link-color: #f4a93b;
+$link-color: $urologue-green;
 $link-decoration: none;
-$link-hover-color: darken($link-color, 15%);
+$link-hover-color: lighten($link-color, 25%);
 $link-hover-decoration: none;
 // Darken percentage for links with `.text-*` class (e.g. `.text-success`)
 $emphasized-link-hover-darken-percentage: 15%;
@@ -145,7 +154,7 @@ $grid-breakpoints: (
   sm: 576px,
   md: 768px,
   lg: 992px,
-  xl: 1200px
+  xl: 1282px
 );
 
 // Grid containers
@@ -171,7 +180,7 @@ $line-height-sm: 1.4;
 // Font, line-height, and color for body text, headings, and more.
 
 // stylelint-disable value-keyword-case, max-line-length
-$font-family-sans-serif: "IBM Plex Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+$font-family-sans-serif: "Roboto", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 $font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 $font-family-base: $font-family-sans-serif;
 // stylelint-enable value-keyword-case, max-line-length
@@ -211,7 +220,7 @@ $display-line-height: $headings-line-height;
 $lead-font-size: $font-size-base * 1.125;
 $lead-font-weight: 300;
 
-$small-font-size: 82.5%;
+$small-font-size: 85.0%;
 
 $blockquote-small-color: $gray-600;
 $blockquote-small-font-size: $small-font-size;

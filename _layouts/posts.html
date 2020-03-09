@@ -2,16 +2,24 @@
 layout: default
 ---
 <main aria-label="Main Content">
-  <div class="container">
-    <article class="post">
-
-
-    </article>
-  </div>
+  <article class="post">
+    <header>
+      <div class="jumbotron jumbotron-fluid">
+        <div class="container">
+          <h1>{{- page.title | strip_html | strip_newlines | xml_escape -}}</h1>
+        </div>
+      </div>
+    </header>
+    <div class="post-content">
+      <div class="container">
+        {{ content }}
+      </div>
+    </div>
+  </article>
 </main>
 
-<aside>
+<!-- <aside>
   <div class="container">
     {% include calltoaction.html %}
   </div>
-</aside>
+</aside> -->

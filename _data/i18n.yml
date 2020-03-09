@@ -1,0 +1,50 @@
+home:
+  carousel:
+    tr: ["Ulusal ve Uluslararası 427 Yayın ve Bildiri", "Dünya Tıp Literatürüne Girmiş 2 Ameliyat Tekniği", ""]
+  card:
+    title:
+      tr: ["Erkek Ürolojisi", "Kadın Ürolojisi", "Çocuk Ürolojisi"]
+    desc:
+      tr: ["Ekibimiz erkek üroloji hastlalıkları hakkında video, makale ve görseller ile sizi hastalığınız hakkındaki bütün detaylara ulaştırıyor.", "Kadın ürolojisi dalında deneyimli hekimlerimiz, hastalara fiziksel ve psikolojik tramvalarından kurtulmaları için gereken tıbbi ve cerrahi tedaviler hakkında bilgi veriyor.", "Çocuk üroloji sertifikasına da sahip olan doktorumuz, doğumsal veya sonradan oluşan çocuk hastalıklarının tedavi ve ameliyatları hakkında bilgiler sunarak, güncel bilgiler ışığında ebeveynlerin endişelerini gideriyor."]
+  jumbotron:
+    tr: "Üroloji bilim dalı hakkında detaylı bilgiler içeren platformumuz, Prof. Dr. Ş. Yavuz ÖNOL ve Doç. Dr. F. Fatih ÖNOL 'un geniş deneyimlerinden yararlanılarak hazırlanmıştır. Amacımız, Ürolojik rahatsızlıklar ve tedavi yöntemleri hakkında video, makale ve görsellerle hastaların bilgilenmesini sağlamaktır. Özellikle başarısız operasyon geçirmiş hastaların tedavisiyle ilgili uluslararası standarttaki tıbbi ve cerrahi konular ele alınmaktadır. Hastalığınız hakkında teşhis ve doğru tedavi için bize ulaşabilirsiniz."
+  doctors:
+    title:
+      tr: ["Prof. Dr. Ş. Yavuz ÖNOL", "Doç. Dr. F. Fatih ÖNOL"]
+    desc:
+      tr: ["Prof Dr. Ş. Yavuz ÖNOL, Türk Silahlı Kuvvetlerinin değişik kademelerinde 33 yıl boyunca başasistan, yardımcı doçent, doçent ve profesör olarak eğitim ve araştırma faaliyetlerinde bulunup öğretim üyesi ve klinik şefliği görevlerini icra ettikten sonra kıdemli Albay olarak emekli olmuştur. Sonrasında eğitim araştırma faaliyetlerine Üroloji Klinik Şefi ve Üroloji Anabilim Dalı Başkanı olarak devam etmiştir. Bu görevler esnasında bir çok üroloğun eğitiminde rol oynamıştır. Kariyeri boyunca 427 adet ulusal ve uluslararası yayın ve bildiriye imza atmıştır. Ayrıca dünya tıp literatürüne girmiş ameliyat teknikleriyle (TURC Tekniği Ve ONOL Tekniği), üroloji bilim dalına katkı sağlamıştır.", "Üroloji Uzmanlık eğitimini Marmara Üniversitesi Tıp Fakültesi Üroloji Ana Bilim Dalı'nda tamamlayan Dr. F. Fatih ÖNOL, 2001 ve 2002 yılları arasında A.B.D.'nin Philadelphia kentindeki Thomas Jefferson University Hospital (TJU Üniversitesi Hastanesi) Üroloji Anabilim Dalı'nda gözlemci doktor olarak bulundu.Aynı üniversitede Mart-Haziran 2002 tarihleri arasında Genel Cerrahi rotasyonu yaptı. 2003 yılında A.B.D.'nin Philadelphia kentindeki University of Pennsylvania Hospital – UPENN Hastanesi Üroloji Anabilim Dalı ve Children's Hospital of Philadelphia – CHOP Hastanesi Pediatrik Üroloji Anabilim Dalı'nda gözlemci doktor olarak çalıştı."]
+  about:
+    tr: "Hakkımızda"
+
+
+contact:
+  namesurname:
+    tr: "Ad/Soyad"
+  email:
+    tr: "Email"
+  subject:
+    tr: "Konu"
+  msg:
+    tr: "Mesaj"
+  submit:
+    tr: "Gönder"
+
+footer:
+  contact:
+    tr: "İletişim"
+  address_name:
+    tr: "Adres"
+  address:
+    tr: ["Halaskargazi Caddesi No: 81", "Osmanbey", "Istanbul"]
+  email_name:
+    tr: "Email"
+  phone_name:
+    tr: "Telefon"
+  phone:
+    tr: "+90 (212) 230 76 44"
+  phone_link:
+    tr: "+902122307644"
+  social_name:
+    tr: "Sosyal Medya"
+  copyright:
+    tr: ["&#169;", "Tüm Hakları Saklıdır"]

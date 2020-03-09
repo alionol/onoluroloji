@@ -96,94 +96,142 @@ code.highlighter-rouge {
   padding-right: map-get($spacers, 1);
 }
 
+// WHOLE PAGE
+.fixed-phone {
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+  font-size: 3.25em;
+  z-index: 999;
+  color: $brand;
+  .fa-phone{
+    padding: 8px;
+    border: 2px solid $brand;
+    border-radius: 48%;
+    color: $brand;
+  }
+
+  @media only all and (min-width: map-get($grid-breakpoints, lg)) {
+    display: none;
+    font-size: 0;
+    height: 0;
+    width: 0;
+    line-height: 0;
+  }
+
+}
+
 // HOME PAGE
 
-.entrance {
-  position: relative;
-  z-index: 100;
-  height: 95vh;
-
-  .entrance-info {
-    position: absolute;
-    width: 100%;
-    top: 35%;
-  }
-
-  a {
-    font-size: $font-size-base * 1.5;
-    color: $black;
-  }
-}
-
-#particles-js {
-  canvas {
-    display: block;
-  }
-}
-
-.honeypot {
-  display: none !important;
-}
-
-.jumbotron-fluid {
-  position: relative;
-  min-height: 90vh;
-  display: flex;
-  align-items: center;
-}
-
-.info-full {
-  background-color: $gray-900;
-
-  .info-overlay {
-    position: relative;
-  }
-
-  .info-caption {
-    position: absolute;
-    top: 40%;
-    left: 0;
-    width: 100%;
-  }
-
-  h1 {
-    position: relative;
-    top: 50%;
-  }
-
-  img {
-    width: 85%;
-    height: auto;
-  }
-}
-
-.info-double {
-  .info-title {
+.home {
+  .jumbotron-fluid {
     position: relative;
     display: flex;
     align-items: center;
+    background-image: linear-gradient(to bottom, $info-box-bg, lighten($info-box-bg, 10%));
+    color: $white;
   }
 
-  img {
-    width: 85%;
-    height: auto;
-
+  .info-box {
+    line-height: $alt-line-height;
     @media only all and (min-width: map-get($grid-breakpoints, sm)) {
-      width: 85%;
-      height: auto;
+
     }
 
     @media only all and (min-width: map-get($grid-breakpoints, md)) {
-      width: 50%;
-      height: auto;
+
     }
 
     @media only all and (min-width: map-get($grid-breakpoints, lg)) {
-      width: 100%;
-      height: auto;
+      position: absolute;
+      top: 475px;
+      left: 0;
+      right: 0;
+      margin: 0 auto;
+    }
+
+    @media only all and (min-width: map-get($grid-breakpoints, xl)) {
+      position: absolute;
+      top: 500px;
+      left: 0;
+      right: 0;
+      margin: 0 auto;
+    }
+
+    .card {
+      background-color: $info-box-bg;
+      color: $white;
+      opacity: 0.85;
+    }
+    .card-text {
+      font-size: $alt-font-size;
+    }
+  }
+
+  .doctors {
+    line-height: $alt-line-height;
+    .doctors-title {
+      color: $info-box-bg;
+    }
+    .card {
+      opacity: 0.85;
+    }
+    .card-title {
+      color: $info-box-bg;
+    }
+    .card-text {
+      font-size: $alt-font-size;
+    }
+  }
+
+  .carousel-item {
+    height: 82.5vh;
+    img {
+      height: 100%;
+      position: absolute;
+      object-fit:cover;
+      top: 0;
+      left: 0;
+    }
+
+    .carousel-caption {
+        position: relative;
+        left: 0;
+        top: 0;
+
+
+        .carousel-caption-title {
+          background-color: $white;
+          color: $gray-900;
+          opacity: 0.6;
+        }
     }
   }
 }
+
+// CATEGORIES
+.categories {
+  .jumbotron {
+    background-color: $info-box-bg;
+    color: $white;
+  }
+
+  .category-post-list {
+    a, p {
+      font-size: 1.25em;
+    }
+  }
+}
+
+
+// CONTACT PAGE
+.contact-page {
+  .jumbotron {
+    background-color: lighten($urologue-green, 15%);
+    color: $white;
+  }
+}
+
 
 // ARCHIVE-POSTLIST
 
@@ -206,28 +254,10 @@ code.highlighter-rouge {
 // POST
 
 .post {
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6 {
-    font-weight: bold;
-  }
-
-  .post-header {
-    .post-image-wrapper {
-      // fix extra text nodes
-      font-size: 0;
-      line-height: 0;
-    }
-
-    .post-header-author {
-      display: inline;
-    }
-
-    .post-header-time {
-      display: inline;
+  header {
+    .jumbotron {
+      background-color: lighten($urologue-green, 15%);
+      color: $white;
     }
   }
 
@@ -239,51 +269,40 @@ code.highlighter-rouge {
     h5,
     h6 {
       text-align: left;
+      color: $brand;
     }
 
     p {
       text-align: justify;
       hyphens: auto;
     }
-  }
 
-  .post-author {
-    .post-author-image {
-      text-align: center;
+    img {
+      max-width: 100%;
 
-      .user-picture {
-        border-radius: 50%;
+      @media only all and (min-width: map-get($grid-breakpoints, sm)) {
+        width: 100%;
+      }
+
+      @media only all and (min-width: map-get($grid-breakpoints, md)) {
+        float: left;
         width: 50%;
-        height: auto;
-
-        @media only all and (min-width: map-get($grid-breakpoints, sm)) {
-          width: 50%;
-        }
-
-        @media only all and (min-width: map-get($grid-breakpoints, md)) {
-          width: 85%;
-        }
-
-        @media only all and (min-width: map-get($grid-breakpoints, lg)) {
-          width: 75%;
-        }
-      }
-    }
-
-    .post-author-info {
-      line-height: $alt-line-height;
-
-      .user-name {
-        font-size: $font-size-lg;
       }
 
-      .user-shortbio {
-        color: $gray-600;
-        font-size: $font-size-sm;
+      @media only all and (min-width: map-get($grid-breakpoints, lg)) {
+        float: left;
+        width: 50%;
+      }
+
+      @media only all and (min-width: map-get($grid-breakpoints, xl)) {
+        float: left;
+        width: 50%;
       }
     }
   }
+
 }
+
 
 // CALL TO ACTION
 .calltoaction {
@@ -335,11 +354,33 @@ code.highlighter-rouge {
 }
 
 // NAVIGATION BAR
+.navbar-above {
+  line-height: $alt-line-height;
+  font-size: $small-font-size;
+
+  .navbar-above-social {
+    font-size: 2rem;
+    color: $brand;
+    i {
+      color: $brand;
+    }
+  }
+
+  .navbar-above-address,
+  .navbar-above-phone {
+    i {
+      color: $brand;
+      font-size: 1.2em;
+    }
+  }
+}
 
 .navbar {
   line-height: $alt-line-height;
 
   .navbar-brand {
+    color: $brand;
+    font-size: 1.7em;
     img {
       width: auto;
     }
@@ -349,12 +390,15 @@ code.highlighter-rouge {
     font-size: $alt-font-size;
 
     .nav-link {
-      color: $gray-200;
+      color: $gray-600;
+      outline: none;
+      border: none;
     }
 
     .nav-link:hover {
-      color: $orange;
+      color: $link-color;
     }
+
   }
 
   .navbar-toggler {
@@ -367,6 +411,7 @@ code.highlighter-rouge {
   .dropdown-menu {
     font-size: $alt-font-size;
     line-height: $alt-line-height;
+    border: none;
 
     .dropdown-item {
       font-size: $alt-font-size;
@@ -374,7 +419,8 @@ code.highlighter-rouge {
     }
 
     .dropdown-item:hover {
-      background-color: $gray-400;
+      background-color: $white;
+      color: $link-color;
     }
   }
 }
@@ -384,9 +430,35 @@ code.highlighter-rouge {
 footer {
   flex-shrink: 0;
   line-height: $alt-line-height;
+  background-color: $footer-bg;
+  color: $white;
+  a {
+    color: $white;
+  }
+  a:hover {
+    color: $white;
+  }
+
+  .footer-contact {
+    i {
+      font-size: 1.1em;
+    }
+  }
 
   .social-media {
     font-size: $social-media-icon-size;
+    color: $gray-900;
+
+    a {
+      color: $gray-700;
+    }
+    a:hover {
+      color: $gray-600;
+    }
+
+    .social-media-title {
+      color: $white;
+    }
   }
 }
 
@@ -405,3 +477,39 @@ footer {
   transition: opacity 300ms;
 }
 // Lazysizes.js End
+
+
+// EMBED VIDEOS
+.embed-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+}
+
+.embed-container iframe, .embed-container object, .embed-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+
+// TOC
+
+#markdown-toc::before {
+    font-weight: bold;
+}
+
+#markdown-toc ul {
+    list-style: decimal;
+}
+
+#markdown-toc {
+    padding: 2em;
+    list-style: decimal;
+    display: block;
+    background-color: lighten($gray-100, 2.5%);
+}

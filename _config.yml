@@ -31,7 +31,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.onoluroloji.com" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: "/:categories/:title/"
 
-langs: ["en"]
+langs: ["tr"]
 
 favicon:
   safari: "f4a93b"
@@ -50,7 +50,7 @@ thumbnail:
   extra_wide_ext: "_2x1"
   home: "home/"
   header_logo:
-    name: ""
+    name: "logo"
     dir: "logo/"
   publisher_logo:
     name: ""
@@ -59,6 +59,10 @@ thumbnail:
     height: 60
   author:
     dir: "author/"
+    doctor_1: "doctor-1"
+    doctor_1_alt: "Prof. Dr. Ş. Yavuz ÖNOL"
+    doctor_2: "doctor-2"
+    doctor_2_alt: "Doç. Dr. Fikret Fatih Önol"
 
 webmaster:
   google: "W3_XaJbXsaE6IuXkYy1cVmeMh6BmZivIMFwJXZKM6U4" # Search console
@@ -102,13 +106,20 @@ sass:
   line_comments: false
   sourcemap: "development"
 
-defaults:
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
-      type: "posts" # previously `post` in Jekyll 2.2.
-    values:
-      category: "articles"
+jekyll-archives:
+  enabled:
+    - categories
+  layout: category
+  permalinks:
+    category: '/:name/'
+
+# defaults:
+#   -
+#     scope:
+#       path: "" # an empty string here means all files in the project
+#       type: "posts" # previously `post` in Jekyll 2.2.
+#     values:
+#       category: "articles"
 
 # Build settings
 plugins:
@@ -116,6 +127,7 @@ plugins:
   # - jekyll-data
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-archives
 
 # Exclude from processing.
 # The following items will not be processed, by default.

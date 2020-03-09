@@ -22,7 +22,7 @@ layout: default
           </h2>
           <div class="text-midgrey pb-2">
             <time datetime="{{- post.date | strip_html | strip_newlines | date_to_xmlschema -}}">
-            {{- post.date | date: site.data.i18n.dateformat["en"] | strip_html | strip_newlines | xml_escape -}}
+            {{- post.date | date: site.data.i18n.dateformat["tr"] | strip_html | strip_newlines | xml_escape -}}
             </time>
           </div>
         </div>
@@ -59,7 +59,7 @@ layout: default
     <div class="text-center py-3 mb-5 archive-noarticle">
       <i class="fa-exclamation-circle text-warning"></i>
       <p class="mb-1">
-        {{- site.data.i18n.noarticle["en"] | strip_html | strip_newlines | xml_escape -}}
+        {{- site.data.i18n.noarticle["tr"] | strip_html | strip_newlines | xml_escape -}}
       </p>
     </div>
     {%- endfor %}

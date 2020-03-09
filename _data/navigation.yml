@@ -1,18 +1,41 @@
 - id: "home"
   name:
-    en: "Home"
+    tr: "Anasayfa"
   link:
-    en: "/"
+    tr: "/"
+  category: false
   invisible: false
-- id: "articles"
+- id: "male"
   name:
-    en: "Articles"
+    tr: "Erkek Hastalıkları"
   link:
-    en: "/articles/"
+    tr: "/erkek-hastaliklari/"
+  category: "erkek-hastaliklari"
+  invisible: false
+- id: "female"
+  name:
+    tr: "Kadın Hastalıkları"
+  link:
+    tr: "/kadin-hastaliklari/"
+  category: "kadin-hastaliklari"
+  invisible: false
+- id: "child"
+  name:
+    tr: "Çocuk Hastalıkları"
+  link:
+    tr: "/cocuk-hastaliklari/"
+  category: "cocuk-hastaliklari"
+  invisible: false
+- id: "about"
+  name:
+    tr: "Hakkımızda"
+  link:
+    tr: "/hakkimizda/"
   invisible: false
 - id: "contact"
   name:
-    en: "Contact"
+    tr: "İletişim"
   link:
-    en: "#footer"
+    tr: "/iletisim/"
+  category: false
   invisible: false

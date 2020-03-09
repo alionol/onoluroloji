@@ -1,0 +1,26 @@
+---
+layout: default
+---
+<main class="categories">
+  <div class="jumbotron jumbotron-fluid">
+    <div class="container">
+      {% for entry in  site.data.navigation %}
+      {% if page.title == entry.category %}
+      <h1>{{ entry.name["tr"] }}</h1>
+      {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+
+  <div class="category-post-list pt-2 pb-5">
+    <div class="container">
+      <div class="row">
+        {% for post in page.posts %}
+          <div class="col-md-4">
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</main>
