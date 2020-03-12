@@ -4,13 +4,13 @@
     {% if paginator.previous_page -%}
     <li class="page-item">
       <a class="page-link" href="{{- paginator.previous_page_path | relative_url -}}" tabindex="-1">
-        {{- site.data.i18n.pagination["tr"][0] | strip_html | strip_newlines | xml_escape -}}
+        {{- site.data.i18n.pagination[page.lang][0] | strip_html | strip_newlines | xml_escape -}}
       </a>
     </li>
     {%- else -%}
     <li class="page-item disabled">
       <a class="page-link" href="#" tabindex="-1">
-        {{- site.data.i18n.pagination["tr"][0] | strip_html | strip_newlines | xml_escape -}}
+        {{- site.data.i18n.pagination[page.lang][0] | strip_html | strip_newlines | xml_escape -}}
       </a>
     </li>
     {%- endif %}
@@ -38,13 +38,13 @@
     {% if paginator.next_page -%}
     <li class="page-item">
       <a class="page-link" href="{{- paginator.next_page_path | relative_url -}}">
-        {{- site.data.i18n.pagination["tr"][1] | strip_html | strip_newlines | xml_escape -}}
+        {{- site.data.i18n.pagination[page.lang][1] | strip_html | strip_newlines | xml_escape -}}
       </a>
     </li>
     {%- else -%}
     <li class="page-item disabled">
       <a class="page-link" href="#">
-        {{- site.data.i18n.pagination["tr"][1] | strip_html | strip_newlines | xml_escape -}}
+        {{- site.data.i18n.pagination[page.lang][1] | strip_html | strip_newlines | xml_escape -}}
       </a>
     </li>
     {%- endif %}

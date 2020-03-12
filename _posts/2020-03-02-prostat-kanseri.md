@@ -9,6 +9,7 @@ category: "erkek-hastaliklari"
 category_id: "male"
 category_title:
     tr: "Erkek Hastalıkları"
+i18n-link: "prostat-kanseri"
 # Theme specific vars
 last_modified_at: 2020-01-12 12:00:00 +0300
 thumbnail:

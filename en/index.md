@@ -4,7 +4,7 @@ layout: home
 title: ""
 # Theme specific vars
 summary: ""
-lang: "tr"
+lang: "en"
 # Thumbnail is only used for opengraph and twitter in the home page
 # Expected to be a jpeg
 thumbnail:

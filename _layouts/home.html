@@ -1,5 +1,5 @@
 ---
-layout: default-home
+layout: default
 ---
 
 <main aria-label="Main Content" class="home">
@@ -14,7 +14,7 @@ layout: default-home
     <div class="carousel-inner">
       <div class="carousel-item">
         <div class="carousel-caption">
-          <h2 class="carousel-caption-title py-2">{{- site.data.i18n.home.carousel["tr"][0] | strip_html | strip_newlines | xml_escape -}}</h2>
+          <h2 class="carousel-caption-title py-2">{{- site.data.i18n.home.carousel[page.lang][0] | strip_html | strip_newlines | xml_escape -}}</h2>
         </div>
         ​<picture>
           <source srcset="{{- thumb_base | append: thumb_home | append: 'carousel-1' | append: '.webp' | relative_url -}}" type="image/webp">
@@ -24,7 +24,7 @@ layout: default-home
       </div>
       <div class="carousel-item">
         <div class="carousel-caption">
-          <h2 class="carousel-caption-title py-2">{{- site.data.i18n.home.carousel["tr"][1] | strip_html | strip_newlines | xml_escape -}}</h2>
+          <h2 class="carousel-caption-title py-2">{{- site.data.i18n.home.carousel[page.lang][1] | strip_html | strip_newlines | xml_escape -}}</h2>
         </div>
         ​<picture>
           <source srcset="{{- thumb_base | append: thumb_home | append: 'carousel-2' | append: '.webp' | relative_url -}}" type="image/webp">
@@ -48,24 +48,24 @@ layout: default-home
       <div class="col-md-4 mb-4">
         <div class="card h-100">
           <div class="card-body">
-            <h5 class="card-title font-weight-bold">{{- site.data.i18n.home.card.title["tr"][0] | strip_html | strip_newlines | xml_escape -}}</h5>
-            <p class="card-text text-justify">{{- site.data.i18n.home.card.desc["tr"][0] | strip_html | strip_newlines | xml_escape -}}</p>
+            <h5 class="card-title font-weight-bold">{{- site.data.i18n.home.card.title[page.lang][0] | strip_html | strip_newlines | xml_escape -}}</h5>
+            <p class="card-text text-justify">{{- site.data.i18n.home.card.desc[page.lang][0] | strip_html | strip_newlines | xml_escape -}}</p>
           </div>
         </div>
       </div>
       <div class="col-md-4 mb-4">
         <div class="card h-100">
           <div class="card-body">
-            <h5 class="card-title font-weight-bold">{{- site.data.i18n.home.card.title["tr"][1] | strip_html | strip_newlines | xml_escape -}}</h5>
-            <p class="card-text text-justify">{{- site.data.i18n.home.card.desc["tr"][1] | strip_html | strip_newlines | xml_escape -}}</p>
+            <h5 class="card-title font-weight-bold">{{- site.data.i18n.home.card.title[page.lang][1] | strip_html | strip_newlines | xml_escape -}}</h5>
+            <p class="card-text text-justify">{{- site.data.i18n.home.card.desc[page.lang][1] | strip_html | strip_newlines | xml_escape -}}</p>
           </div>
         </div>
       </div>
       <div class="col-md-4 mb-4">
         <div class="card h-100">
           <div class="card-body">
-            <h5 class="card-title font-weight-bold">{{- site.data.i18n.home.card.title["tr"][2] | strip_html | strip_newlines | xml_escape -}}</h5>
-            <p class="card-text text-justify">{{- site.data.i18n.home.card.desc["tr"][2] | strip_html | strip_newlines | xml_escape -}}</p>
+            <h5 class="card-title font-weight-bold">{{- site.data.i18n.home.card.title[page.lang][2] | strip_html | strip_newlines | xml_escape -}}</h5>
+            <p class="card-text text-justify">{{- site.data.i18n.home.card.desc[page.lang][2] | strip_html | strip_newlines | xml_escape -}}</p>
           </div>
         </div>
       </div>
@@ -74,13 +74,13 @@ layout: default-home
 
   <div class="jumbotron jumbotron-fluid my-5">
     <div class="container">
-      <p class="text-justify">{{- site.data.i18n.home.jumbotron["tr"] | strip_html | strip_newlines | xml_escape -}}</p>
+      <p class="text-justify">{{- site.data.i18n.home.jumbotron[page.lang] | strip_html | strip_newlines | xml_escape -}}</p>
     </div>
   </div>
 
   <div class="container doctors my-5">
     {%- assign doctors_base = site.thumbnail.base | append: site.thumbnail.author.dir -%}
-    <h2 class="text-center font-weight-bold doctors-title">{{- site.data.i18n.home.about["tr"] | strip_html | strip_newlines | xml_escape -}}</h2>
+    <h2 class="text-center font-weight-bold doctors-title">{{- site.data.i18n.home.about[page.lang] | strip_html | strip_newlines | xml_escape -}}</h2>
     <div class="row row-cols-1 row-cols-md-3 justify-content-between">
       <div class="col-md-5 mb-4">
         <div class="card h-100 border-0">
@@ -90,8 +90,8 @@ layout: default-home
             <img src="{{- doctors_base | append: site.thumbnail.author.doctor_1 | append: '.jpg' | relative_url -}}" class="card-img-top" alt="{{- doctors_base | append: site.thumbnail.author.doctor_1_alt -}}">
           </picture>
           <div class="card-body">
-            <h5 class="card-title font-weight-bold">{{- site.data.i18n.home.doctors.title["tr"][0] | strip_html | strip_newlines | xml_escape -}}</h5>
-            <p class="card-text text-justify">{{- site.data.i18n.home.doctors.desc["tr"][0] | strip_html | strip_newlines | xml_escape -}}</p>
+            <h5 class="card-title font-weight-bold">{{- site.data.i18n.home.doctors.title[page.lang][0] | strip_html | strip_newlines | xml_escape -}}</h5>
+            <p class="card-text text-justify">{{- site.data.i18n.home.doctors.desc[page.lang][0] | strip_html | strip_newlines | xml_escape -}}</p>
           </div>
         </div>
       </div>
@@ -103,8 +103,8 @@ layout: default-home
             <img src="{{- doctors_base | append: site.thumbnail.author.doctor_2 | append: '.jpg' | relative_url -}}" class="card-img-top" alt="{{- doctors_base | append: site.thumbnail.author.doctor_2_alt -}}">
           </picture>
           <div class="card-body">
-            <h5 class="card-title font-weight-bold">{{- site.data.i18n.home.doctors.title["tr"][1] | strip_html | strip_newlines | xml_escape -}}</h5>
-            <p class="card-text text-justify">{{- site.data.i18n.home.doctors.desc["tr"][1] | strip_html | strip_newlines | xml_escape -}}</p>
+            <h5 class="card-title font-weight-bold">{{- site.data.i18n.home.doctors.title[page.lang][1] | strip_html | strip_newlines | xml_escape -}}</h5>
+            <p class="card-text text-justify">{{- site.data.i18n.home.doctors.desc[page.lang][1] | strip_html | strip_newlines | xml_escape -}}</p>
           </div>
         </div>
       </div>

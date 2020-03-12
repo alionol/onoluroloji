@@ -5,10 +5,10 @@ layout: default
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-lg-auto text-center">
-        <h1 class="display-2 text-orange pt-5">{{- site.data.i18n.formsuccess.title["tr"] | strip_html | strip_newlines | xml_escape -}}</h1>
-        <p>{{- site.data.i18n.formsuccess.message["tr"] | strip_html | strip_newlines | xml_escape -}}</p>
+        <h1 class="display-2 text-orange pt-5">{{- site.data.i18n.formsuccess.title[page.lang] | strip_html | strip_newlines | xml_escape -}}</h1>
+        <p>{{- site.data.i18n.formsuccess.message[page.lang] | strip_html | strip_newlines | xml_escape -}}</p>
         <a href="{{- '/' | strip_html | strip_newlines | uri_escape | relative_url -}}">
-        {{- site.data.i18n.formsuccess.back["tr"] | strip_html | strip_newlines | xml_escape -}}
+        {{- site.data.i18n.formsuccess.back[page.lang] | strip_html | strip_newlines | xml_escape -}}
         </a>
       </div>
     </div>

@@ -3,32 +3,32 @@
   <div class="container">
     <div class="row justify-content-between px-2">
       <div class="col-md-auto py-2 footer-contact">
-        <h3>{{- site.data.i18n.footer.contact["tr"] | strip_html | strip_newlines | xml_escape -}}</h3>
+        <h3>{{- site.data.i18n.footer.contact[page.lang] | strip_html | strip_newlines | xml_escape -}}</h3>
         <i class="fa-map-marker mr-1"></i>
         <small class="font-italic">
-        {{- site.data.i18n.footer.address_name["tr"] | strip_html | strip_newlines | xml_escape -}}
+        {{- site.data.i18n.footer.address_name[page.lang] | strip_html | strip_newlines | xml_escape -}}
         </small>
         <br/>
         <small>
-        {{- site.data.i18n.footer.address["tr"][0] | strip_html | strip_newlines | xml_escape -}}
+        {{- site.data.i18n.footer.address[page.lang][0] | strip_html | strip_newlines | xml_escape -}}
         </small>
         <br/>
         <small>
-        {{- site.data.i18n.footer.address["tr"][1] | append: ' / ' | append: site.data.i18n.footer.address["tr"][2] | strip_html | strip_newlines | xml_escape -}}
+        {{- site.data.i18n.footer.address[page.lang][1] | append: ' / ' | append: site.data.i18n.footer.address[page.lang][2] | strip_html | strip_newlines | xml_escape -}}
         </small>
         <br/>
         <i class="fa-phone-square mr-1"></i>
         <small class="font-italic">
-        {{- site.data.i18n.footer.phone_name["tr"] | strip_html | strip_newlines | xml_escape -}}
+        {{- site.data.i18n.footer.phone_name[page.lang] | strip_html | strip_newlines | xml_escape -}}
         </small>
         <br/>
         <small>
-        {{- site.data.i18n.footer.phone["tr"] | strip_html | strip_newlines | xml_escape -}}
+        {{- site.data.i18n.footer.phone[page.lang] | strip_html | strip_newlines | xml_escape -}}
         </small>
         <br/>
         <i class="fa-envelope mr-1"></i>
         <small class="font-italic">
-        {{- site.data.i18n.footer.email_name["tr"] | strip_html | strip_newlines | xml_escape -}}
+        {{- site.data.i18n.footer.email_name[page.lang] | strip_html | strip_newlines | xml_escape -}}
         </small>
         <br/>
         <small>
@@ -38,7 +38,7 @@
         </small>
       </div>
       <div class="col-md-auto social-media py-2">
-        <h3 class="social-media-title">{{- site.data.i18n.footer.social_name["tr"] | strip_html | strip_newlines | xml_escape -}}</h3>
+        <h3 class="social-media-title">{{- site.data.i18n.footer.social_name[page.lang] | strip_html | strip_newlines | xml_escape -}}</h3>
         <a rel="nofollow noreferrer noopener" target="_blank" href="https://www.facebook.com/%C3%96nol-%C3%9Croloji-Merkezi-293508391178588/?ref=br_rs" aria-label="On Facebook">
           <i class="fa-facebook-square"></i>
         </a>
@@ -55,7 +55,7 @@
     </div>
     <div class="row pb-1 pt-3 justify-content-center">
       <div class="col-md-auto">
-        <p>{{- site.data.i18n.footer.copyright["tr"][0] | append: ' ' | append: site.title | append: '. ' | append: site.data.i18n.footer.copyright["tr"][1] | strip_html | strip_newlines -}}</p>
+        <p>{{- site.data.i18n.footer.copyright[page.lang][0] | append: ' ' | append: site.title | append: '. ' | append: site.data.i18n.footer.copyright[page.lang][1] | strip_html | strip_newlines -}}</p>
       </div>
     </div>
   </div>

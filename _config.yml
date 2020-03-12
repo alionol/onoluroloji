@@ -31,8 +31,6 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.onoluroloji.com" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: "/:categories/:title/"
 
-langs: ["tr"]
-
 favicon:
   safari: "f4a93b"
   msapplication: "000000"
@@ -120,6 +118,20 @@ jekyll-archives:
 #       type: "posts" # previously `post` in Jekyll 2.2.
 #     values:
 #       category: "articles"
+
+defaults:
+    -
+     scope:
+         path: ""
+     values:
+         lang: "tr"
+         base-url: "/"
+    -
+     scope:
+         path: "en"
+     values:
+         lang: "en"
+         base-url: "/en/"
 
 # Build settings
 plugins:

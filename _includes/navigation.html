@@ -4,7 +4,7 @@
       <div class="col-md-auto navbar-above-address">
         <i class="fa-map-marker mr-1"></i>
         <span>
-          {{- site.data.i18n.footer.address["tr"][0] | append: ' ' | append: site.data.i18n.footer.address["tr"][1] | strip_html | strip_newlines | xml_escape -}}
+          {{- site.data.i18n.footer.address[page.lang][0] | append: ' ' | append: site.data.i18n.footer.address[page.lang][1] | strip_html | strip_newlines | xml_escape -}}
         </span>
       </div>
       <div class="col-md-auto navbar-above-social">
@@ -24,7 +24,7 @@
       <div class="col-md-auto navbar-above-phone">
         <i class="fa-phone-square mr-1"></i>
         <span>
-          {{- site.data.i18n.footer.phone["tr"] | strip_html | strip_newlines | xml_escape -}}
+          {{- site.data.i18n.footer.phone[page.lang] | strip_html | strip_newlines | xml_escape -}}
         </span>
       </div>
     </div>
@@ -47,12 +47,12 @@
         {%- if my_page.category -%}
         <li class="nav-item dropdown">
           <a id="" class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-            {{- my_page.name["tr"] | strip_html | strip_newlines | xml_escape -}}
+            {{- my_page.name[page.lang] | strip_html | strip_newlines | xml_escape -}}
           </a>
 
           <div class="dropdown-menu" aria-labelledby="">
             {% for post in site.posts %}
-            {%- if post.category_id == my_page.id -%}
+            {%- if post.category_id == my_page.id and post.lang == page.lang -%}
             <a class="dropdown-item" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
             {%- endif -%}
             {% endfor %}
@@ -60,8 +60,8 @@
         </li>
         {%- else -%}
         <li class="nav-item">
-          <a class="nav-link" href="{{- my_page.link['tr'] | strip_html | strip_newlines | uri_escape | relative_url -}}">
-            {{- my_page.name["tr"] | strip_html | strip_newlines | xml_escape -}}
+          <a class="nav-link" href="{{- my_page.link[page.lang] | strip_html | strip_newlines | uri_escape | relative_url -}}">
+            {{- my_page.name[page.lang] | strip_html | strip_newlines | xml_escape -}}
           </a>
         </li>
         {%- endif -%}
@@ -72,11 +72,11 @@
   </div>
 </nav>
 <!-- No JS warning -->
-{% if site.data.i18n.nojs["tr"] -%}
+{% if site.data.i18n.nojs[page.lang] -%}
 <noscript>
   <div class="container text-center text-danger font-weight-bold pt-2">
     <p>
-      {{- site.data.i18n.nojs["tr"] | strip_html | strip_newlines | xml_escape -}}
+      {{- site.data.i18n.nojs[page.lang] | strip_html | strip_newlines | xml_escape -}}
     </p>
   </div>
 </noscript>

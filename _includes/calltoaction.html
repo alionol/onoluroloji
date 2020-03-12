@@ -1,5 +1,5 @@
 <div class="calltoaction text-center py-2">
-  <h2 class="font-weight-bold">{{- site.data.i18n.share["tr"] | strip_html | strip_newlines | xml_escape -}}</h2>
+  <h2 class="font-weight-bold">{{- site.data.i18n.share[page.lang] | strip_html | strip_newlines | xml_escape -}}</h2>
   <div class="calltoaction-social">
     <a rel="nofollow noreferrer noopener" class="calltoaction-facebook px-1" target="_blank" href="https://www.facebook.com/sharer.php?u={{- page.url | replace:'index.html','' | absolute_url -}}" title="Share on Facebook">
       <i class="fa-facebook-square"></i>

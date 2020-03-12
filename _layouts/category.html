@@ -6,7 +6,7 @@ layout: default
     <div class="container">
       {% for entry in  site.data.navigation %}
       {% if page.title == entry.category %}
-      <h1>{{ entry.name["tr"] }}</h1>
+      <h1>{{ entry.name[page.lang] }}</h1>
       {% endif %}
       {% endfor %}
     </div>
