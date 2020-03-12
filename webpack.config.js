@@ -91,13 +91,6 @@ module.exports = {
                 chunks: ['base'],
             },
         ),
-        new HtmlWebpackPlugin(
-            {
-                filename: path.resolve(__dirname, '_layouts', 'default-home.html'),
-                template: path.resolve(__dirname, '_src/template', 'default-home.html'),
-                chunks: ['base', 'home'],
-            },
-        ),
     ],
     optimization: {
         minimizer: [
