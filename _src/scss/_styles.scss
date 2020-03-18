@@ -121,6 +121,15 @@ code.highlighter-rouge {
 
 }
 
+.language {
+  .dropdown-menu {
+    z-index: 2000;
+    .dropdown-item {
+      z-index: 2000;
+    }
+  }
+}
+
 // HOME PAGE
 
 .home {
@@ -134,6 +143,7 @@ code.highlighter-rouge {
 
   .info-box {
     line-height: $alt-line-height;
+
     @media only all and (min-width: map-get($grid-breakpoints, sm)) {
 
     }
@@ -159,29 +169,43 @@ code.highlighter-rouge {
     }
 
     .card {
-      background-color: $info-box-bg;
+      background-color: $urologue-green;
       color: $white;
       opacity: 0.85;
+
+      .card-title {
+        font-family: $font-family-sans-serif;
+      }
+
+      .card-text {
+        font-size: $alt-font-size;
+      }
     }
-    .card-text {
-      font-size: $alt-font-size;
-    }
+
   }
 
   .doctors {
     line-height: $alt-line-height;
     .doctors-title {
-      color: $info-box-bg;
+      color: $urologue-green;
+      font-size: 2.15em;
     }
     .card {
       opacity: 0.85;
+
+      .card-title {
+        color: $urologue-green;
+        font-size: 1.35em;
+      }
+      .card-text {
+        font-size: $alt-font-size;
+      }
+
+      .doctors-img {
+        box-shadow: 2px 2px 6px #555555;
+      }
     }
-    .card-title {
-      color: $info-box-bg;
-    }
-    .card-text {
-      font-size: $alt-font-size;
-    }
+
   }
 
   .carousel-item {
@@ -204,6 +228,7 @@ code.highlighter-rouge {
           background-color: $white;
           color: $gray-900;
           opacity: 0.6;
+          font-size: 2em;
         }
     }
   }
@@ -262,6 +287,8 @@ code.highlighter-rouge {
   }
 
   .post-content {
+    font-family: $font-family-sans-serif;
+
     h1,
     h2,
     h3,
@@ -270,11 +297,15 @@ code.highlighter-rouge {
     h6 {
       text-align: left;
       color: $brand;
+      font-family: $font-family-sans-serif;
     }
 
     p {
       text-align: justify;
       hyphens: auto;
+      @media only all and (min-width: map-get($grid-breakpoints, lg)) {
+        font-size: 1.10em;
+      }
     }
 
     img {
@@ -358,6 +389,11 @@ code.highlighter-rouge {
   line-height: $alt-line-height;
   font-size: $small-font-size;
 
+  @media only all and (min-width: map-get($grid-breakpoints, xl)) {
+    padding-left: $navbar-above-padding;
+    padding-right: $navbar-above-padding;
+  }
+
   .navbar-above-social {
     font-size: 2rem;
     color: $brand;
@@ -379,8 +415,10 @@ code.highlighter-rouge {
   line-height: $alt-line-height;
 
   .navbar-brand {
+    font-family: $font-family-serif;
     color: $brand;
-    font-size: 1.7em;
+    font-size: 2em;
+    font-weight: 500;
     img {
       width: auto;
     }

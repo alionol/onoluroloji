@@ -4,8 +4,8 @@ $body-bg-grey: #f7f7f7;
 $link-transition-duration: 0.3s;
 $link-timing-function: ease-in;
 
-$alt-font-size: 1.05rem;
-$alt-line-height: 1.5;  // where being compact is needed
+$alt-font-size: 1.065rem;
+$alt-line-height: 1.4;  // where being compact is needed
 
 $social-media-icon-size: 3rem;
 $twitter-blue: #1da1f2;
@@ -23,6 +23,10 @@ $urologue-green: #097747;
 
 $footer-bg: #60daa6;
 $info-box-bg: #60daa6;
+
+$font-family-serif: "PT Serif", serif;
+
+$navbar-above-padding: 200px;
 
 // BOOTSTRAP VARIABLES
 
@@ -165,28 +169,28 @@ $container-max-widths: (
   sm: 540px,
   md: 720px,
   lg: 940px,
-  xl: 1050px
+  xl: 1175px
 );
 
 // Components
 //
 // Define common padding and border radius sizes and more.
 
-$line-height-lg: 1.4;
-$line-height-sm: 1.4;
+$line-height-lg: 1.35;
+$line-height-sm: 1.35;
 
 // Typography
 //
 // Font, line-height, and color for body text, headings, and more.
 
 // stylelint-disable value-keyword-case, max-line-length
-$font-family-sans-serif: "Roboto", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+$font-family-sans-serif: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 $font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 $font-family-base: $font-family-sans-serif;
 // stylelint-enable value-keyword-case, max-line-length
 
-$font-size-base: 1.15rem; // 1rem Assumes the browser default, typically `16px`
-$font-size-lg: $font-size-base * 1.1;
+$font-size-base: 1.175rem; // 1rem Assumes the browser default, typically `16px`
+$font-size-lg: $font-size-base * 1.115;
 $font-size-sm: $font-size-base * 0.825;
 
 $font-weight-lighter: lighter;
@@ -196,7 +200,7 @@ $font-weight-bold: 700;
 $font-weight-bolder: bolder;
 
 $font-weight-base: $font-weight-normal;
-$line-height-base: 1.9;
+$line-height-base: 1.8;
 
 $h1-font-size: $font-size-base * 2.2;
 $h2-font-size: $font-size-base * 1.59;
@@ -205,7 +209,7 @@ $h4-font-size: $font-size-base * 1.15;
 $h5-font-size: $font-size-base * 1.09;
 $h6-font-size: $font-size-base;
 
-$headings-font-family: null;
+$headings-font-family: $font-family-serif;
 $headings-font-weight: 500;
 $headings-line-height: 1.3;
 $headings-color: null;
