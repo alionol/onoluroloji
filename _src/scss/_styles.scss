@@ -342,7 +342,7 @@ blockquote {
 // NAVIGATION BAR
 .navbar-above {
   line-height: $alt-line-height;
-  //font-size: 1.275em;
+  font-size: $alt-font-size;
 
   @media only all and (min-width: map-get($grid-breakpoints, xl)) {
     padding-left: $navbar-above-padding;
