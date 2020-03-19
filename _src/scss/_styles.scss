@@ -143,6 +143,15 @@ blockquote {
         font-size: $alt-font-size * 0.9;
       }
 
+      .card-body {
+        padding-bottom: 5px;
+      }
+
+      .card-footer {
+        padding-top: 8px;
+        padding-bottom: 8px;
+      }
+
       .btn {
         color: $white;
         background-color: darken($urologue-green, 5%);
