@@ -1,7 +1,5 @@
 # Browsers that we support
 last 2 versions
->= 0.4%
+>= 0.15%
 Firefox ESR
-not safari < 10
-not chrome < 50
 not dead
