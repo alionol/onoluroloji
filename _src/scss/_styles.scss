@@ -99,7 +99,7 @@ blockquote {
     position: relative;
     display: flex;
     align-items: center;
-    background-image: linear-gradient(rgba(96,218,166,0.85),rgba(96,218,166,0.85)), url("/assets/img/band-bg.webp");
+    background-image: linear-gradient(rgba(96,218,166,0.95),rgba(96,218,166,0.95)), url("/assets/img/band-bg.webp");
     background-repeat: no-repeat;
     background-position: center;
     background-size: 100% auto;
@@ -136,7 +136,7 @@ blockquote {
     .card {
       background-color: $urologue-green;
       color: $white;
-      opacity: 0.90;
+      opacity: 0.95;
 
       .card-title {
         font-family: $font-family-sans-serif;
@@ -156,7 +156,7 @@ blockquote {
       font-size: 1.85em;
     }
     .card {
-      opacity: 0.90;
+      opacity: 0.95;
 
       .card-title {
         color: $urologue-green;
@@ -207,7 +207,7 @@ blockquote {
   }
 
   .jumbotron-fluid {
-    background-image: linear-gradient(rgba(96,218,166,0.85),rgba(96,218,166,0.85)), url("/assets/img/band-bg.webp");
+    background-image: linear-gradient(rgba(96,218,166,0.95),rgba(96,218,166,0.95)), url("/assets/img/band-bg.webp");
     background-repeat: no-repeat;
     background-position: center;
     background-size: 100% auto;
@@ -244,7 +244,7 @@ blockquote {
   }
 
   .jumbotron-fluid {
-    background-image: linear-gradient(rgba(96,218,166,0.85),rgba(96,218,166,0.85)), url("/assets/img/band-bg.webp");
+    background-image: linear-gradient(rgba(96,218,166,0.95),rgba(96,218,166,0.95)), url("/assets/img/band-bg.webp");
     background-repeat: no-repeat;
     background-position: center;
     background-size: 100% auto;
@@ -284,7 +284,7 @@ blockquote {
       color: $white;
     }
     .jumbotron-fluid {
-      background-image: linear-gradient(rgba(96,218,166,0.85),rgba(96,218,166,0.85)), url("/assets/img/band-bg.webp");
+      background-image: linear-gradient(rgba(96,218,166,0.95),rgba(96,218,166,0.95)), url("/assets/img/band-bg.webp");
       background-repeat: no-repeat;
       background-position: center;
       background-size: 100% auto;
