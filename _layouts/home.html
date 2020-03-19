@@ -44,8 +44,8 @@ layout: default
   </div>
 
   <div class="container my-5 info-box">
-    <div class="row">
-      <div class="col-md-4 mb-4">
+    <div class="row justify-content-around">
+      <div class="col-md-4 mb-4 px-4">
         <div class="card h-100">
           <div class="card-body">
             <h3 class="card-title font-weight-bold">{{- site.data.i18n.home.card.title[page.lang][0] | strip_html | strip_newlines | xml_escape -}}</h3>
@@ -54,7 +54,7 @@ layout: default
           <div class="card-footer">
             {%- for my_page in site.data.navigation -%}
             {%- if my_page.id == "male" -%}
-            <a href="{{- my_page.link[page.lang] | strip_html | strip_newlines | uri_escape | relative_url -}}" class="btn btn-primary btn-sm" role="button">
+            <a href="{{- my_page.link[page.lang] | strip_html | strip_newlines | uri_escape | relative_url -}}" class="btn btn-sm" role="button">
             {{- my_page.name[page.lang] | strip_html | strip_newlines | xml_escape -}}
             </a>
             {%- endif -%}
@@ -62,7 +62,7 @@ layout: default
           </div>
         </div>
       </div>
-      <div class="col-md-4 mb-4">
+      <div class="col-md-4 mb-4 px-4">
         <div class="card h-100">
           <div class="card-body">
             <h3 class="card-title font-weight-bold">{{- site.data.i18n.home.card.title[page.lang][1] | strip_html | strip_newlines | xml_escape -}}</h3>
@@ -71,7 +71,7 @@ layout: default
           <div class="card-footer">
             {%- for my_page in site.data.navigation -%}
             {%- if my_page.id == "female" -%}
-            <a href="{{- my_page.link[page.lang] | strip_html | strip_newlines | uri_escape | relative_url -}}" class="btn btn-primary btn-sm" role="button">
+            <a href="{{- my_page.link[page.lang] | strip_html | strip_newlines | uri_escape | relative_url -}}" class="btn btn-sm" role="button">
             {{- my_page.name[page.lang] | strip_html | strip_newlines | xml_escape -}}
             </a>
             {%- endif -%}
@@ -79,7 +79,7 @@ layout: default
           </div>
         </div>
       </div>
-      <div class="col-md-4 mb-4">
+      <div class="col-md-4 mb-4 px-4">
         <div class="card h-100">
           <div class="card-body">
             <h3 class="card-title font-weight-bold">{{- site.data.i18n.home.card.title[page.lang][2] | strip_html | strip_newlines | xml_escape -}}</h3>
@@ -88,7 +88,7 @@ layout: default
           <div class="card-footer">
             {%- for my_page in site.data.navigation -%}
             {%- if my_page.id == "child" -%}
-            <a href="{{- my_page.link[page.lang] | strip_html | strip_newlines | uri_escape | relative_url -}}" class="btn btn-primary btn-sm" role="button">
+            <a href="{{- my_page.link[page.lang] | strip_html | strip_newlines | uri_escape | relative_url -}}" class="btn btn-sm" role="button">
             {{- my_page.name[page.lang] | strip_html | strip_newlines | xml_escape -}}
             </a>
             {%- endif -%}

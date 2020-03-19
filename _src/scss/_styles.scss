@@ -127,14 +127,19 @@ blockquote {
     .card {
       background-color: $urologue-green;
       color: $white;
-      opacity: 0.95;
+      opacity: 0.975;
 
       .card-title {
         font-family: $font-family-sans-serif;
       }
 
       .card-text {
-        font-size: $alt-font-size;
+        font-size: $alt-font-size * 1.05;
+      }
+
+      .btn {
+        color: $white;
+        background-color: darken($urologue-green, 5%);
       }
     }
 
@@ -160,12 +165,17 @@ blockquote {
       .doctors-img {
         box-shadow: 2px 2px 6px #555555;
       }
+
+      .btn {
+        color: $white;
+        background-color: $urologue-green;
+      }
     }
 
   }
 
   .carousel-item {
-    height: 82.5vh;
+    height: 87.5vh;
     img {
       height: 100%;
       position: absolute;
