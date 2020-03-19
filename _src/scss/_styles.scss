@@ -58,44 +58,6 @@ blockquote {
   font-size: $blockquote-font-size;
 }
 
-/**
- * Code formatting
- */
-
-pre {
-  display: block;
-  padding-top: map-get($spacers, 2);
-  padding-bottom: map-get($spacers, 2);
-  padding-left: map-get($spacers, 2);
-  padding-right: map-get($spacers, 2);
-  text-align: left;
-  overflow-x: auto;
-
-  // rouge adds a table if line numbers are shown
-  table {
-    margin-left: 0;
-    // there is a second pre element when rouge outputs code
-    // bootstrap calculation results in double scaling-down
-    // normalize it back to the intended size
-    pre {
-      font-size: $font-size-base * ($code-font-size / 100%);
-    }
-  }
-}
-
-pre.highlight,
-figure.highlight,
-code.highlighter-rouge {
-  background-color: darken($body-bg-grey, 3%);
-}
-
-code.highlighter-rouge {
-  padding-top: map-get($spacers, 2);
-  padding-bottom: map-get($spacers, 1) / 2;
-  padding-left: map-get($spacers, 1);
-  padding-right: map-get($spacers, 1);
-}
-
 // WHOLE PAGE
 .fixed-phone {
   position: fixed;
@@ -375,56 +337,6 @@ code.highlighter-rouge {
     }
   }
 
-}
-
-
-// CALL TO ACTION
-.calltoaction {
-  line-height: $alt-line-height;
-
-  .calltoaction-social {
-    font-size: $social-media-icon-size;
-
-    .calltoaction-facebook {
-      color: $facebook-blue;
-    }
-
-    .calltoaction-facebook:hover {
-      color: darken($facebook-blue, $social-media-icon-hover);
-    }
-
-    .calltoaction-twitter {
-      color: $twitter-blue;
-    }
-
-    .calltoaction-twitter:hover {
-      color: darken($twitter-blue, $social-media-icon-hover);
-    }
-
-    .calltoaction-reddit {
-      color: $reddit-red;
-    }
-
-    .calltoaction-reddit:hover {
-      color: darken($reddit-red, $social-media-icon-hover);
-    }
-
-    .calltoaction-linkedin {
-      color: $linkedin-blue;
-    }
-
-    .calltoaction-linkedin:hover {
-      color: darken($linkedin-blue, $social-media-icon-hover);
-    }
-
-    .calltoaction-telegram {
-      color: $telegram-blue;
-    }
-
-    .calltoaction-telegram:hover {
-      color: darken($telegram-blue, $social-media-icon-hover);
-    }
-  }
 }
 
 // NAVIGATION BAR
