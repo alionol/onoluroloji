@@ -136,7 +136,7 @@ blockquote {
     .card {
       background-color: $urologue-green;
       color: $white;
-      opacity: 0.85;
+      opacity: 0.90;
 
       .card-title {
         font-family: $font-family-sans-serif;
@@ -156,7 +156,7 @@ blockquote {
       font-size: 1.85em;
     }
     .card {
-      opacity: 0.85;
+      opacity: 0.90;
 
       .card-title {
         color: $urologue-green;
@@ -342,7 +342,7 @@ blockquote {
 // NAVIGATION BAR
 .navbar-above {
   line-height: $alt-line-height;
-  font-size: $small-font-size;
+  //font-size: 1.275em;
 
   @media only all and (min-width: map-get($grid-breakpoints, xl)) {
     padding-left: $navbar-above-padding;
@@ -350,7 +350,7 @@ blockquote {
   }
 
   .navbar-above-social {
-    font-size: 2rem;
+    font-size: 2.25rem;
     color: $brand;
     i {
       color: $brand;
@@ -361,7 +361,7 @@ blockquote {
   .navbar-above-phone {
     i {
       color: $brand;
-      font-size: 1.125em;
+      font-size: 1.275em;
     }
   }
 }
