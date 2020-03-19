@@ -106,7 +106,7 @@ blockquote {
 
     .btn {
       color: $white;
-      background-color: darken($carousel-overlay-color, 5%);
+      background-color: darken($brand, 5%);
     }
   }
 
@@ -214,7 +214,7 @@ blockquote {
 
 
         .carousel-caption-title {
-          background-color: $carousel-overlay-color;
+          background-color: $brand;
           color: $white;
           opacity: 0.8;
           font-size: 1.85em;
