@@ -50,6 +50,13 @@ layout: default
           <div class="card-body">
             <h3 class="card-title font-weight-bold">{{- site.data.i18n.home.card.title[page.lang][0] | strip_html | strip_newlines | xml_escape -}}</h3>
             <p class="card-text text-justify">{{- site.data.i18n.home.card.desc[page.lang][0] | strip_html | strip_newlines | xml_escape -}}</p>
+            {%- for my_page in site.data.navigation -%}
+            {%- if my_page.id == "male" -%}
+            <a href="{{- my_page.link[page.lang] | strip_html | strip_newlines | uri_escape | relative_url -}}" class="btn btn-primary btn-sm" role="button">
+            {{- my_page.name[page.lang] | strip_html | strip_newlines | xml_escape -}}
+            </a>
+            {%- endif -%}
+            {%- endfor -%}
           </div>
         </div>
       </div>
@@ -58,6 +65,13 @@ layout: default
           <div class="card-body">
             <h3 class="card-title font-weight-bold">{{- site.data.i18n.home.card.title[page.lang][1] | strip_html | strip_newlines | xml_escape -}}</h3>
             <p class="card-text text-justify">{{- site.data.i18n.home.card.desc[page.lang][1] | strip_html | strip_newlines | xml_escape -}}</p>
+            {%- for my_page in site.data.navigation -%}
+            {%- if my_page.id == "female" -%}
+            <a href="{{- my_page.link[page.lang] | strip_html | strip_newlines | uri_escape | relative_url -}}" class="btn btn-primary btn-sm" role="button">
+            {{- my_page.name[page.lang] | strip_html | strip_newlines | xml_escape -}}
+            </a>
+            {%- endif -%}
+            {%- endfor -%}
           </div>
         </div>
       </div>
@@ -66,6 +80,13 @@ layout: default
           <div class="card-body">
             <h3 class="card-title font-weight-bold">{{- site.data.i18n.home.card.title[page.lang][2] | strip_html | strip_newlines | xml_escape -}}</h3>
             <p class="card-text text-justify">{{- site.data.i18n.home.card.desc[page.lang][2] | strip_html | strip_newlines | xml_escape -}}</p>
+            {%- for my_page in site.data.navigation -%}
+            {%- if my_page.id == "child" -%}
+            <a href="{{- my_page.link[page.lang] | strip_html | strip_newlines | uri_escape | relative_url -}}" class="btn btn-primary btn-sm" role="button">
+            {{- my_page.name[page.lang] | strip_html | strip_newlines | xml_escape -}}
+            </a>
+            {%- endif -%}
+            {%- endfor -%}
           </div>
         </div>
       </div>
@@ -75,6 +96,13 @@ layout: default
   <div class="jumbotron jumbotron-fluid my-5">
     <div class="container">
       <p class="text-justify">{{- site.data.i18n.home.jumbotron[page.lang] | strip_html | strip_newlines | xml_escape -}}</p>
+      {%- for my_page in site.data.navigation -%}
+      {%- if my_page.id == "contact" -%}
+      <a href="{{- my_page.link[page.lang] | strip_html | strip_newlines | uri_escape | relative_url -}}" class="btn btn-primary btn-sm" role="button">
+      {{- my_page.name[page.lang] | strip_html | strip_newlines | xml_escape -}}
+      </a>
+      {%- endif -%}
+      {%- endfor -%}
     </div>
   </div>
 
@@ -92,6 +120,17 @@ layout: default
           <div class="card-body">
             <h5 class="card-title text-center pt-3">{{- site.data.i18n.home.doctors.title[page.lang][0] | strip_html | strip_newlines | xml_escape -}}</h5>
             <p class="card-text text-justify">{{- site.data.i18n.home.doctors.desc[page.lang][0] | strip_html | strip_newlines | xml_escape -}}</p>
+            {%- for my_page in site.data.navigation -%}
+            {%- if my_page.id == "about" -%}
+            {%- for about_page in my_page.subitem -%}
+            {%- if about_page.id == "about-1" -%}
+            <a href="{{- about_page.link[page.lang] | strip_html | strip_newlines | uri_escape | relative_url -}}" class="btn btn-primary btn-sm" role="button">
+            {{- site.data.i18n.continue[page.lang] | strip_html | strip_newlines | xml_escape -}}
+            </a>
+            {%- endif -%}
+            {%- endfor -%}
+            {%- endif -%}
+            {%- endfor -%}
           </div>
         </div>
       </div>
@@ -105,6 +144,17 @@ layout: default
           <div class="card-body">
             <h5 class="card-title text-center pt-3">{{- site.data.i18n.home.doctors.title[page.lang][1] | strip_html | strip_newlines | xml_escape -}}</h5>
             <p class="card-text text-justify">{{- site.data.i18n.home.doctors.desc[page.lang][1] | strip_html | strip_newlines | xml_escape -}}</p>
+            {%- for my_page in site.data.navigation -%}
+            {%- if my_page.id == "about" -%}
+            {%- for about_page in my_page.subitem -%}
+            {%- if about_page.id == "about-2" -%}
+            <a href="{{- about_page.link[page.lang] | strip_html | strip_newlines | uri_escape | relative_url -}}" class="btn btn-primary btn-sm" role="button">
+            {{- site.data.i18n.continue[page.lang] | strip_html | strip_newlines | xml_escape -}}
+            </a>
+            {%- endif -%}
+            {%- endfor -%}
+            {%- endif -%}
+            {%- endfor -%}
           </div>
         </div>
       </div>
