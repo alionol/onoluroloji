@@ -23,6 +23,9 @@ module.exports = {
                 test: /bootstrap\.native/,
                 use: {
                     loader: 'bootstrap.native-loader',
+                    options: {
+                      ignore: ['alert', 'modal', 'popover', 'scrollspy', 'tab', 'toast', 'tooltip']
+                    }
                 },
             },
             {
