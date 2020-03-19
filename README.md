@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f59a748d-ad94-4602-832a-d7c7425076e6/deploy-status)](https://app.netlify.com/sites/nervous-ardinghelli-a06798/deploys)
+
 Bundling of CSS/SCSS, fonts, images/favicons, and JavaScript is done via **Webpack**. Site generation is done **Jekyll**.
 
 ## Development
