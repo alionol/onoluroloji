@@ -83,15 +83,6 @@ blockquote {
 
 }
 
-.language {
-  .dropdown-menu {
-    z-index: 2000;
-    .dropdown-item {
-      z-index: 2000;
-    }
-  }
-}
-
 // HOME PAGE
 
 .home {
@@ -342,7 +333,8 @@ blockquote {
 // NAVIGATION BAR
 .navbar-above {
   line-height: $alt-line-height;
-  font-size: $alt-font-size;
+  font-size: $alt-font-size * 0.875;
+  color: $gray-700;
 
   @media only all and (min-width: map-get($grid-breakpoints, xl)) {
     padding-left: $navbar-above-padding;
@@ -350,8 +342,7 @@ blockquote {
   }
 
   .navbar-above-social {
-    font-size: 2.25rem;
-    color: $gray-600;
+    font-size: 1.85rem;
     i {
       color: $gray-600;
     }
@@ -362,6 +353,18 @@ blockquote {
     i {
       color: $icon-green;
       font-size: 1.275em;
+    }
+  }
+
+  .language {
+    a {
+      color: $gray-700;
+    }
+    .dropdown-menu {
+      z-index: 2000;
+      .dropdown-item {
+        z-index: 2000;
+      }
     }
   }
 }
