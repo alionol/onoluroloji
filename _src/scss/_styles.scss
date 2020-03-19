@@ -101,7 +101,7 @@ code.highlighter-rouge {
   position: fixed;
   bottom: 10px;
   right: 10px;
-  font-size: 3.25em;
+  font-size: 3em;
   z-index: 999;
   color: $brand;
   .fa-phone{
@@ -191,14 +191,14 @@ code.highlighter-rouge {
     line-height: $alt-line-height;
     .doctors-title {
       color: $urologue-green;
-      font-size: 2.15em;
+      font-size: 1.85em;
     }
     .card {
       opacity: 0.85;
 
       .card-title {
         color: $urologue-green;
-        font-size: 1.35em;
+        font-size: 1.30em;
       }
       .card-text {
         font-size: $alt-font-size;
@@ -231,7 +231,7 @@ code.highlighter-rouge {
           background-color: $white;
           color: $gray-900;
           opacity: 0.6;
-          font-size: 2em;
+          font-size: 1.85em;
         }
     }
   }
@@ -253,7 +253,7 @@ code.highlighter-rouge {
 
   .category-post-list {
     a, p {
-      font-size: 1.25em;
+      font-size: 1.20em;
     }
   }
 }
@@ -347,7 +347,7 @@ code.highlighter-rouge {
       text-align: justify;
       hyphens: auto;
       @media only all and (min-width: map-get($grid-breakpoints, lg)) {
-        font-size: 1.10em;
+        font-size: 1em;
       }
     }
 
@@ -449,7 +449,7 @@ code.highlighter-rouge {
   .navbar-above-phone {
     i {
       color: $brand;
-      font-size: 1.2em;
+      font-size: 1.125em;
     }
   }
 }
@@ -468,7 +468,7 @@ code.highlighter-rouge {
   .navbar-brand {
     font-family: $font-family-serif;
     color: $brand;
-    font-size: 2em;
+    font-size: 1.85em;
     font-weight: 500;
     img {
       width: auto;
@@ -530,7 +530,7 @@ footer {
 
   .footer-contact {
     i {
-      font-size: 1.1em;
+      font-size: 1em;
     }
   }
 
