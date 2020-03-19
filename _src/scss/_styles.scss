@@ -86,6 +86,11 @@ blockquote {
 // HOME PAGE
 
 .home {
+  .carousel-control-prev,
+  .carousel-control-next {
+    width: 7.5%;
+  }
+
   .jumbotron-fluid {
     position: relative;
     display: flex;
@@ -110,7 +115,7 @@ blockquote {
 
     @media only all and (min-width: map-get($grid-breakpoints, lg)) {
       position: absolute;
-      top: 55%;
+      top: 60%;
       left: 0;
       right: 0;
       margin: 0 auto;
@@ -118,7 +123,7 @@ blockquote {
 
     @media only all and (min-width: map-get($grid-breakpoints, xl)) {
       position: absolute;
-      top: 55%;
+      top: 60%;
       left: 0;
       right: 0;
       margin: 0 auto;
@@ -128,13 +133,14 @@ blockquote {
       background-color: $urologue-green;
       color: $white;
       opacity: 0.975;
+      line-height: $alt-line-height;
 
       .card-title {
         font-family: $font-family-sans-serif;
       }
 
       .card-text {
-        font-size: $alt-font-size * 1.05;
+        font-size: $alt-font-size * 0.9;
       }
 
       .btn {
