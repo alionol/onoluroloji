@@ -31,6 +31,14 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.onoluroloji.com" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: "/:categories/:title/"
 
+langs:
+  - code: "tr"
+    long: "Türkçe"
+    base: "/"
+  - code: "en"
+    long: "English"
+    base: "/en/"
+
 favicon:
   safari: "f4a93b"
   msapplication: "000000"

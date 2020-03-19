@@ -10,4 +10,7 @@ lang: "tr"
 thumbnail:
     name: ""
 tags: ["", ""]
+category: false
+category_id: false
+i18n-link: "home"
 ---

@@ -29,13 +29,25 @@
 - id: "about"
   name:
     tr: "Hakkımızda"
-  link:
-    tr: "/hakkimizda/"
+  category: false
   invisible: false
+  subitem:
+    - id: "about-1"
+      name:
+        tr: "Prof. Dr. Ş. Yavuz Önol"
+      link:
+        tr: "/about/prof-dr-s-yavuz-onol/"
+      invisible: false
+    - id: "about-2"
+      name:
+        tr: "Doç. Dr. F. Fatih Önol"
+      link:
+        tr: "/about/doc-dr-f-fatih-onol/"
+      invisible: false
 - id: "contact"
   name:
     tr: "İletişim"
   link:
-    tr: "/iletisim/"
+    tr: "/contact/"
   category: false
   invisible: false

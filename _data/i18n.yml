@@ -16,7 +16,6 @@ home:
   about:
     tr: "Hakkımızda"
 
-
 contact:
   namesurname:
     tr: "Ad/Soyad"
@@ -48,3 +47,8 @@ footer:
     tr: "Sosyal Medya"
   copyright:
     tr: ["&#169;", "Tüm Hakları Saklıdır"]
+  nav:
+    tr: "Sayfalar"
+navigation:
+  lang:
+    tr: "Dil"

@@ -41,6 +41,26 @@ cd <projectDir>
 yarn test
 ```
 
+## TODOs
++ Remove extraneous Gems: pagination
++ Add Organization structured data
++ Add Article structured data
++ Add favicons -- DONE
++ Add maps
++ Test form
++ Check webp vs jpeg in posts -- DONE
++ alternate link outside posts
++ Lightbox alternative for seo
+
+Ali's Notes
+===========
++ Remove arrows from dropdown -- DONE
++ On Dropdown hover, open -- DONE
++ Categories to Footer -- DONE
++ Shadow on every image -- DONE
++ Selected image on bands -- DONE
++ Phone icon alignment -- DONE
+
 ## License
 The software code and the content are licensed separately, see below for the details.
 

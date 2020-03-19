@@ -26,7 +26,7 @@
 <meta name="keywords" content="{{- page.tags | array_to_sentence_string: '' -}}"/>
 {% endif -%}
 
-<link rel="canonical" href="{{- page.url | replace:'index.html','' | absolute_url -}}">
+<link rel="canonical" hreflang="{{- page.lang -}}" href="{{- page.url | replace:'index.html','' | absolute_url -}}">
 <link rel="alternate" type="application/atom+xml" title="{{- site.title | strip_html | strip_newlines | xml_escape -}}" href="{{- site.feed.path | strip_html | strip_newlines | uri_escape | relative_url -}}">
 
 {% if site.thumbnail.base -%}
@@ -100,8 +100,15 @@
 
 {{ favicons }}
 
+
+
 {% if page.layout == "home" -%}
   {% include _stdata/organization.html %}
 {% elsif page.layout == "posts" -%}
-  {% include _stdata/article.html %}
+  {%- for post in site.posts -%}
+  {%- if post.i18n-link == page.i18n-link and post.lang != page.lang -%}
+    <link rel="alternate" hreflang="{{- post.lang -}}" href="{{- post.url | replace:'index.html','' | absolute_url -}}" />
+    {{ "Liquid" | slice: 0, -1 }}
+  {%- endif %}
+  {%- endfor -%}
 {%- endif %}

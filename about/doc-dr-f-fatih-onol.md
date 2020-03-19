@@ -1,7 +1,7 @@
 ---
 # Global vars
-layout: contact
-title: "İletişim"
+layout: about
+title: "Hakkımızda"
 # Theme specific vars
 summary: ""
 lang: "tr"
@@ -9,4 +9,8 @@ lang: "tr"
 thumbnail:
     name: false
 tags: false
+category: false
+who_img: "doctor-2"
+who_img_alt: "Doç. Dr. Fikret Fatih Önol"
+who_summary: ""
 ---

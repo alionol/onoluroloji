@@ -13,8 +13,8 @@ layout: default
     </ol>
     <div class="carousel-inner">
       <div class="carousel-item">
-        <div class="carousel-caption">
-          <h2 class="carousel-caption-title py-2">{{- site.data.i18n.home.carousel[page.lang][0] | strip_html | strip_newlines | xml_escape -}}</h2>
+        <div class="carousel-caption mt-5">
+          <h2 class="carousel-caption-title py-4">{{- site.data.i18n.home.carousel[page.lang][0] | strip_html | strip_newlines | xml_escape -}}</h2>
         </div>
         ​<picture>
           <source srcset="{{- thumb_base | append: thumb_home | append: 'carousel-1' | append: '.webp' | relative_url -}}" type="image/webp">
@@ -23,8 +23,8 @@ layout: default
         </picture>
       </div>
       <div class="carousel-item">
-        <div class="carousel-caption">
-          <h2 class="carousel-caption-title py-2">{{- site.data.i18n.home.carousel[page.lang][1] | strip_html | strip_newlines | xml_escape -}}</h2>
+        <div class="carousel-caption mt-5">
+          <h2 class="carousel-caption-title py-4">{{- site.data.i18n.home.carousel[page.lang][1] | strip_html | strip_newlines | xml_escape -}}</h2>
         </div>
         ​<picture>
           <source srcset="{{- thumb_base | append: thumb_home | append: 'carousel-2' | append: '.webp' | relative_url -}}" type="image/webp">
@@ -48,7 +48,7 @@ layout: default
       <div class="col-md-4 mb-4">
         <div class="card h-100">
           <div class="card-body">
-            <h5 class="card-title font-weight-bold">{{- site.data.i18n.home.card.title[page.lang][0] | strip_html | strip_newlines | xml_escape -}}</h5>
+            <h3 class="card-title font-weight-bold">{{- site.data.i18n.home.card.title[page.lang][0] | strip_html | strip_newlines | xml_escape -}}</h3>
             <p class="card-text text-justify">{{- site.data.i18n.home.card.desc[page.lang][0] | strip_html | strip_newlines | xml_escape -}}</p>
           </div>
         </div>
@@ -56,7 +56,7 @@ layout: default
       <div class="col-md-4 mb-4">
         <div class="card h-100">
           <div class="card-body">
-            <h5 class="card-title font-weight-bold">{{- site.data.i18n.home.card.title[page.lang][1] | strip_html | strip_newlines | xml_escape -}}</h5>
+            <h3 class="card-title font-weight-bold">{{- site.data.i18n.home.card.title[page.lang][1] | strip_html | strip_newlines | xml_escape -}}</h3>
             <p class="card-text text-justify">{{- site.data.i18n.home.card.desc[page.lang][1] | strip_html | strip_newlines | xml_escape -}}</p>
           </div>
         </div>
@@ -64,7 +64,7 @@ layout: default
       <div class="col-md-4 mb-4">
         <div class="card h-100">
           <div class="card-body">
-            <h5 class="card-title font-weight-bold">{{- site.data.i18n.home.card.title[page.lang][2] | strip_html | strip_newlines | xml_escape -}}</h5>
+            <h3 class="card-title font-weight-bold">{{- site.data.i18n.home.card.title[page.lang][2] | strip_html | strip_newlines | xml_escape -}}</h3>
             <p class="card-text text-justify">{{- site.data.i18n.home.card.desc[page.lang][2] | strip_html | strip_newlines | xml_escape -}}</p>
           </div>
         </div>
@@ -80,17 +80,17 @@ layout: default
 
   <div class="container doctors my-5">
     {%- assign doctors_base = site.thumbnail.base | append: site.thumbnail.author.dir -%}
-    <h2 class="text-center font-weight-bold doctors-title">{{- site.data.i18n.home.about[page.lang] | strip_html | strip_newlines | xml_escape -}}</h2>
+    <h2 class="text-center doctors-title pb-4">{{- site.data.i18n.home.about[page.lang] | strip_html | strip_newlines | xml_escape -}}</h2>
     <div class="row row-cols-1 row-cols-md-3 justify-content-between">
       <div class="col-md-5 mb-4">
         <div class="card h-100 border-0">
           ​<picture>
             <source srcset="{{- doctors_base | append: site.thumbnail.author.doctor_1 | append: '.webp' | relative_url -}}" type="image/webp">
             <source srcset="{{- doctors_base | append: site.thumbnail.author.doctor_1 | append: '.jpg' | relative_url -}}" type="image/jpeg">
-            <img src="{{- doctors_base | append: site.thumbnail.author.doctor_1 | append: '.jpg' | relative_url -}}" class="card-img-top" alt="{{- doctors_base | append: site.thumbnail.author.doctor_1_alt -}}">
+            <img src="{{- doctors_base | append: site.thumbnail.author.doctor_1 | append: '.jpg' | relative_url -}}" class="card-img-top doctors-img" alt="{{- doctors_base | append: site.thumbnail.author.doctor_1_alt -}}">
           </picture>
           <div class="card-body">
-            <h5 class="card-title font-weight-bold">{{- site.data.i18n.home.doctors.title[page.lang][0] | strip_html | strip_newlines | xml_escape -}}</h5>
+            <h5 class="card-title text-center pt-3">{{- site.data.i18n.home.doctors.title[page.lang][0] | strip_html | strip_newlines | xml_escape -}}</h5>
             <p class="card-text text-justify">{{- site.data.i18n.home.doctors.desc[page.lang][0] | strip_html | strip_newlines | xml_escape -}}</p>
           </div>
         </div>
@@ -100,10 +100,10 @@ layout: default
           ​<picture>
             <source srcset="{{- doctors_base | append: site.thumbnail.author.doctor_2 | append: '.webp' | relative_url -}}" type="image/webp">
             <source srcset="{{- doctors_base | append: site.thumbnail.author.doctor_2 | append: '.jpg' | relative_url -}}" type="image/jpeg">
-            <img src="{{- doctors_base | append: site.thumbnail.author.doctor_2 | append: '.jpg' | relative_url -}}" class="card-img-top" alt="{{- doctors_base | append: site.thumbnail.author.doctor_2_alt -}}">
+            <img src="{{- doctors_base | append: site.thumbnail.author.doctor_2 | append: '.jpg' | relative_url -}}" class="card-img-top doctors-img" alt="{{- doctors_base | append: site.thumbnail.author.doctor_2_alt -}}">
           </picture>
           <div class="card-body">
-            <h5 class="card-title font-weight-bold">{{- site.data.i18n.home.doctors.title[page.lang][1] | strip_html | strip_newlines | xml_escape -}}</h5>
+            <h5 class="card-title text-center pt-3">{{- site.data.i18n.home.doctors.title[page.lang][1] | strip_html | strip_newlines | xml_escape -}}</h5>
             <p class="card-text text-justify">{{- site.data.i18n.home.doctors.desc[page.lang][1] | strip_html | strip_newlines | xml_escape -}}</p>
           </div>
         </div>

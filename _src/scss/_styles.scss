@@ -137,7 +137,10 @@ code.highlighter-rouge {
     position: relative;
     display: flex;
     align-items: center;
-    background-image: linear-gradient(to bottom, $info-box-bg, lighten($info-box-bg, 10%));
+    background-image: linear-gradient(rgba(96,218,166,0.85),rgba(96,218,166,0.85)), url("/assets/img/band-bg.webp");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% auto;
     color: $white;
   }
 
@@ -241,6 +244,13 @@ code.highlighter-rouge {
     color: $white;
   }
 
+  .jumbotron-fluid {
+    background-image: linear-gradient(rgba(96,218,166,0.85),rgba(96,218,166,0.85)), url("/assets/img/band-bg.webp");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% auto;
+  }
+
   .category-post-list {
     a, p {
       font-size: 1.25em;
@@ -249,11 +259,33 @@ code.highlighter-rouge {
 }
 
 
+// ABOUT PAGE
+.about-page {
+  .jumbotron {
+    background-color: lighten($urologue-green, 15%);
+    color: $white;
+  }
+
+  .jumbotron-fluid {
+    background-image: linear-gradient(rgba(96,218,166,0.85),rgba(96,218,166,0.85)), url("/assets/img/band-bg.webp");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% auto;
+  }
+}
+
 // CONTACT PAGE
 .contact-page {
   .jumbotron {
     background-color: lighten($urologue-green, 15%);
     color: $white;
+  }
+
+  .jumbotron-fluid {
+    background-image: linear-gradient(rgba(96,218,166,0.85),rgba(96,218,166,0.85)), url("/assets/img/band-bg.webp");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% auto;
   }
 }
 
@@ -279,10 +311,21 @@ code.highlighter-rouge {
 // POST
 
 .post {
+  img {
+    box-shadow: 2px 2px 6px #555555;
+    margin-right: 10px;
+  }
+
   header {
     .jumbotron {
       background-color: lighten($urologue-green, 15%);
       color: $white;
+    }
+    .jumbotron-fluid {
+      background-image: linear-gradient(rgba(96,218,166,0.85),rgba(96,218,166,0.85)), url("/assets/img/band-bg.webp");
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: 100% auto;
     }
   }
 
@@ -414,6 +457,14 @@ code.highlighter-rouge {
 .navbar {
   line-height: $alt-line-height;
 
+  .dropdown:hover > .dropdown-menu {
+   display: block;
+  }
+
+  .dropdown-toggle::after {
+    display: none;
+  }
+
   .navbar-brand {
     font-family: $font-family-serif;
     color: $brand;
@@ -480,6 +531,12 @@ footer {
   .footer-contact {
     i {
       font-size: 1.1em;
+    }
+  }
+
+  .footer-navigation {
+    .footer-navigation-links{
+      font-size: 0.85em;
     }
   }
 

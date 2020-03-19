@@ -16,9 +16,11 @@ layout: default
     <div class="container">
       <div class="row">
         {% for post in page.posts %}
+        {%- if post.lang == page.lang -%}
           <div class="col-md-4">
             <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
           </div>
+        {% endif %}
         {% endfor %}
       </div>
     </div>
