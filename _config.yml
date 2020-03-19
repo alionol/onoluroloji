@@ -28,7 +28,7 @@ description: >- # ignore newlines until the next key
   yararlanılarak hazırlanmıştır. Amacımız, Ürolojik rahatsızlıklar ve tedavi
   yöntemleri hakkında makale ve görsellerle hastaların bilgilenmesini sağlamaktır.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.onoluroloji.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://nervous-ardinghelli-a06798.netlify.com" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: "/:categories/:title/"
 
 langs:
