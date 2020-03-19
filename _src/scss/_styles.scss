@@ -65,12 +65,12 @@ blockquote {
   right: 10px;
   font-size: 3em;
   z-index: 999;
-  color: $brand;
+  color: $icon-green;
   .fa-phone{
     padding: 8px;
     border: 2px solid $brand;
     border-radius: 48%;
-    color: $brand;
+    color: $icon-green;
   }
 
   @media only all and (min-width: map-get($grid-breakpoints, lg)) {
@@ -351,16 +351,16 @@ blockquote {
 
   .navbar-above-social {
     font-size: 2.25rem;
-    color: $brand;
+    color: $gray-600;
     i {
-      color: $brand;
+      color: $gray-600;
     }
   }
 
   .navbar-above-address,
   .navbar-above-phone {
     i {
-      color: $brand;
+      color: $icon-green;
       font-size: 1.275em;
     }
   }
@@ -379,7 +379,7 @@ blockquote {
 
   .navbar-brand {
     font-family: $font-family-serif;
-    color: $brand;
+    color: $urologue-green;
     font-size: 1.85em;
     font-weight: 500;
     img {

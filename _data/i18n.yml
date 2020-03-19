@@ -34,7 +34,7 @@ footer:
   address_name:
     tr: "Adres"
   address:
-    tr: ["Halaskargazi Caddesi No: 81", "Osmanbey", "Istanbul"]
+    tr: ["Halaskargazi Caddesi No:81", "Osmanbey", "Istanbul"]
   email_name:
     tr: "Email"
   phone_name:

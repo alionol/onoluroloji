@@ -56,7 +56,7 @@ thumbnail:
   extra_wide_ext: "_2x1"
   home: "home/"
   header_logo:
-    name: "logo"
+    name: "logo-v2"
     dir: "logo/"
   publisher_logo:
     name: ""
