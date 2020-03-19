@@ -1,5 +1,5 @@
 # Browsers that we support
 last 2 versions
->= 0.15%
+>= 0.20%
 Firefox ESR
 not dead
