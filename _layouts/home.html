@@ -104,7 +104,7 @@ layout: default
       <p class="text-justify">{{- site.data.i18n.home.jumbotron[page.lang] | strip_html | strip_newlines | xml_escape -}}</p>
       {%- for my_page in site.data.navigation -%}
       {%- if my_page.id == "contact" -%}
-      <a href="{{- my_page.link[page.lang] | strip_html | strip_newlines | uri_escape | relative_url -}}" class="btn btn-primary btn-sm" role="button">
+      <a href="{{- my_page.link[page.lang] | strip_html | strip_newlines | uri_escape | relative_url -}}" class="btn" role="button">
       {{- my_page.name[page.lang] | strip_html | strip_newlines | xml_escape -}}
       </a>
       {%- endif -%}
@@ -123,7 +123,7 @@ layout: default
             <source srcset="{{- doctors_base | append: site.thumbnail.author.doctor_1 | append: '.jpg' | relative_url -}}" type="image/jpeg">
             <img src="{{- doctors_base | append: site.thumbnail.author.doctor_1 | append: '.jpg' | relative_url -}}" class="card-img-top doctors-img" alt="{{- doctors_base | append: site.thumbnail.author.doctor_1_alt -}}">
           </picture>
-          <div class="card-body">
+          <div class="card-body px-5">
             <h5 class="card-title text-center pt-3">{{- site.data.i18n.home.doctors.title[page.lang][0] | strip_html | strip_newlines | xml_escape -}}</h5>
             <p class="card-text text-justify">{{- site.data.i18n.home.doctors.desc[page.lang][0] | strip_html | strip_newlines | xml_escape -}}</p>
             {%- for my_page in site.data.navigation -%}
@@ -147,7 +147,7 @@ layout: default
             <source srcset="{{- doctors_base | append: site.thumbnail.author.doctor_2 | append: '.jpg' | relative_url -}}" type="image/jpeg">
             <img src="{{- doctors_base | append: site.thumbnail.author.doctor_2 | append: '.jpg' | relative_url -}}" class="card-img-top doctors-img" alt="{{- doctors_base | append: site.thumbnail.author.doctor_2_alt -}}">
           </picture>
-          <div class="card-body">
+          <div class="card-body px-5">
             <h5 class="card-title text-center pt-3">{{- site.data.i18n.home.doctors.title[page.lang][1] | strip_html | strip_newlines | xml_escape -}}</h5>
             <p class="card-text text-justify">{{- site.data.i18n.home.doctors.desc[page.lang][1] | strip_html | strip_newlines | xml_escape -}}</p>
             {%- for my_page in site.data.navigation -%}

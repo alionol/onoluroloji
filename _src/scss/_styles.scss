@@ -98,11 +98,16 @@ blockquote {
     position: relative;
     display: flex;
     align-items: center;
-    background-image: linear-gradient(rgba(96,218,166,0.95),rgba(96,218,166,0.95)), url("/assets/img/band-bg.webp");
+    background-image: linear-gradient(rgba(98,132,191,0.95),rgba(98,132,191,0.95)), url("/assets/img/band-bg.webp");
     background-repeat: no-repeat;
     background-position: center;
     background-size: 100% auto;
     color: $white;
+
+    .btn {
+      color: $white;
+      background-color: darken($carousel-overlay-color, 5%);
+    }
   }
 
   .info-box {
@@ -209,9 +214,9 @@ blockquote {
 
 
         .carousel-caption-title {
-          background-color: $white;
-          color: $gray-900;
-          opacity: 0.6;
+          background-color: $carousel-overlay-color;
+          color: $white;
+          opacity: 0.8;
           font-size: 1.85em;
         }
     }
@@ -462,13 +467,12 @@ blockquote {
 footer {
   flex-shrink: 0;
   line-height: $alt-line-height;
-  background-color: $footer-bg;
-  color: $white;
+  color: $gray-800;
   a {
-    color: $white;
+    color: $gray-800;
   }
   a:hover {
-    color: $white;
+    color: $gray-600;
   }
 
   .footer-contact {
@@ -485,17 +489,17 @@ footer {
 
   .social-media {
     font-size: $social-media-icon-size;
-    color: $gray-900;
+    color: $gray-800;
 
     a {
-      color: $gray-700;
+      color: $gray-800;
     }
     a:hover {
       color: $gray-600;
     }
 
     .social-media-title {
-      color: $white;
+      color: $gray-800;
     }
   }
 }
