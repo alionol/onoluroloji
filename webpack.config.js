@@ -130,6 +130,7 @@ module.exports = {
                         // Turned on because emoji and regex is not minified properly using default
                         // https://github.com/facebook/create-react-app/issues/2488
                         ascii_only: true, /* eslint-disable-line camelcase */
+                        comments: false,
                     },
                 },
                 // Use multi-process parallel running to improve the build speed
@@ -137,7 +138,7 @@ module.exports = {
                 parallel: true,
                 // Disable file caching
                 cache: false,
-                // sourceMap: false, // Must be set to true if using source-maps in production
+                extractComments: false,
             }),
             new OptimizeCSSAssetsPlugin({}),
         ],
@@ -147,15 +148,19 @@ module.exports = {
         path: path.resolve(__dirname, 'assets/'),
         publicPath: '/assets/',
     },
+    devtool: false,
     devServer: {
         contentBase: [
             path.resolve(__dirname, '_site/'),
         ],
+        watchContentBase: true,
         hot: false,
-        writeToDisk: true,
+        liveReload: true, // hot must be disabled, watchContentBase must be enabled
+        writeToDisk: false,
         watchOptions: {
             aggregateTimeout: 1000,
             poll: true,
+            ignored: ['.git/**', '.jekyll-cache/**', 'node_modules/**'],
         },
     },
 };
