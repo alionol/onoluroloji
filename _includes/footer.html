@@ -73,9 +73,25 @@
         </a>
       </div>
     </div>
-    <div class="row pb-1 pt-3 justify-content-center">
+    <div class="row pb-1 pt-3 justify-content-center text-center">
       <div class="col-md-auto">
-        <p>{{- site.data.i18n.footer.copyright[page.lang][0] | append: ' ' | append: site.title | append: '. ' | append: site.data.i18n.footer.copyright[page.lang][1] | strip_html | strip_newlines -}}</p>
+        <small>
+        {% if site.gnu.shortname and site.gnu.url -%}
+          {{- site.data.i18n.legal["en"][1] | strip_html | strip_newlines | xml_escape -}}&nbsp;
+          <a rel="nofollow noreferrer noopener license" target="_blank" href="{{- site.gnu.url | strip_html | strip_newlines | uri_escape -}}" class="cc-licence">
+            {{- site.gnu.shortname | strip_html | strip_newlines | xml_escape -}}
+          </a>
+        {%- endif %}
+        </small>
+        <br />
+        <small>
+        {% if site.cc.shortname and site.cc.url -%}
+          {{- site.data.i18n.legal["en"][0] | strip_html | strip_newlines | xml_escape -}}&nbsp;
+          <a rel="nofollow noreferrer noopener license" target="_blank" href="{{- site.cc.url | strip_html | strip_newlines | uri_escape -}}" class="cc-licence">
+            {{- site.cc.shortname | strip_html | strip_newlines | xml_escape -}}
+          </a>
+        {%- endif %}
+        </small>
       </div>
     </div>
   </div>
