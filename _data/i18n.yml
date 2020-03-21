@@ -54,3 +54,16 @@ navigation:
     tr: "Dil"
 continue:
   tr: "Devamı"
+
+copyright:
+  tr: "Copyright"
+  en: "Copyright"
+legal:
+  tr: [
+    "Bu sayfanın içeriği şu lisans ile lisanslanmıştır: ",
+    "Bu yazılımın kodları şu lisans ile lisanslanmıştır: "
+  ]
+  en: [
+  "The content of the website is licensed under",
+  "The code of this software is licensed under",
+  ]
