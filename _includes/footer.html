@@ -1,41 +1,45 @@
 <!-- Footer -->
-<footer id="footer" class="py-4 mt-4 bg-light">
+<footer id="footer" class="py-5 mt-4 bg-light">
   <div class="container">
     <div class="row justify-content-between px-2">
       <div class="col-md-auto py-2 footer-contact">
         <h3>{{- site.data.i18n.footer.contact[page.lang] | strip_html | strip_newlines | xml_escape -}}</h3>
-        <i class="fa-map-marker mr-1"></i>
-        <small class="font-italic">
-        {{- site.data.i18n.footer.address_name[page.lang] | strip_html | strip_newlines | xml_escape -}}
-        </small>
-        <br/>
-        <small>
-        {{- site.data.i18n.footer.address[page.lang][0] | strip_html | strip_newlines | xml_escape -}}
-        </small>
-        <br/>
-        <small>
-        {{- site.data.i18n.footer.address[page.lang][1] | append: ' / ' | append: site.data.i18n.footer.address[page.lang][2] | strip_html | strip_newlines | xml_escape -}}
-        </small>
-        <br/>
-        <i class="fa-phone-square mr-1 align-middle"></i>
-        <small class="font-italic">
-        {{- site.data.i18n.footer.phone_name[page.lang] | strip_html | strip_newlines | xml_escape -}}
-        </small>
-        <br/>
-        <small>
-        {{- site.data.i18n.footer.phone[page.lang] | strip_html | strip_newlines | xml_escape -}}
-        </small>
-        <br/>
-        <i class="fa-envelope mr-1"></i>
-        <small class="font-italic">
-        {{- site.data.i18n.footer.email_name[page.lang] | strip_html | strip_newlines | xml_escape -}}
-        </small>
-        <br/>
-        <small>
-          <a href="mailto:{{- site.email | strip_html | strip_newlines | xml_escape -}}">
-            {{- site.email | strip_html | strip_newlines | xml_escape -}}
-          </a>
-        </small>
+        <div>
+          <i class="fa-phone-square mr-1 align-middle"></i>
+          <small class="font-italic">
+          {{- site.data.i18n.footer.phone_name[page.lang] | strip_html | strip_newlines | xml_escape -}}
+          </small>
+          <br/>
+          <small>
+          {{- site.data.i18n.footer.phone[page.lang] | strip_html | strip_newlines | xml_escape -}}
+          </small>
+        </div>
+        <div class="mt-2">
+          <i class="fa-map-marker mr-1"></i>
+          <small class="font-italic">
+          {{- site.data.i18n.footer.address_name[page.lang] | strip_html | strip_newlines | xml_escape -}}
+          </small>
+          <br/>
+          <small>
+          {{- site.data.i18n.footer.address[page.lang][0] | strip_html | strip_newlines | xml_escape -}}
+          </small>
+          <br/>
+          <small>
+          {{- site.data.i18n.footer.address[page.lang][1] | append: ' / ' | append: site.data.i18n.footer.address[page.lang][2] | strip_html | strip_newlines | xml_escape -}}
+          </small>
+        </div>
+        <div class="mt-2">
+          <i class="fa-envelope mr-1"></i>
+          <small class="font-italic">
+          {{- site.data.i18n.footer.email_name[page.lang] | strip_html | strip_newlines | xml_escape -}}
+          </small>
+          <br/>
+          <small>
+            <a href="mailto:{{- site.email | strip_html | strip_newlines | xml_escape -}}">
+              {{- site.email | strip_html | strip_newlines | xml_escape -}}
+            </a>
+          </small>
+        </div>
       </div>
 
       <div class="col-md-auto py-2 footer-navigation">
