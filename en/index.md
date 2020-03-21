@@ -1,7 +1,7 @@
 ---
 # Global vars
 layout: home
-title: ""
+title: "Prof. Dr. Şinasi Yavuz Önol, İstanbul"
 # Theme specific vars
 summary: ""
 lang: "en"
