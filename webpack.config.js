@@ -156,7 +156,7 @@ module.exports = {
         watchContentBase: true,
         hot: false,
         liveReload: true, // hot must be disabled, watchContentBase must be enabled
-        writeToDisk: false,
+        writeToDisk: true,
         watchOptions: {
             aggregateTimeout: 1000,
             poll: true,
