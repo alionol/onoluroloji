@@ -413,11 +413,15 @@ blockquote {
     display: none;
   }
 
+  .navbar-toggler {
+    width: 56px;
+    height: 50px;
+  }
+
   .navbar-brand {
     font-family: $font-family-serif;
     color: $urologue-green;
-    font-size: 1.85em;
-    font-weight: 500;
+    font-size: 1.70em;
     img {
       width: auto;
     }
