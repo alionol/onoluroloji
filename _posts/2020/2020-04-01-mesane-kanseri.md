@@ -2,7 +2,7 @@
 # Global vars
 layout: posts
 title: "Mesane Kanseri"
-date: 2020-26-03 12:00:00 +0300
+date: 2020-03-26 12:00:00 +0300
 published: true
 tags: ["Mesane Kanseri Nedir", "mesane kanseri tipleri " , "Mesane Kanseri neden olur" , "Mesane kanseri ve sigara", "Mesane Kanseri belirti", "Mesane kanseri teşhis", "Mesane kanseri evre", "Mesane kanseri tedavi", "Mesane kanseri ameliyatı", "Mesane kanseri kapalı ameliyatı" , "Mesane kanseri açık ameliyatı" , "Radikal sistektomi nedir", "Radikal sistektomi ameliyatı", "Radikal sistektomi", "Mesane Kanseri" , Bağırsaktan mesane yapılması", "Yapay mesane" , "Yapay mesane ameliyatı" , "Mesane kanseri radyoterapi" , "Mesane kanseri kemoterapi" , "Mesane kanseri ameliyatı komplikasyonları", " Mesane kanseri yan etkileri"]
 category: "kadin-hastaliklari"
@@ -11,7 +11,7 @@ category_title:
     tr: "Kadın Hastalıkları"
 i18n-link: "mesane-kanseri"
 # Theme specific vars
-last_modified_at: 2020-26-03 12:00:00 +0300
+last_modified_at: 2020-03-27 12:00:00 +0300
 thumbnail:
     name: false
     webp: false

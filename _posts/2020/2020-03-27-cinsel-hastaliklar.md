@@ -2,7 +2,7 @@
 # Global vars
 layout: posts
 title: "Cinsel Hastalıklar"
-date: 2020-27-03 12:00:00 +0300
+date: 2020-03-27 12:00:00 +0300
 published: true
 tags: ["Cinsel hastalık", "cinsel hastalık teşhis" , "cinsel hastalık tedavi" , "cinsel hastalık belirti" , "cinsel hastalık kan tahlili" , "cinsel hastalık korunma yöntemleri" , "frengi", "genital herpes", "Klamidiya", "Şankı", "Genital bit", "Genital uçuk", "Hepatit B", "aids", "HPV", "hiv", "Trikomnas","Sifiliz", "Moluskum kantagiyozum", "Genital Uyuz", "Bel soğukluğu" , "gonore" , "cinsel hastalık çözüm" , "Moluskum kantagiyozum tedavi", "Bel soğukluğu tedavi" , "klamidya tedavi" , "frengi tedavi"  , " genital bit tedavi"  , " genital uçuk tedavi"  , "hepatit b tedavi"  , "hiv tedavi"  , "hpv tedavi" , "Trikomonas tedavi"]
 category: "erkek-hastaliklari"
@@ -11,7 +11,7 @@ category_title:
     tr: "Erkek Hastalıkları"
 i18n-link: "cinsel-hastaliklar"
 # Theme specific vars
-last_modified_at: 2020-27-03 12:00:00 +0300
+last_modified_at: 2020-03-27 12:00:00 +0300
 thumbnail:
     name: false
     webp: false

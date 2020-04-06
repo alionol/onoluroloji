@@ -2,7 +2,7 @@
 # Global vars
 layout: posts
 title: "Testis Kanseri"
-date: 2020-26-03 12:00:00 +0300
+date: 2020-03-26 12:00:00 +0300
 published: true
 tags: ["Testis Kanseri Nedir", "Testis Kanseri Nedeni", "Testis Kanseri Belirti", "Testis Kanseri Tipleri", "Testis Kanseri Teşhis", "Testis Kanseri Evre", "Testis Kanseri Tedavi", "Testis Kanseri Kemoterapi", "Testis Kanseri Sperm Bankası", "Testis Kanseri Sonrası Sertleşme Sorunu" , "Testis kanseri" , "Testis kanseri ameliyatı"]
 category: "erkek-hastaliklari"
@@ -11,7 +11,7 @@ category_title:
     tr: "Erkek Hastalıkları"
 i18n-link: "testis-kanseri"
 # Theme specific vars
-last_modified_at: 2020-26-03 12:00:00 +0300
+last_modified_at: 2020-03-26 12:00:00 +0300
 thumbnail:
     name: false
     webp: false
