@@ -17,7 +17,7 @@ gem 'html-proofer', "~> 3.14.0"
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
   # gem "jekyll-data", "~> 1.0"
-  gem "jekyll-paginate", "~> 1.1.0"
+  # gem "jekyll-paginate", "~> 1.1.0"
   gem "jekyll-sitemap", "~> 1.4.0"
 end
 
@@ -31,4 +31,4 @@ end
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 
-gem "jekyll-archives", "~> 2.2"
+# gem "jekyll-archives", "~> 2.2"

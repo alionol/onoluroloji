@@ -4,6 +4,7 @@ $body-bg-grey: #f7f7f7;
 $link-transition-duration: 0.3s;
 $link-timing-function: ease-in;
 
+$font-family-serif: "Noto Serif", Times, "Times New Roman", Georgia, serif;
 $alt-font-size: 1.05rem;
 $alt-line-height: 1.4;  // where being compact is needed
 
@@ -160,7 +161,7 @@ $grid-breakpoints: (
   sm: 576px,
   md: 768px,
   lg: 992px,
-  xl: 1282px
+  xl: 1150px
 );
 
 // Grid containers
@@ -188,7 +189,7 @@ $line-height-sm: 1.35;
 // stylelint-disable value-keyword-case, max-line-length
 $font-family-sans-serif: "Noto Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 $font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
-$font-family-base: $font-family-sans-serif;
+$font-family-base: $font-family-serif;
 // stylelint-enable value-keyword-case, max-line-length
 
 $font-size-base: 1.075rem; // 1rem Assumes the browser default, typically `16px`
@@ -211,7 +212,7 @@ $h4-font-size: $font-size-base * 1.15;
 $h5-font-size: $font-size-base * 1.09;
 $h6-font-size: $font-size-base;
 
-$headings-font-family: $font-family-serif;
+$headings-font-family: $font-family-sans-serif;
 $headings-font-weight: 500;
 $headings-line-height: 1.3;
 $headings-color: null;

@@ -98,11 +98,13 @@ blockquote {
     position: relative;
     display: flex;
     align-items: center;
-    background-image: linear-gradient(rgba(76,147,159,0.95),rgba(76,147,159,0.95)), url("/assets/img/band-bg.webp");
+    background-image: linear-gradient(rgba(76,147,159,0.95),rgba(76,147,159,0.95)), url("/assets/img/band-bg.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: 100% auto;
     color: $white;
+    margin-top: 75px;
+    margin-bottom: 75px;
 
     .btn {
       color: $white;
@@ -235,7 +237,7 @@ blockquote {
   }
 
   .jumbotron-fluid {
-    background-image: linear-gradient(rgba(96,218,166,0.95),rgba(96,218,166,0.95)), url("/assets/img/band-bg.webp");
+    background-image: linear-gradient(rgba(96,218,166,0.95),rgba(96,218,166,0.95)), url("/assets/img/band-bg.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: 100% auto;
@@ -257,7 +259,7 @@ blockquote {
   }
 
   .jumbotron-fluid {
-    background-image: linear-gradient(rgba(96,218,166,0.85),rgba(96,218,166,0.85)), url("/assets/img/band-bg.webp");
+    background-image: linear-gradient(rgba(96,218,166,0.85),rgba(96,218,166,0.85)), url("/assets/img/band-bg.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: 100% auto;
@@ -272,7 +274,7 @@ blockquote {
   }
 
   .jumbotron-fluid {
-    background-image: linear-gradient(rgba(96,218,166,0.95),rgba(96,218,166,0.95)), url("/assets/img/band-bg.webp");
+    background-image: linear-gradient(rgba(96,218,166,0.95),rgba(96,218,166,0.95)), url("/assets/img/band-bg.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: 100% auto;
@@ -312,7 +314,7 @@ blockquote {
       color: $white;
     }
     .jumbotron-fluid {
-      background-image: linear-gradient(rgba(96,218,166,0.95),rgba(96,218,166,0.95)), url("/assets/img/band-bg.webp");
+      background-image: linear-gradient(rgba(96,218,166,0.95),rgba(96,218,166,0.95)), url("/assets/img/band-bg.jpg");
       background-repeat: no-repeat;
       background-position: center;
       background-size: 100% auto;
@@ -320,7 +322,7 @@ blockquote {
   }
 
   .post-content {
-    font-family: $font-family-sans-serif;
+    // font-family: $font-family-sans-serif;
 
     h1,
     h2,
@@ -350,17 +352,17 @@ blockquote {
 
       @media only all and (min-width: map-get($grid-breakpoints, md)) {
         float: left;
-        width: 50%;
+        width: 35%;
       }
 
       @media only all and (min-width: map-get($grid-breakpoints, lg)) {
         float: left;
-        width: 50%;
+        width: 35%;
       }
 
       @media only all and (min-width: map-get($grid-breakpoints, xl)) {
         float: left;
-        width: 50%;
+        width: 35%;
       }
     }
   }
@@ -407,7 +409,7 @@ blockquote {
 }
 
 .navbar {
-  line-height: $alt-line-height;
+  line-height: $alt-line-height * 0.95;
 
   .dropdown:hover > .dropdown-menu {
    display: block;
@@ -432,7 +434,7 @@ blockquote {
   }
 
   .nav-item {
-    font-size: $alt-font-size;
+    font-size: $alt-font-size * 0.95;
 
     .nav-link {
       color: $gray-700;
@@ -476,6 +478,8 @@ footer {
   flex-shrink: 0;
   line-height: $alt-line-height;
   color: $gray-800;
+  padding-top: 90px;
+  padding-bottom: 90px;
   a {
     color: $gray-800;
   }
@@ -510,6 +514,10 @@ footer {
       color: $gray-800;
     }
   }
+
+  .footer-license {
+    font-size: $small-font-size * 0.95;
+  }
 }
 
 // Lazysizes.js Start
@@ -532,10 +540,36 @@ footer {
 // EMBED VIDEOS
 .embed-container {
   position: relative;
-  padding-bottom: 56.25%;
-  height: 0;
+  //padding-bottom: 56.25%;
+  width: 100%;
+  height: 350px;
   overflow: hidden;
-  max-width: 100%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+
+  @media only all and (min-width: map-get($grid-breakpoints, sm)) {
+    height: 350px;
+    width: 100%;
+  }
+
+  @media only all and (min-width: map-get($grid-breakpoints, md)) {
+    height: 450px;
+    float: left;
+    width: 100%;
+  }
+
+  @media only all and (min-width: map-get($grid-breakpoints, lg)) {
+    height: 480px;
+    float: left;
+    width: 60%;
+  }
+
+  @media only all and (min-width: map-get($grid-breakpoints, xl)) {
+    height: 480px;
+    float: left;
+    width: 60%;
+  }
+
 }
 
 .embed-container iframe, .embed-container object, .embed-container embed {
@@ -544,6 +578,8 @@ footer {
   left: 0;
   width: 100%;
   height: 100%;
+  padding-right: 5px;
+  padding-left: 5px;
 }
 
 
@@ -553,13 +589,37 @@ footer {
     font-weight: bold;
 }
 
-#markdown-toc ul {
-    list-style: decimal;
-}
-
 #markdown-toc {
-    padding: 2em;
+  position: relative;
+  width: 100%;
+  top: 0;
+  right: 0;
+  list-style: decimal;
+  display: inline-block;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: lighten($gray-100, 2.5%);
+  font-size: $alt-font-size * 0.90;
+
+  @media only all and (min-width: map-get($grid-breakpoints, sm)) {
+    width: 100%;
+  }
+
+  @media only all and (min-width: map-get($grid-breakpoints, md)) {
+    width: 100%;
+  }
+
+  @media only all and (min-width: map-get($grid-breakpoints, lg)) {
+    width: 40%;
+  }
+
+  @media only all and (min-width: map-get($grid-breakpoints, xl)) {
+    width: 40%;
+  }
+
+  ul {
     list-style: decimal;
-    display: block;
-    background-color: lighten($gray-100, 2.5%);
+  }
 }
