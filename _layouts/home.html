@@ -126,7 +126,7 @@ layout: default
   <div class="container doctors my-5">
     {%- assign doctors_base = site.thumbnail.base | append: site.thumbnail.author.dir -%}
     <h2 class="text-center doctors-title pb-4">{{- site.data.i18n.home.about[page.lang] | strip_html | strip_newlines | xml_escape -}}</h2>
-    <div class="row row-cols-1 row-cols-md-3 justify-content-center">
+    <div class="row row-cols-1 row-cols-md-3 justify-content-around">
       <div class="col-md-4 mb-4 px-3">
         <div class="card h-100 border-0">
           ​<picture>
