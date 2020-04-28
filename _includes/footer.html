@@ -11,10 +11,12 @@
           </small>
           <br/>
           <small>
+            <a href="tel:{{- site.data.i18n.footer.phone[page.lang] | remove: '(' | remove: ')' | remove: ' ' | strip_html | strip_newlines | xml_escape -}}">
           {{- site.data.i18n.footer.phone[page.lang] | strip_html | strip_newlines | xml_escape -}}
+            </a>
           </small>
         </div>
-        <div class="mt-3">
+        <div class="mt-4">
           <i class="fa-map-marker mr-1"></i>
           <small class="font-italic">
           {{- site.data.i18n.footer.address_name[page.lang] | strip_html | strip_newlines | xml_escape -}}
@@ -28,7 +30,7 @@
           {{- site.data.i18n.footer.address[page.lang][1] | append: ' / ' | append: site.data.i18n.footer.address[page.lang][2] | strip_html | strip_newlines | xml_escape -}}
           </small>
         </div>
-        <div class="mt-3">
+        <div class="mt-4">
           <i class="fa-envelope mr-1"></i>
           <small class="font-italic">
           {{- site.data.i18n.footer.email_name[page.lang] | strip_html | strip_newlines | xml_escape -}}
@@ -77,7 +79,7 @@
       <div class="col-md-auto">
         <small>
         {% if site.gnu.shortname and site.gnu.url -%}
-          {{- site.data.i18n.legal["en"][1] | strip_html | strip_newlines | xml_escape -}}&nbsp;
+          {{- site.data.i18n.legal[page.lang][1] | strip_html | strip_newlines | xml_escape -}}&nbsp;
           <a rel="nofollow noreferrer noopener license" target="_blank" href="{{- site.gnu.url | strip_html | strip_newlines | uri_escape -}}" class="cc-licence">
             {{- site.gnu.shortname | strip_html | strip_newlines | xml_escape -}}
           </a>
@@ -86,7 +88,7 @@
         <br />
         <small>
         {% if site.cc.shortname and site.cc.url -%}
-          {{- site.data.i18n.legal["en"][0] | strip_html | strip_newlines | xml_escape -}}&nbsp;
+          {{- site.data.i18n.legal[page.lang][0] | strip_html | strip_newlines | xml_escape -}}&nbsp;
           <a rel="nofollow noreferrer noopener license" target="_blank" href="{{- site.cc.url | strip_html | strip_newlines | uri_escape -}}" class="cc-licence">
             {{- site.cc.shortname | strip_html | strip_newlines | xml_escape -}}
           </a>
