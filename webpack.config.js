@@ -160,7 +160,17 @@ module.exports = {
         watchOptions: {
             aggregateTimeout: 1000,
             poll: true,
-            ignored: ['.git/**', '.jekyll-cache/**', 'node_modules/**'],
+            ignored: [
+                '.git/**',
+                'node_modules/**',
+                '.jekyll-cache/**',
+                'assets/**', // Watched by Jekyll not webpack
+                '_posts/**',
+                '_data/**',
+                '_includes/**',
+                '_layouts/**',
+                '_plugins/**'
+            ],
         },
     },
 };
