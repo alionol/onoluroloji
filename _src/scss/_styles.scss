@@ -19,6 +19,10 @@ a {
   transition-timing-function: $link-timing-function;
 }
 
+.btn {
+  font-family: $font-family-sans-serif !important;
+}
+
 .text-lightgrey {
   color: $gray-300;
 }
@@ -142,7 +146,7 @@ blockquote {
     .card {
       background-color: $urologue-green;
       color: $white;
-      opacity: 0.975;
+      opacity: 0.875;
       line-height: $alt-line-height;
 
       .card-title {
@@ -218,12 +222,12 @@ blockquote {
         left: 0;
         top: 0;
 
-
         .carousel-caption-title {
           background-color: $brand;
           color: $white;
           opacity: 0.8;
           font-size: 1.85em;
+          font-family: $font-family-serif;
         }
     }
   }
@@ -365,8 +369,63 @@ blockquote {
         width: 35%;
       }
     }
-  }
 
+    .carousel {
+      background-color: $black;
+
+      // height: 90vh;
+      // width: 100%;
+
+      @media only all and (min-width: map-get($grid-breakpoints, sm)) {
+        height: 90vh;
+        width: 100%;
+      }
+
+      @media only all and (min-width: map-get($grid-breakpoints, md)) {
+        height: 90vh;
+        width: 100%;
+      }
+
+      @media only all and (min-width: map-get($grid-breakpoints, lg)) {
+        height: 60vh;
+        width: 60%;
+      }
+
+      @media only all and (min-width: map-get($grid-breakpoints, xl)) {
+        height: 60vh;
+        width: 60%;
+      }
+
+      .carousel-control-prev,
+      .carousel-control-next {
+        width: 7.5%;
+      }
+      .carousel-indicators {
+        margin-bottom: 8px;
+      }
+
+      .carousel-inner {
+        height: 100%;
+
+        .carousel-item {
+          height: 100%;
+          filter: blur(5px);
+          transition: filter 0.75s;
+
+          img {
+            height: 100%;
+            width: 100%;
+            object-fit:contain;
+          }
+        }
+
+        .carousel-item:hover {
+          transition: filter 0.75s;
+          filter: none;
+        }
+      }
+    }
+  }
 }
 
 // NAVIGATION BAR
@@ -456,12 +515,12 @@ blockquote {
   }
 
   .dropdown-menu {
-    font-size: $alt-font-size;
+    font-size: $alt-font-size * 0.85;
     line-height: $alt-line-height;
     border: none;
 
     .dropdown-item {
-      font-size: $alt-font-size;
+      font-size: $alt-font-size * 0.85;
       line-height: $alt-line-height;
     }
 
@@ -496,6 +555,7 @@ footer {
   .footer-navigation {
     .footer-navigation-links{
       font-size: 0.85em;
+      list-style-type: none;
     }
   }
 
@@ -539,13 +599,11 @@ footer {
 
 // EMBED VIDEOS
 .embed-container {
-  position: relative;
-  //padding-bottom: 56.25%;
   width: 100%;
   height: 350px;
-  overflow: hidden;
   margin-top: 10px;
   margin-bottom: 10px;
+  padding-right: 15px;
 
   @media only all and (min-width: map-get($grid-breakpoints, sm)) {
     height: 350px;
@@ -559,27 +617,32 @@ footer {
   }
 
   @media only all and (min-width: map-get($grid-breakpoints, lg)) {
-    height: 480px;
+    height: 500px;
     float: left;
     width: 60%;
   }
 
   @media only all and (min-width: map-get($grid-breakpoints, xl)) {
-    height: 480px;
+    height: 500px;
     float: left;
     width: 60%;
   }
 
-}
+  .embed-container-downstream {
+    width: 100%;
+    height: 100%;
+    //position: relative;
+    //overflow: hidden;
 
-.embed-container iframe, .embed-container object, .embed-container embed {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  padding-right: 5px;
-  padding-left: 5px;
+    iframe, object, embed {
+      //position: absolute;
+      //top: 0;
+      //left: 0;
+      width: 100%;
+      height: 100%;
+      box-shadow: 2px 2px 6px #555555;
+    }
+  }
 }
 
 
