@@ -518,6 +518,7 @@ blockquote {
     font-size: $alt-font-size * 0.85;
     line-height: $alt-line-height;
     border: none;
+    left: -50%;
 
     .dropdown-item {
       font-size: $alt-font-size * 0.85;
@@ -600,44 +601,13 @@ footer {
 // EMBED VIDEOS
 .embed-container {
   width: 100%;
-  height: 350px;
-  margin-top: 10px;
-  margin-bottom: 10px;
-  padding-right: 15px;
-
-  @media only all and (min-width: map-get($grid-breakpoints, sm)) {
-    height: 350px;
-    width: 100%;
-  }
-
-  @media only all and (min-width: map-get($grid-breakpoints, md)) {
-    height: 450px;
-    float: left;
-    width: 100%;
-  }
-
-  @media only all and (min-width: map-get($grid-breakpoints, lg)) {
-    height: 500px;
-    float: left;
-    width: 60%;
-  }
-
-  @media only all and (min-width: map-get($grid-breakpoints, xl)) {
-    height: 500px;
-    float: left;
-    width: 60%;
-  }
+  height: 450px;
 
   .embed-container-downstream {
     width: 100%;
     height: 100%;
-    //position: relative;
-    //overflow: hidden;
 
     iframe, object, embed {
-      //position: absolute;
-      //top: 0;
-      //left: 0;
       width: 100%;
       height: 100%;
       box-shadow: 2px 2px 6px #555555;
@@ -648,41 +618,16 @@ footer {
 
 // TOC
 
-#markdown-toc::before {
-    font-weight: bold;
-}
+.toc {
+  font-size: $alt-font-size * 0.94;
 
-#markdown-toc {
-  position: relative;
-  width: 100%;
-  top: 0;
-  right: 0;
-  list-style: decimal;
-  display: inline-block;
-  margin-top: 10px;
-  margin-bottom: 10px;
-  padding-top: 15px;
-  padding-bottom: 15px;
-  background-color: lighten($gray-100, 2.5%);
-  font-size: $alt-font-size * 0.90;
-
-  @media only all and (min-width: map-get($grid-breakpoints, sm)) {
-    width: 100%;
-  }
-
-  @media only all and (min-width: map-get($grid-breakpoints, md)) {
-    width: 100%;
-  }
-
-  @media only all and (min-width: map-get($grid-breakpoints, lg)) {
-    width: 40%;
-  }
-
-  @media only all and (min-width: map-get($grid-breakpoints, xl)) {
-    width: 40%;
+  .toc-wrapper {
+    height: 100%;
+    background-color: lighten($gray-100, 2.5%);
   }
 
   ul {
     list-style: decimal;
   }
+
 }
