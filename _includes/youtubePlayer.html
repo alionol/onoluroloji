@@ -1,13 +1,22 @@
-<div class="embed-container">
-  <div class="embed-container-downstream">
-    <iframe
-        src="https://www.youtube.com/embed/{{ include.id }}"
-        width="700"
-        height="480"
-        frameborder="0"
-        autoplay="false"
-        muted="false"
-        allowfullscreen="true">
-    </iframe>
+<div class="row mb-3">
+  <div class="col-lg-8">
+    <div class="embed-container">
+      <div class="embed-container-downstream">
+        <iframe
+            src="https://www.youtube.com/embed/{{ include.id }}"
+            width="700"
+            height="480"
+            frameborder="0"
+            autoplay="false"
+            muted="false"
+            allowfullscreen="true">
+        </iframe>
+      </div>
+    </div>
+  </div>
+  <div class="col-lg-4 toc">
+    <div class="pt-3 toc-wrapper">
+    {% include toc.html html=content sanitize=true h_max=2 h_min=2 skipNoIDs=true %}
+    </div>
   </div>
 </div>
