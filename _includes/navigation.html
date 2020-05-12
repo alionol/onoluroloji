@@ -69,7 +69,7 @@
         {%- else -%}
           {%- if my_page.id == "about" -%}
           <li class="nav-item dropdown mx-1">
-            <a id="" class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            <a id="" class="nav-link dropdown-toggle" href="{{- my_page.link[page.lang] | strip_html | strip_newlines | uri_escape | relative_url -}}" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
               {{- my_page.name[page.lang] | strip_html | strip_newlines | xml_escape -}}
             </a>
 

@@ -29,6 +29,8 @@
 - id: "about"
   name:
     tr: "Hakkımızda"
+  link:
+    tr: "/about/"
   category: false
   invisible: false
   subitem:
