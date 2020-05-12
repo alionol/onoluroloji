@@ -20,8 +20,8 @@ youtubeId: "ZpN8wZUK40c"
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 ## Erkekte Kısırlık Nedir?
 

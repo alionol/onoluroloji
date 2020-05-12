@@ -20,8 +20,8 @@ youtubeId: "O71euAzrTq8"
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 ## Fistül Nedir?
 

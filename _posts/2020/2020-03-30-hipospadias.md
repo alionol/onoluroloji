@@ -20,8 +20,8 @@ youtubeId: "3EQMBUtiOUU"
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 Bu yazıda Hipospadias hastalığından, tiplerinden, ameliyat tekniklerinden ve konunun daha iyi anlaşılması için penisin anatomisinden bahsedilecektir. Önceden birden fazla başarısız ameliyat geçirip Hipospadyas sakatı olan hastaların tedavi süreçleri anlatılacaktır.
 

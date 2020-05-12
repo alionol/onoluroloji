@@ -1,7 +1,7 @@
 ---
 # Global vars
 layout: posts
-title: "Mesane Kanseri"
+title: "Kadında Mesane Kanseri"
 date: 2020-03-26 12:00:00 +0300
 published: true
 tags: ["Mesane Kanseri Nedir", "mesane kanseri tipleri " , "Mesane Kanseri neden olur" , "Mesane kanseri ve sigara", "Mesane Kanseri belirti", "Mesane kanseri teşhis", "Mesane kanseri evre", "Mesane kanseri tedavi", "Mesane kanseri ameliyatı", "Mesane kanseri kapalı ameliyatı" , "Mesane kanseri açık ameliyatı" , "Radikal sistektomi nedir", "Radikal sistektomi ameliyatı", "Radikal sistektomi", "Mesane Kanseri" , Bağırsaktan mesane yapılması", "Yapay mesane" , "Yapay mesane ameliyatı" , "Mesane kanseri radyoterapi" , "Mesane kanseri kemoterapi" , "Mesane kanseri ameliyatı komplikasyonları", " Mesane kanseri yan etkileri"]
@@ -20,8 +20,8 @@ youtubeId: "g2tmF0t8A0A"
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 ## Mesane Nedir?
 Mesane (idrar torbası) karnın alt bölümünde balon şeklinde böbrekten atılan idrarı depolayan bir organdır. Mesane adalesi büyüyüp küçülerek içinde idrarı depolamayı sağlar. İnsanda bel bölgesinde, omurga kemiğinin yanlarında iki adet böbrek mevcuttur. Böbreğin içindeki minik tüpler kanı filtre ederek idrarı oluşturur ve idrar üreter yoluyla mesaneye taşınır. Mesanede depolanan idrar üretra denilen işeme kanalı ile dışarıya atılır.

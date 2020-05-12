@@ -20,8 +20,8 @@ youtubeId: "qJy-p2kUg1E"
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 ## Üretra (idrar kanalı) Nedir?
 

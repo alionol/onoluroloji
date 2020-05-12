@@ -20,8 +20,8 @@ youtubeId: "BJW0HwliWgE"
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 
 Prostat büyümeleri kansere bağlı büyümeler veya basit büyümeler olarak ikiye ayrılır. Bu yazımızda prostatın basit büyümelerinden bahsedeceğiz. Prostatın kötü huylu büyümesi olan prostat kanseri hakkında bilgi edinebilmek için [Tıklayınız.] (https://www.onoluroloji.com/prostat-kanseri)

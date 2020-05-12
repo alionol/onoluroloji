@@ -20,8 +20,8 @@ youtubeId: "P-ABwvQ4uLc"
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 ## Böbrek Nedir?
 

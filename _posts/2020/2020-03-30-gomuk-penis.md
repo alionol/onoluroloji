@@ -20,8 +20,8 @@ youtubeId: "6qB2-WgtPhM"
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 ## Gömük Penis Nedir?
 

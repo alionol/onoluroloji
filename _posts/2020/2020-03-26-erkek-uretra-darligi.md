@@ -20,8 +20,8 @@ youtubeId: "VSb6L_xaZxA"
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 ## Üretra Nedir?
 

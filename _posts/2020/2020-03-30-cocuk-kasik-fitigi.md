@@ -20,8 +20,8 @@ youtubeId: "EdXokOlGttI"
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 ## Fıtık Nedir?
 

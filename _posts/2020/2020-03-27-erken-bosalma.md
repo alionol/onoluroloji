@@ -20,8 +20,8 @@ youtubeId: "uN6kLz2UbFA"
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 ## Erken Boşalma Nedir?
 

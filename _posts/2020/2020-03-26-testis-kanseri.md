@@ -20,8 +20,8 @@ youtubeId: "6P30t4S986k"
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 ## Testis Kanseri Nedir?
 

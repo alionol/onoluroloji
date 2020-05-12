@@ -20,8 +20,8 @@ youtubeId: "IMZhMp1MLpg"
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 Erkek cinselliği iki bölümde değerlendirilir. Partnere duyulan arzu ve erkeklik organının sertleşme gücü.
 

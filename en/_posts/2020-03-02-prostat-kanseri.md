@@ -20,7 +20,7 @@ youtubeId: "swkHsd4n6bo"
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 # What is Prostate Cancer?

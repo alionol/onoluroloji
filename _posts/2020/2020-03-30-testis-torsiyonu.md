@@ -20,8 +20,8 @@ youtubeId: "wCKn8w9s9CI"
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 
 Yazımızda testis torsiyonundan yani yumurtalıkların damarsal sapı etrafında dönmesinden bahsedeceğiz. Konunun anlaşılması için testisin önemi, görevleri, anatomisi ve hastalıkları anlatılacaktır.

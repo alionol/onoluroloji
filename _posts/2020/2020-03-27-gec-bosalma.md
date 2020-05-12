@@ -20,8 +20,8 @@ youtubeId: "jthmzhS6oRc"
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 ## Geç Boşalma Nedir?
 

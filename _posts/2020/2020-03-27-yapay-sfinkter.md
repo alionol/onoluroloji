@@ -20,8 +20,8 @@ youtubeId: "WjJk8z1vknc"
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 ## İdrar Vücuttan Nasıl Atılır?
 

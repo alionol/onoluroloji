@@ -20,8 +20,8 @@ youtubeId: "qatIFTdRAPw"
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 ## Varikosel Nedir?
 

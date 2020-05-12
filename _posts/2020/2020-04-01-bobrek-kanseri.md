@@ -20,8 +20,8 @@ youtubeId: "Hc9xi6teK_0"
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 Yazımızda böbreğin işlevinden, böbrek kanserinin özelliklerinden, böbrek kanserinin nedenlerinden, belirtilerinden ve tanı yöntemlerinden bahsedilecektir. Tek tedavi yönteminin ameliyat olduğu konusu vurgulanacaktır. Diğer pek çok kanserde cerrahi tedavinin yanında ilaç tedavisinin (kemoterapi), radyoterapinin (ışık tedavisi) yeri olsa da böbrek kanserlerinde kesin tedavi cerrahidir.​
 

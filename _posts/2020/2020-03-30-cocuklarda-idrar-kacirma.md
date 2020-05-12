@@ -20,8 +20,8 @@ youtubeId: "Pc2qj6iHHNI"
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 ## Çocuklarda İdrar Kaçırma Nedir?
 

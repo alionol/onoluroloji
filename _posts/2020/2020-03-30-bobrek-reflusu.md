@@ -20,8 +20,8 @@ youtubeId: "xOktOH9Gamo"
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 ## Böbrek Reflüsü (Vezikoüreteral Reflü) Nedir?
 

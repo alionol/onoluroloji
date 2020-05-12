@@ -20,8 +20,8 @@ youtubeId: "VrbQemKs-io"
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 Cinsel temasla geçen hastalıklar bir kişiden diğerine vajinal, oral ve anal seksle geçen bulaşıcı hastalıklardır. Ayrıca steril edilmemiş iğnelerle geçebilir. Doğum esnasında anneden bebeğe geçtiği gibi emzirmeyle de bulaşabilir. Ayrıca kan yoluyla da bulaşırlar. Bakteri, paraziti mantar ve virüsler vasıtasıyla bir kişiden diğerine bulaşırlar. Hem erkek hem de kadında hastalık yapar. Kadınlarda özellikle gebelerde tehlikelidir. Aşağıdaki hastalıkların çoğu prezervatifle korunmadan yapılan cinsel ilişki sonrası oluşur. (safe sex)
 

@@ -20,8 +20,8 @@ youtubeId: "kMOsNug1Vj0"
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 ## Kadınlarda Boşaltım Sistemi
 

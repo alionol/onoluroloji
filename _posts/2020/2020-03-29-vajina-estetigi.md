@@ -20,8 +20,8 @@ youtubeId: "S-lSp39mIlg"
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 ## Vajina Anatomisi
 

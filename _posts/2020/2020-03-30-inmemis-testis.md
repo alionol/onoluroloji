@@ -20,8 +20,8 @@ youtubeId: "vQt4grKx3j0"
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 Bu yazıda testislerin öneminden, inmemiş testislerin sınıflandırılmasından, teşhisi ve tedavi yöntemlerinden bahsedeceğiz. Ülkemizde hastaların hala ileri yaşta başvurmasına rağmen erken yaşta testis indirilmesinin ne kadar önemli olduğu üstünde durulacak. Bize başvuran önemli bir hasta grubunu oluşturan, başarısız ameliyatlar neticesinde testisleri indirilemeyen hastalara ve inmemiş testisin cerrahisinin daha zor olduğu karın içi (intraabdominal testis) vakalara uyguladığımız ameliyat tekniklerinden bahsedilecektir.
 
