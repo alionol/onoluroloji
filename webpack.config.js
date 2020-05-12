@@ -169,7 +169,9 @@ module.exports = {
                 '_data/**',
                 '_includes/**',
                 '_layouts/**',
-                '_plugins/**'
+                '_plugins/**',
+                'en/**',
+                'about/**'
             ],
         },
     },
