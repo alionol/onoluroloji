@@ -49,6 +49,9 @@ footer:
     tr: ["&#169;", "Tüm Hakları Saklıdır"]
   nav:
     tr: "Sayfalar"
+  nav_popular:
+    tr: "Yaygın Hastalıklar"
+
 navigation:
   lang:
     tr: "Dil"

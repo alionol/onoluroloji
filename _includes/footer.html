@@ -59,6 +59,23 @@
         </ul>
       </div>
 
+      <div class="col-md-auto py-2 footer-navigation">
+        <h3>{{- site.data.i18n.footer.nav_popular[page.lang] | strip_html | strip_newlines | xml_escape -}}</h3>
+        <ul class="footer-navigation-links pl-0">
+          {%- for post in site.posts -%}
+          {%- if post.lang == page.lang -%}
+          {%- if post.i18n-link == "prostat-kanseri" or post.i18n-link == "mesane-kanseri" or post.i18n-link == "sertlesme-problemleri" or post.i18n-link == "kadin-uretra-darliklari" or post.i18n-link == "mesane-kanseri" -%}
+          <li class="my-2">
+            <a class="" href="{{ post.url | prepend: site.baseurl }}">
+              {{ post.title }}
+            </a>
+          </li>
+          {%- endif -%}
+          {%- endif -%}
+          {%- endfor -%}
+        </ul>
+      </div>
+
       <div class="col-md-auto social-media py-2">
         <h3 class="social-media-title">{{- site.data.i18n.footer.social_name[page.lang] | strip_html | strip_newlines | xml_escape -}}</h3>
         <a rel="nofollow noreferrer noopener" target="_blank" href="https://www.instagram.com/prof.dr.yavuz.onol/" aria-label="On Instagram">
