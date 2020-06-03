@@ -5,7 +5,7 @@ home:
     title:
       tr: ["Erkek Ürolojisi", "Kadın Ürolojisi", "Çocuk Ürolojisi"]
     desc:
-      tr: ["Ekibimiz erkek üroloji hastlalıkları hakkında video, makale ve görseller ile sizi hastalığınız hakkındaki bütün detaylara ulaştırıyor.", "Kadın ürolojisi dalında deneyimli hekimlerimiz, hastalara fiziksel ve psikolojik tramvalarından kurtulmaları için gereken tıbbi ve cerrahi tedaviler hakkında bilgi veriyor.", "Çocuk üroloji sertifikasına da sahip olan doktorumuz, doğumsal veya sonradan oluşan çocuk hastalıklarının tedavi ve ameliyatları hakkında bilgiler sunarak, güncel bilgiler ışığında ebeveynlerin endişelerini gideriyor."]
+      tr: ["Ekibimiz erkek üroloji hastlalıkları hakkında video, makale ve görseller ile sizi hastalığınız hakkındaki bütün detaylara ulaştırıyor.", "Kadın ürolojisi dalında deneyimli hekimlerimiz, hastalara fiziksel ve psikolojik tramvalarından kurtulmaları için gereken tıbbi ve cerrahi tedaviler hakkında bilgi veriyor.", "Çocuk üroloji sertifikasına da sahip olan doktorumuz, doğumsal veya sonradan oluşan çocuk hastalıklarının tedavi ve ameliyatları hakkında bilgiler veriyor."]
   jumbotron:
     tr: "Üroloji bilim dalı hakkında detaylı bilgiler içeren platformumuz, Prof. Dr. Ş. Yavuz ÖNOL ve Doç. Dr. F. Fatih ÖNOL 'un geniş deneyimlerinden yararlanılarak hazırlanmıştır. Amacımız, Ürolojik rahatsızlıklar ve tedavi yöntemleri hakkında video, makale ve görsellerle hastaların bilgilenmesini sağlamaktır. Özellikle başarısız operasyon geçirmiş hastaların tedavisiyle ilgili uluslararası standarttaki tıbbi ve cerrahi konular ele alınmaktadır. Hastalığınız hakkında teşhis ve doğru tedavi için bize ulaşabilirsiniz."
   doctors:
@@ -70,3 +70,7 @@ legal:
   "The content of the website is licensed under",
   "The code of this software is licensed under",
   ]
+
+toc:
+  tr: "İçindekiler"
+  en: "Table of Contents"
