@@ -28,7 +28,6 @@ Penis büyütme; penis uzatma ve penis kalınlaştırma olarak incelenir. Bu yaz
 ## Penis Anatomisi
 
 ![Penis Anatomisi](/assets/img/Penile-cross-section-anatomy.jpeg)
-
 Penis erkek cinsel organıdır. Penis; penis başı, penisin sertleşmesini sağlayan iki adet çubuksu yapı ve idrarı dışarı atmayı sağlayan idrar kanalı olarak 3 ana parçadan oluşur.
 
 ## Penis Kalınlaştırma Nedir?

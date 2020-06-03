@@ -26,13 +26,11 @@ youtubeId: "P-ABwvQ4uLc"
 ## Böbrek Nedir?
 
 ![Böbrek](/assets/img/Excretory system.jpeg)
-
 Boşaltım sistemi; idrarı üreten böbrekler, böbreklerden mesaneye idrarı aktaran üreterler, idrarı depolayan mesane ve idrarı dışarıya atan üretra denilen kanaldan oluşur. Bel kemiğinin hemen yanlarında 2 adet fasulyeye benzeyen böbrekler kandan atık maddeleri ve fazla suyu idrarla dışarıya atan organlardır. Ayrıca kandaki tuz ve diğer maddeleri dengeler. Böbrekler ayrıca kemikleri kuvvetlendiren ve kırmızı kan hücrelerini oluşturan hormonları üretir.
 
 ## Böbrek Taşı Nedir?
 
 ![Böbrek Taşı](/assets/img/iStock-843352558.jpeg)
-
 Böbrek taşları ürolojinin en ağrılı hastalıklarından birisidir. Birçok böbrek taşı herhangi bir girişim gerektirmeden kendi kendine düşer. Araştırmalar sayesinde taş oluşumunu tetikleyen sebepler ve bunu önlemeye yönelik tedbirler belirlenmiştir.
 
 ## Böbrek Taşı Neden Olur?

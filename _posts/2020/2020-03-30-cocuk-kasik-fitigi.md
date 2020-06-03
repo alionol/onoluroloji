@@ -30,7 +30,6 @@ Fıtık, bir iç organın normalde içinde bulunduğu bölgenin etrafındaki zay
 ## Çocuk Kasık Fıtığı Nedir?
 
 ![## Çocuk Kasık Fıtığı Nedir?](/assets/img/1445714576-g-inguinal-hernia480792569.jpeg)
-
 Çocuklardaki kasık fıtıkları doğuştandır. Hemen ameliyatla onarılması gereklidir. Çünkü fıtık kesesinin içerisine bağırsak ve omentum gibi karın iç organları girebilir buda hayati tehlike yaratır. Hemen ameliyat edilmez ise fıtık kesesi içerisine giren bağırsakların sıkışıp boğularak bağırsaklar kangrene olması sonucu delinerek hayatı tehdit edebilir. Kasık fıtığı, iç organların kasık bölgesindeki adalelerin zayıf bir noktasından periton zarının dışarı çıkmasına bağlı olarak oluşan cilt altında bir şişliktir. Tanısı kolaydır. Doğumdan hemen sonra bile görülebilir.
 
 ## Çocuk Kasık Fıtıkları Neden Olur?

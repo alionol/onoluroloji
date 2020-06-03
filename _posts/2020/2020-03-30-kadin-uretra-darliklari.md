@@ -26,7 +26,6 @@ youtubeId: "qJy-p2kUg1E"
 ## Üretra (idrar kanalı) Nedir?
 
 Üretra (idrar kanalı), mesaneden idrarı dışarıya atan 5-6 cm uzunluğundaki idrar boşaltma kanalıdır. Vajina, 7,5 - 10 cm uzunluğunda rahimle birleşen basık silindir şeklinde cinsel birleşme organıdır. Üretra, vajinanın hemen üstündedir (resim 1 : Urethra). Üretra içten dışa 4 tabakadan oluşur. Mukoza, damar ağından zengin doku, içte uzunlamasına (longitüdünal) dışta dairesel (sirküler) kas dokusundan oluşur. İç adale tabakası mesane adalesinin devamıdır. Üretrada 2 adet idrarı tutan conta (sfinkter) mekanizması mevcuttur. Mesaneden gelen ince lifler, distal üretra denilen üretranın çıkış noktasında birleşerek kalınlaşır ve bir halka haline gelir. Bu halka idrar tutucu dış contadır (dış sfinkter). Bu dış idrarı tutucu (sfinkter) conta bütün üretra boyunca uzansa da en kalın yeri üretranın idrarı attığı çıkış deline yakındır. İç idrar tutucu conta (sfinkter) ise üretrayla mesanenin birleştiği mesane boynundadır. İç (internal) ve dış (external) sfinkteri resimde görebilirsiniz.
-
 ![idrar kanalı Nedir](/assets/img/ShutterStock_Female_Urinary_System.jpeg)
 ![üretra nedir](/assets/Ekran Resmi 2018-02-15 17.32.32.jpeg)
 

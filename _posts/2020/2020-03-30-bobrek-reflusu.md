@@ -26,7 +26,6 @@ youtubeId: "xOktOH9Gamo"
 ## Böbrek Reflüsü (Vezikoüreteral Reflü) Nedir?
 
 ![Böbrek Reflüsü](/assets/img/Excretory system.jpeg)
-
 Böbrek reflüsü (Vezikoüreteral Reflü), mesaneden böbreklere idrarın geri kaçmasıdır. Büyük oranda yeni doğan bebeklerde ve çocuklarda saptanan idrar yolu iltihaplarına yol açabilen bir hastalıktır. Tedavi edilmezse enfeksiyon böbreklere yayılarak böbrek kaybına ve böbrek yetmezliğine neden olabilir. Doğumsal bir anamolidir.
 
 Böbrekler kandan artık maddeleri, suyu ve mineralleri filtre ederek vücuttaki sıvı dengesini sağlar. Böbreklerde oluşan idrar, böbrekten aşağıya üreter denilen ince borucuklarla mesaneye aktarılır. Böbrekten gelen idrar mesanede depolanır. Normalde üreterin mesaneye birleştiği yerde idrarı mesaneden böbreklere kaçmasını önleyen tünel şeklinde bir check - valve mekanizması vardır. Bu check - valve mekanizmasının oluşmadığı durumda mesanede biriken idrar geriye teperek üreter yoluyla böbreklere ulaşır. İdrar, iltihap yaparak ciddi böbrek hasarına yol açabilir. Fakat çocuk büyüdükçe üreter uzar ve adalesi güçlenir böylece valve mekanizması gelişir. İdrarın geri kaçması sorunu çocuk büyüdükçe kaybolabilir. Vezikoüreteral reflü aslında tek yönlü bir trafik akışı olan yolda bütün trafiğin tamamen tersine dönmesinden kaynaklanan bir hastalıktır.
@@ -64,7 +63,6 @@ Böbreklerin hasar görmesi reflünün derecesiyle yakından ilgilidir. Böbrek 
 ## Böbrek Reflü Dereceleri
 
 ![Vezikoüreteral Reflü](/assets/img/vesikooo.jpeg)
-
 İşeme sistoüretrografisine göre vezikoüreteral reflü 5 derecede değerlendirilir. Bu derecelendirme mesanenin idrarı ne kadar böbreklere doğru attığına göre değerlendirilir. En hafif derecesi birinci derecesidir. Birinci derecede idrarın geri tepmesi üreterin yarısına kadardır. En ileri dereci olan beşinci derecede ise bütün üreter genişlemiştir ve büküntülüdür, böbrek havuzcuğu genişlemiş ve böbrek incelmiştir. İdrar tamamen mesaneden yukarıya böbreğe kaçmaktadır.
 
 ## Böbrek Reflüsü Tedavisi

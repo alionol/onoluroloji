@@ -32,7 +32,6 @@ Skrotum (testis torbası) denilen kesede bulunan erkek yumurtasının (testis) i
 ## İnmemiş Testis Nedir?
 
 ![İnmemiş Testis](/assets/img/Ekran Resmi 2018-02-09 14.56.37.jpeg)
-
 Testisler, bebeğin anne karnında gelişimi sırasında böbreklerle birlikte bel bölgesinde karın arka duvarında oluşmaya başlar. Hamileliğin ileri dönemlerinde aşağıya doğru iner. Kasık kanalını geçerek doğumdan önce torbalara (skrotum) inmiş olur. Testisler böbrek bölgesinde oluştuğu için aşağıya inen testisin pedikülü (sap) denilen damar ve sinirleri yukarıdan gelir. Bazı nedenlerle, bu inişte herhangi bir yerde ilerleme durursa “inmemiş testis” ten bahsedilir. Testis, testis torbası içinde hissedilemez. Yeni doğan erkek bebeklerde testislerin yüzde 2’si yerine inmemiştir. Erken doğan çocuklarda (prematüre) bu oran daha yüksektir. Doğumdan 6-8 ay içerisinde iniş devam eder. 8 aydan sonra inmemiş testislerin oranı yüzde 1’dir. Baba, kardeş ve ikizde inmemiş testis varsa oran daha fazladır. Bir ikizde inmemiş testis var ise diğer ikizde de yüzde 10 oranında inmemiş testis ihtimali vardır.
 
 ​İnmemiş testisler kasık fıtığı ile beraber olabilir. İnmemiş testisler; kısırlık, testis torsiyonu ve testis kanseri olasılıkları nedeniyle en geç 6 ay - 1 yıl içinde ameliyatla indirilmelidir. İnmemiş testislerin yüzde 80’i basit bir fizik muayene ile kasıkta ele gelerek anlaşılır (palpabıl). Yüzde 20’si ise muayene ile anlaşılmaz (non palpabıl). İnmemiş testislerin yüzde 90’ı tek taraflı, yüzde 10’u ise çift taraflıdır.

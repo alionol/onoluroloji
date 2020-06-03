@@ -26,9 +26,7 @@ lightBoxImages: ["/assets/img/Prostate_Cancer_Stages.jpeg", "/assets/img/1200px-
 
 ## Prostat Nedir?
  Prostat, idrar torbasının altında içinden idrar kanalının geçtiği bir organdır. Eksikliği hayati değildir. Üreme ve cinsel fonksiyon bakımından önemli bir organdır. İki nedenle yakınmalara neden olur. Kansere bağlı olan ve olmayan büyümeler. Bu yazımızda prostat kanserinden bahsedeceğiz. Prostatın iyi huylu büyümeleri için [Tıklayınız.] (https://www.onoluroloji.com/prostat-buyumesi)
-
 ![Prostat Nedir](/assets/img/Prostate_Cancer_Stages.jpeg)
-
 
 ## Prostat Kanseri Nedir?
  Prostat kanseri prostatın kötü huylu büyümesidir. Prostat kanseri ameliyatında prostat, kabuğu ve meni keseleriyle bir bütün olarak çıkartılır. Aynı zamanda leğen kemiğinin her iki yanında bulunan, karın arka duvarında ana damarlar üzerindeki bütün lenf bezlerinin de çıkartılması şarttır (Radikal prostatektomi + Genişletilmiş lenf adenektomi). Prostat kanser ameliyatı usulüne uygun yapıldığında son derece kompleks, zor bir operasyondur. Günümüzde prostat kanser ameliyatına ilaveten genişletilmiş lenf düğümü ameliyatı yapılmıyorsa bu eksik yapılmış bir ameliyat olarak kabul edilir. Prostat kanserinin lenf düğümlerine sıçlayarak ne kadar yukarıya yayıldığı anlaşılamaz. Bu yüzden geride kanserli doku bırakmamak adına lenf düğümlerinin hepsi mutlaka çıkarılmalıdır.
@@ -45,7 +43,6 @@ Prostat kanseri başlangıç aşamasında belirti vermez. Prostat kanseri işeme
 ## Prostat Kanseri Teşhisi
 
 Prostat kanser teşhisi; kandan bakılan PSA testi, parmakla prostat muayene ve prostat biyopsi ile konur. Önce PSA testi ve parmakla muayene yapılır. Kanser şüphesi veren durumlarda biyopsi alınır. Bu 3 işlemden sonra ancak hasta prostat kanseridir veya değildir diyebiliriz ve kanserin ameliyat gerektirip gerektirmediğini anlayabiliriz. Her prostat kanseri tehlikeli değildir, ameliyat gerektirmez.
-
 ![Prostat Kanseri Teşhisi](/assets/img/1200px-Rektal-digitale_Untersuchung.jpeg)
 
 ### Prostat Kanseri Parmakla Muayene

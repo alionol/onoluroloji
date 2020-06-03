@@ -33,8 +33,6 @@ Prostat büyümeleri kansere bağlı büyümeler veya basit büyümeler olarak i
 ## Prostat Büyümesi Nedir?
 
 ![Prostat Büyümesi Nedir](/assets/img/Ekran Resmi 2018-02-09 17.25.37.jpeg)
-
-
 Prostat büyümesi yaş ile birlikte vücutta oluşan hormon dengesizliği nedeniyle prostat hücrelerinin genişlemesidir. Bu büyümeyle beraber prostat içinden geçen idrar kanalını sıkıştırır ve işeme şikayetlerine neden olur.
 
 ## Prostat Büyümesi Belirtileri

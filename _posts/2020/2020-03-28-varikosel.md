@@ -17,6 +17,8 @@ thumbnail:
     webp: false
 summary: "Varikosel nedir?, Varikosel neden olur?, Varikosel nasıl anlaşılır?, Varikosel teşhisi? , Varikosel ne zaman ameliyat edilmeli? , Varikosel ameliyatı nedir?,  Varikosel ameliyatı nasıl yapılır?, Varikosel tedavisi?"
 youtubeId: "qatIFTdRAPw"
+lightBoxImages: ["/assets/img/1.PNG.jpeg", "/assets/img/IMG_9195.PNG.jpeg"]
+
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
@@ -71,7 +73,4 @@ Kısırlık nedeninin varikosele bağlı olduğu anlaşılmış ve testisi küç
 Mikroskop ve lup kullanılarak yapılan açık cerrahi ameliyatı tedavi için en uygun yöntemdir.
 
 ## Varikosel Ameliyatı Görselleri
-
-![Varikosel Ameliyatı](/assets/img/1.PNG.jpeg)
-
-![Varikosel Ameliyatı](/assets/img/IMG_9195.PNG.jpeg)
+{% include lightbox.html paths=page.lightBoxImages %}

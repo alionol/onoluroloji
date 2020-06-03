@@ -29,7 +29,6 @@ Yazımızda testis torsiyonundan yani yumurtalıkların damarsal sapı etrafınd
 ## Testis Nedir?
 
 ![Testis Nedir](/assets/img/be01faa408396bbdebb70543983f918c.jpeg)
-
 Testisler erkek üreme sisteminin organıdır. Ana karnındayken bel arkasında, böbreklerin bulunduğu bölgede oluşur. Kasıklara doğru iner. Kasık kanalından geçer. Yeni doğan bebekte torbalara yerleşir.
 
 ​Skrotum (testis torbası) özel bir oluşumdur. İçindeki sıcaklığı sabit bir derecede tutma özelliğine sahiptir. Soğukta büzüşerek, sıcakta gevşeyerek içindeki sıcaklığı sperm oluşumu için sabit tutar. İnsan vücudundaki sıcaklık 36,8 - 37 derecedir. Testislerdeki ise 34-36 derecedir.
@@ -63,7 +62,6 @@ Testisteki ağrı ve şişliklerin her zaman sebebi testis torsiyonu (dönmesi) 
 ## Testis Torsiyonu Nedir?
 
 ![Testis Torsiyonu](/assets/img/CJaEvV_VEAAIdHV.jpeg)
-
 Normal bir erişkinde testis, hem üst hem de alt kutuptan sabitlenmiştir. Normalde damarsal sapı etrafında dönemez. Tunika vajinalis testisi alt ve üst kutuplarda sıkıca saran balon şeklinde bir zardır. Bu balon da testisin sapının (spertmatik kord) dönmesine imkan vermez.
 
 Aspermatik kord denilen sapının kendi ekseninde 90-180-360-720 derece dönmesi durumuna Testis Torsiyonu (dönmesi) denir. Genelde gece ani ve şiddetli ağrıyla çocuk uyanır. Spermatik kord (yukarıdaki damarsal sap); testisin atar ve toplardamarları, sinirleri, vas deferens denilen spermi aktaran kanaldan oluşur. Testis torsiyonu (dönme) testisin kan akışını bozarak kangren yol açar. Şiddetli ağrı mevcuttur. Acil ameliyatı gerektirir. Ancak erken teşhis ve tedavi ile testisin erkeklik hormonu salgılaması ve sperm üretme özelliği korunabilir. Tam dönme durumunda 6 saat içerisinde ameliyatla testis torsiyonu düzeltilmelidir. Ailesel yatkınlık olabilir. Yakın akraba erkeklerinde torsiyon geçirmiş çocuklar daha dikkatle izlenmelidir.
@@ -99,7 +97,6 @@ Yine torsiyonun düşük şüpheli ve acil olmadığı durumlarda Radyonuklit sc
 ## Testis Torsiyonu Tipleri
 
 ![Testis Torsiyonu Tipleri](/assets/img/A429541_1_En_26_Fig6_HTML.jpeg)
-
 2 tip testis torsiyonu vardır. Intravajinal (testis zarı içi) ve ekstravajinal (testis zarı dışı) torsiyon.
 
 * ### Bebek torsiyonu (Ekstra vajinal torsiyon)

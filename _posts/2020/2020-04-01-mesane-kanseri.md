@@ -62,8 +62,6 @@ Mesane kanserinin en önemli nedeni sigaradır. Ayrıca ileri yaş, ailede mesan
  Mesane kanseri teşhisi konulduktan sonra kanserin mesane içinde ve vücudun diğer bölgelerine yayılmasının belirlenmesi tedaviyi etkiler. Kanser mesane içinde başladıktan sonra vücudun diğer bölgelerine yayılır. Yayılma derecesine göre 5 sınıfta incelenir.
 
  ![Mesane Kanseri Evreleri](/assets/img/AdobeStock_75549266-1024x854.jpeg)
-
-
  * **Evre 0:** Saldırgan olmayan papiller kanser veya saldırgan olan epitel içi kanser (karsinoma insitu)
  * **Evre 1:** Kanser mesanenin en iç epitel tabakasının hemen altındaki bağ dokuya yayılmıştır. Teşhis konulan mesane kanserlerinin yüzde 70’i mesanenin derin adale tabakasına yayılmamıştır. Yani mesanenin iç yüzündeki tümörlerdir. Kapalı yöntemle yüksek frekanslı elektirik akımı ile kazınarak çıkartılır. Bu yüzeysel kanserlerin yüzde 25 kadarı yaşamlarının bir bölümünde adale tabakasına yayılarak saldırgan karaktere bürünebilirler. Yani bu tip hastaların izlenmesi gerekir.
  * **Evre 2:** Mesane kanserinde kanser bağ dokusunu aşmış adale dokusuna yayılmıştır.

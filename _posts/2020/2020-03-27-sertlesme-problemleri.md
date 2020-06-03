@@ -32,8 +32,6 @@ Cinsel arzu, testis denilen erkek yumurtalıklarından salgılanan erkeklik horm
 ## Penis Nasıl Sertleşir?
 
 ![Penis Nasıl Sertleşir](/assets/img/mechanism-of-penile-erection.jpeg)
-
-
 * Ereksiyon beyinde başlar.
 
 * Görme, koklama, hissetme, işitme ve düşünme şeklindeki duyular sinir sistemini uyararak penisin damarlarına mesaj gönderir.
@@ -66,13 +64,11 @@ Sertleşme sorunu derecesine göre 3 yöntemle tedavi edilir. Bu yöntemlerin ba
 ### Penis Sertleşmesinde İğne Tedavisi
 
 ![Penis Sertleşmesinde İğne Tedavisi](/assets/img/intracavernous-injection-therapy.jpeg)
-
 Penisteki Korpus Kavernozum denilen iki adet süngersi cismin içine damar genişletici ilaçların enjekte edilmesi (papaverin, prostaglandin) doktor kontrolünde hastaya öğretilir. Ve hasta cinsel ilişki öncesi kendisi uygular. Yan etkisi yoktur. İnsülin iğnesi kullanımı tarzındadır. Öğrenmesi kolaydır. 2-3 saat içerisinde sertleşme kaybolmazsa doktor kontrolünde sertlik sonlandırılır.
 
 ### Penil Protez Ameliyatı (Mutluluk Çubuğu)
 
 ![Penil Protez](/assets/img/my00358_im03857_m7_penileimplant2thu_jpeg.jpeg)
-
 Artık penisin süngersi cisimlerinde rezerv (sertleştirici doku) kalmamıştır. İlaçla tedaviye cevap veren hastalara yapılmamalıdır. Etkili bir yöntemdir. Mutluluk çubuğu (Penil Protez) 3 parçadan oluşur; iki adet silindir şeklinde penisi sertleştiren çubukları taklit eden bölüm, pompa ve rezervuar (depo).  Skrotuma (testis torbası) yerleştirilen pompanın ucundaki düğmeye basılır. Penis sertleşme problemi ameliyatında karın içine yerleştirilen 50-60 cc'lik depodan sıvı, penisin içine yerleştirilen iki adet çubuğa pompalanır ve penisin sertleşmesi sağlanır. Cinsel birleşme sonunda testis torbasındaki pompaya tekrar basılarak penisin inmesi sağlanır. İktidarsızlığa kesin çözümdür. Penil protezin takılması operasyonu ince ve hassas bir ameliyattır. Deneyim gerektirir.  Penil Protez ameliyatı hakkında daha fazla bilgi için [Tıklayınız.] (https://www.onoluroloji.com/penil-protez-mutluluk-cubugu)
 
 ## ESWT (Ultrasonik Şok Dalgası) Tedavisi

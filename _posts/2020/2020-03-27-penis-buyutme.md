@@ -28,7 +28,6 @@ Penis büyütme; penis uzatma ve penis kalınlaştırma olarak incelenir. Bu yaz
 ## Penis Anatomisi
 
 ![Penis Anatomisi](/assets/img/Penile-cross-section-anatomy.jpeg)
-
 Penis erkek cinsel organıdir. Penis; penis başı, penisin sertleşmesini sağlayan iki adet çubuksu yapı ve idrarı dışarı atmayı sağlayan idrar kanalı olarak 3 ana parçadan oluşur.
 
 ## Ortalama Penis Uzunluğu
@@ -60,7 +59,6 @@ Penis büyütme kesinlikle penis büyütme ameliyatı ve penis extender dışın
 ### ​Penis Uzatıcı (Penis extender)
 
 ![​Penis Uzatıcı](/assets/img/penis extender.jpeg)
-
 Prensip penisin köküne ve başına 2 halka yerleştirip gerdirilerek penisin büyütülmesidir. Günde 6 – 8 saat gergin tutulur. 6 ay boyunca bu tedaviye devam edilir. Bu alet 6 ay sonunda penis boyutunu 2-3 cm kadar büyütmektedir. Ancak aletin kullanımı zor olduğu için uygulanabilir bir tedavi değildir. Hastaların büyük çoğunluğu bu tedaviden vazgeçmektedir.
 
 ### Penis Büyütme Ameliyatı
