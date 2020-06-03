@@ -346,6 +346,13 @@ blockquote {
 // POST
 
 .post {
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-weight: $headings-font-weight-post;
+  }
   img {
     box-shadow: 2px 2px 6px #555555;
     margin-right: 20px;
