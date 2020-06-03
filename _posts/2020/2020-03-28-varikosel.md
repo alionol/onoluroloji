@@ -26,7 +26,6 @@ youtubeId: "qatIFTdRAPw"
 ## Varikosel Nedir?
 
 ![Varikosel](/assets/img/images.jpeg)
-
 Testisler skrotum denilen gevşek ve elastik olan testis torbası içerisinde yerleşmiştir. Testisler ana karnında iken bel bölgesinde oluşmaya başlarlar ve gebeliğin 7. ayından sonra aşağıya kasıklara doğru inerek testis torbasına yerleşirler. İşte bu süreç nedeniyle testislerin damarları bel bölgesinden gelir. Testis, skrotumun (testis torbası) içerisinde bel bölgesinden gelen damarsal sapla asılıdır. Bu sapın toplardamarlarının normalden fazla genişlemesine Varikosel adı verilir. Testis torbasının yüzeyinde Varikosel solucan gibi pek çok kıvrımlarla kendini çıplak gözle bile gösterebilir.
 
 ## Varikosel Neden Olur?
