@@ -48,7 +48,7 @@
         <h3>{{- site.data.i18n.footer.nav[page.lang] | strip_html | strip_newlines | xml_escape -}}</h3>
         <ul class="footer-navigation-links pl-0">
           {%- for my_page in site.data.navigation -%}
-          {%- unless my_page.invisible -%}
+          {%- unless my_page.invisible or my_page.id == "male" or my_page.id == "female" or my_page.id == "child" -%}
           <li class="my-2">
             <a class="" href="{{- my_page.link[page.lang] | strip_html | strip_newlines | uri_escape | relative_url -}}">
               {{- my_page.name[page.lang] | strip_html | strip_newlines | xml_escape -}}
