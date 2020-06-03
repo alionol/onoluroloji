@@ -475,13 +475,13 @@ blockquote {
       }
 
       @media only all and (min-width: map-get($grid-breakpoints, lg)) {
-        height: 60vh;
-        width: 60%;
+        height: 75vh;
+        width: 50%;
       }
 
       @media only all and (min-width: map-get($grid-breakpoints, xl)) {
-        height: 60vh;
-        width: 60%;
+        height: 75vh;
+        width: 50%;
       }
 
       .carousel-control-prev,
