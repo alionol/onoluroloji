@@ -20,10 +20,6 @@ youtubeId: "BJW0HwliWgE"
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-
-
-
-
 Prostat büyümeleri kansere bağlı büyümeler veya basit büyümeler olarak ikiye ayrılır. Bu yazımızda prostatın basit büyümelerinden bahsedeceğiz. Prostatın kötü huylu büyümesi olan prostat kanseri hakkında bilgi edinebilmek için [Tıklayınız.] (https://www.onoluroloji.com/prostat-kanseri)
 
 ## Prostat Nedir?
@@ -32,16 +28,14 @@ Prostat büyümeleri kansere bağlı büyümeler veya basit büyümeler olarak i
 
 ## Prostat Büyümesi Nedir?
 
-![Prostat Büyümesi Nedir](/assets/img/Ekran Resmi 2018-02-09 17.25.37.jpeg)
+![Prostat Büyümesi Nedir](/assets/img/Ekran Resmi 2018-02-09 17.25.37.jpeg){:.size1}
 Prostat büyümesi yaş ile birlikte vücutta oluşan hormon dengesizliği nedeniyle prostat hücrelerinin genişlemesidir. Bu büyümeyle beraber prostat içinden geçen idrar kanalını sıkıştırır ve işeme şikayetlerine neden olur.
 
 ## Prostat Büyümesi Belirtileri
 
 Prostatın basit büyümelerinin neden olduğu işeme şikayetlerinin günümüzde yalnız prostatla ilgili olmadığı yaşlanan mesaneye bağlı da olabileceği anlaşılmıştır.
-
 ​
 Prostat basit büyümelerin tanısı kolaydır. İdrar kanalı, prostatın büyüme derecesine göre az veya çok tıkanabilir. Hasta yaş ilerledikce ince ve sık idrar yapma, idrar yapma sonunda idrar damlatma, gece idrara çıkma, idrarın tam boşalamamasına bağlı olarak mesanede dolgunluk hissi gibi günlük yaşam kalitesini bozan şikayetlere neden olur. Prostatın içi (adenomu) büyüyerek (statik) ve dışındaki düz adalesi de kasılarak (dinamik) kanalı sıkıştırır. Ayrıca unutmamak gerekir ki her basit büyüme kanalı sıkıştırmaz. Yakınmalara fazla sebep olmayabilir.
-
 ​
 Ancak bu yakınmalar sadece prostat büyümesinden dolayı olmayabilir. Şeker hastalığı, böbrek ve kalp rahatsızlıkları, idrar kanalı darlıkları gibi nedenlerden dolayı da olabilir. Ayırıcı tanısı konulması gerekir.
 
@@ -62,8 +56,6 @@ Eskiden bütün işeme şikayetlerinin yalnızca prostat ile ilgili olduğu dü�
 ### Prostat Basit Büyümesi Ameliyatı
 
 Prostatın basit büyümelerinde yapılan ameliyatlar, kanser nedeniyle yapılanlardan tamamen farklıdır. Basit büyümelerinde prostatın hepsi çıkarılmaz ve kabuğu bırakılır. Prostat Kabuğunun içinde büyüyen adenom denilen bölüm, kapalı (TURP “Trans Urethral Resection of Prostate”) ya da açık operasyonla çıkartılır. Kabuk elastik olduğu için içindeki adenom çıkarıldıktan sonra küçülerek kanal haline gelir. Böylece, hastanın idrar kanalının bütünlüğü bozulmamış olur.
-
-​
 
 ​Basit prostat büyümelerinde kapalı ameliyat (lazer veya transüretral rezeksiyon) her ne kadar altın standart ise de bu operasyonda büyüyen prostat dokusunun tamamı çıkartılamaz. Ameliyat öncesi ve sonrası yapılan PSA ölçümlerinde kapalı yöntemlerle dokunun yarıya yakın kısmının kaldığı gösterilmiştir. Açık operasyonda ise kabuk hariç bütün prostat bütünüyle çıkartılabilir. Açık cerrahide kanama daha çok olmasına karşın büyük hacimli prostat büyümelerinde hala geçerli yöntem açık yöntemdir.
 

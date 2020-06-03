@@ -20,21 +20,16 @@ youtubeId: "Hc9xi6teK_0"
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-
-
-
 Yazımızda böbreğin işlevinden, böbrek kanserinin özelliklerinden, böbrek kanserinin nedenlerinden, belirtilerinden ve tanı yöntemlerinden bahsedilecektir. Tek tedavi yönteminin ameliyat olduğu konusu vurgulanacaktır. Diğer pek çok kanserde cerrahi tedavinin yanında ilaç tedavisinin (kemoterapi), radyoterapinin (ışık tedavisi) yeri olsa da böbrek kanserlerinde kesin tedavi cerrahidir.​
 
 ## Böbreğin Görevi Nedir?
 
-![Böbrek organı](/assets/img/diagram-of-kidney-structure-human-anatomy-charts_photos-structure-of-antomy-kidney-on-the-kidneys.jpeg)
+![Böbrek organı](/assets/img/diagram-of-kidney-structure-human-anatomy-charts_photos-structure-of-antomy-kidney-on-the-kidneys.jpeg){:.size1}
 Karın boşluğu arkasında bel bölgesinde, her iki yanda yumruk büyüklüğünde ve fasulye şeklinde iki organdır. Esas görevi, kanı temizleyerek atık maddeleri idrar haline getirmektir. Her böbrekte 1’er milyon olmak üzere toplam 2 milyon nefron dediğimiz kanı artık maddelerden temizleyen mikroskopik ünite mevcuttur.
 
 ## Böbrek Kanseri Nedir?
 
 Böbrek kanseri, böbrek hücrelerinin kontrolsüz olarak çoğalarak kitle oluşturmasıdır. Bazı kanser ve tümörler, uzak doku ve organlara sıçrama özelliği taşımadığı için ölümcül değildir. Kanserli hücreler büyüyerek kan damarları yoluyla başka organlara sıçradığında (metastaz) çoğalarak kitleler oluştururlar. Kanserler; kitlenin büyüklüğü (evre-stage) ve hücrenin saldırganlık özelliğine göre (grade) iki sınıfta değerlendirilir.
-
-​
 
 Böbrek kanseri çok çeşitlidir. İçerisinde saldırgan olmayan tipleri olduğu gibi çok saldırgan ve kısa zamanda metastaz yapan tipleri de vardır. Bunlar ancak ameliyatla çıkartılıp patalojik olarak incelemesi yapıldıktan sonra anlaşılır. Bu özelliğiyle farklı bir kanser türüdür.
 
@@ -42,9 +37,7 @@ Böbrek kanseri çok çeşitlidir. İçerisinde saldırgan olmayan tipleri oldu�
 
 Erkek cinsiyet ve tütün kullanımı iki misli kanser riski yaratır. Şişmanlığın ve bazı ağrı kesici ilaçların uzun süreli kullanımı ve uzun süreli kronik diyaliz hastalarında (4 misli) böbrek kanseri olasılığının arttığı gösterilmiştir.
 
-​
-
-Ailesinde böbrek kanseri olanların kanser riski mevcuttur. Von Hipel - Lindau kanser tipi genetik geçiş gösteren ailenin birçok fertlerinde görülebilen ve her böbrekte birden fazla kanser oluşması ile karakterize bir hastalıktır.
+​Ailesinde böbrek kanseri olanların kanser riski mevcuttur. Von Hipel - Lindau kanser tipi genetik geçiş gösteren ailenin birçok fertlerinde görülebilen ve her böbrekte birden fazla kanser oluşması ile karakterize bir hastalıktır.
 
 ## Böbrek Kanseri Belirtileri
 
@@ -53,16 +46,12 @@ Böbrek kanseri geç döneme kadar sessizce büyür ve önemli bir belirti verme
 ## Böbrek Kanseri Teşhisi
 
  Damardan verilen contrast (boyalı) maddenin böbrek tarafından tutulması, tümörün büyüklüğü ve konumunu belirler (kontraslı EMAR ve BT). Ancak böbrek içinde saptanan bir kitlenin hiç bir görüntüleme yöntemiyle masum veya saldırgan olduğu kesin olarak anlaşılamaz. Bu nedenle böbrek içinde saptanan bütün kitlelerin çıkartılması ve patalojide kesin teşhisin koyulması gerekmektedir.
-
 ​
 Böbrek kanserlerinin çoğu ultrasonografi ve BT (bilgisayar tomografi) ile tesadüfen saptanır. MR ve BT tümörün bölgesel yayılımını ve uzak metastazını göstermede yeterlidir. MR kanserin ana toplardamar içine yayılımını BT’den daha iyi belirler.
 
-​
-MR anjiyografi ise böbrek içi damarsal yapının anatomisini çok iyi gösterir. Bazı böbrek tümörleri tamamen santral (böbrek içi) büyürler. Ameliyatları daha zordur. Bu hastalarda MR anjiyografi ile tümörün lokasyonu anlaşılabildiği için ameliyatın başarısı artar.
+​MR anjiyografi ise böbrek içi damarsal yapının anatomisini çok iyi gösterir. Bazı böbrek tümörleri tamamen santral (böbrek içi) büyürler. Ameliyatları daha zordur. Bu hastalarda MR anjiyografi ile tümörün lokasyonu anlaşılabildiği için ameliyatın başarısı artar.
 
-​
-Ameliyat öncesi akciğer filmi her hasta için yapılmalıdır. Böbrek kanserleri en çok akciğere metastaz yapar. PET görüntülemenin böbrek kanserlerinin tanısında hiç yeri yoktur.
-
+​Ameliyat öncesi akciğer filmi her hasta için yapılmalıdır. Böbrek kanserleri en çok akciğere metastaz yapar. PET görüntülemenin böbrek kanserlerinin tanısında hiç yeri yoktur.
 ​
 Parsiyel nefrektomi (Böbrek kanseri) ameliyatı esnasında tümör tabanından parça alınıp, patolojik değerlendirmeye gönderilirdi. Çalışmalar bu işlemin gereksiz olduğunu gösterdiği için terkedilmiştir.
 
@@ -74,8 +63,7 @@ Böbrek kanseri nedeniyle alınan biyopsi güvenilir değildir. Mevcut kanseri a
 
 Ultrasonografi, Bilgisayarlı Tomografi (BT), Magnetic Rezonans Görüntüleme (EMAR) gibi yöntemler her türlü hastalık ve kanserlerin teşhisi için kullanılıyor. Farklı hastalıklar sebebiyle de istenen bu tip görüntüleme yöntemleri bütün karın içi organları görüntüler. Bu sayede böbrek kanserleri de çok büyük hacimlere ulaşmadan erken dönemde teşhis edilebilmektedir. Böbrek kanserleri yüzde 70 oranında tesadüfen ve erken dönemde fark edilmektedir.
 
-​
-Kanserin erken teşhisinde böbreği bütünüyle çıkarmadan sadece kanserli bölümün çıkartılması demek olan parsiyel nefrektomi ameliyatını uygun kılar. Çalışmalar kalan böbrek dokusunun korunması durumunda hastaların daha uzun yaşadığını gösterdiği için parsiyel nefrektomi ameliyatı giderek daha popüler olmaktadır. Parsiyel nefrektomi, kanserin böbrek içindeki konumuna ve büyüklüğüne bağlı olarak zor ve deneyim gerektiren bir ameliyattır. Çalışmalar, erken tanı konulan 3 cm’in altındaki kitlelerin yüzde 25-30’unun sıçrama özelliği olmadığını gösterir. (onkositoma, anjiyomiyolipoma, hipertrofik Bertin kolonları).
+​Kanserin erken teşhisinde böbreği bütünüyle çıkarmadan sadece kanserli bölümün çıkartılması demek olan parsiyel nefrektomi ameliyatını uygun kılar. Çalışmalar kalan böbrek dokusunun korunması durumunda hastaların daha uzun yaşadığını gösterdiği için parsiyel nefrektomi ameliyatı giderek daha popüler olmaktadır. Parsiyel nefrektomi, kanserin böbrek içindeki konumuna ve büyüklüğüne bağlı olarak zor ve deneyim gerektiren bir ameliyattır. Çalışmalar, erken tanı konulan 3 cm’in altındaki kitlelerin yüzde 25-30’unun sıçrama özelliği olmadığını gösterir. (onkositoma, anjiyomiyolipoma, hipertrofik Bertin kolonları).
 
 ## Böbrek Kisti Nedir?
 
@@ -84,16 +72,13 @@ Tıp dilinde kitle ya da tümör, içi katı maddeyle dolu oluşumdur. Kist ise 
 ## Böbrek Kanserinde Tümör Büyüklüğü
 
 Tümörler ne kadar küçükse saldırganlığı o kadar düşük olduğu kabul edilir. 2 cm’in altındaki kitlelerin yüzde 30’u, 3 cm’in altındakilerin ise yüzde 20’sinin zararsız kitleler olduğu gösterilmiştir. Görüntüleme yöntemleri ve biyopsinin kesin tanıda önemi sınırlıdır. Böbrek kanserleri en heterojen yani farklı karakterde kanserdir. Nadiren de olsa küçük kitleler bile aşırı anarşist hücre yapısı nedeni ile metastaz yapabilirler. Yaşam beklentisi uzun, sağlıklı kişilerin böbreğinde saptanan her kitlenin ameliyatla çıkartılması gerekir. Genel durumu bozuk, ameliyatı kaldıramayacak yaşlı hastalarda saptanan küçük tümörlerin, yapılan periyodik görüntüleme yöntemleri ile büyüme hızlarının saptanması (aktif izlem) gerekir.
-
 ​
 Görüntüleme yöntemleri kitlenin kötü veya iyi huylu olduğunu tam olarak saptayamaz. Böbrek içindeki her kitle ameliyatla çıkarılmalıdır.
 
 ## Böbrek Kanseri Ameliyatı
 
 ![Böbrek Kanseri ameliyatı](/assets/img/Partial_Neph.jpeg)
-Böbrek kanserinin tedavisi ameliyatla mümkündür. Böbrek kanseri ameliyatları 2 tiptir. Böbrekteki kitlenin saptanmasından sonra hekimler hastanın hem genel sağlık hem de diğer böbrek durumunu göz önünde bulundurarak, ameliyat için **Parsiyel Nefrektomi** veya **Radikal Nefrektomi** ameliyatı kararı alırlar. Bazı durumlarda ise hiç tedavi etmeme konusunda karar verirler.
-
-​
+Böbrek kanserinin tedavisi ameliyatla mümkündür. Böbrek kanseri ameliyatları 2 tiptir. Böbrekteki kitlenin saptanmasından sonra hekimler hastanın hem genel sağlık hem de diğer böbrek durumunu göz önünde bulundurarak, ameliyat için **Parsiyel Nefrektomi** veya **Radikal Nefrektomi** ameliyatı kararı alırlar. Bazı durumlarda ise hiç tedavi etmeme konusunda karar verirler.  
 Radikal Nefrektomi dediğimiz kanser olan böbreğin bütünüyle çıkarılmasıdır. Diğer ameliyat ise Parsiyel Nefrektomidir. Parsiyel Nefrektomi ameliyatında böbreğin sadece kanserli kısmı ve kanserli kısma yakın bir kaç mm’lik şüpheli kanser olabilecek dokular çıkartılır. Böbreğin sağlam dokuları bırakılır.
 
 * ### Parsiyel Nefrektomi Nedir?
@@ -122,7 +107,6 @@ HİLUM, böbrek damarlarının dağılım yaptığı, böbreğin göbeği olarak
 * ### Parsiyel Nefrektomi Kapalı Ameliyatı
 
 Parsiyel nefrektomi açık, laparoskopik, laparaskop yardımlı robotik cerrahi yöntemlerle yapılabilir. Parsiyel nefrektominin açık ameliyatı hala altın standarttır. Çünkü hekim böbrek arterini klempledikten (kan akışını geçici olarak durdurmak) 20 dk. içinde tümörü çıkarmak zorundadır yoksa böbrek ciddi zarar görür. Laparoskopik ve robotik kapalı ameliyatta 20 dk’lık zaman içerisinde parsiyel nefrektominin bitirilmesi zordur. Ayrıca kapalı yöntemde böbrek soğutulması yapılıp böbreği 1 saat yaşatmak mümkün değildir. Özellikle kompleks böbrek kanserlerinde kapalı ameliyat daha da zordur. Bu nedenle hala bütün dünyada tercih edilen en iyi böbrek kanseri ameliyatı açık cerrahi parsiyel nefrektomidir.
-
 ​
 Deneyimli ellerde her türlü kompleks ve basit tümörler parsiyel nefrektomi ameliyatıyla çıkarılabilir. Fakat kapalı yöntemle deneyimli ellerde bile ancak basit tümörler parsiyel nefrektomi ile çıkarılabilir.
 
@@ -133,7 +117,6 @@ Birinci öncelik böbreğin arter ve venlerine ulaşmak ve her iki damarı ayrı
 **Parsiyel Nefrektomi Standart Ameliyatı;**
 
 Bağırsak ve diğer iç organları korumak için karın duvarı üç sıra birbirini çaprazlayan kuvvetli karın kaslarından oluşmuştur. Standart açık cerrahi tekniğinde böbreklere ulaşmak için kaburgaların altından karın yan duvarında 10-12 cm’lik kesi yapılır. Karın duvarında birbirlerini çaprazlayan üst üste 3 adet karın adelesi kesilir. Böbrek bölgesine ulaşılır. Böbrek arteri kontrol altına alınır ve işlem yapılır. Hem 3 kat adelenin kesilmesi hem de bu bölgede bulunan karın adelesinin kasılmasını sağlayan sinirlerin kesilme olasılığı nedeniyle ameliyat sonu adale kasılma bozuklukları olabilir. Ayrıca bu kesi böbrekten aşağıda kaldığı için böbreğe ulaşım güçtür. Biz bu tekniği uygulamıyoruz.
-
 ​
 Diğer açık cerrahi tekniğinde göğüs kafesinin altında ona paralel kesi yapılır. Yine her üç karın duvarı adelesi kesilir. Mide, bağırsak ve dalak gibi iç organların bulunduğu karın zarı içerisine girilir. Bir ameliyatta karın zarı içerisine ne kadar az giriliyorsa ameliyat sonrası komplikasyon oranı o kadar azdır. Böbrek damarına ulaşılır ve parsiyel nefrektomi yapılır. Bu açık cerrahi tekniği hasta için çok daha travmatiktir. Hem üç karın adelesi kesildiği için hem de karın zarı içine girildiği için ameliyat sonu iyileşme daha uzun sürmektedir. Biz bu yöntemi de kullanmayı tercih etmiyoruz.
 

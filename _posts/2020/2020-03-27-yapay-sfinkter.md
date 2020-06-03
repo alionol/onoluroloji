@@ -32,9 +32,8 @@ Bu iki contanın aynı anda görevini yapamadığı durumlarda idrar sürekli ol
 
 ## Yapay Sfinkter Nedir? ( İdrar Tutma Mekanizması)
 
-![Yapay Sfinkter Nedir](/assets/img/maxresdefault.jpeg)
-Yapay sfinkter, hastanın idrarını kontrol etmesini sağlayan yapay bir mekanizmadır. Sfinkter kelime anlamı; vücutta idrar tutmayı sağlayan kasılma ve gevşeme özelliği olan halkasal kastır. AMS 800 (American Medical System) en gelişmiş yapay sfinkterdir. Dünyada tek bir imalatçı firma vardır.
-
+![Yapay Sfinkter Nedir](/assets/img/maxresdefault.jpeg){:.size2}
+Yapay sfinkter, hastanın idrarını kontrol etmesini sağlayan yapay bir mekanizmadır. Sfinkter kelime anlamı; vücutta idrar tutmayı sağlayan kasılma ve gevşeme özelliği olan halkasal kastır. AMS 800 (American Medical System) en gelişmiş yapay sfinkterdir. Dünyada tek bir imalatçı firma vardır.  
 ​Yapay Sfinkter 3 parçadan oluşur; sfinkter deposu, idrar kanalına yerleştirilen bir halka (cuff) ve hastanın açma ve kapamayı basit bir şekilde kontrol edebiliceği bir pompa. Hasta idrar yapmak için testis torbasındaki pompayı sıkar ve bırakır. Sfinkter halkası içerisindeki idrar kanalını sıkıştırıp kapatan su, sfinkter deposuna geri gider. Böylece idrar kanalı gevşer ve açılır. Hasta idrarını yapar. Daha sonra tekrar pompaya basarak hasta idrar kanalını kapatır. İdrar kanalına yerleştirilecek halkanın çapı, özel bir ölçüm aletiyle hesaplanır. Sistem hidrolik mekaniği prensibine göre çalışır.
 
 ## Yapay sfinkter Ameliyatı Hangi Durumlarda Yapılır?
@@ -57,7 +56,6 @@ Hastaya yapay sfinkter takıldıktan ancak 4-8 hafta sonra sfinkteri kullanabile
 
 ## Yapay Sfinkter Ameliyatı
 
-![Yapay Sfinkter Ameliyatı](/assets/img/maxresdefault.jpeg)
-Yapay sfinkter ameliyatı birkaç farklı kesi ile yapılabilir; Apış arası kesisi (Perineal kesi), penis ile testis torbasının birleştiği yerden yapılan kesi (Penosktrotal kesi). Biz penosktrotal (penis ile testis torbasının birleştiği yer) kesiyi kullanıyoruz. Kadınlarda ise göbek altından pubis kemiğinin üstünde 5-6 cm'lik yatay kesi kullanıyoruz. Bizim uyguladığımız bu teknikte perineal kesiye göre ikinci bir kesi yapmak gerekmez. İşlem tek kesi ile yapılır ve iz kalmaz.
-
+![Yapay Sfinkter Ameliyatı](/assets/img/maxresdefault.jpeg){:.size2}
+Yapay sfinkter ameliyatı birkaç farklı kesi ile yapılabilir; Apış arası kesisi (Perineal kesi), penis ile testis torbasının birleştiği yerden yapılan kesi (Penosktrotal kesi). Biz penosktrotal (penis ile testis torbasının birleştiği yer) kesiyi kullanıyoruz. Kadınlarda ise göbek altından pubis kemiğinin üstünde 5-6 cm'lik yatay kesi kullanıyoruz. Bizim uyguladığımız bu teknikte perineal kesiye göre ikinci bir kesi yapmak gerekmez. İşlem tek kesi ile yapılır ve iz kalmaz.  
 Ameliyatta önce idrar yoluna sonda yerleştirilir. İdrar yolunun etli ve geniş olan bulberüretra bölgesine ulaşılır. 2 cm’lik bölümü serbestleştirilir. Etrafına üretrayı sıkmayacak sekilde ölçüm şeridi yerleştirilir. Bu şeritle ideal idrar yolu çapı belirlenmiş olur ve yapay sfinkter halkası ölçüye göre belirlenir. Daha sonra yapay sfinkter halkası yerleştirilir. Yapay sfinkter ne çok sıkı ne de çok gevsek olmalıdır. Sfinkter deposu mesane yanına yerleştirilir. Testis torbasına sfinkterin pompası için yuva oluşturulur. Testis torbası içinde bağlantı tüpleri birleştirilir. Son derece hassas ve incelik isteyen bir operasyondur. Enfeksiyon riskini engellemek için hijyene aşırı önem gösterilmelidir. Yapay Sfinkter yerleştirildikten sonra 3-4 defa bağlantıların ve mekanizmanın iyi işleyip işlemediğini anlamak için test edilir. 4-8 hafta Sfinkterin pompa ile şişirilmesi istenmez. Bu süre içerisinde iyileşme ve halkanın idrar kanalına uyumu beklenir. Hasta 2 hafta sonra kontrol edilir. 6-8 hafta sonra sistem çalıştırılır. Yapay sfinkterin kullanılması için testis torbasına yerleştirilen pompanın kuvvetlice sıkılması yeterlidir. Bu basit işlem birkaç kez bizzat hastaya tekrarlatılır ve hastaya mekanizmanın kullanımı öğretilir.

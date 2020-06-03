@@ -31,17 +31,13 @@ Cinsel arzu, testis denilen erkek yumurtalıklarından salgılanan erkeklik horm
 
 ## Penis Nasıl Sertleşir?
 
-![Penis Nasıl Sertleşir](/assets/img/mechanism-of-penile-erection.jpeg)
+![Penis Nasıl Sertleşir](/assets/img/mechanism-of-penile-erection.jpeg){:.size2}
+
 * Ereksiyon beyinde başlar.
-
 * Görme, koklama, hissetme, işitme ve düşünme şeklindeki duyular sinir sistemini uyararak penisin damarlarına mesaj gönderir.
-
 * Atardamarlar (arterler) genişler, penisin içine kan pompalanır.
-
 * Toplardamarlar (venler) kapanır.
-
 * Kan penisin içinde geri dönemediği için hapsolur.
-
 * Penis sertleşir ve büyür.
 
 Penisin sertleşmesi; resimde görüldüğü gibi iki adet yan yana süngersi silindir çubukların içine kan pompalanması ve bu kanın içeride hapsolması ile sağlanır. Sert bir penis içindeki basınç, 17 metre suyu yukarıya atma gücüne eşittir. Sertleşme; dokunma, görme, koku ve hayal gibi duyuların beyinde oluşturduğu kimyasallar aracılığı ile başlar. Bu kimyasallar, penise giden sinir ve damar ağlarını uyarır. Penis içine kan pompalanır. Kan içeride hapsolur. Erkeklik organı sertleşir. Cinsel uyarı kaybolunca penis içinde hapsolan kan geri boşalır ve sertleşme sona erer.
@@ -68,11 +64,9 @@ Penisteki Korpus Kavernozum denilen iki adet süngersi cismin içine damar geni�
 
 ### Penil Protez Ameliyatı (Mutluluk Çubuğu)
 
-![Penil Protez](/assets/img/my00358_im03857_m7_penileimplant2thu_jpeg.jpeg)
+![Penil Protez](/assets/img/my00358_im03857_m7_penileimplant2thu_jpeg.jpeg){:.size2}
 Artık penisin süngersi cisimlerinde rezerv (sertleştirici doku) kalmamıştır. İlaçla tedaviye cevap veren hastalara yapılmamalıdır. Etkili bir yöntemdir. Mutluluk çubuğu (Penil Protez) 3 parçadan oluşur; iki adet silindir şeklinde penisi sertleştiren çubukları taklit eden bölüm, pompa ve rezervuar (depo).  Skrotuma (testis torbası) yerleştirilen pompanın ucundaki düğmeye basılır. Penis sertleşme problemi ameliyatında karın içine yerleştirilen 50-60 cc'lik depodan sıvı, penisin içine yerleştirilen iki adet çubuğa pompalanır ve penisin sertleşmesi sağlanır. Cinsel birleşme sonunda testis torbasındaki pompaya tekrar basılarak penisin inmesi sağlanır. İktidarsızlığa kesin çözümdür. Penil protezin takılması operasyonu ince ve hassas bir ameliyattır. Deneyim gerektirir.  Penil Protez ameliyatı hakkında daha fazla bilgi için [Tıklayınız.] (https://www.onoluroloji.com/penil-protez-mutluluk-cubugu)
 
 ## ESWT (Ultrasonik Şok Dalgası) Tedavisi
 
 Son zamanlarda gündeme getirilmeye çalışılan uzaktan şok dalgaları ile penise düşük dozda ultrasonik şok dalgaları gönderilmesinin penis dokusunda yenilenme yaptığı varsayımından doğmuştur. Çoklu seanslarla hastaya uygulanır. Tedavisi 1-2 ay sürebilir.  Bazı olumlu cevap alındığı vakalarda bile iyilik hali 3 ayı geçmez. Genelde placebo etki dediğimiz psikolojik iyileşme halinden dolayı kısmi iyileşmeye sebep olur.  Amerikada FDE sağlık kurumu ESWT (Mikro Şok dalgası tedavisi) tedavileri kabul edilmemektedir. Kanıtlanmış tıpta asıl tedavi 3 basamak tedavisidir.
-
-**Sertleşme problemi olan hastalarda erken boşalma da görülebilir. Erken boşalma yazısı için [Tıklayınız.] (https://www.onoluroloji.com/erken-bosalma)**

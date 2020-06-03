@@ -20,14 +20,11 @@ youtubeId: "kMOsNug1Vj0"
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-
-
-
 ## Kadınlarda Boşaltım Sistemi
 
 ![Kadınlarda Boşaltım Sistemi](/assets/img/ShutterStock_Female_Urinary_System.jpeg)
-
 ![Kadınlarda Boşaltım Sistemi](/assets/Ekran Resmi 2018-02-15 17.32.32.jpeg)
+
 Mesane; idrarı depolayan ve boşaltan bir organdır. Kadınlarda üretra (idrar kanalı) 4-5 cm uzunluğundaki idrarı dışarıya atan kanaldır. Vajina 5-6 cm boyunda silindir şeklinde bir yapıdır ve üstünde boydan boya uzanan idrar kanalı mevcuttur. İdrar kanalı (üretra) içten dışa; ağız içine benzer mukoza, damardan zengin doku, istemli ve istemsiz iki ayrı adale tabakasından oluşur. İdrar kanalında, biri mesane çıkışında istemsiz yani otomatik kontrol sağlayan, bir diğeri de ortasında istemli yani istediğimiz zaman idrarımızı tutmamızı ve bırakmamızı sağlayan iki adet idrar tutucu sfinkter denilen bir çeşit conta mekanizması mevcuttur (2. resim: internal ve external sfinkter). Bu idrar tutucu conta mekanizması son derece komplekstir. Beyin, sinir sistemi ve kadınlık hormonuyla ilintili çok karmaşık bir sistemle çalışır.
 
 ## İdrar Kaçırma Nedenleri

@@ -20,9 +20,6 @@ youtubeId: "p3khQuvkpUk"
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-
-
-
 Birçok erkek hayatının belli dönemlerinde sertleşme sorunu ile karşı karşıya kalır. Günümüzde sertleşme sorununun çoğu modern tedavi yöntemleriyle ameliyata gerek kalmadan tedavi edilmektedir. Sertleşme sorununda, ameliyatsız tedavilerin başarısız olduğu durumlarda, **tek seçenek Penil Protez (Mutluluk Çubuğu) ameliyatıdır.** Penise, penil protez dediğimiz tek veya 3 parçalı yapay bir aletin yerleştirilmesi sertleşme sorununun kesin çözümüdür. Halk arasında mutluluk çubuğu denilen penil protez ameliyatı deneyim ve incelik isteyen bir ameliyattır.
 
 ## Penil Protez (Mutluluk Çubuğu) Nedir?
@@ -34,13 +31,10 @@ Penil protez, sertleşme sorununa kesin çözümdür. Penil protez ameliyatında
 
 * Şeker hastalığı, uzun süreli tansiyon yüksekliği, sigara ve nörolojik hastalıklar nedeniyle penis sertleşmesi yetersiz olabilir. İlaç tedavilerinin yeterli olmadığı durumda penil protez ameliyatı kesin çözümdür.
 
-​
 * Peyronie hastalığında penisin sertleşmesini sağlayan Korpus Kavernozumların içi kireçlendiği için sertleşme sorunuyla karşılaşılır. Bu durumda penil protez ameliyatı uygulanır. İleri derecedeki Peyronie hastalığında uygulanan penil protez ameliyatı daha fazla deneyim ve beceri gerektirir.
 
-​
 * Prostat kanseri ameliyatından sonra penisi sertleştiren sinir ve damarlar hasar görebilir. Hastalar kanserlerinden kurtulduktan sonra sertleşme sorunları için mutluluk çubuğuna (penil protez) ihtiyaç duyabilirler.
 
-​
 * Trafik kazalarına bağlı pelvik kemik kırıkları sebebiyle olan idrar yolu kopmalarında penisin sertleşmesini sağlayan sinir ve damarlar zarar görür, kopar. İdrar kanalı onarılsa bile hastalar yeterli sertleşmeyi sağlayamayabilir ve penil protez ameliyatına ihtiyaç duyarlar.
 
 ## Penil Protez Ameliyatı Öncesi
@@ -49,7 +43,6 @@ Ameliyat öncesi hazırlık, penil protez ameliyatının başarısı için son d
 
 ## Penil Protez Ameliyatı
 
-![Penil Protez Ameliyatı](/assets/img/my00358_im03857_m7_penileimplant2thu_jpeg.jpeg)
-Mutluluk çubuğu (Penil Protez) ameliyatı farklı kesi bölgelerinden yapılabilir. En çok kullanılan kesi perineal (apış arası) ve penoskrotal (penis ile testis torbasının birleştiği bölge) kesidir. Penoskrotal kesi izleri hiç belli olmadığı için daha estetiktir. Bizim de tercih ettiğimiz penoskrotal kesi, 3 parçanın da yerleştirilmesi için idealdir. Penil protezin 3 parçası da aynı kesiden yerleştirilir. Ancak Perineal (apış arası) keside rezervuarı yerleştirmek için ikinci bir kesi yapılır.
-
+![Penil Protez Ameliyatı](/assets/img/my00358_im03857_m7_penileimplant2thu_jpeg.jpeg){:.size2}
+Mutluluk çubuğu (Penil Protez) ameliyatı farklı kesi bölgelerinden yapılabilir. En çok kullanılan kesi perineal (apış arası) ve penoskrotal (penis ile testis torbasının birleştiği bölge) kesidir. Penoskrotal kesi izleri hiç belli olmadığı için daha estetiktir. Bizim de tercih ettiğimiz penoskrotal kesi, 3 parçanın da yerleştirilmesi için idealdir. Penil protezin 3 parçası da aynı kesiden yerleştirilir. Ancak Perineal (apış arası) keside rezervuarı yerleştirmek için ikinci bir kesi yapılır.  
 Uyguladığımız cerrahi teknikte idrar yolundan mesaneye sonda sokulur. Penoskrotal (penis ile testis torbasının birleştiği yer) bölgeye 3-4 cm’lik yatay kesi yapılır. İdrar kanalının iki yanındaki Korpus Kavernozum denilen sertleşmeyi sağlayan çubuklar ulaşılır. Korpus Kavernozumlara (sertleşmeyi sağlayan çubuklar) dikey olarak 1-2 cm'lik kesi yapılır. Özel metal bujilerle Korpus Kavernozumların içine yuva yapılır. Böylece içi boş dış kabuğu sağlam iki ucu kapalı tüp elde edilir. Ameliyat esnasında sık sık antibiyotikli solüsyonlarla ameliyat alanı temizlenir. Özel bir ölçüm aparatıyla Korpus Kavernozumların boyu tam olarak ölçülür. Buna uygun uzunlukta 3 parçalı penil protez seçilir. Ameliyatta firmanın görevlendirdiği teknik işlerden sorumlu görevli uygun penil protez paketini açar. Şişebilen her iki çubuk, peniste ayrı ayrı Korpus Kavernozumların içerisine şişmemiş olarak yerleştirilir. İkinci aşamada, kesi yerinden sokulan işaret parmağı karnın alt bölgesinde mesane yanındaki boşluğa ulaşır. Rezervuar (sıvı deposu) inik olarak bu boşluğa yerleştirilir. Rezervuarın kapasitesi penil protezin tipine göre 60-100 cc’dir. Rezervuardan şişerek sertleşmeyi sağlayacak her iki çubuğa giden bağlantı sağlanır. Penil Protez (mutluluk çubuğu) şişirilerek ve indirilerek sıvı kaçağı olup olmadığı yönünden test edilir. Üçüncü aşamada, minyatür düğme testis torbasına yerleştirilir. Pompa ve düğme sisteme bağlanır. Bu şekilde testis torbası içerisindeki pompa hasta tarafından basılarak penis sertleşir ve iner.

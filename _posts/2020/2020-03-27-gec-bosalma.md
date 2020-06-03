@@ -20,9 +20,6 @@ youtubeId: "jthmzhS6oRc"
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-
-
-
 ## Geç Boşalma Nedir?
 
 Geç boşalma ereksiyon normal olduğu halde kişinin uzun süreli cinsel temasta bile spermlerini geç atması durumudur. Geç boşalmalarda cinsel temastan 30-40 dakika sonra dahi boşalamama durumu gözükebilir. Bu boşalamama durumu da geç boşalma konusu içerisinde değerlendirilir.

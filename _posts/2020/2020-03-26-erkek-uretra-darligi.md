@@ -20,21 +20,16 @@ youtubeId: "VSb6L_xaZxA"
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-
-
-
 ## Üretra Nedir?
 
 ![Üretra nedir](/assets/img/Embryologic-development-of-the-male-genitourinary-tract-Median-cleavage-of-the-urethral.jpeg)
-Üretra (idrar kanalı); idrarı mesaneden penis vasıtası ile dışarıya atan, penisin büyüklüğüne göre değişen 15-20 cm uzunluğunda bir kanaldır. Üretra, ön ve arka olmak üzere iki bölümdür.
-
-​Arka üretra 4 - 5 cm uzunluğundadır. 2 bölümde incelenir. Prostatın içinden geçtiği kanala prostatik üretra denir. İdrar tutucu mekanizmalardan birinci sfinkter (idrar tutucu mekanizma) mesanenin hemen altında ve prostatın hemen yukarısındadır. İstemsiz olarak çalışır yani otomatik olarak kapanır ve idrarı tutar. Membranöz üretra denilen ikinci 1-1,5 cm’lik kısım prostatın altındadır. En dar ve elastikiyeti olmayan bölümdür. Etrafında ikinci sfinkter dediğimiz idrar tutucu mekanizma vardır. İstemli olarak idrarı tutmayı sağlar. Membranöz Üretra’nın konumu, pelvik tabanın (apış arası) derinlerinde olduğundan dolayı ameliyatta ulaşımı zordur. Penisi sertleştiren damar ve sinirler ile yakın komşuluk gösterir. Arka üretra darlıkları ameliyatları, idrarı tutan 2 conta mekanizmasının da arka üretrada oluşu ve arka üretraya ulaşımın güçlüğü nedeniyle zordur. Başarısızlık halinde devamlı idrar kaçırma olabilir.
-
+Üretra (idrar kanalı); idrarı mesaneden penis vasıtası ile dışarıya atan, penisin büyüklüğüne göre değişen 15-20 cm uzunluğunda bir kanaldır. Üretra, ön ve arka olmak üzere iki bölümdür.  
+​Arka üretra 4 - 5 cm uzunluğundadır. 2 bölümde incelenir. Prostatın içinden geçtiği kanala prostatik üretra denir. İdrar tutucu mekanizmalardan birinci sfinkter (idrar tutucu mekanizma) mesanenin hemen altında ve prostatın hemen yukarısındadır. İstemsiz olarak çalışır yani otomatik olarak kapanır ve idrarı tutar. Membranöz üretra denilen ikinci 1-1,5 cm’lik kısım prostatın altındadır. En dar ve elastikiyeti olmayan bölümdür. Etrafında ikinci sfinkter dediğimiz idrar tutucu mekanizma vardır. İstemli olarak idrarı tutmayı sağlar. Membranöz Üretra’nın konumu, pelvik tabanın (apış arası) derinlerinde olduğundan dolayı ameliyatta ulaşımı zordur. Penisi sertleştiren damar ve sinirler ile yakın komşuluk gösterir. Arka üretra darlıkları ameliyatları, idrarı tutan 2 conta mekanizmasının da arka üretrada oluşu ve arka üretraya ulaşımın güçlüğü nedeniyle zordur. Başarısızlık halinde devamlı idrar kaçırma olabilir.  
 Ön üretra 3 kısımdır. Bulber üretra, üretranın en geniş bölümüdür. Boyu 2-3 cm’dir. Corpus Sponciozum denilen kalın damardan zengin bir süngersi tabaka ile sarılıdır. Penil üretra ise 10-12 cm’dir. Penisin altında görülen, hissedilen bölümdür. Fossa Navikülaris denilen penis başının (glans) içindeki 1 cm’lik bölüm, mea denilen idrar deliğine açılır.
 
 ## Üretra Darlığı Belirtileri
 
-![Üretra Darlığı Belirtileri](/assets/imgnrurol.2013.275-f1.jpeg)
+![Üretra Darlığı Belirtileri](/assets/imgnrurol.2013.275-f1.jpeg){:.size2}
 Yandaki resimlerde idrar yolunda oluşan darlık seviyelerini gösteriyor. İdrar yolu (üretra) darlığında sık, ağrılı, zorlayarak ve ince işeme en önemli bulgulardır. Mesane bölümünde idrarın tam boşalamamasına bağlı ağrı ve dolgunluk hissi mevcuttur. İdrar boşaltımı bittikten sonra damlama olur. İdrarda ve menide kan gözükebilir. Peniste eğrilik olabilir. Cinsel birleşmede ağrı gözükebilir.
 
 Darlıkların en ileri seviyesinde darlık, idrar kanalını tamamen tıkar. İdrar penisten dışarı çıkamaz. Mesanede idrar birikir. Mesane şişer (Komplet Retansiyon). Alt karın bölgesinde mesane üstünden bir tüp sokularak idrar dışarıya alınır (sistostomi). Acil bir durumdur. Uzun sürede yavaş yavaş gelişen darlıklarda idrar mesaneye oradan üreter denilen böbrekten mesaneye idrarı aktaran kanal yolu ile böbreklere geri teper. İdrar böbreğe kaçtığında böbrek itihabı oluşur. Hastalar her iki böbreğin de bozulması sonucu kronik böbrek yetmezliği ile de doktora başvurabilir.
@@ -75,8 +70,7 @@ Açık cerrahide ise hastalık tamamen ortadan kalkar. Üretroplasti ameliyatlar
 * ### Üretra Darlığında Kapalı Ameliyat
 
 ![Üretra Darlığında Kapalı Ameliyat](/assets/img/urethral2.jpeg)
-Özellikle ön üretradaki ve arka üretranın da membranöz üretra bölümündeki darlıklarda dilatasyon veya kapalı endoskopik yöntemlerle darlık genişletilir. Kısa ve derine inmemiş darlıklarda bu yöntemler işe yarar. Uzun ve derine inmiş darlıklarda 1-2 ay sonra hasta eskisinden daha kötü yakınmalarla karşımıza gelir. Yerleşmiş kural eğer en fazla iki kez endoskopik yöntemle (kapalı yöntem) iyileşme sağlanamıyorsa hasta açık operasyon için deneyimli bir merkeze gönderilmelidir.
-
+Özellikle ön üretradaki ve arka üretranın da membranöz üretra bölümündeki darlıklarda dilatasyon veya kapalı endoskopik yöntemlerle darlık genişletilir. Kısa ve derine inmemiş darlıklarda bu yöntemler işe yarar. Uzun ve derine inmiş darlıklarda 1-2 ay sonra hasta eskisinden daha kötü yakınmalarla karşımıza gelir. Yerleşmiş kural eğer en fazla iki kez endoskopik yöntemle (kapalı yöntem) iyileşme sağlanamıyorsa hasta açık operasyon için deneyimli bir merkeze gönderilmelidir.  
 Endoskopik olarak bıçakla kesmekten farklı olarak dilatasyonda bir sonda idrar kanalından darlık bölgesinden geçirilir ve darlık yırtılarak genişletilir. Kısmi bir iyileşme sağlanabilir. Dilatasyon, orta dereceli darlıklarda hastaya bizzat kendisinin yapması öğretilerek hayatını devam ettirebilir. Sakıncalı ve sıkıntılı bir süreçtir.
 
 ​
