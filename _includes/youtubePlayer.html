@@ -16,7 +16,8 @@
   </div>
   <div class="col-lg-4 toc">
     <div class="pt-3 toc-wrapper">
-    {% include toc.html html=content sanitize=true h_max=2 h_min=2 skipNoIDs=true %}
+      <span class="p-3">{{- site.data.i18n.toc[page.lang] | strip_html | strip_newlines | xml_escape -}}</span>
+      {% include toc.html html=content sanitize=true h_max=2 h_min=2 skipNoIDs=true %}
     </div>
   </div>
 </div>

@@ -14,6 +14,13 @@ img {
   max-width: 100%;
 }
 
+// Clearfix for images
+p::after {
+  content: "";
+  clear: left;
+  display: table;
+}
+
 a {
   transition-duration: $link-transition-duration;
   transition-timing-function: $link-timing-function;
@@ -113,7 +120,14 @@ blockquote {
     .btn {
       color: $white;
       background-color: darken($brand, 7.5%);
+      transition-duration: $link-transition-duration;
+      transition-timing-function: $link-timing-function;
     }
+
+    .btn:hover {
+      background-color: lighten($brand, 5%);
+    }
+
   }
 
   .info-box {
@@ -169,6 +183,11 @@ blockquote {
       .btn {
         color: $white;
         background-color: darken($urologue-green, 5%);
+        transition-duration: $link-transition-duration;
+        transition-timing-function: $link-timing-function;
+      }
+      .btn:hover {
+        background-color: lighten($urologue-green, 5%);
       }
     }
 
@@ -178,13 +197,16 @@ blockquote {
     line-height: $alt-line-height;
     .doctors-title {
       color: $urologue-green;
+      font-family: $font-family-serif;
       font-size: 1.85em;
     }
+
     .card {
       opacity: 0.95;
 
       .card-title {
         color: $urologue-green;
+        font-family: $font-family-serif;
         font-size: 1.30em;
       }
       .card-text {
@@ -202,6 +224,17 @@ blockquote {
 
       .card-footer {
         background-color: $white;
+
+        .btn {
+          color: $white;
+          background-color: darken($urologue-green, 5%);
+          transition-duration: $link-transition-duration;
+          transition-timing-function: $link-timing-function;
+        }
+
+        .btn:hover {
+          background-color: lighten($urologue-green, 5%);
+        }
       }
     }
 
@@ -267,6 +300,9 @@ blockquote {
     background-repeat: no-repeat;
     background-position: center;
     background-size: 100% auto;
+    h1 {
+      font-family: $font-family-serif;
+    }
   }
 }
 
@@ -282,6 +318,9 @@ blockquote {
     background-repeat: no-repeat;
     background-position: center;
     background-size: 100% auto;
+    h1 {
+      font-family: $font-family-serif;
+    }
   }
 }
 
@@ -322,6 +361,9 @@ blockquote {
       background-repeat: no-repeat;
       background-position: center;
       background-size: 100% auto;
+      h1 {
+        font-family: $font-family-serif;
+      }
     }
   }
 

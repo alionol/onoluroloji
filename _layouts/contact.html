@@ -15,7 +15,7 @@ layout: default
       </div>
       <div class="col-md-6">
         <div class="row">
-          <div class="col-md-auto">
+          <div class="col-md-12">
             <div class="mt-2">
               <i class="fa-phone-square mr-1 align-middle"></i>
               <small class="font-italic">
@@ -27,20 +27,7 @@ layout: default
               </small>
             </div>
           </div>
-          <div class="col-md-auto">
-            <div class="mt-2">
-              <i class="fa-map-marker mr-1"></i>
-              <small class="font-italic">
-              {{- site.data.i18n.footer.address_name[page.lang] | strip_html | strip_newlines | xml_escape -}}
-              </small>
-              <br/>
-              <small>
-              {{- site.data.i18n.footer.address[page.lang][0] | strip_html | strip_newlines | xml_escape -}}&nbsp;
-              {{- site.data.i18n.footer.address[page.lang][1] | append: ' / ' | append: site.data.i18n.footer.address[page.lang][2] | strip_html | strip_newlines | xml_escape -}}
-              </small>
-            </div>
-          </div>
-          <div class="col-md-auto">
+          <div class="col-md-12">
             <div class="mt-2">
               <i class="fa-envelope mr-1"></i>
               <small class="font-italic">
@@ -51,6 +38,19 @@ layout: default
                 <a href="mailto:{{- site.email | strip_html | strip_newlines | xml_escape -}}">
                   {{- site.email | strip_html | strip_newlines | xml_escape -}}
                 </a>
+              </small>
+            </div>
+          </div>
+          <div class="col-md-12">
+            <div class="mt-2">
+              <i class="fa-map-marker mr-1"></i>
+              <small class="font-italic">
+              {{- site.data.i18n.footer.address_name[page.lang] | strip_html | strip_newlines | xml_escape -}}
+              </small>
+              <br/>
+              <small>
+              {{- site.data.i18n.footer.address[page.lang][0] | strip_html | strip_newlines | xml_escape -}}&nbsp;
+              {{- site.data.i18n.footer.address[page.lang][1] | append: ' / ' | append: site.data.i18n.footer.address[page.lang][2] | strip_html | strip_newlines | xml_escape -}}
               </small>
             </div>
           </div>
