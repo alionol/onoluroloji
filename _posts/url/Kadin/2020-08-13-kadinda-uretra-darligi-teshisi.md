@@ -18,7 +18,7 @@ thumbnail:
 summary: "Üretra (idrar kanalı) nedir? , Üretra darlıklarının nedenleri, şikayetleri, teşhisi ve tedavisi hakkında detaylı bilgiler makale ve videolar ile sunuluyor. Üretral rekonstrüksiyonun kadın üretroplasti ameliyatı nasıl yapılır?"
 youtubeId: false
 ---
-{% include youtubePlayer.html id=page.youtubeId %}
+
 
 
 

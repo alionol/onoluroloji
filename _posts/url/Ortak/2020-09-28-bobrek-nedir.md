@@ -19,7 +19,7 @@ summary: "Böbrek Taşı Nedir? Böbek Taşı Nasıl Oluşur? Böbrek Taşı Tip
 youtubeId: false
 
 ---
-{% include youtubePlayer.html id=page.youtubeId %}
+
 
 
 

@@ -20,7 +20,7 @@ youtubeId: "swkHsd4n6bo"
 youtubeId2: "RW7fMM66P_k"
 lightBoxImages: ["/assets/img/ProstatKanseri1.jpeg","/assets/img/ProstatKanseri2.jpeg", "/assets/img/ProstatKanseri3.jpeg", "/assets/img/ProstatKanseri4.jpeg","/assets/img/ProstatKanseri5.jpeg"]
 ---
-{% include youtubePlayer.html id=page.youtubeId %}
+
 
 
 

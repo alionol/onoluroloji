@@ -19,7 +19,7 @@ summary: "Böbrek Kanseri Nedir?, Böbrek Kanserinin Nedenleri? , Böbrek Kanser
 youtubeId: false
 
 ---
-{% include youtubePlayer.html id=page.youtubeId %}
+
 
 
 

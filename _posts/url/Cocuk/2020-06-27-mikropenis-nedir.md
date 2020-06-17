@@ -18,7 +18,7 @@ thumbnail:
 summary: "Mikropenis doğumsal bir anomalidir. Erken teşhisin önemli olduğu mikropenis hastalığı genelde maalesef geç teşhis edilir. Erken dönemde yapılan tedavi daha iyi sonuç verir."
 youtubeId: false
 ---
-{% include youtubePlayer.html id=page.youtubeId %}
+
 
 
 

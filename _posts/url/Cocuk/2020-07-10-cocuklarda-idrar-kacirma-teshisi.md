@@ -18,7 +18,7 @@ thumbnail:
 summary: "Çocuklarda idrar kaçırmalarıyla ilgili detaylı bilgiler... Gece idrar kaçırma nedir? kaç tipi vardır? Gece idrar kaçırmaları nasıl tedavi edilir? Enüretik alarm, ilaç tedavisi...  Tedaviye dirençli idrar kaçırmalarda ne yapılır?"
 youtubeId: false
 ---
-{% include youtubePlayer.html id=page.youtubeId %}
+
 
 
 

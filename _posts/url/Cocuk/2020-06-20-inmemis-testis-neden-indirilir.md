@@ -19,7 +19,7 @@ summary: "İnmemiş testis nedir, Testisin işlevi, İnmemiş testisin teşhisi,
 youtubeId: false
 
 ---
-{% include youtubePlayer.html id=page.youtubeId %}
+
 
 
 

@@ -18,7 +18,7 @@ thumbnail:
 summary: "Geç Boşalma Nedir?, Geç Boşalma Nedenleri, Geç Boşalmanın Tedavisi, Geç Boşalma Neden olur, Geç Boşalma, Geç Boşalma Sebepleri, Geç Boşalma Çözümü, Geç Boşalma Avantajları, Geç Boşalma Dezavantajları , Cinsellik"
 youtubeId: "jthmzhS6oRc"
 ---
-{% include youtubePlayer.html id=page.youtubeId %}
+
 
 ## Geç Boşalma Nedir?
 

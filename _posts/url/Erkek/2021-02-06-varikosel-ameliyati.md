@@ -19,7 +19,7 @@ summary: "Varikosel nedir?, Varikosel neden olur?, Varikosel nasıl anlaşılır
 youtubeId: "7Dg18TUVITU"
 lightBoxImages: ["/assets/img/varikoselameliyati1.jpeg", "/assets/img/varikoselameliyati2.jpeg"]
 ---
-{% include youtubePlayer.html id=page.youtubeId %}
+
 
 
 

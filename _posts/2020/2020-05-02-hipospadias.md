@@ -23,7 +23,7 @@ lightBoxImages3: ["/assets/img/hipospadiasameliyati9.jpeg","/assets/img/hipospad
 lightBoxImages4: ["/assets/img/hipospadiasameliyati20.jpeg","/assets/img/hipospadiasameliyati21.jpeg","/assets/img/hipospadiasameliyati22.jpeg","/assets/img/hipospadiasameliyati23.jpeg","/assets/img/hipospadiasameliyati24.jpeg","/assets/img/hipospadiasameliyati25.jpeg","/assets/img/hipospadiasameliyati26.jpeg","/assets/img/hipospadiasameliyati27.jpeg"]
 lightBoxImages5: ["/assets/img/cocukhipospadias1.jpeg","/assets/img/hipospadiasameliyati29.jpeg"]
 ---
-{% include youtubePlayer.html id=page.youtubeId %}
+
 
 
 

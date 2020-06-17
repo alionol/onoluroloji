@@ -18,7 +18,7 @@ thumbnail:
 summary: "vajina estetiği, vajina nasıl olmalıdır, vajinal estetik, vajinal estetik ücreti, vajinal estetik ameliyatı, vajinal estetik avantajları, vajinal estetik gerektiren durumlar, Vajina Estetiği Nedir, Vajina estetiği için hangi doktor, Vajina Estetiği Amacı, Vajina Şekil Bozuklukları, Vajina Estetiğinde Lazer "
 youtubeId: "S-lSp39mIlg"
 ---
-{% include youtubePlayer.html id=page.youtubeId %}
+
 
 ## Vajina Anatomisi
 

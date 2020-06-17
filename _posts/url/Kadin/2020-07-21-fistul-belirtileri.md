@@ -18,7 +18,7 @@ thumbnail:
 summary: "Fistül oluşumuna bağlı idrar kaçırmalar. , Fistül nedir? , Fistül neden oluşur? , Fistül nerelerde oluşur?, Fistülün tedavi yöntemleri nelerdir?, Fistül ameliyatları nasıl yapılır? "
 youtubeId: false
 ---
-{% include youtubePlayer.html id=page.youtubeId %}
+
 
 
 

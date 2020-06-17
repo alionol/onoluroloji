@@ -18,7 +18,7 @@ thumbnail:
 summary: "Cinsel yolla bulaşan hastalıklar ve tedavileri...,  Klamidiya, Şankı, Genital bit, Genital uçuk, Hepatit B, AIDS, HPV, Trikomonas, Sifiliz, Uyuz, Moluskum kantagiyozum ve Bel soğukluğu hastalıklarının belirtileri, teşhisleri ve tedavileri hakkında detaylı bilgi. "
 youtubeId: "VrbQemKs-io"
 ---
-{% include youtubePlayer.html id=page.youtubeId %}
+
 
 
 

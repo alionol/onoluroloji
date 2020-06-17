@@ -19,7 +19,7 @@ summary: "Mesane Kanseri Nedir?  Kaç tip mesane kanseri vardır? Mesane kanseri
 youtubeId: "JaMrJlXDJfk"
 lightBoxImages: ["/assets/img/MesaneCikarilmasi1.jpeg", "/assets/img/MesaneCikarilmasi2.jpeg","/assets/img/MesaneCikarilmasi3.jpeg"]
 ---
-{% include youtubePlayer.html id=page.youtubeId %}
+
 
 
 

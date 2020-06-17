@@ -19,7 +19,7 @@ summary: "Çocuk fıtığı nedir?, Çocuklardaki kasık fıtığı?, Çocuk kas
 youtubeId: false
 
 ---
-{% include youtubePlayer.html id=page.youtubeId %}
+
 
 
 

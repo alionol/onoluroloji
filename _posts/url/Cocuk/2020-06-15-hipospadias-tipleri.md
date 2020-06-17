@@ -18,7 +18,7 @@ thumbnail:
 summary: "Hipospadias hastalığı ve tedavisi hakkında detaylı bilgiler... , Hipospadias nedir? ,  Hipospadias sakatı hastalarının tedavisi? , Hipospadias eğriliğinin sebebi, Hipospadias olmadığı halde peniste eğrilik olur mu? , Hipospadis teşhisi nasıl konur? , Hipospadiaslı çocuklar sünnet olmalı mı?, Hipospadias ameliyatı nasıl yapılır?"
 youtubeId: false
 ---
-{% include youtubePlayer.html id=page.youtubeId %}
+
 
 
 

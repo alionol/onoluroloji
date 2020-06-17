@@ -18,7 +18,7 @@ thumbnail:
 summary: "İnmemiş testis nedir, Testisin işlevi, İnmemiş testisin teşhisi, Mahcup testis, İnmemiş testiste fizik muayene, İnmemiş testis ameliyatı ve ameliyat teknikleri, Başarısız operasyonla indirilememiş testisler nasıl indirilir?, İndirilemeyen testis var mıdır?"
 youtubeId: false
 ---
-{% include youtubePlayer.html id=page.youtubeId %}
+
 
 
 

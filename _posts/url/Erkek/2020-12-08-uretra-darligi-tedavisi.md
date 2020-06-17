@@ -23,7 +23,7 @@ lightBoxImages: ["/assets/img/UretraDarligi1.jpeg","/assets/img/UretraDarligi2.j
 lightBoxImages2: ["/assets/img/Uretroplasti.jpeg", "/assets/img/Uretroplasti2.jpeg", "/assets/img/Uretroplasti3.jpeg"]
 lightBoxImages3: ["/assets/img/idrarKanaliDarligi.jpeg", "/assets/img/idrarKanaliDarligi2.jpeg", "/assets/img/idrarKanaliDarligi3.jpeg", "/assets/img/idrarKanaliDarligi4.jpeg"]
 ---
-{% include youtubePlayer.html id=page.youtubeId %}
+
 
 
 

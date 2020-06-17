@@ -18,7 +18,7 @@ thumbnail:
 summary: "Prostatın kanserleri hakkında detaylı bilgi , Prostat Nedir, Prostat Kanseri Nedir, Prostat kanseri teşhisi ve tedavisi, Prostat kanseri ameliyat teknikleri, Prostat kanseri belirtileri, Güncel tedavi yöntemleri, Aktif izlem nedir, Prostat kanseri komplikasyonları ve tedavileri, Lenf düğümlerinin çıkartılması."
 youtubeId: false
 ---
-{% include youtubePlayer.html id=page.youtubeId %}
+
 
 
 

@@ -18,7 +18,7 @@ thumbnail:
 summary: "Prostatitin birçok farklı tipi vardır. Doğru tip belirlendiğinde tedavi daha kolaydır. Hastaların büyük çoğunluğunda yanlış antibiyotik tedavisi hastalığı kronikleştirmektedir. Hastalığın tedavisini güçleştirir. Doğru tedavi için tecrübeli bir hekimin tedavi planlamasını yapması gereklidir."
 youtubeId: false
 ---
-{% include youtubePlayer.html id=page.youtubeId %}
+
 
 
 

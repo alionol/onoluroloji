@@ -18,7 +18,7 @@ thumbnail:
 summary: "Cinsellik nedir? İktidarsızlığın tedavi yöntemleri nelerdir? Cinsel arzu nedir? Penis nasıl sertleşir? Penisin sertleşme sorunları, Sertleşme sorunlarının tedavileri, İktidarsızlık tedavileri; ilaçla tedavi, mutluluk çubuğu, penil protez Erken boşalma ve Erken boşalma tedavisi..."
 youtubeId: "r5np7vHczPQ"
 ---
-{% include youtubePlayer.html id=page.youtubeId %}
+
 
 
 

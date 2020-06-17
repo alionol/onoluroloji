@@ -18,7 +18,7 @@ thumbnail:
 summary: "Penis büyütme, penis büyütme ameliyatı, penis büyütme zararları, penis büyütme fiyatı, penis büyütme nasıl yapılır, penis büyütme ameliyatı sonrası, penis büyütme ameliyatı öncesi, penis nasıl büyür, penis ameliyatı, penis işlevi, penis boyu, penis boyutları, penis kalınlığı, küçük penis, penis büyütme nedir, penis anatomisi"
 youtubeId: "vo3tp5qi8so"
 ---
-{% include youtubePlayer.html id=page.youtubeId %}
+
 
 Penis büyütme; penis uzatma ve penis kalınlaştırma olarak incelenir. Bu yazımızda penis uzatma ile ilgili bilgi vereceğiz. Penis kalınlaştırma hakkında bilgi almak için [Tıklayınız.] (https://www.onoluroloji.com/penis-kalinlastirma)
 

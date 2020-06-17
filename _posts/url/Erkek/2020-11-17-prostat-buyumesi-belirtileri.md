@@ -18,7 +18,7 @@ thumbnail:
 summary: "Prostat büyümesi nedir? Prostat büyümesi teşhisi, Prostat büyümesi belirtileri, Prostat büyümesi tedavisi, Prostat büyümesi Ameliyatı, Prostat büyümesi ameliyatı ne zaman olunur? Prostat büyümesi ilaç tedavisi, Prostat büyümesi şikayetleri, Prostat neden büyür? , Prostat büyümesi kansere dönüşür mü? , Prostat büyümesi açık ameliyatı , Prostat büyümesi kapalı ameliyatı "
 youtubeId: false
 ---
-{% include youtubePlayer.html id=page.youtubeId %}
+
 
 
 

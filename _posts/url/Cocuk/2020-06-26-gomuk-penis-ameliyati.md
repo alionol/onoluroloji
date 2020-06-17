@@ -18,7 +18,7 @@ thumbnail:
 summary: "Gömük Penis Nedir? , Gömük Penisli çocuklar sünnet edilmeli midir? , Gömük Penis, obez çocuklarda zayıflama halinde düzelir mi? , Penis  boyutları Gömük Peniste normal midir? , Gömük Penis Nedenleri , Gömük Penis Hangi Sorunlara Yol Açar? , Gömük Penis Teşhisi , Gömük Penis Ameliyatı Ne Zaman Yapılmalıdır? , Gömük Penis Ameliyatı , Gömük Penis Tedavisi"
 youtubeId: "6qB2-WgtPhM"
 ---
-{% include youtubePlayer.html id=page.youtubeId %}
+
 
 
 

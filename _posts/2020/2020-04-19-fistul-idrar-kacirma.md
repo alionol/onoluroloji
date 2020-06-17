@@ -19,7 +19,7 @@ summary: "Fistül oluşumuna bağlı idrar kaçırmalar. , Fistül nedir? , Fist
 youtubeId: "O71euAzrTq8"
 lightBoxImages: ["/assets/img/Fistul.jpeg", "/assets/img/Fistul2.jpeg","/assets/img/Fistul3.jpeg","/assets/img/Fistul4.jpeg","/assets/img/Fistul5.jpeg","/assets/img/Fistul6.jpeg","/assets/img/Fistul7.jpeg"]
 ---
-{% include youtubePlayer.html id=page.youtubeId %}
+
 
 
 

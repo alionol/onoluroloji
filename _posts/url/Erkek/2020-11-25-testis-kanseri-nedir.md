@@ -18,7 +18,7 @@ thumbnail:
 summary: "Testis Kanseri Nedir?, Testis Kanserinin Nedenleri?, Testis Kanseri Belirtileri, Testis Kanseri Tipleri, Testis Kanseri Teşhisi, Testis Kanseri Evreleri, Testis Kanseri Tedavisi, Testis Kanseri Sonrası Kemoterapi, Testis Kanserinde Sperm Bankası Uygulaması, Testis Kanseri Sonrası Sertleşme Sorunu"
 youtubeId: false
 ---
-{% include youtubePlayer.html id=page.youtubeId %}
+
 
 
 

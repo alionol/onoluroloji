@@ -18,7 +18,7 @@ thumbnail:
 summary: "Prostat büyümesi nedir? Prostat büyümesi teşhisi, Prostat büyümesi belirtileri, Prostat büyümesi tedavisi, Prostat büyümesi Ameliyatı, Prostat büyümesi ameliyatı ne zaman olunur? Prostat büyümesi ilaç tedavisi, Prostat büyümesi şikayetleri, Prostat neden büyür? , Prostat büyümesi kansere dönüşür mü? , Prostat büyümesi açık ameliyatı , Prostat büyümesi kapalı ameliyatı "
 youtubeId: "BJW0HwliWgE"
 ---
-{% include youtubePlayer.html id=page.youtubeId %}
+
 
 Prostat büyümeleri kansere bağlı büyümeler veya basit büyümeler olarak ikiye ayrılır. Bu yazımızda prostatın basit büyümelerinden bahsedeceğiz. Prostatın kötü huylu büyümesi olan prostat kanseri hakkında bilgi edinebilmek için [Tıklayınız.] (https://www.onoluroloji.com/prostat-kanseri)
 

@@ -21,7 +21,7 @@ youtubeId2: "JM_OTjd3LVY"
 lightBoxImages: ["/assets/img/BobrekKanseriAmeliyati1.jpeg", "/assets/img/BobrekKanseriAmeliyati2.jpeg","/assets/img/BobrekKanseriAmeliyati3.jpeg","/assets/img/BobrekKanseriAmeliyati4.jpeg","/assets/img/BobrekKanseriAmeliyati5.jpeg","/assets/img/BobrekKanseriAmeliyati6.jpeg","/assets/img/BobrekKanseriAmeliyati7.jpeg","/assets/img/BobrekKanseriAmeliyati8.jpeg"]
 
 ---
-{% include youtubePlayer.html id=page.youtubeId %}
+
 
 
 

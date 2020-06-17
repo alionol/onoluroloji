@@ -21,7 +21,7 @@ lightBoxImages: ["/assets/img/testistorsiyonuameliyati1.jpeg", "/assets/img/test
 lightBoxImages2: ["/assets/img/testisdonmesiameliyati1.jpeg", "/assets/img/testisdonmesiameliyati2.jpeg", "/assets/img/testisdonmesiameliyati3.jpeg", "/assets/img/testisdonmesiameliyati4.jpeg", "/assets/img/testisdonmesiameliyati5.jpeg"]
 lightBoxImages3: ["/assets/img/inmemistestiskasikfitigi.jpeg", "/assets/img/inmemistestiskasikfitigi1.jpeg", "/assets/img/inmemistestiskasikfitigi2.jpeg", "/assets/img/inmemistestiskasikfitigi3.jpeg", "/assets/img/inmemistestiskasikfitigi4.jpeg", "/assets/img/inmemistestiskasikfitigi5.jpeg"]
 ---
-{% include youtubePlayer.html id=page.youtubeId %}
+
 
 
 

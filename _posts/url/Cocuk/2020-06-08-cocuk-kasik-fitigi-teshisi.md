@@ -18,7 +18,7 @@ thumbnail:
 summary: "Çocuk fıtığı nedir?, Çocuklardaki kasık fıtığı?, Çocuk kasık fıtıkları neden oluşur?, Kasık fıtığı teşhisi?, Kasık fıtığı Nedenleri? , Kasık fıtığı Ameliyatı?, Çocuk Kasık fıtıklarına ne zaman müdahele etmek gereklidir?"
 youtubeId: false
 ---
-{% include youtubePlayer.html id=page.youtubeId %}
+
 
 
 

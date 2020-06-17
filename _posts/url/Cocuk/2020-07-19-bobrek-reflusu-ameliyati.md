@@ -22,7 +22,7 @@ youtubeId3: "0bXrMSSynC4"
 lightBoxImages: ["/assets/img/bobrekreflusuameliyati1.jpeg","/assets/img/bobrekreflusuameliyati2.jpeg","/assets/img/bobrekreflusuameliyati3.jpeg","/assets/img/bobrekreflusuameliyati4.jpeg","/assets/img/bobrekreflusuameliyati5.jpeg","/assets/img/bobrekreflusuameliyati6.jpeg","/assets/img/bobrekreflusuameliyati7.jpeg","/assets/img/bobrekreflusuameliyati8.jpeg","/assets/img/bobrekreflusuameliyati9.jpeg","/assets/img/bobrekreflusuameliyati10.jpeg","/assets/img/bobrekreflusuameliyati11.jpeg","/assets/img/bobrekreflusuameliyati12.jpeg"]
 
 ---
-{% include youtubePlayer.html id=page.youtubeId %}
+
 
 
 

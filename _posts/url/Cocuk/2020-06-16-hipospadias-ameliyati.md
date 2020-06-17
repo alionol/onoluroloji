@@ -24,7 +24,7 @@ lightBoxImages4: ["/assets/img/hipospadiasameliyati20.jpeg","/assets/img/hipospa
 lightBoxImages5: ["/assets/img/cocukhipospadias1.jpeg","/assets/img/hipospadiasameliyati29.jpeg"]
 
 ---
-{% include youtubePlayer.html id=page.youtubeId %}
+
 
 
 

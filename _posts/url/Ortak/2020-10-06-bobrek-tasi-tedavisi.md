@@ -23,7 +23,7 @@ lightBoxImages2: ["/assets/img/BuyukBobrekTasi1.jpg"]
 lightBoxImages3: ["/assets/img/BobrekTasii1.jpg","/assets/img/BobrekTasiAmeliyati2.jpg","/assets/img/BobrekTasiAmeliyati3.jpg"]
 
 ---
-{% include youtubePlayer.html id=page.youtubeId %}
+
 
 
 

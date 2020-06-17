@@ -19,7 +19,7 @@ summary: "Vezikoüreteral reflü nedir? Vezikoüreteral reflü belirtileri? Vezi
 youtubeId: false
 
 ---
-{% include youtubePlayer.html id=page.youtubeId %}
+
 
 
 

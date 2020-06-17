@@ -18,7 +18,7 @@ thumbnail:
 summary: "Dünya tıp literatürüne girmiş ONOL ameliyat tekniğiyle Hidrosel ameliyatı nasıl yapılır? , Hidrosel nedir? , Hidrosel Teşhisi? , Hidrosel Belirtileri? , Hidrosel Ameliyat Teknikleri? ,  Hidrosel ameliyatının incelikleri? , Yetişkin hidroseli , çocuk hidroseli , Yetişkin hidroseli ve çocuk hidroseli ile alakalı geniş bilgi.."
 youtubeId: false
 ---
-{% include youtubePlayer.html id=page.youtubeId %}
+
 
 
 

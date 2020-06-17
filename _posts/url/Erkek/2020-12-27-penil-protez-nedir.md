@@ -18,7 +18,7 @@ thumbnail:
 summary: "Penil Protez Nedir?, Mutluluk Çubuğu nedir?, Penil Protez Ameliyatı Hangi Durumlarda Yapılır?, Penil Protez Ameliyatı Öncesi, Penil Protez Ameliyatı, Sertleşme sorunu, Mutluluk çubuğu, Sertleşme sorunu tedavisi"
 youtubeId: false
 ---
-{% include youtubePlayer.html id=page.youtubeId %}
+
 
 
 

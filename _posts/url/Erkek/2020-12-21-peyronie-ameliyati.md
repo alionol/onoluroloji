@@ -19,7 +19,7 @@ summary: "Peyronie Nedir? Penis Eğriliği Nedir? Peyronie İlaçla tedavi edili
 youtubeId: "BL0_TTziJ4M"
 lightBoxImages: ["/assets/img/peyronie1.jpeg","/assets/img/peyronie2.jpeg","/assets/img/peyronie3.jpeg"]
 ---
-{% include youtubePlayer.html id=page.youtubeId %}
+
 
 
 

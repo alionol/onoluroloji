@@ -18,7 +18,7 @@ thumbnail:
 summary: "Erkek kısırlığı nedir? , Erkek kısırlığının nedenleri? , Sperm kaynaklı kısırlık? , Testis kaynaklı kısırlık? ,  Ejakülasyon kaynaklı kısırlık? , Kısırlık teşhisi? , Kısırlık Tedavisi?, Klasik yöntemler , Döllemeyi kolaylaştırıcı yöntemler , tüp bebek , Sperm Bankası , Tese Yöntemi , Donör spermi"
 youtubeId: false
 ---
-{% include youtubePlayer.html id=page.youtubeId %}
+
 
 
 

@@ -18,7 +18,7 @@ thumbnail:
 summary: "Varikosel nedir?, Varikosel neden olur?, Varikosel nasıl anlaşılır?, Varikosel teşhisi? , Varikosel ne zaman ameliyat edilmeli? , Varikosel ameliyatı nedir?,  Varikosel ameliyatı nasıl yapılır?, Varikosel tedavisi?"
 youtubeId: false
 ---
-{% include youtubePlayer.html id=page.youtubeId %}
+
 
 
 

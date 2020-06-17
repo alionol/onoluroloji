@@ -19,7 +19,7 @@ summary: "Kadınlar neden idrar kaçırır? , Kadınlarda idrar boşaltma sistem
 youtubeId: "kMOsNug1Vj0"
 youtubeId2: "0y6DVkG3lFM"
 ---
-{% include youtubePlayer.html id=page.youtubeId %}
+
 
 ## Kadınlarda Boşaltım Sistemi
 

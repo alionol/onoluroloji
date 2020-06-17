@@ -18,7 +18,7 @@ thumbnail:
 summary: "Peyronie Nedir? Penis Eğriliği Nedir? Peyronie İlaçla tedavi edilir mi? Peyronie'nin sebebi? Peyronie belirtileri, Peyronie ameliyatları, Penis Eğriliği düzeltilmesi, penis eğriliği ameliyatı, mutluluk çubuğu ameliyatı, penil protez ameliyatı, Penis eğriliği nasıl düzeltilir, Penis eğriliği ameliyatı nasıl olur"
 youtubeId: false
 ---
-{% include youtubePlayer.html id=page.youtubeId %}
+
 
 
 

@@ -18,7 +18,7 @@ thumbnail:
 summary: "Libido cinsel arzu anlamına gelmektedir. Cinsel isteksizliğin birçok nedeni vardır. Genelde partnerler beraber muayene edilmelidir. Tedavi sebebe yöneliktir. Makalemizde cinsel isteksizlik detaylıca anlatılmaktadır."
 youtubeId: False
 ---
-{% include youtubePlayer.html id=page.youtubeId %}
+
 
 
 

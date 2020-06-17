@@ -18,7 +18,7 @@ thumbnail:
 summary: "İdrar Vücuttan Nasıl Atılır? , Yapay Sfinkter Nedir? ,  Yapay sfinkter Ameliyatı Hangi Durumlarda Yapılır?, Yapay Sfinkter Ameliyatı, Tam idrar kaçırma, Erkekte idrar kaçırma, İdrar tutamama, Yapay Sfinkter ücreti, Yapay Sfinkter ne zaman takılır?, Yapay Sfinkter nasıl takılır? , Yapay Sfinkter ameliyat öncesi , Yapay Sfinkter zararlı mı, Yapay Sfinkter ameliyat sonrası , Yapay Sfinkter ameliyatı nasıl yapılır ? "
 youtubeId: "Ax1JlzBuVKk"
 ---
-{% include youtubePlayer.html id=page.youtubeId %}
+
 
 
 

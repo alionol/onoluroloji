@@ -18,7 +18,7 @@ thumbnail:
 summary: "Erkekte idrar kaçırmanın birçok farklı tipi vardır. Yaşla beraber de olabildiği gibi geçirilen operasyonlara bağlı bir komplikasyon olarakta görülebilir. Erkekte idrar kaçırmanın tedavisi mümkündür."
 youtubeId: False
 ---
-{% include youtubePlayer.html id=page.youtubeId %}
+
 
 
 

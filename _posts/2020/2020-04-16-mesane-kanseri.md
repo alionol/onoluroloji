@@ -22,7 +22,7 @@ lightBoxImages2: ["/assets/img/IdrarKanaliGobekCikisi.jpeg"]
 lightBoxImages3: ["/assets/img/YapayMesane1.jpeg", "/assets/img/YapayMesane2.jpeg", "/assets/img/YapayMesane3.jpeg", "/assets/img/YapayMesane4.jpeg", "/assets/img/YapayMesane5.jpeg", "/assets/img/YapayMesane6.jpeg"]
 lightBoxImages4: ["/assets/img/KalinBagirsakYapayMesane1.jpeg", "/assets/img/KalinBagirsakYapayMesane2.jpeg", "/assets/img/KalinBagirsakYapayMesane3.jpeg", "/assets/img/KalinBagirsakYapayMesane4.jpeg", "/assets/img/KalinBagirsakYapayMesane5.jpeg", "/assets/img/KalinBagirsakYapayMesane6.jpeg", "/assets/img/KalinBagirsakYapayMesane7.jpeg", "/assets/img/KalinBagirsakYapayMesane8.jpeg", "/assets/img/KalinBagirsakYapayMesane9.jpeg"]
 ---
-{% include youtubePlayer.html id=page.youtubeId %}
+
 
 ## Mesane Nedir?
 Mesane (idrar torbası) karnın alt bölümünde balon şeklinde böbrekten atılan idrarı depolayan bir organdır. Mesane adalesi büyüyüp küçülerek içinde idrarı depolamayı sağlar. İnsanda bel bölgesinde, omurga kemiğinin yanlarında iki adet böbrek mevcuttur. Böbreğin içindeki minik tüpler kanı filtre ederek idrarı oluşturur ve idrar üreter yoluyla mesaneye taşınır. Mesanede depolanan idrar üretra denilen işeme kanalı ile dışarıya atılır.

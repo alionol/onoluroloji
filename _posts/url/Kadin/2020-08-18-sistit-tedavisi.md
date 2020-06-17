@@ -18,7 +18,7 @@ thumbnail:
 summary: "Sistit nedir? Sistit belirtileri ve nedenleri, Bakteriye bağlı olan sistit, Bakteriye bağlı olmayan sistit, Sistit teşhisi ve tedavisi, İnterstisyel Sistitin Teşhis ve Tedavisi."
 youtubeId: "tEyD5kvjO84"
 ---
-{% include youtubePlayer.html id=page.youtubeId %}
+
 
 
 

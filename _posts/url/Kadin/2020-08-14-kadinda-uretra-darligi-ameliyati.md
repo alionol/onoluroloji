@@ -19,7 +19,7 @@ summary: "Üretra (idrar kanalı) nedir? , Üretra darlıklarının nedenleri, �
 youtubeId: "0OuPfQbccEE"
 youtubeId2: "BW89QLwkGP0"
 ---
-{% include youtubePlayer.html id=page.youtubeId %}
+
 
 
 

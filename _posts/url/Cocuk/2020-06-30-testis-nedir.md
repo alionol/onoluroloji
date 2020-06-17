@@ -19,7 +19,7 @@ summary: "Tertis torsiyon (dönmesi) hakkında detaylı bilgiler... ,Testis nedi
 youtubeId: false
 
 ---
-{% include youtubePlayer.html id=page.youtubeId %}
+
 
 
 

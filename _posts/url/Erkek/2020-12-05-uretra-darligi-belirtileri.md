@@ -18,7 +18,7 @@ thumbnail:
 summary: "Erkek idrar yolu darlığı hakkında detaylı bilgi, Üretra nedir, Üretra darlıkları belirtileri ve Teşhisi, Üretra darlığının tedavisi, Üretra darlığı ameliyatı, Üretroplasti nedir?, Üretroplasti ameliyatı tipleri, Bulber üretroplasti, Penile üretoplasti, Bulbomembranöz üretroplasti, Üretra kopması, ön üretra daralması"
 youtubeId: false
 ---
-{% include youtubePlayer.html id=page.youtubeId %}
+
 
 
 
