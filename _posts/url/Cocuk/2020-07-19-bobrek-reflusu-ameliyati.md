@@ -19,7 +19,7 @@ summary: "Vezikoüreteral reflü nedir? Vezikoüreteral reflü belirtileri? Vezi
 youtubeId: "S_G9FGNd9Ps"
 youtubeId2: "Uhh9GikMsBs"
 youtubeId3: "0bXrMSSynC4"
-lightBoxImages: ["/assets/img/bobrekreflusuameliyati1.jpeg","/assets/img/bobrekreflusuameliyati2.jpeg","/assets/img/bobrekreflusuameliyati3.jpeg","/assets/img/bobrekreflusuameliyati4.jpeg","/assets/img/bobrekreflusuameliyati5.jpeg","/assets/img/bobrekreflusuameliyati6.jpeg","/assets/img/bobrekreflusuameliyati7.jpeg","/assets/img/bobrekreflusuameliyati8.jpeg","/assets/img/bobrekreflusuameliyati9.jpeg","/assets/img/bobrekreflusuameliyati10.jpeg","/assets/img/bobrekreflusuameliyati11.jpeg","/assets/img/bobrekreflusuameliyati12.jpeg"]
+lightBoxImages: ["/assets/img/bobrekreflusuameliyati1.jpg","/assets/img/bobrekreflusuameliyati2.jpg","/assets/img/bobrekreflusuameliyati3.jpg","/assets/img/bobrekreflusuameliyati4.jpg","/assets/img/bobrekreflusuameliyati5.jpg","/assets/img/bobrekreflusuameliyati6.jpg","/assets/img/bobrekreflusuameliyati7.jpg","/assets/img/bobrekreflusuameliyati8.jpg","/assets/img/bobrekreflusuameliyati9.jpg","/assets/img/bobrekreflusuameliyati10.jpg","/assets/img/bobrekreflusuameliyati11.jpg","/assets/img/bobrekreflusuameliyati12.jpg"]
 
 ---
 
