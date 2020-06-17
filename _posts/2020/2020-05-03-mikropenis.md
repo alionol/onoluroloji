@@ -4,7 +4,7 @@ layout: posts
 title: "Mikropenis"
 date: 2020-05-03 12:00:00 +0300
 published: true
-tags: ["mikropenis" , "küçük penis" , "mikropenis nedir" , "mikropenis nedeni" , "mikropenis neden olur" , "küçük penis nedeni" , "mikropenis sebebi" , "klinefelter sendromu" , "mikropenis tedavi" , "mikropenis çözüm" , "mikropenis hormon" ,"mikropenis ilaç" , "küçük penis tedavi" , "mikropenis ameliyat" , "mikropenis hormon" , "mikropenis teşhis" , "mikropenis kan tahlili" , "mikropenis genetik tahlili" , "mikropenis estetiği" , "yenidoğanda mikropenis" , "]
+tags: ["mikropenis", "küçük penis", "mikropenis nedir", "mikropenis nedeni", "mikropenis neden olur", "küçük penis nedeni", "mikropenis sebebi", "kleinefelter sendromu", "mikropenis tedavi", "mikropenis çözüm", "mikropenis hormon", "mikropenis ilaç", "küçük penis tedavi", "mikropenis ameliyat", "mikropenis hormon", "mikropenis teşhis", "mikropenis kan tahlili", "mikropenis genetik tahlili", "mikropenis estetiği", "yenidoğanda mikropenis"]
 category: "cocuk-hastaliklari"
 category_id: "child"
 category_title:

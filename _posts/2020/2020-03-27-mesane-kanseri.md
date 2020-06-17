@@ -19,8 +19,8 @@ summary: "Mesane Kanseri Nedir?  Kaç tip mesane kanseri vardır? Mesane kanseri
 youtubeId: "g2tmF0t8A0A"
 lightBoxImages: ["/assets/img/MesaneCikarilmasi1.jpeg", "/assets/img/MesaneCikarilmasi2.jpeg","/assets/img/MesaneCikarilmasi3.jpeg"]
 lightBoxImages2: ["/assets/img/IdrarKanaliGobekCikisi.jpeg"]
-lightBoxImages3: ["/assets/img/YapayMesane1.jpeg" , "/assets/img/YapayMesane2.jpeg" "/assets/img/YapayMesane3.jpeg" "/assets/img/YapayMesane4.jpeg" "/assets/img/YapayMesane5.jpeg" "/assets/img/YapayMesane6.jpeg"]
-lightBoxImages4: ["/assets/img/KalinBagirsakYapayMesane1.jpeg" , "/assets/img/KalinBagirsakYapayMesane2.jpeg" , "/assets/img/KalinBagirsakYapayMesane3.jpeg" , "/assets/img/KalinBagirsakYapayMesane4.jpeg" , "/assets/img/KalinBagirsakYapayMesane5.jpeg" , "/assets/img/KalinBagirsakYapayMesane6.jpeg" , "/assets/img/KalinBagirsakYapayMesane7.jpeg" , "/assets/img/KalinBagirsakYapayMesane8.jpeg" , "/assets/img/KalinBagirsakYapayMesane9.jpeg"]
+lightBoxImages3: ["/assets/img/YapayMesane1.jpeg", "/assets/img/YapayMesane2.jpeg", "/assets/img/YapayMesane3.jpeg", "/assets/img/YapayMesane4.jpeg", "/assets/img/YapayMesane5.jpeg", "/assets/img/YapayMesane6.jpeg"]
+lightBoxImages4: ["/assets/img/KalinBagirsakYapayMesane1.jpeg", "/assets/img/KalinBagirsakYapayMesane2.jpeg", "/assets/img/KalinBagirsakYapayMesane3.jpeg", "/assets/img/KalinBagirsakYapayMesane4.jpeg", "/assets/img/KalinBagirsakYapayMesane5.jpeg", "/assets/img/KalinBagirsakYapayMesane6.jpeg", "/assets/img/KalinBagirsakYapayMesane7.jpeg", "/assets/img/KalinBagirsakYapayMesane8.jpeg", "/assets/img/KalinBagirsakYapayMesane9.jpeg"]
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 

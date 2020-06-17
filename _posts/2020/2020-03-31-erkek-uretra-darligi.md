@@ -20,8 +20,8 @@ youtubeId: "VSb6L_xaZxA"
 youtubeId2: "oEhe1VlbKSI"
 youtubeId3: "BbyhFI50SEM"
 lightBoxImages: ["/assets/img/UretraDarligi1.jpeg","/assets/img/UretraDarligi2.jpeg" ,"/assets/img/UretraDarligi3.jpeg","/assets/img/UretraDarligi4.jpeg","/assets/img/UretraDarligi5.jpeg","/assets/img/UretraDarligi6.jpeg","/assets/img/UretraDarligi7.jpeg" ]
-lightBoxImages2: ["/assets/img/Uretroplasti.jpeg","/assets/img/Uretroplasti2.jpeg""/assets/img/Uretroplasti3.jpeg"]
-lightBoxImages3: ["/assets/img/idrarKanaliDarligi.jpeg","/assets/img/idrarKanaliDarligi2.jpeg""/assets/img/idrarKanaliDarligi3.jpeg","/assets/img/idrarKanaliDarligi4.jpeg"]
+lightBoxImages2: ["/assets/img/Uretroplasti.jpeg", "/assets/img/Uretroplasti2.jpeg", "/assets/img/Uretroplasti3.jpeg"]
+lightBoxImages3: ["/assets/img/idrarKanaliDarligi.jpeg", "/assets/img/idrarKanaliDarligi2.jpeg", "/assets/img/idrarKanaliDarligi3.jpeg", "/assets/img/idrarKanaliDarligi4.jpeg"]
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 

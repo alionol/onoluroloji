@@ -18,7 +18,7 @@ thumbnail:
 summary: "Tertis torsiyon (dönmesi) hakkında detaylı bilgiler... ,Testis nedir?, Testiste ağrı ve şişliklerin nedenleri? , Testis torsiyonu nedir?, Testis torsiyonu testis kanseriyle birlikte olur mu? , Kaç tip testis torsiyon vardır? , Testis torsiyonunda erken müdahale? , Testis torsiyonu teşhisi ve tedavisi, Testis torsiyonu ameliyatı  "
 youtubeId: "wCKn8w9s9CI"
 lightBoxImages: ["/assets/img/testistorsiyonuameliyati1.jpeg", "/assets/img/testistorsiyonuameliyati2.jpeg"]
-lightBoxImages2: ["/assets/img/testisdonmesiameliyati1.jpeg","/assets/img/testisdonmesiameliyati2.jpeg""/assets/img/testisdonmesiameliyati3.jpeg""/assets/img/testisdonmesiameliyati4.jpeg""/assets/img/testisdonmesiameliyati5.jpeg"]
+lightBoxImages2: ["/assets/img/testisdonmesiameliyati1.jpeg", "/assets/img/testisdonmesiameliyati2.jpeg", "/assets/img/testisdonmesiameliyati3.jpeg", "/assets/img/testisdonmesiameliyati4.jpeg", "/assets/img/testisdonmesiameliyati5.jpeg"]
 lightBoxImages3: ["/assets/img/inmemistestiskasikfitigi.jpeg","/assets/img/inmemistestiskasikfitigi1.jpeg","/assets/img/inmemistestiskasikfitigi2.jpeg","/assets/img/inmemistestiskasikfitigi3.jpeg","/assets/img/inmemistestiskasikfitigi4.jpeg","/assets/img/inmemistestiskasikfitigi5.jpeg"]
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
