@@ -346,13 +346,7 @@ blockquote {
 // POST
 
 .post {
-  h2,
-  h3,
-  h4,
-  h5,
-  h6 {
-    font-weight: $headings-font-weight-post;
-  }
+
   img {
     box-shadow: 2px 2px 6px #555555;
     margin-right: 20px;
@@ -386,6 +380,12 @@ blockquote {
       text-align: left;
       color: $brand;
       font-family: $font-family-sans-serif;
+      font-weight: $headings-font-weight-post;
+    }
+
+    h2 {
+      color: darken($brand, 20%);
+      margin-top: 10px;
     }
 
     p {
