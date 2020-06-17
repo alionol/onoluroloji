@@ -379,13 +379,13 @@ blockquote {
     h5,
     h6 {
       text-align: left;
-      color: $brand;
+      color: darken($brand, 2.5%);
       font-family: $font-family-serif;
       font-weight: $headings-font-weight-post;
     }
 
     h2 {
-      color: darken($brand, 7.5%);
+      color: darken($brand, 10%);
       margin-top: 12px;
     }
 
