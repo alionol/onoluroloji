@@ -17,7 +17,8 @@ thumbnail:
     webp: false
 summary: "Prostatın kanserleri hakkında detaylı bilgi , Prostat Nedir, Prostat Kanseri Nedir, Prostat kanseri teşhisi ve tedavisi, Prostat kanseri ameliyat teknikleri, Prostat kanseri belirtileri, Güncel tedavi yöntemleri, Aktif izlem nedir, Prostat kanseri komplikasyonları ve tedavileri, Lenf düğümlerinin çıkartılması."
 youtubeId: "swkHsd4n6bo"
-lightBoxImages: ["/assets/img/Prostate_Cancer_Stages.jpeg", "/assets/img/1200px-Rektal-digitale_Untersuchung.jpeg"]
+youtubeId2: "RW7fMM66P_k"
+lightBoxImages: ["/assets/img/ProstatKanseri1.jpeg","/assets/img/ProstatKanseri2.jpeg", "/assets/img/ProstatKanseri3.jpeg", "/assets/img/ProstatKanseri4.jpeg","/assets/img/ProstatKanseri5.jpeg"]
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
@@ -29,7 +30,10 @@ lightBoxImages: ["/assets/img/Prostate_Cancer_Stages.jpeg", "/assets/img/1200px-
  Prostat, idrar torbasının altında içinden idrar kanalının geçtiği bir organdır. Eksikliği hayati değildir. Üreme ve cinsel fonksiyon bakımından önemli bir organdır. İki nedenle yakınmalara neden olur. Kansere bağlı olan ve olmayan büyümeler. Bu yazımızda prostat kanserinden bahsedeceğiz. Prostatın iyi huylu büyümeleri için.
 
 ## Prostat Kanseri Nedir?
- Prostat kanseri prostatın kötü huylu büyümesidir. Prostat kanseri ameliyatında prostat, kabuğu ve meni keseleriyle bir bütün olarak çıkartılır. Aynı zamanda leğen kemiğinin her iki yanında bulunan, karın arka duvarında ana damarlar üzerindeki bütün lenf bezlerinin de çıkartılması şarttır (Radikal prostatektomi + Genişletilmiş lenf adenektomi). Prostat kanser ameliyatı usulüne uygun yapıldığında son derece kompleks, zor bir operasyondur. Günümüzde prostat kanser ameliyatına ilaveten genişletilmiş lenf düğümü ameliyatı yapılmıyorsa bu eksik yapılmış bir ameliyat olarak kabul edilir. Prostat kanserinin lenf düğümlerine sıçlayarak ne kadar yukarıya yayıldığı anlaşılamaz. Bu yüzden geride kanserli doku bırakmamak adına lenf düğümlerinin hepsi mutlaka çıkarılmalıdır.
+
+![Prostat Nedir](/assets/img/prostatkanserinedir.jpeg)
+
+Prostat kanseri prostatın kötü huylu büyümesidir. Prostat kanseri ameliyatında prostat, kabuğu ve meni keseleriyle bir bütün olarak çıkartılır. Aynı zamanda leğen kemiğinin her iki yanında bulunan, karın arka duvarında ana damarlar üzerindeki bütün lenf bezlerinin de çıkartılması şarttır (Radikal prostatektomi + Genişletilmiş lenf adenektomi). Prostat kanser ameliyatı usulüne uygun yapıldığında son derece kompleks, zor bir operasyondur. Günümüzde prostat kanser ameliyatına ilaveten genişletilmiş lenf düğümü ameliyatı yapılmıyorsa bu eksik yapılmış bir ameliyat olarak kabul edilir. Prostat kanserinin lenf düğümlerine sıçlayarak ne kadar yukarıya yayıldığı anlaşılamaz. Bu yüzden geride kanserli doku bırakmamak adına lenf düğümlerinin hepsi mutlaka çıkarılmalıdır.
 
 ### Prostat kanseri genetik mi?
 
@@ -40,7 +44,8 @@ Prostat kanseri şişmanlık vesaire gibi sebepleri olabilir. Zencilerde genetik
 Prostat kanseri başlangıç aşamasında belirti vermez. Prostat kanseri işeme belirtileri verdiğinde prostatın içinde yayılmış demektir. Bazen hiç belirti vermediği durumlarda bel ve sırt ağrısıyla kendini gösterir. Bu durumda ortopedistler tarafından ağrı sebebiyle film çekildiğinde kemiklere metastaz (sıçrama) yapmış olarak gözükür. Kemiklere yayıldığında tedavisi çok zordur. Bu yüzden mutlaka aile yatkınlığı olanlar için 40, olmayanlar için 50 yaşından sonra üroloğa muayene olmak gereklidir.
 
 ## Prostat Kanseri Teşhisi
-![Prostat Kanseri Teşhisi](/assets/img/1200px-Rektal-digitale_Untersuchung.jpeg){:.size1}
+
+![Prostat Kanseri Teşhisi](/assets/img/prostatkanseriteshisi.jpeg){:.size1}
 Prostat kanser teşhisi; kandan bakılan PSA testi, parmakla prostat muayene ve prostat biyopsi ile konur. Önce PSA testi ve parmakla muayene yapılır. Kanser şüphesi veren durumlarda biyopsi alınır. Bu 3 işlemden sonra ancak hasta prostat kanseridir veya değildir diyebiliriz ve kanserin ameliyat gerektirip gerektirmediğini anlayabiliriz. Her prostat kanseri tehlikeli değildir, ameliyat gerektirmez.
 
 ### Prostat Kanseri Parmakla Muayene
@@ -63,6 +68,7 @@ Prostatın orta ve yüksek risk grubu kanserleri mutlaka tedavi edilmelidir. Gle
 ## Prostat Kanseri Tedavisi
 
 ### 1. Prostat Kanserinde Aktif İzlem
+
 Aktif izlem prostat kanserinin ameliyatsız tedavisidir. Aktif izlem sadece prostatın düşük risk grubu kanserlerinde uygulanır. Üçer aylık periyodlarla PSA testi yapılır. PSA değerinde aşırı bir yükselme yok ise 1 yıl sonunda biyopsi tekrar edilir. Eğer PSA değerinde aşırı bir yükselme varsa biyopsi için 1 yıl beklenmez. Deneyimsiz bir patolog gerçekte düşük risk grubu kanserleri orta, orta risk grubu kanserleri ise düşük risk grubu kanser olarak rapor edebilir (patolojik inceleme yanılgısı). Aktif izlemde bir yıl sonra alınacak olan ikinci biyopsinin esas amacı, ilk biyopside olası hatalı patolojik yanılgıyı ortaya çıkarmaktır. Kesin tedavi şekli, ikinci biyopsinin patolojik değerlendirmesine göre konulur. Biz gerektiğinde ikinci biyopsi için klasik yöntemin yerine, multiparametrik emar görüntüleme biyopsisini öneriyoruz. Çünkü ikinci biyopsiyi kanser tanısında daha iyi sonuç veren emar görüntüleme eşliğinde yapmak faydalıdır. İlk biyopside düşük kanser grubunda olanların yüzde 10-15’i ikinci biyopside orta risk grubu kanser olarak rapor edilir. Bu önceki patolojik değerlendirme hatasındandır. Prostat kanserinde düşük risk grubu kanserler orta veya yüksek risk grubuna evrimleşmezler. Çalışmalar bu yüzde 10-15’lik hasta grubundaki bir yıllık gecikmenin hastaların yaşam beklentisine etki etmediğini göstermiştir (Filippou et al., EuropeanUrology 2015.06.011).
 
 Bazı aktif izlemli hastalar gerekmediği halde, kanser korkusu nedeniyle ameliyat için ısrarcı olmaktadır. Gereksiz yere yapılacak bu operasyonun hastanın cinsel performansını ve işeme fonksiyonunu bozabileceği anlatılmalıdır. Hastalar günümüzde daha iyi bilgilendirilmekte, hekimler güncel kılavuzlara göre eğitilmektedir. Eskiden gereksiz yere ameliyat edilen düşük risk grubu prostat kanserlerinin çoğu artık ameliyat edilmeden izlenmektedir (PIVOT; Prostat Cancer Intervationand Observation Trail).
@@ -77,13 +83,16 @@ Prostat kanseri ameliyatında 3 ayrı teknik vardır;
 
 **Robotik cerrahi**
 
- Üç ameliyatında uzun dönem sonuçları benzerdir. Başarı, teknikten çok cerrahın o yöntemdeki deneyimine bağlıdır. Geride kanser hücresi bırakılmaması prensibin+in (prostat, meni keseleri ve bütün lenf düğümleri) tam olarak uygulandığı 3 ameliyat yönteminden hangisi olursa olsun, ameliyat kanser cerrahisi kurallarına uygun yapılmış demektir. Ameliyatta yalnızca prostatın meni keseleri ve etraf dokuları ile beraber bir bütün olarak çıkartılması yeterli değildir. Mutlaka prostatın etrafından başlayan, her iki yanda leğen kemiği boyunca ve karın arka duvarlarındaki ana damarların (aorta-venakava) üzerindeki bütün lenf düğümlerinin ve kanallarının çıkartılması olan Genişletilmiş lenf adenektomi’nin de yapılması gerekir.
 
-​Bütün kanserlerde cerrahi prensip, geride hiçbir kanserli doku bırakmayacak şekilde, kanserin yayıldığı çevre doku ve organlarıyla beraber bir bütün halinde çıkarılmasıdır. Etraf doku ve organlara yayılmış vakalarda, penisin işlevinin korunması için geride kanserli doku bırakmak, hastanın yaşamını ciddi olarak tehlikeye sokacaktır. Şöyle ki penisi sertleştiren sinir ve damarlara yayılmış kanseri, penisin sertleşmesinde sorun oluşturmamak için korumak, büyük bir hatadır. Geride kanserli hücre bırakıldığı için hastanın yaşamını tam anlamıyla tehlikeye sokar.
+Üç ameliyatında uzun dönem sonuçları benzerdir. Başarı, teknikten çok cerrahın o yöntemdeki deneyimine bağlıdır. Geride kanser hücresi bırakılmaması prensibin+in (prostat, meni keseleri ve bütün lenf düğümleri) tam olarak uygulandığı 3 ameliyat yönteminden hangisi olursa olsun, ameliyat kanser cerrahisi kurallarına uygun yapılmış demektir. Ameliyatta yalnızca prostatın meni keseleri ve etraf dokuları ile beraber bir bütün olarak çıkartılması yeterli değildir. Mutlaka prostatın etrafından başlayan, her iki yanda leğen kemiği boyunca ve karın arka duvarlarındaki ana damarların (aorta-venakava) üzerindeki bütün lenf düğümlerinin ve kanallarının çıkartılması olan Genişletilmiş lenf adenektomi’nin de yapılması gerekir.
 
- Prostat kanseri organ içerisinde büyüdükten sonra etraf dokulara yayılmaya başlar. Penisi serleştiren sinir ve damarlara, meni keselerine ve göden bağırsağın dış yüzüne yayılır. Buna organı aşmış prostat kanserleri denir. Bu organı aşmış kanserlerde bile deneyimli ellerde yapılan kompleks bir ameliyat sayesinde hastalar kanserlerinden tamamen kurtulabilir.
+Bütün kanserlerde cerrahi prensip, geride hiçbir kanserli doku bırakmayacak şekilde, kanserin yayıldığı çevre doku ve organlarıyla beraber bir bütün halinde çıkarılmasıdır. Etraf doku ve organlara yayılmış vakalarda, penisin işlevinin korunması için geride kanserli doku bırakmak, hastanın yaşamını ciddi olarak tehlikeye sokacaktır. Şöyle ki penisi sertleştiren sinir ve damarlara yayılmış kanseri, penisin sertleşmesinde sorun oluşturmamak için korumak, büyük bir hatadır. Geride kanserli hücre bırakıldığı için hastanın yaşamını tam anlamıyla tehlikeye sokar.
+
+Prostat kanseri organ içerisinde büyüdükten sonra etraf dokulara yayılmaya başlar. Penisi serleştiren sinir ve damarlara, meni keselerine ve göden bağırsağın dış yüzüne yayılır. Buna organı aşmış prostat kanserleri denir. Bu organı aşmış kanserlerde bile deneyimli ellerde yapılan kompleks bir ameliyat sayesinde hastalar kanserlerinden tamamen kurtulabilir.
 
 #### Prostat kanseri ameliyatında lenf düğümleri neden çıkarılmalıdır?
+
+{% include lightbox.html paths=page.lightBoxImages %}
 
 Prostatın orta ve yüksek risk grubu kanserleri, yayılımda aritmetik sıra takip eder. Önce lenf düğümlerine, sonra kemiklere ve diğer organlara yayılır. Prostat kanser hücresi agresif ise, organı aşmasa bile, lenf kanalları yoluyla lenf düğümlerine atlayabilir. Prostat kanseri önce lenf düğümlerine yayıldığı için prostat kanserleri ameliyatında leğen kemiği yan ve karın arka duvarındaki bütün lenf düğümlerinin çıkartılması son derece önemlidir (Genişletilmiş Lenfadenektomi). Hiç bir görüntüleme yöntemi kanserin hangi lenf düğümlerine kadar yayıldığını göstermez.
 
@@ -111,9 +120,9 @@ Göbek altında orta hatta 7 - 8 cm’lik bir kesi ile hiç adale kesmeden direk
 
 Robotik cerrahideki avantajları deneyimli bir cerrah robot kolları yerine kendi ellerini kullanarak da açık cerrahide uygulayabilir. 5-6 düzlemde bilek hareketleri, kesi yapıp dikiş atabilir. Dikey çalışma yöntemi ile küçük bir kesi kullanarak dar alanda ameliyat yapabilir. Destekli bilek hareketleri teknikleriyle titreme aynı robotik cerrahide olduğu gibi tamamen kontrol edilebilir. Alet işler el övünür. Elinde bir alet olduğu unutulmamalıdır. El, ameliyat esnasında teknolojik alet ihtiyacını azaltır. El ve beyin arasındaki koordinasyonda dokunma duygusunun önemi açıktır. İnce el hareketleri ve dikiş tekniği ile kanamalar küçük damarlarda bile kolayca kontrol altına alınabilir. (Dikme ve bağlamada dokuyu hiç çekmeden, germeden, dikiş hatlarına güç aksettirmeden, paralel düzlemde manipülasyon). Bizim uyguladığımız açık cerrahi tekniği ile hastalar 1-3 gün arası hastaneden taburcu edilebilir. Tamamen karın dışı çalışıldığı için ameliyat sonu iyileşme süratlidir. Açık cerrahide genişletilmiş lenf düğümlerinin çıkarılması daha kolaydır.
 
-  **Dezavantajı;**
+**Dezavantajı;**
 
- Dezavantajı 6-7 cm’lik göbek altında ameliyat izi kalmasıdır. Prostat gibi derindeki organlara ulaşmak ve dikiş atmak daha zordur bu yüzden cerrahın çok deneyimli olması gereklidir. Prostatı çıkardıktan sonra işeme kanalını mesaneye yeniden dikmek zor bir işlemdir.
+Dezavantajı 6-7 cm’lik göbek altında ameliyat izi kalmasıdır. Prostat gibi derindeki organlara ulaşmak ve dikiş atmak daha zordur bu yüzden cerrahın çok deneyimli olması gereklidir. Prostatı çıkardıktan sonra işeme kanalını mesaneye yeniden dikmek zor bir işlemdir.
 
 ### 3. Prostat Kanserinde Radyoterapi
 Prostat kanserinde radyoterapi iki şekilde uygulanır.
@@ -127,6 +136,7 @@ Prostat kanseri ameliyatı için başvuran hastalara cerrahi tedavi yerine radyo
 Yüksek riskli kanserlerde ameliyat sonrası geride kanser kaldığı veya daha sonra kanserin tekrar ettiği durumlarda ek olarak uygulanır. Radyoterapinin etkisi hormon (TAB) uygulaması ile artırılır.
 
 ## Prostat Kanseri Ameliyatı Yan Etkileri
+
 Kanser cerrahisi prensiplerine uygun olarak yapılan kapsamlı bir operasyonun istenmeyen bazı komplikasyonları (yan etkileri) olabilir. Bu komplikasyonların bazıları zamanla geçebilir. Geçmediği takdirde de tedavileri mümkündür. Hasta ve yakınları bu komplikasyonlar hakkında bilgilendirilmeli, ameliyat sonu izlenecek  yöntemler anlatılmalıdır.
 
 
@@ -146,4 +156,4 @@ Yukarıda bahsedilen tüm komplikasyonların onarımı tarafımızdan başarıyl
 
 ## Prostatın ve Lenf Düğümlerinin Çıkarılması Operasyonu
 
-{% include lightbox.html paths=page.lightBoxImages %}
+{% include youtubePlayer.html id=page.youtubeId2 %}
