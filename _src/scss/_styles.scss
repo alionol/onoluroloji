@@ -391,8 +391,8 @@ blockquote {
 
     p {
       font-family: $font-family-sans-serif;
-      text-align: justify;
-      hyphens: auto;
+      text-align: left;
+      //hyphens: auto;
       @media only all and (min-width: map-get($grid-breakpoints, lg)) {
         font-size: 1em;
       }
