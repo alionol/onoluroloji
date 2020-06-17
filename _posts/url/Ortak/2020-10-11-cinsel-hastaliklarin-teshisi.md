@@ -20,8 +20,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 Birçok cinsel hastalığa doktor tarafından yapılan muayene ile rahatlıkla tanı konabilmekte ve tedavi planlanabilmektedir. Erkek hastalara fizik muayene uygulanır ve hastalık belirtileri incelenir. Kadın hastaların muayene sırasında vajina içi ve rahim ağzına bakılır. Fakat bazı cinsel hastalıklar herhangi bir semptom göstermediğinden idrar tahlili ve kan tahlili yapılarak tanı konabilir. Merkezimizde cinsel yolla bulaşan hastalıklar paneli sayesinde belirti veren ve vermeyen 16 hastalığın tanısını kan ve idrar tahlili yöntemlerini kullanarak koyabilmekteyiz. PCR adı verilen bu panel, cinsel hastalıklara tanı koymakta rahatlık sağlayan bir yöntemdir. Semptom göstermeyen cinsel hastalıklar da bu panel yardımıyla belirlenebilir. Kan testinin uygulanması bilhassa Sifilis gibi hastalıklarda önemlidir. Panel testler sayesinde hastalıklar kesin olarak teşhis edilir.
 

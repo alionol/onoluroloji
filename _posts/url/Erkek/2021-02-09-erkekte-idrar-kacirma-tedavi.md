@@ -20,8 +20,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 Birçok nedenle idrar kaçırma yaşanabilir. İdrar kaçırmanın tedavisinin verimli ve doğru bir şekilde planlanabilmesi için ilk olarak idrar kaçırmanın nedeni ve tipi bilinmelidir.
 

@@ -20,8 +20,8 @@ youtubeId: "VrbQemKs-io"
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 ## Cinsel Hastalık Nedir?
 

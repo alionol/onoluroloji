@@ -20,8 +20,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 Vücut içinde biriken atık maddeler ve fazla su böbrekler aracılığıyla filtrelenir ve idrarı oluşturur. Böbreklerde oluşum gösteren idrar, mesane dediğimiz idrar torbasında birikmeye başlar. İdrar mesane içinde belli bir seviyede dolum gösterdiğinde beyin uyarılır. İdrar kanalı aracılığıyla vücuttan dışarı atılır. İdrar kanalı içinde iki adet sfinkter denilen mekanizma bulunmaktadır. Bu mekanizmaların görevi idrarın kontrol edilmesini yani tutulmasını sağlamaktır. Mesane çıkışında konumlanan birinci idrar tutucu mekanizma otomatik kontrol sağlar. Bir diğer deyişle istemsizdir. Bu mekanizma ile vücut; idrarı, kendi kontrolü altında tutabilir. İşeme bittikten sonra bu mekanizma otomatik olarak kapanmaktadır. Aşağıda konumlanan idrar tutucu mekanizmanın görevi ise bireyin kendi iradesi ile idrarını tutabilmesini sağlamaktır. İstemli bir şekilde kişinin kendini tutarak idrarını kontrol edebilmesini sağlar. Özetle bu mekanizmalardan ilki irade dışında kendi kendine kapanmaktadır. İkincisi ise bireyin kendi isteği doğrultusunda açılıp kapanma göstermektedir.
 

@@ -21,8 +21,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 ![Böbrek Taşı Nedir](/assets/img/bobrektasinedir.jpeg)
 Böbrek taşı hastalığı üroloji alanında ağrı ile karakterizedir. Hastanın yaşadığı taş ağrısı çok yüksektir. Çoğu böbrek taşının müdahale gerekmeksizin kendiliğinden düşer. Konuyla alakalı yapılan araştırmalar sonucunda, taşın oluşumuna neden olan faktörler ve oluşumun engellenmesi için uygulanacak tedbirler bilinmektedir.

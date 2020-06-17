@@ -20,8 +20,8 @@ youtubeId: "Ax1JlzBuVKk"
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 ## Yapay Sfinkter Ameliyatı Öncesi
 

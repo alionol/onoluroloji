@@ -20,8 +20,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 
 •	Mesane kanseri ameliyatı sonrasında meydana gelen komplikasyonlardan biri, idrar kanalının bağırsak bölümüne eklenmesinden kaynaklanan idrar kanalı daralmalarıdır.

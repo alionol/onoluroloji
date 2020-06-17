@@ -20,8 +20,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 Mesane kanseri sıklıkla idrarda kan görülmesiyle belirti verir. Tümör damarları çatlattığı için kanama yaratır ve idrardan bu şekilde kan gelir. İdrarda kan görüldüğünde mutlaka sebebinin mesane kanseri olup olmadığının saptanması gereklidir. Mesane kanserinin en büyük risk faktörü sigaradır. Orta yaş sonrası kişi sigarayı bıraktıktan birkaç yıl sonra dahi idrarda görülen kanda mesane kanserinden şüphe edilebilir. Sürekli idrara çıkılması mesane kanserinin belirtilerindendir. İşeme sırasında hissedilen ağrı ile beraber sırtın aşağı bölümünde hissedilen ağrı da mesane kanserinin diğer belirtilerindendir. Hastanın işerken ağrı hissetmesi farklı nedenlere de bağlı olabilir bu sebeple ağrı görülmesi tek başına mesane kanseri belirtisi sayılmaz. Belirtiler sebebiyle ilgili hekim mesane kanserinden şüphe edip teşhis ile ilgili işlemlere başlar. Mesane kanserinin teşhisi için bazı görüntüleme yöntemleri kullanılır.
 

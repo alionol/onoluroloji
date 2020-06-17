@@ -21,8 +21,8 @@ lightBoxImages: ["/assets/img/MesaneCikarilmasi1.jpeg", "/assets/img/MesaneCikar
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 ##	Mesane Kanseri Kapalı Ameliyat
 

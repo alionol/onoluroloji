@@ -20,8 +20,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 Kadınlarda idrar kaçırmanın bazı tipleri vardır. Hastada hangi tip idrar kaçırmanın olduğunun saptanması tedavi planlamasını belirler.
 

@@ -20,8 +20,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 
 •	Fistül dediğimiz vücutta olmaması gereken kanal en fazla histerektomi adı verilen rahim ameliyatı komplikasyonu olarak görülür. Rahim alınırken mesane ve üreter hasar görür. Bu hasar vücutta olmayan bir yol oluşturur. İdrar bu yol içerisinden geçerek vajinadan akar.

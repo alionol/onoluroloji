@@ -21,8 +21,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 Böbrek reflüsü teşhisi için hastanın idrar analizi gerçekleştirilir. Mesane, böbrek ve idrar yolu ultrasonografi ile görüntülenir. Buralardan alınan sonuçlar ile organlarda olabilecek yapısal bozukluklar belli bir oranda anlaşılır.
 

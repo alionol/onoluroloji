@@ -20,8 +20,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 ![Mutluluk Çubuğu](/assets/img/penilprotez.jpeg)
 Çoğu erkek yaşamının bir kısmında sertleşme kusuru sorunu yaşamaktadır. Sertleşme problemi, modern tıp sayesinde cerrahi müdahaleye gerek duyulmadan tedavi edilebilmektedir. Cerrahi müdahale olmadan yapılan tedavilerde başarı sağlanamazsa uygulanması gereken tedavi yöntemi penil protez adını verdiğimiz mutluluk çubuğu operasyonudur. Penil protez ameliyatı sertleşme probleminin tedavisinde kesin sonuç vermektedir. Halk dilinde mutluluk çubuğu olarak anılan penil protez operasyonu son derece tecrübe ve teknik gerektiren bir operasyondur.

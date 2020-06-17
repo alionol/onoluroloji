@@ -21,8 +21,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 Testis torsiyonunun tespiti için detaylı bir sorgulama yapılması gerekir. Testisin torbasının içinde testisin etrafını saran bir zar vardır.  Testisi saran bu zardaki torsiyon(dönme) aniden başlayan şiddetli ağrı ile hastayı gece uykusundan uyandırarak belirti verir. Testis torsiyonu durumunda testis torbasında ve kasıkta şişlik görülür. Yeni doğan bebeklerde ise testiste anormal bir kızarıklık ile kendini gösterir. Testisin darbe alması sonucu oluşan travma veya spor aktiviteleri sırasında ortaya çıkabilir. Bir sebebe bağlı olmadan da oluşum gösterebilir. 3 hastadan 1’inde bulantı ve kusma görülebilir. Bulantı ve kusma; testis torsiyonu teşhisi için önem taşıyan belirtilerdir. Testis torsiyonu ürolojinin acil müdahale gerektiren hastalıklarından biridir. Eğer acil müdahale edilmez ise testis kendi etrafında döndüğü için kansız kalır ve bu da testisin çürümesine sebebiyet verir. Belirtilerin erken fark edilip, doğru teşhis konulduğu durumlarda, testisteki dönme çevrilerek normal haline getirilir. Bu sayede testisin çürümesine bağlı olarak yaşanabilecek kısırlık gibi sorunların önüne geçilmiş olunur.
 

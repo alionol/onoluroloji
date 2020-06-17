@@ -20,8 +20,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 ![Prostat Kanseri Teşhisi](/assets/img/prostatkanseriteshisi.jpeg)
 Kandan yapılan PSA testi, prostat biyopsisi ya da parmakla yapılan fiziksel muayene ile prostat kanserine tanı konulmaktadır. Hastaya ilk olarak fiziksel muayene ve PSA testi yapılır. Kanser şüphesi uyandıran vakalarda biyopsi istenir. Bu 3 işlem yapıldıktan sonra prostat kanserine kesin tanı konur ve cerrahiye ihtiyaç duyulup duyulmadığına karar verilir. Bütün prostat kanserleri risk teşkil etmez, operasyona gerek kalmayabilir.

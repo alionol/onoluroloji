@@ -20,8 +20,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 Mesane kanserinin meydana gelmesinde en etkili faktör tütün kullanımıdır. Yaşa bağlı olarakta oluşan mesane kanserinde kalıtsal faktörler de önemli bir rol oynar. Boya imalatı işi ile uğraşan bireyler de mesane kanserinde risk grubu içindedir. Mesane kanseri oluşumuna bağlı olan faktörlerden biri de leğen kemiği içinde bulunan organlara uygulanan radyoterapidir. Bir takım kanser tedavilerinde kullanılan ilaçlar da mesane kanserine sebep olabilir.
 

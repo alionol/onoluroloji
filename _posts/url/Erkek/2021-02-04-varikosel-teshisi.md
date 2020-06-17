@@ -20,8 +20,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 Varikoselin teşhisi çoğu zaman basittir. Çünkü genellikle testis üzerinde kendini belli eder. Kendini tam olarak belli etmeyen varikoseller de ise Valsalva muayene tekniği kullanılarak teşhis konulur. Bu teknik genişlemiş damarların hissedilmesine yardımcı olur. Hastaya yapılan fizik muayene ile varikosel rahatlıkla teşhis edilebilmektedir. Varikosel bazı durumlarda el ile de hissedilebilmektedir. Genellikle semptom göstermez ve hastada yakınmalara neden olmaz. Bu yüzden tesadüfi olarak teşhis konulması yaygındır. Çok seyrek oranda ağrı hissi oluşturabilir. Varikosel yaygın bir hastalıktır ancak sadece yüzde 5-6 oranında cerrahi müdahaleye ihtiyaç duyulur. Gerek olmadığı halde operasyon yapılması doğru değildir. Varikosel, testis kanseri ile aynı semptomlara neden olabilir. Bu nedenle ultrasonografi varikoselin ayırıcı tanısında kullanılır. Ultrasonografi görüntüleme yöntemi sayesinde varikosel, testis kanseri ile karışmaz.
 

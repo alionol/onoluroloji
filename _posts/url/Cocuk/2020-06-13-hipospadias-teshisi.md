@@ -20,8 +20,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 Hipospadias hastalarının penislerinin alt taraflarında deri gelişim göstermemiştir. Bu deri gelişim göstermediği için hastalık, halk arasında doğuştan sünnetli anlamında peygamber sünneti olarak anılır. Hipospadias teşhisi bebekler doğduktan hemen sonra basit bir fizik muayene ile yapılır. Hipospadias vakalarında penisin ucundaki idrar deliği normale göre daha aşağıda bulunmaktadır. Tıp dilinde Glans adı verilen penis başı, alt tarafına doğru ayrık görüntüde olabilir. Hipospadias hastalarının penisleri ereksiyon halinde iken eğrilik derercesi tam olarak belli olur. Bebeklerin ve çocukların penisleri uyku halinde sertleşip iner. Aile, penisinde eğrilik olan çocuğun uyurken penisi sertleştiği anda fotoğraf çekmesi önerilir. Bu sayede hekimler için; penisteki eğriliğin hangi derecede olduğunu saptamak daha kolaydır. Eğriliğin derecesi ve idrar çıkış deliğinin bölgesi hipospadias ameliyatının tekniğini belirler. Hipospadias eğriliği bir çok bakımdan hasta için olumsuz sonuçlara yol açar. Bu çocuklar ileriki hayatlarında vajinaya girmede problem yaşayacağı için cinsel sıkıntılar çekerler. Eğrilik aynı zamanda sperm aktarımda problem yaratabileceği için kısırlığa neden olabilir. Muayene esnasında çocukların testislerinin kontrol edilmesi de çok önemlidir. Çünkü hipospadias hastalığı ile birlikte inmemiş testis hastalığı da görülebilir. İnmemiş testis; testislerin, testis torbasına inmeyip daha yukarıda bir noktada takıldığı durumdur. Tecrübeli bir hekim fizik muayene esnasında çocukta inmemiş testis olup olmadığını teşhis eder.
 

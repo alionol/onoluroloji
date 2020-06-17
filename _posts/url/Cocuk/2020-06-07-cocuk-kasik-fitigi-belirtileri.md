@@ -21,8 +21,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 Kasık bölgesinde ağrılı bir şişlik, fıtık bölgesinde sıkışmış ve boğulmuş bir bağırsağın habercisi olabilir. Bu durumda olan çocuk huysuz ve huzursuz olur. Devamlı olarak ağlar, yemek ve içmek istemez. Kasık bölgesindeki fıtığın yarattığı şişlikte ağrı, ödem ve sertlik görülebilir. Bağırsak fıtık bölgesinden çıkıp sonrasında boğulmuş ise cilt üzerindeki şişlik sertleşir ve daha şiddetli ağrı görülür. Bu durum çocukta bulantı, kusma ve iştahsızlık yaratır. Ciltte şişliğin olduğu bölgede ödem, kızarıklık ve renk bozukluğuna rastlanır. Kız çocuklarında ise; bağırsaklara ek olarak çocuğun Fallop tüpleri ve yumurtalıkları da fıtık kesesi içine girebilir.
 

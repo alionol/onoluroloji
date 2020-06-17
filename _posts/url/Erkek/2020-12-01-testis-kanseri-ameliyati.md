@@ -20,8 +20,8 @@ youtubeId: "FECjoWzONjc"
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 Multidisipliner bir tedavi gerektiren testis kanserinde; cerrahi müdahale, radyoterapi ve kemoterapi uygulanır.
 

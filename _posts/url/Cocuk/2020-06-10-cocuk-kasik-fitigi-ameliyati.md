@@ -21,8 +21,8 @@ lightBoxImages: ["/assets/img/inmemistestiskasikfitigi.jpeg","/assets/img/inmemi
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 Kasık bölgesinde yapılan 1-2 cm’lik bir kesi sayesinde kasık kanalına girilir. Kasık kanalına girdikten sonra fıtık kesesi bulunur ve bağlanır. Bu bağlama işlemi sayesinde karın boşluğu ve testis torbaları arasındaki ilişki kapatılır. Bağırsaklar, aradaki ilişki kapatıldığı için kasık kanalına giremezler. Fıtığın oluştuğu zayıf nokta geniş ise mutlaka kasık kanalının tabanı örülür ve kuvvetlendirilir. Kasık fıtığı ameliyatları kız çocukları için daha hassastır. Çünkü kasık fıtığı kesesinin içinde överler ve fallop tüpü olabilir. Bu organların zarar görmemesi lazımdır.
 

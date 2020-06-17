@@ -20,8 +20,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 ![Penis Anatomisi](/assets/img/penisanotimisi.jpeg)
 Penisin 2 görevi vardır. Penis idrarı dışarıya atar ve cinsel birleşmeyi sağlar. Resimde görüldüğü gibi penis eninden kesildiğinde; 2 tane yan yana olan süngersi çubuklar görülür. Bu süngersi 2 çubuk korpus kavernozum olarak adlandırılır. Sertleşme esnasında bu süngerlerin içine kan dolar. Böylece sertleşme sağlanır. Bu 2 çubuğun altında ise içinden idrar geçen idrar kanalı vardır. İdrar kanalına tıp dilinde üretra denir. Üretra dışarısında bir tabaka tarafından örtülmüştür (korpus spongiozum). 2 tane sertleşmeyi gerçekleştiren çubuk ve idrar kanalı etrafında 4 farklı doku tabakası tarafından çevrelenmiştir. Çocuk anne karnındayken, bu katmanlardan biri veya daha fazlası gelişim göstermediğinde hipospadias meydana gelir. Bu kısımdaki dokular çok gelişmediği için penis, gelişmeyen tarafa doğru eğrilir. Eğriliğin derecesi ise katmanların gelişimine bağlıdır. Bu doku katmanları doğumsal olarak ne kadar gelişmemiş ise penisteki eğrilik o kadar fazladır.

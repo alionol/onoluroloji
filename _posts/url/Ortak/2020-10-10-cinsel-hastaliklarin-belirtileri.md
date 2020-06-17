@@ -20,8 +20,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 Cinsel hastalıklar türüne göre farklı sürelerde semptom göstermektedir. Bazı hastalıklar 2-3 gün içinde belirti verebilirken bazı hastalıklar için bu süre 3 ay veya daha fazladır. İşeme esnasında ağrı hissi, devamlı idrara çıkma, işeme esnasında yanma hissi, erkek veya kadın cinsel organında siğil, kızarıklık, küçük kabarıklıklar ve yara oluşması cinsel hastalıkların semptomlarındandır. Vajinadan gelen renki ve hoş olmayan kokuda ki akıntılar da cinsel hastalıklarda sık görülen semptomlardan biridir. Erkek ve kadın cinsel organında kaşıntı oluşabilir. Birtakım cinsel hastalıkların belirtisi ise kasık bezlerinde meydana gelen şişliktir. Kadınlarda nedeni bilinmeyen düşük doğumlar cinsel hastalıklara bağlı olarak yaşanabilir. Sifiliz adı verilen cinsel hastalık gibi direk kan yoluyla yayılan ve semptom göstermeyen türler de vardır. Bel soğukluğu ve benzeri cinsel hastalıklar hemen semptom gösterirler. Hastada görülen semptomların doğru bir şekilde incelenmesi ve doğru tanının konması, uygulanacak tedavinin planlanması açısından ilk sırada gelir. Yalnızca sürtünme ile geçebilen uyuz gibi hastalıklar da vardır. Uyuz rahatsızlığının en belirgin semptomu hastanın vücudunda beliren lezyonlardır. Uyuz hastalığında parazit hastanın deri altına ulaşır ve buna karşılık hastada kaşınma ve iltihaplanma gibi durumlar ortaya çıkar. Birtakım cinsel hastalıklara tedavi uygulanmaması durumunda erkeklerde kısırlık meydana gelebilmektedir.
 

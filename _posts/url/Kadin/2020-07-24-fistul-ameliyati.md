@@ -21,8 +21,8 @@ lightBoxImages: ["/assets/img/Fistul.jpeg", "/assets/img/Fistul2.jpeg","/assets/
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 Rekonstrüktif (yeniden yapılandırma) ürolojinin çalışma alanlarından biri de ürovajinal fistüllerin ameliyatlarıdır. Zorlu doğum kaynaklı ya da öncesinde başarı ile sonuçlanamamış fistül ameliyatı olan hastalara yapılan operasyonlar daha fazla deneyim isteyen ameliyatlardır. Fistül cerrahisi ile meşgul olan ürologlar, konuyla alakalı tüm teknikler hakkında güncel bilgi ve tecrübe sahibi olmalıdırlar.
 

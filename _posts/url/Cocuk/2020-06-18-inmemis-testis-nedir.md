@@ -21,8 +21,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 ![İnmemiş Testis](/assets/img/inmemistestisnedir.jpeg)
 Bebek henüz anne karnında gelişirken iken testis oluşumu karnın arka kısmında başlar. Daha sonra zamanla aşağıya inmeye başlar.  Doğumdan önce ise testisler iyice aşağıya inerek kasık kanalını aşar ve testis torbasına yerleşir. Testisler vücudun yukarı bölümde oluştup testis torbasına indiği için testisin damarları ve sinirleri yukarıdan testis torbasına kadar uzanır. Testisin yukarıdan aşağıya doğru olan bu yolculuğunda bir noktada testis takılırsa testis torbalarına inmemiş olur. Dışarıdan muayenede testis, testis torbalarının içinde görünmez. Bu durum inmemiş testis olarak adlandırılır. Yeni doğmuş erkek bebeklerin yüzde 2’sinde testislerin henüz yerlerine inmeme durumu görülür. Prematüre bebeklerde ise testislerin skrotum içine inmemesi durumu daha yüksek oranda görülür.  Doğumdan sonra 6-8 ay testis inmeye devam eder. Sekizinci aydan sonra testislerin inmemiş olma oranı yüzde 1’dir. Ailede inmemiş testis görülmüşse daha dikkatli olunması lazımdır. Çünkü genetik yatkınlık mevcuttur. İkiz bebeklerin 1’inde inmemiş testis hastalığı varsa diğer ikize dikkat edilmesi lazımdırdır. Yüzde 10 oranında kardeş ikizde inmemiş testis görülme ihtimali vardır.

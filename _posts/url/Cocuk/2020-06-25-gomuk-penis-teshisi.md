@@ -20,8 +20,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 Gömük Penis, Küçük penis (mikro penis) adını verdiğimiz, penis boyutunun kısa olduğu hastalıkla karışabilir. Teşhiste dikkatli olunması gerekmektedir. Üroloji uzmanları ve çocuk cerrahlarının muayenesi ile teşhis koyulur.
 

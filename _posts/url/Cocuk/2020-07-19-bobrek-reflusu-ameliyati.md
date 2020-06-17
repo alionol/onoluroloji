@@ -24,8 +24,8 @@ lightBoxImages: ["/assets/img/bobrekreflusuameliyati1.jpeg","/assets/img/bobrekr
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 Böbrek reflüsü tedavisi, derecelerine göre belirlenir. Düşük ve orta dereceli böbrek reflülerde; hastanın büyümesine bağlı olarak check-valve mekanizmasının gelişim göstericeği göz önünde bulundurularak bekle-gör denilen tedavi uygulanır. Bu tedavide ameliyat uygulanmaz. Derecesi yüksek olan böbrek reflülerinde ise ameliyat şarttır.
 

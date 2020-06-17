@@ -20,8 +20,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 Testis oluşumu, bebek henüz anne karnındayken böbreklerin bulunduğu yerde başlar. Bebeğin testisleri hamileliğin yedinci ayından sonra kasık bölgesine inmeye başlar. Kasık kanalında periton adını verdiğimiz bir karın zarı bulunmaktadır. Testisler kasık bölgesine indikten sonra, kasık kanalında ki periton zarını iterek testis torbasına inerler. Testisler, testis torbasına indikten sonra periton zarı kapanmaya başlar. Periton zarı kapanırken oluşan zayıf bir bölge fıtık bölgesini oluşturur. Periton zarı karın içi basıncın artmasıyla zayıf bölgeden genişler ve fıtık kesesi oluşur. Bağırsak ve omentum gibi organlar, bu zayıf bölgedeki periton zarının içine dolarak kasık bölgesine ve testis torbasına ilerleyebilir.
 

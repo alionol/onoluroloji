@@ -20,8 +20,8 @@ youtubeId: False
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 ## Erkeklerde İdrar Kaçırma Nedir?
 

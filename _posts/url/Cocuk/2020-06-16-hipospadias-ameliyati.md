@@ -26,8 +26,8 @@ lightBoxImages5: ["/assets/img/cocukhipospadias1.jpeg","/assets/img/hipospadiasa
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 Karmaşık ameliyatlarda bilinmesi gereken genel bir kural vardır. Yapılan ilk ameliyat başarı oranın en yüksek olabileceği ameliyattır. Çünkü ilk ameliyatta dokularda bütünlük vardır. Epitel dediğimiz cilt dokusu ve karaciğerdeki yaralanmaların haricinde, olabilecek bütün yaralanmalar vücut  tarafından üretilen bir dolgu maddesiyle iyileşme gösterirler. Bu dolgu maddesine nebde dokusu adı verilir. Başarısız geçen ilk ameliyatta nebde dokusu oluşur. Sonraki ameliyattaki durum zorlaşır çünkü eğriliğin düzelmesine ek olarak, bu kötü nebde dokusunun da çıkarılması gerekmektedir. İlk müdahale sonucu başarı yakalanmayan vakalar daha sonra bir kaç ameliyata ihtiyaç duyar. Ve bu tip vakarda hekim çok deneyimli olması gerekmektedir. Bu anlamda ilk cerrahi müdahale önem taşımaktadır. Cerrahi operasyonlarda başarı yakalanması için, bu konuda tecrübe sahibi hekimlere başvurulmalıdır.
 

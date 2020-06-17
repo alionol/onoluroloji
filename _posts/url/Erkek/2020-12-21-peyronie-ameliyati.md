@@ -21,8 +21,8 @@ lightBoxImages: ["/assets/img/peyronie1.jpeg","/assets/img/peyronie2.jpeg","/ass
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 Peyronie hastalığının tedavisinde 2 farklı ameliyat yöntemi kullanılmaktadır. Hastalarda yeterli seviyede ereksiyon görülüyor ancak penisteki eğrilik nedeniyle cinsel temasta sorun yaşanıyorsa bu hastalara penis eğriliği düzeltme cerrahisi yapılır. Hiç ereksiyon olmayan hastalara ise penil protez dediğimiz mutluluk çubuğu uygulaması yapılır. Uygulanan bu operasyonla hem hastanın penisindeki eğrilik onarılır hem de mutluluk çubuğu takılarak ereksiyon sorunu iyileştirilir.
 

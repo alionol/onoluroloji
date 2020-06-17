@@ -20,8 +20,8 @@ youtubeId: "pkBtQcLjpe8"
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 Hidrosel ameliyatı yetişkin ve çocukta tamamen farklıdır. Makalemizde hem yetişkin hem de çocuk ameliyatı yöntemlerini detaylıca anlatmaktayız.
 

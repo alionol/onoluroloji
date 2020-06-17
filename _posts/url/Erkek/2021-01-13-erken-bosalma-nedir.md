@@ -20,8 +20,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 Erken boşalma yaygın görünen cinsel bir sorundur. Erkeklerin yüzde 30’u hayatlarının bir döneminde erken boşalma problemiyle yüz yüze gelmektedir. Cinsel zevki azaltan bir problemdir. Partner ile temas sağlandıktan sonra 1 dakikadan kısa sürede boşalma durumlarına erken boşalma adı verilir. Bu durum partnerlerin cinsel ilişkilerini etkileyen önemli bir sorundur. Kadınlarda ise vajinalarına penis girdikten ortalama 4.5 dakika sonra boşalma yaşanır. Bu noktada cinsel temas öncesinde ön sevişme yaşanması büyük önem taşımaktadır. Erken boşalma farklı nedenlere bağlı olarak meydana gelebilir. Nedenlerin saptanması tedavinin başarısını etkiler. Hastalar genelde utanma gibi sebeplerle hekime başvurmamaktadır. Erken boşalma tedavisi mevcut olan bir sorundur. Erken boşalmanın sebebi saptanıp sebebe yönelik tedavi planlaması uzman hekim tarafından yapılır.
 

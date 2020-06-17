@@ -20,8 +20,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 Kadınlarda idrar kaçırma genetik kaynaklı olabilir. Yaşla birlikte kadınlık hormonunun azalması da idrar kaçırma nedenlerinden birisidir. Aynı zamanda dokuların esnekliğinin yok olması, önceden uygulanmış cerrahi müdahaleler, çok sayıda doğum veya zorlu doğumlar da üretranın ve idrar tutmaya yarayan mekanizmanın işlevlerini kaybetmesinde sebep olabilir.
 

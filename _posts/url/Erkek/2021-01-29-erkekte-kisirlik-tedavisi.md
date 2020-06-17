@@ -20,8 +20,8 @@ youtubeId: "urLOOoIVezg"
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 ## Kısırlıkta Klasik yöntemler;
 

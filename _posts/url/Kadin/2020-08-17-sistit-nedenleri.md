@@ -20,8 +20,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 Sistitin daha doğru tespit edilebilmesi için boşaltım sistemine hakim olmak gereklidir. Boşaltım sistemi, böbreklerde oluşan idrarı mesaneye aktaran üreter, idrarı depolayan mesane ve mesanede biriken idrarı dışarı atan üretradan (idrar kanalı) oluşur. Kandaki atık maddeler böbrekler de filtrelenir, burada süzülür ve idrar haline gelir. İdrar böbreklerden üreter yoluya mesaneye ulaşarak burada depolanır ve idrar yolu aracılığıyla vücuttan uzaklaştırılır.
 

@@ -21,8 +21,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 ![Testis Nedir](/assets/img/testistorsiyonu.jpeg)
 Testisler anne karnında gelişim sürecindeyken böbreklerin bulunduğu alanda oluşmaya başlarlar. Daha sonra testisler kasıklara doğru giderek, kasık kanalı üzerinden testis torbalarına yerleşir. Testisler erkek üreme organdır.

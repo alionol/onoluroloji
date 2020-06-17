@@ -21,8 +21,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 Böbrek reflüsü hastalarda idrarını yaparken yanma hissi, az ama sık sık idrar yapma, kanlı idrar, rahatsız edici kokulu idrar gibi belirtiler görülür. Böbrek reflüsü olan hastalarda görülen ateş; iltihabın böbreklere ulaştığını gösteren önemli bir belirtidir. Böbrek reflüsünde bebeklere teşhis koymak daha güçtür. Çünkü bebeklerde bu belirtiler başka hastalıkların belirtileriyle karışabilir. Bu sebeple anlamlandırılamayan ishal, ateş ve yeme isteksizliği veya bebeğin gergin olduğu anlarda da özenli sorgulama yapılmalıdır. Bebek büyüdükçe bu semptomlar daha belirgin hale gelir. Bu bebeklerde gece idrar kaçırması, yüksek tansiyon, iç çamaşırda kaka, böbrek yetmezliği, kabızlık ve idrar görülen protein bulguları görülür.
 

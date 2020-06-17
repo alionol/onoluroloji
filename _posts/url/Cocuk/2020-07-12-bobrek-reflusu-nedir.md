@@ -21,8 +21,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 ![Böbrek Reflüsü](/assets/img/bobrek.jpeg)
 Mesanede üretilen idrarın böbreklere geri gitmesine böbrek reflüsü (Vezikoüreteral Reflü) denir. Böbrek reflüsü, çocuklarda ve yeni doğanlarda görülen idrar yolu iltihaplarına sebep olur. Böbrek reflüsünün tedavisi önemlidir çünkü enfeksiyon böbreklerde yayılabilir. Bunun neticesinde böbrek yetmezliği veya böbrek kaybı görülebilir. Böbrek reflüsü doğumsal bir anamolidir.

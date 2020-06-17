@@ -20,8 +20,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 Geç boşalma durumlarında; penis tam olarak sertleşse bile uzun süreli cinsel temasa rağmen bireyler spermlerini geç dışarı atarlar. Geç boşalma vakalarında cinsel birleşmeden 30-40 dakika sonra bile boşalamama hali yaşanabilir.  Boşalamamanın bu versiyonu da geç boşalma konu başlığı altında incelenir.
 

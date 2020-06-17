@@ -20,8 +20,8 @@ youtubeId: "h-MQe4eM04E"
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 Sağlıklı bireylerde ereksiyon halindeki penis kalınlığının çevresi 10 ile 11.5 cm arasındadır. Penis kalınlaştırma ameliyatında liposakşın yöntemiyle hastanın karın bölgesinden yağ dokusu alınır. Alınan bu yağ dokuları 20-30 ml miktarında penis derisi altına kalın bir iğne yardımıyla enjekte edilir. Böylece peniste kalınlaşma sağlanır. Ancak penise uygulanacak yağ dağılımının simetrik bir yayılımla yapılması gereklidir. Glans dediğimiz penis başına yağ enjekte edilemez. Hastalar penislerine simetrik bir şekilde yapılan yağ enjeksiyonu neticesinde penis başları küçük kalacağından, oluşacak görüntüden memnun olmayabilirler. Aynı zamanda penise enjekte edilen yağların 1 sene içinde yüzde 50-60 civarında eriyerek kaybolacağının da bilinmesi gereklidir. Penis kalınlaştırma operasyonunda uygulanan yağ enjeksiyonunun asimetrik olması ve enjekte edilen yağın zamanla eriyerek kaybolması penisin ilk halinden daha kötü bir görüntüye sahip olmasına neden olabilir. Merkezimizde bu tip durumlarda, penis kalınlaştırma için farklı merkezlerde operasyon geçirmiş hastalara eklenen yağ dokusunun çıkartılmasıyla penisin ilk haline dönmesi sağlanır. Bu gibi nedenlere bağlı olarak yağ dokusu enjeksiyonu ile yapılan penis kalınlaştırma yöntemi pek tercih edilmemektedir.
 

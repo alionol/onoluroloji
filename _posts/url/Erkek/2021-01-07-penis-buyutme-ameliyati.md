@@ -20,7 +20,7 @@ youtubeId: "Bdf_DAvflmI"
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
+
 
 ## Penis Büyütme Yöntemleri
 

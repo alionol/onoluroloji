@@ -20,8 +20,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 ![Erkekte Kısırlığı Nedeni](/assets/img/erkektekisirlik.jpeg)
 Erkek bireylerde bir yıl süreyle normal ve düzen içindeki cinsel birliktelik sonucunda partnerde hamilelik görünmüyorsa kısırlıktan söz edilir. Kısırlık yüzde 35 oranında erkekten, yüzde 35 oranında kadından ve yüzde 30 oranında çiftlerin ikisinden de kaynaklanabilir.

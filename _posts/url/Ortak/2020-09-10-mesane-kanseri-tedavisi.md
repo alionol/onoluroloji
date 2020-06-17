@@ -20,8 +20,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 Mesane kanserinin tedavi edilmesinde açık ve kapalı operasyon, kemoterapi, radyoterapi ve immünoterapi teknikleri kullanılır. Klasik hale gelmiş tedaviye standart tedavi adı verilir. Ancak standart tedavi yerine kullanılacak daha az komplikasyonlu tedavi yöntemleri de bulunmaktadır ve Clinical Trail adını alır. Clinical Trail önceden uygulanan tedavi metodlarına kıyasla daha başarılı sonuç alınan, tedavi teknikleri değerlendirilen ve eski yöntem yerine daha sağlıklı sonuçlar elde edilen yeni yöntemler ortaya çıkarmak için yapılan çalışmalardır.
 

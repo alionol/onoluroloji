@@ -20,8 +20,8 @@ youtubeId: "nVtBTbRVbJM"
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 Gonore dediğimiz bel soğukluğu, sifilis, trikomonas, genital bit, bakteriyel vajinolis, klamidya, genital uçuk ve candida mantarı gibi cinsel hastalıklara rahatlıkla tedavi uygulanabilir. Ancak bu hastalıklarda hastanın partnerinin de mutlaka tedavi olması göz ardı edilmemesi gereken bir konudur. Çünkü hastanın partneri diğer insanlara hastalık bulaştırabilir ya da tedavi olmuş hastaya tekrar hastalık bulaştırabilir. Virütik özellik taşımayan birçok cinsel hastalığa uygulanan antibiyotik tedavisi sonucunda başarılı sonuçlar alınır. Bu tedavilerde antibiyotik dozunun ve kullanım süresinin iyi planlanması çok önemlidir. Aksi takdirde tedavide aksaklıklar gözükür. Tedavinin cinsel hastalıklar konusunda tecrübe sahibi bir hekim tarafından yapılması gerekmektedir. Cinsel hastalıklar tedavi edilmediği durumlarda kronikleşebilirler. Kronikleşen cinsel hastalıkların tedavisi daha güçtür.
 

@@ -21,8 +21,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 Böbrek taşlarının büyük bir kısmı semptom göstermeden vücuttan idrar vasıtasıyla atılır. Belirti veren böbrek taşlarında ise ilk yakınma doğum sancısına benzer yoğun bir ağrı hissidir. İdrar akımı oluşan taş sebebiyle belli bir noktada tıkanarak kalır ve hastada şiddetli bir ağrı oluşturur. Hissedilen acı kramp şeklindedir. Taş hangi böbrekte oluştuysa o tarafta ağrı yaşanır. Ağrı, karın bölgesinin alt kısmında da kendini hissettirir. Hastada devamlı olarak kusma ve bulantı şikayetleri görülür. Üreter kanalında bulunan kaslar böbrek taşını mesaneye itmek amacıyla kasılarak hastaya ağrı vermektedir. Bu durumda hastanın idrarında kan görülebilir. Devamlı işeme ihtiyacı duyulur ve işeme esnasında ağrı duyulur. Hasta aynı zamanda ateş ve titreme semptomları da gösteriyorsa acilen deneyimli bir hekime gözükmelidir. Çünkü ateş ve titreme durumu böbreklerde oluşabilecek iltihabın göstergesidir.
 

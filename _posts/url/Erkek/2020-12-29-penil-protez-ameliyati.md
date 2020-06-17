@@ -20,8 +20,8 @@ youtubeId: "jn5eR1gDEas"
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 ## Penil Protez Ameliyatı Öncesi
 

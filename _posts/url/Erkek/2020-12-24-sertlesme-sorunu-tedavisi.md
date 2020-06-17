@@ -20,8 +20,8 @@ youtubeId: "r5np7vHczPQ"
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 Sertleşme sorunu 3 farklı yöntemle tedavi edilebilir. Hangi yöntemin uygulanacağını sertleşme sorunun derecesi belirler. Uygulanan bu tedavilerden alınan sonuçlar çok yüksek oranda başarı göstermektedir. Bilinen bu 3 tedavi yöntemi dışında penise vakum aleti uygulanması ve dışarıdan düşük dozda ultrason dalgaları gönderilmesi gibi işlemler vardır ancak bunların kullanım alanı kısıtlıdır. Amerika’da bulunan FDA sağlık kurumu; sertleşme sorununda PRP adı verilen kök hücre tedavisini ve ESWT adlı mikro şok dalgası tedavisini kabul etmemektedir. İspat edilmiş tıpta uygulanan esas tedavi 3 basamak tedavisidir. Geri kalan tedaviler alternatif tedavi olup kesinliği kanıtlanmış değildir.
 

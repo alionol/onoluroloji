@@ -20,8 +20,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 İdrar kaçırma şikayeti olan hastaya, önceden başarısız bir operasyon geçirmemişse iyi bir sorgulama (anamnez) ile kolayca teşhis konulabilir. Teşhis konulduktan sonra idrar kaçırmanın tipi belirlenir. Doğru idrar kaçırma tipini belirlemek, doğru tedaviyi belirlemek için çok önemlidir. Aşırı aktif mesane kaynaklı idrar kaçırma olup olmadığı kontrol edilmelidir. Hastaya detaylı bir sorgulama yapılması durumunda birçok hasta ameliyata ihtiyaç duyulmadan ilaç tedavisiyle iyileşebilir. Hastanın sigara tüketimi, hangi türde (normal-sezaryen) ve kaç kez doğum yaptığı, diyabeti, şişmanlığı, genetik durumu, tükettiği ilaçlar ve diğer hastalıklarının bilgisi alınıp incelenmelidir. Bu bilgiler tedavinin planlanması bakımından çok önemlidir. İdrar kaçırma teşhisinde iyi bir anamnez yapılması durumunda sistoskopi veya ürodinami gibi ek incelemelere ihtiyaç duyulmaz.
 

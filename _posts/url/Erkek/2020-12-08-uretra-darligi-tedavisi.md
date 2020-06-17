@@ -25,8 +25,8 @@ lightBoxImages3: ["/assets/img/idrarKanaliDarligi.jpeg", "/assets/img/idrarKanal
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 Üretra darlığında ilaç tedavisinin yeri bulunmamaktadır. Üretra darlığı için uygulanan tedavi açık ve kapalı tedavi olmak üzere iki bölüme ayrılır. Kapalı tedavi ile hastanın şikayetleri bir süre için giderilir. Üretradaki küçük darlıklar dışında kapali yöntemin tedavi etkisi kısıtlıdır. Kapalı yöntemle uygulanan tedaviler 2 defadan fazla yapılmamalıdır. Dilatasyon adı verilen idrar kanalına metal sondalar sokularak genişletilme sağlanması üretra darlıklarında geçici bir iyileşme sağlar. Aynı zamanda internal uretrotomi adı verilen kapalı teknikle üretraya kamerayla girerek darlığın görüntülenmesi ve bıçakla kesilerek tedavi edilmesi işlemi de iyileşmeye bir süre için yardımcı olur. Uygulanan bu yöntemler neticesinde hastanın şikayetleri bir süre için son bulur fakat birkaç ayın ardından tekrar aynı yakınmalar görülür.
 

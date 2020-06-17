@@ -20,8 +20,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 Kadınların cinsel organı olan vajinada bazı anomalilere rastlanılabilir. Bunlar doğumsal veya sonradan oluşmuş olabilir. Vajinadaki bu anomaliler sadece estetik olarak değil, işlevsel olarakta hastanın şikayet etmesine neden olur. Cinsel hayatı olumsuz yönde etkileyebilir. Vajina estetiği, kadın cinsel organındaki bu anomalilerin düzeltilmesine denir. Vajina estetiği sonrasında hastaların hem özgüvenleri artar, hem de işlevsel bozukluklara bağlı olarak oluşan şikayetleri son bulur.
 

@@ -20,8 +20,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 Bazı durumlarda erkeklik organı normal büyüklükte olmasına rağmen hastalar pornografik filmler vs. gibi sebepler nedeniyle penislerinin büyüklüğünden hoşnut olmayabilirler. Penislerini bu gibi nedenlerle büyütme gerekliliği duyan hastalara dismorfik hastalar adı verilir. Bazı hastalar tıpkı farklı organlarında bulunabilen küçük kusurları takıntı haline getirebilmesi gibi penislerinde de gerçekte var olmayan kusurları sorun haline getirebilirler. İşte bu dismorfik hastalar, penisleri normal uzunluğa sahip olsa da daha fazla uzunluk isteyebilmektedirler. Böyle vakalarda hastalar detaylı bir şekilde bilgilendirilmeli ve ek olarak psikiyatrik konsültasyon istenmelidir. Hastaya erkeklik organının büyütülmesi hususunda düzgün karar alabilmesi amacıyla doğru bir yol gösterilmelidir. Ancak hasta yine de ısrarcı davranırsa penisteki asıcı bağ kesilerek penis boyutu uzatılabilir.
 

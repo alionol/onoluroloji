@@ -21,8 +21,8 @@ lightBoxImages: ["/assets/img/varikoselameliyati1.jpeg", "/assets/img/varikosela
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 Testislerde küçülmeye neden olan ve kısırlığa sebebiyet veren varikosellere cerrahi müdahale uygulanmalıdır. Hastanın kasık bölgesine 2 cm civarında bir cilt kesisi yapılır. Mikroskop veya lup dediğimiz büyüteç yardımıyla kasık kanalında bulunan genişlemiş damarlar saptanır. Damarlar bağlanır ve iptal edilir. Bu sayede kanın olağan yollarla drenajı sağlanır. Testiste bulunan diğer damarlar kanın drenaj yapması için yeterli seviyededir. Testisteki diğer damarların bu durumu sayesinde genişlemiş olan damarın iptal edilmesi testiste herhangi bir sorun teşkil etmez. Operasyondan sonra hasta aynı gün içinde taburcu edilebilmektedir. Operasyondan 1-2 gün sonra ise günlük yaşam rutinine geri dönebilir. Hastanın sperm kalitesinin iyileşmesi ve düzelmesi 4-6 ay süreyle gerçekleşir. Sperm kalitesinin iyileşmesi 2 yıl boyunca artış göstererek devam etmektedir. Varikosel için uygulanan açık yöntemli bu operasyona Micro Surgical Sup İnguinal yaklaşım adı verilir.
 

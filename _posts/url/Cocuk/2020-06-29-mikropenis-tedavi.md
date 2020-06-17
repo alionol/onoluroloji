@@ -20,8 +20,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 Mikropenis tanısı konan hastalarda ilk olarak gerekli olması durumunda aşağıda belirtilen laboratuvar testleri uygulanmalıdır. Mikropenise neden olan faktörün kesin olarak belirlenebilmesi için bu testler uygulanır. Mikropenisin sebebi kesin olarak belirlendikten sonra alınan sonuç baz alınarak tedavi planlaması yapılır.
 

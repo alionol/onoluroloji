@@ -21,8 +21,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 İnmemiş testislerin indirilmesi 3 sebepten dolayı gereklidir.
 

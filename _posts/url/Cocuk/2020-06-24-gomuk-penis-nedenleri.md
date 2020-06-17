@@ -20,8 +20,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 •	Çocuklar sünnet edilirken penis derisinin az veya çok kesilmesi,
 

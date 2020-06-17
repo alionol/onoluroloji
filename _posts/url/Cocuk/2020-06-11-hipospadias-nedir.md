@@ -20,8 +20,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 ![Hipospadias](/assets/img/hipospadiasnedir.jpeg)
 Halk arasında bu hastalık peygamber sünneti isminde anılır. Hipospadias penisin dokularının doğumsal olarak normal gelişmemesine bağlı bir anomalidir. Sağlıklı bir erkekte, penis ucunda idrarın dışarı atılması için bir delik bulunmaktadır. Hipospadias hastalarında ise bu delik, penis ucu ile apış arası arasında bir bölgededir. İdrar deliğinin farklı bir bölgede olması haricinde peniste az veya çok eğrilik de gözükür. Kimi vakalarda bu eğrilik 5-10 derece kimi vakalarda ise 90 dereceyi aşar. Hipospadias her 200 erkek bebeğin 1’inde görülür. Hipospadiasın tüp bebek metoduyla doğan bebeklerde görülme olasılığı daha fazladır. Hipospadiasın 3 tipi vardır;  ön (anteiror), orta (midpenil) ve arka (proksimal). Bu tiplere göre hipospadias ameliyat teknikleri değişkenlik gösterir. İlk ameliyatta başarı oldukça önemlidir. Ameliyatın başarısız geçmesi halinde tedavi süreci uzar ve hastanın 1’den fazla defa ameliyat edilmesi gerekir. Bu yüzden hipospadias ameliyatı ürolojinin tecrübe gerektiren ameliyatlarındandır. Bu ameliyatlar mutlaka çocuk ürolojisinde uzman deneyimli hekimler tarafından yapılmalıdır. Hipospadias hastaları; işemeyi sağlayan penis ucundaki deliğin farklı bir bölgede olmasında dolayı idrarlarını ileriye doğru yapamazlar. Ayrıca penisteki eğrilikten dolayı hastalar ileriki yaşlarda cinsel birleşmede sıkıntılar yaşarlar. Çocuk yaşta hasta cinselliğini tam olarak keşfetmemiştir. Bu yüzden çocuk yaşta hipospadiasın tedavi edilmesi yetişkin yaşta yaşanacak sıkıntıların önüne geçer.

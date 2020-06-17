@@ -21,8 +21,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 ![Böbrek Reflü Dereceleri](/assets/img/bobrekreflusudereceleri.jpeg)
 

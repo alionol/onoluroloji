@@ -25,8 +25,8 @@ lightBoxImages3: ["/assets/img/BobrekTasii1.jpg","/assets/img/BobrekTasiAmeliyat
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 8 mm altında bir ebata sahip olan taşlar genellikle müdahale gerekmeden kendiliğinden düşerler. 8 mm’den büyük taşlar için cerrahi müdahaleye ihtiyaç duyulabilir. Cerrahi tedavinin planlanması için, böbrek ve idrar yolunda bulunan taşın büyüklüğü ve bulunduğu konum önemlidir.
 

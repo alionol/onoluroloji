@@ -20,8 +20,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 ![Mesane Kanseri Evreleri](/assets/img/Mesanekanserievre.jpeg)
 Mesane kanseri tanısı yapıldıktan sonra kanserin mesane içinde ve vücuttaki diğer bölümlere sıçramasının saptanması tedavinin seyrini değiştirebilir. Mesanenin içinde meydana gelen kanser vücudun diğer bölümlerine yayılır ve yayılma derecesine göre 5 derecede sınıflanır.

@@ -20,8 +20,8 @@ youtubeId: "jthmzhS6oRc"
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 Geç boşalma sorununun tedavi edilmesinde ilk olarak geç boşalmaya neden olan faktör araştırılır. Geç boşalma psikolojik nedenlere bağlı ise hastanın boşalmasını engelleyen bilinçaltı çözülmeye çalışılır. Hastanın boşalmasını engelleyen bu bilinçaltından kurtulması için partnerinin hasta üzerindeki cinsel uyarıyı arttırması gereklidir. Aynı zamanda çiftler arasında cinsel uyumun yakalanmasına gerek duyulur. Hastanın da partneri ile arasındaki cinsel iletişimi sağlam olmalıdır. Hasta cinsel temas esnasında gevşemeli ve kendini rahat hissetmelidir. Bunlara ek olarak hastanın ereksiyonu yeterince kuvvetli değilse ve kısa süreli ise iyi bir sorgulamanın akabinde penisin sertleşmesini sağlayan ilaçlar tavsiye edilebilir.
 

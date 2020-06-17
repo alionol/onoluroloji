@@ -20,8 +20,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 ![Yapay Sfinkter](/assets/img/yapaysfinkter.jpeg)
 Doğuştan varolan idrar tutucu mekanizmaların bozulması durumunda yapay sfinkter uygulaması yapılır. Bu yapay mekanizma ile normalde bulunması gereken sfinkterlerin işlevi görülmüş olur. Hastalar idrar kontrollerini yapay sfinkter ile sağlayabilirler. Sfinkter; insan vücudunda idrarın tutulmasını sağlayan, kasılma ve gevşeme özelliği gösteren halka biçimindeki kas oluşumu demektir. AMS 800 adlı, American Medical System dediğimiz yapay sfinkter; dünyanın en gelişmiş sfinkteridir. Sfinkter üretimi dünya çapında yalnızca bir firma tarafından yapılmaktadır.

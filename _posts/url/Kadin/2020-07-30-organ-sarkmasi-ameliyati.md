@@ -20,8 +20,8 @@ youtubeId: "UenPssuAwY0"
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 ## Vajina Sarkması Ameliyatı
 

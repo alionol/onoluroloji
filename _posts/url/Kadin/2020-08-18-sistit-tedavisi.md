@@ -20,8 +20,8 @@ youtubeId: "tEyD5kvjO84"
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 Hastada bakterilerden kaynaklanan sistit ilk kez görülmüş ise tedavisinde antibiyotik kullanılır. 3-7 günlük antibiyotik kullanımı bu tedavi için yeterli olacaktır. Tekrarlayan sistitte ise, sistitin nedeni araştırılmalıdır. Sistitin farklı bir nedene bağlı olup olmadığı tetkik edilmeli ve antibiyotik tedavisi uzun süre yapılmalıdır. Gerekli tetkikler yapılmış fakat sistit oluşumu için farklı bir neden bulunmamış ise, her cinsel aktivite öncesi ve sonrası için koruyucu ilaçlar kullanılmalıdır. Bu ilaçlar tek dozdur ve belli gruba ait antibiyotiklerdir. Aynı zamanda tekrarlayan sistitlerde, hastaya her cinsel temas sonrasında idrarını yapması tavsiye edilir.
 

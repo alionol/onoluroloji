@@ -20,8 +20,8 @@ youtubeId: "6qB2-WgtPhM"
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 Gömük penis ameliyatı için penis başının altındaki cilde çevresel olarak kesi yapılır. Eğer hasta önceden sünnet olmuş ise, eski sünnet izi üzerinden kesi yapılır. Penis derisi aşağıya doğru tamamen sıyrılır. Bu sıyırma işlemi esnasında penis sinirlerinin ve damarlarının zarar görmemesine, korunmasına dikkat edilmelidir. Penis derisi sıyrıldıktan sonra hatalı oluşmuş veya zayıf dokular kesilir ve çıkarılır. Ardından, penis dokuları yeniden düzenlenir ve şekil verilir. Pubis Kemiği üzerinde bulunan “Periost” (kemiğin üstündeki zar) özel dikişilerle tespit edilir. Tespit yapıldıktan sonra, doğumsal olarak anormal olan asıcı bağ yerine özel bir asıcı bağ yapılır. Ameliyat esnasında gerekli görüldüğü takdirde pubis bölgesinde bulunan fazla yağlar alınabilir.
 

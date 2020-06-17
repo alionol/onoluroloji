@@ -23,8 +23,8 @@ lightBoxImages3: ["/assets/img/inmemistestiskasikfitigi.jpeg", "/assets/img/inme
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 Testisin çürümesi veya zarar görmesinin engellenmesi için acil olarak ameliyat edilmelidir. Bu aşamada tetkikler ve görüntüleme teknikleri için vakit kaybına girilmez. Bu vakalarda hasta zamanla yarışmaktadır. Ne yazık ki bir çok hastada bu tetkik ve görüntülemeler ile vakit kaybedilir. Ve testisler iyileştirilemez. Nükleer inceleme ve ultrasonografi gibi görüntüleme yöntemleri testis torsiyonu risk ve şüphesinin düşük olduğu durumlarda kullanılmalıdır.
 

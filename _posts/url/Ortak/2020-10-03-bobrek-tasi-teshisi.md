@@ -21,8 +21,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 Bazı böbrek taşları sessiz taşlardır. Bu durumda taşlar herhangi bir belirti vermez. Hastadan farklı sebeplere bağlı olarak alınan görüntüleme yöntemlerinde rastlantısal olarak saptanırlar. Farklı görüntüleme teknikleri kullanılarak böbrek ve idrar yolundaki bulunan taşların konumu ve büyüklüğü konusunda önemli bilgiler alınır. Böbrek taşının teşhisinde en ideal yöntem kontrasız tomografi dediğimiz, boyalı madde kullanılmadan uygulanan görüntüleme yöntemidir. Kontraslı tomografi adı verilen boyalı madde kullanılarak yapılan tomografi ya da piyelografi yöntemi kullanılarakta böbreğin faaliyeti hususunda detaylı bilgi alınır. Böbrek taşının teşhisi önemlidir. Çünkü böbrek taşının büyüklüğü ve lokasyonu tedavi şeklini belirler. Bazen taşın kendi kendine düşmesi beklenir. Bazı durumlarda ise dışardan taşa müdehale edilir.
 

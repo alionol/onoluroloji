@@ -20,8 +20,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 •	Yüksek tansiyon için kullanılan ilaçlar, kanser için uygulanan kemoterapi tedavisi, radyoterapi, hormon bozukluğu için kullanılan ilaçlar, kortizon ilaçları, birtakım mantar ve mide koruma ilaçları, kas miktarını arttırmak amacıyla kullanılan anebolik steroitler ve birtakım antidepresan ilaçları cinsel isteğin azalmasına veya kaybolmasına neden olabilir. Aynı zaman da depresyon da kişinin cinsel arzusu üzerinde kötü etki sağlar.
 

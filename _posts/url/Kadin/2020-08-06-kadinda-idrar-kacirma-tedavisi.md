@@ -20,8 +20,8 @@ youtubeId: "NLNo-9oPyuQ"
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 
 ## İdrar Kaçırmada Alışkanlıkların Değiştirilmesi ve İlaç Tedavisi

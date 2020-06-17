@@ -21,8 +21,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 Testis torbasına tıp dilinde Skrotum denir. Testis torbasının içindeki testisin 2 büyük görevi vardır. Bu görevler; çocuk yapmak için gerekli olan hücrelerin (sperm) üretilmesi ve erkeklik hormonunun salgılanmasıdır. Erkeklik hormonu cinsel arzuyu sağlar. Aynı zamanda kıllanmayı ve kas gelişiminde rol oynar. Vücut sıcaklığı 37 derece olmasına karşın testis torbasında sıcaklık 3 - 4 derece daha azdır. Testis torbaları sıcaklıkta genişler ve sarkarlar, soğukta ise büzülürler. Bu sayede testisin 33 - 35 derecelik sıcaklığı sabit tutulur. Bu özelliğe termoregülasyon denir. Sperm hayvancıkları ancak bu sıcaklıkta üretilebilir. İnmemiş testis vakalarında testisler yukarıda kaldıkları için bu ısı dengesi ortamında olmazlar. Ve yukarıdaki sıcaklık dolayısıyla sperm üretemezler. Bu bakımdan inmemiş testisler mutlaka indirilmelidir. Testisler indirilmedikleri takdirle başka problemlere de yol açarlar.
 

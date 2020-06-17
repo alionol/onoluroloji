@@ -20,8 +20,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 Ultrasonografi kullanılarak testis kanserine rahatlıkla ön tanı konulabilmektedir. Testis kanseri teşhis edildikten sonra kanserin vücutta yayılımı incelenir. Kanserin vücuttaki yayılımı hakkında fikir edinmek için kanda bulunan alfa feto protein adlı kanser belirteçleri, beta-hCG, LDH, göğüs radyolojisi ve karın tomografisi kullanılmalıdır. Kanserin beyin gibi organlara yayılımı şüphesi varsa MR görüntülemeye ihtiyaç duyulur. Kanser türünün anlaşılması ve kesin tanının konmasının için hastanın testisi 10-15 cm civarındaki sapıyla beraber çıkartılır ve patolojik değerlendirme yapılır. Patolojiden gelen raporlar neticesinde kanserin türü anlaşılır. Özetle testis kanserinin teşhisi kadar yayılımının incelenmesi de önemlidir. Çünkü testis kanserinin yayılımı tedavi planlamasını etkiler.
 

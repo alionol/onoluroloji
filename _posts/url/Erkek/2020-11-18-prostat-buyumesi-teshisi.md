@@ -20,8 +20,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 Prostatın büyüyerek sıkıştırması çeşitli işeme şikayetlerini beraberinde getirir. Belirtilerden şüphe edildiğinde prostat büyümesi teşhisi için araştırma başlar. Prostatta meydana gelen büyümeler PSA adı verilen kan testi ve parmakla yapılan fiziksel muayene ile saptanır. Ardından üroflow dediğimiz idrar akım ölçeri kullanılır. Ultrasonografi yardımıyla mesanede kalan idrarın miktarına bakılır. İdrar kanalında sıkışmanın derecesi anlaşılmaya çalışılır. Cerrahi müdahale için acele edilmez. Öncelikle durum değerlendirilir. Hastalarda görülen şikayetler modern tıpla geliştirilen olağanüstü ilaçlar sayesinde tedavi edilebilir. Bu ilaçlar kullanıldığı müddetçe prostata etki eder ve idrar kanalını rahatlatır. Dolayısıyla hastanın işeme şikayetleri kontrol altına alınır. Doğru teşhis koyulduktan sonra prostat büyümesi ve şikayetleri detaylı bir şekilde incelendikten sonra tedavi planlaması yapılır.
 

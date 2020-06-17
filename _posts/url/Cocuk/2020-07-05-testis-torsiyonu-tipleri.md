@@ -21,8 +21,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 Testis torsiyonunda; intravajinal (testis zarı içi) ve ekstravajinal (testis zarı dışı) dediğimiz 2 tip torsiyon vardır.
 

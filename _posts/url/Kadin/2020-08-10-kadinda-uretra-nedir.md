@@ -20,8 +20,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 ![idrar kanalı Nedir](/assets/img/kadinidrarkacirma.jpeg)
 

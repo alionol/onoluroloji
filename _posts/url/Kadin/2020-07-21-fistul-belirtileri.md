@@ -20,8 +20,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 •	Fistül idrar kanalıyla bağlantılı olduğunda hasta vajinasından sürekli olarak idrar kaçırır.
 

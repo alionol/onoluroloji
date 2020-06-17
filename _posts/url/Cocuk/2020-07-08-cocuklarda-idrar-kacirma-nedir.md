@@ -20,8 +20,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 Çocuk belirli bir yaştan sonra gündüz vakitlerinde kendi idrar kaçırma kontrolünü sağladıktan sonra eğer gece uyku sırasında istemsiz bir şekilde idrarını kaçırıyorsa, çocuklarda idrar kaçırmadan bahsedilir. Çocuklardaki gece idrar kaçırmaları 5 yaşına kadar normal karşılanabilir.   Çocuklarda idrar kaçırmanın Primer ve Sekonder adı verilen iki türü vardır. Primer; çocuğun idrar kontrolünü hiç sağlayamadığı durumlardır. Seconder ise; çocuğun öncesinde 6 ay veya senelerce idrarını kontrol edebildiği fakat sonrasında idrarını tutma noktasında sorun yaşaması durumudur.  Seconder dediğimiz durum psikolojik etkenlere bağlı olabilir. Yeni bir kardeş, eve gelen bir misafir veya çocuğun kıskançlık gösterebileceği olaylar neticesinde ortaya çıkabilir.
 

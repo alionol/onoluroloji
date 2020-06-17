@@ -20,8 +20,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 Prostat erkek bireylerin mesanelerinin alt kısmında konumlanmış bir organdır. Üretra adı verilen idrar kanalı prostatın içinden geçmektedir. Prostatın iltihaplanması durumuna prostatit adı verilmektedir. Prostatit rahatsızlığı birden fazla tipte görülebilir. Prostatit tiplerinin her birine farklı tedavi uygulanır. Bu nedenle ilk olarak prostatitin hangi tipte olduğu belirlenmelidir. Prostatit tipinin yanlış belirlenmesi durumunda hastaya uygun olmayan bir tedavi uygulanarak hastalığın tedavisi daha güç bir hale gelir. Prostatit çoğunlukla; üretra darlığı, böbrek iltihabı, edep sinir sıkışması, prostat büyümesi ve hassas mesane hastalıklarıyla karıştırılmaktadır. Bu yanlış anlaşılmanın engellenmesi için hastalar deneyimli bir hekim tarafından muayene edilmelidir. Prostatit erkek hastalarda; boşalma esnasında yanma hissi, sık idrara çıkma, sertleşme kusuru, idrar yaparken yanma hissi ve erken boşalma gibi problemlere neden olduğundan hastanın cinsel ve vücut sağlığı açısından önem taşıyan bir hastalıktır.
 

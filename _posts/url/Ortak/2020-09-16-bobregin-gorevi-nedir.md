@@ -21,8 +21,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 ![Böbrek](/assets/img/bobreknedir.jpeg)
 Böbrekler; karın boşluğunun arka tarafındaki bel bölgesinde bulunmaktadır. Fasulye şekline benzetilen böbrekler, sağ ve sol tarafta konumlanmışlardır, yumru büyüklüğündedirler. Böbrekler kanda bulunan atık maddeleri filtreleyip idrar haline getirmekle yükümlüdürler. Sağ böbrekte 1, sol böbrekte 1 milyon olmak üzere böbreklerde toplam 2 milyon adet nefron bulunmaktadır. Nefron ise kanı atık maddelerden süzerek temizleyen mikroskobik bir ünitedir.

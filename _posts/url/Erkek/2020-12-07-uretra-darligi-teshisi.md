@@ -20,8 +20,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 Üretra darlığı için yapılan tanıda esas prensip; darlığın konumunun, sayısının, boyunun ve derinliğinin saptanmasıdır. Buralardan edinilecek bilgiler neticesinde operasyon tekniğine karar verilir. Üretra darlığında yapılan en mühim test ise retrograd ve antegrad üretrografidir. Retrograd filmi çekilirken penis ucu kullanılarak üretra içine contrast yani boyalı madde gönderilir. Burada gönderilen boyalı madde ile bütün üretra görüntülenir ve içindeki darlıklar saptanır.
 

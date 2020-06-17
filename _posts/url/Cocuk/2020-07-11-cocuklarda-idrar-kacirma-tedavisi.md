@@ -20,8 +20,8 @@ youtubeId: "FkSSleV43NE"
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 ##	Çocuğun eğitimi, anne ve babanın yaklaşımı
 

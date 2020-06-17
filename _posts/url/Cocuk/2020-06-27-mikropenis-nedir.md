@@ -20,8 +20,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 Yeni doğmuş erkek bebeklerin penisleri gerdirildiğinde 3,5 cm uzunluğundadır. Bebeğin penis boyu 2 - 2,5 cm altında uzunlukta ise mikropenis dediğimiz küçük penis probleminden söz edilir. Bebek henüz anne karnında gelişimde iken erkeklik organı birtakım nedenlerden kaynaklı gelişimini durdurur. Peniste ki gelişimin tamamlanamaması durumunda mikropenis problemi meydana gelir. İleri hipospadias gibi doğumsal anomalilerden kaynaklanan durumlarda da mikropenis görülebilir. Buna ek olarak Klinefelter adı verilen kalıtsal problemden dolayı da mikropenis yaşanabilir.
 

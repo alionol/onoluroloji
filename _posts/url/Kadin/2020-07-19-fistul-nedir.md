@@ -20,8 +20,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 Fistül, 2 organ arasında normal şartlarda bulunmaması gereken kanaldır. Bu kanallar normalde vücutta olmaz. Bazı sebeplere bağlı olarak oluşurlar. Kazalar veya geçirilen operasyon sonrasında gelişen komplikasyonlar fistül oluşmasının ana nedenlerindendir. Bir çok farklı noktada fistül oluşumu gözlenir. Normalde olmayan ve sonradan oluşan bu kanallar; atardamar ve toplardamar, vajina ve işeme sistemi, vajina ve bağırsak arasında oluşurlar. Bu sistemler normalde birbirleriyle bağlantılı olmamalıdırlar. Sonradan oluşan fistül bir yol oluşturarak organları istenmeyen şekilde birbirine bağlar.
 

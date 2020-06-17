@@ -20,8 +20,8 @@ youtubeId: "3xMjFJoT3zg"
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 Erken boşalma tedavisinde ana prensip ilk olarak erken boşalmaya neden olan faktörün belirlenmesi daha sonra ise erken boşalmayı sağlayan refleksin gecikmesini sağlamaktır.
 

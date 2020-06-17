@@ -20,8 +20,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 Varikosel erkeklerin yüzde 20’sinde görülmektedir. Varikosel görülen erkeklerin yüzde 20’sinin varikoselleri kısırlığa neden olur. Özetle varikosel totalde yüzde 4 oranında kısırlığa sebebiyet verir. Yani her varikosel kısırlığın nedeni olmayabilir. Varikosel çoğunlukla hiç semptom göstermez. Ancak her iki testiste de ağrı hissi yaşanabilir. Bu ağrıya bağlı olarak yapılan muayeneler sonucunda varikoselin olduğu anlaşılır. Varikosel genellikle fizik muayenede kolayca teşhis edilir. Ergenlik döneminde artış gösteren cinsel arzular testisin gerilmesine neden olarak ağrı oluşumuna sebebiyet verir. Testislerde oluşan bu ağrı mastürbasyon yapılmasıyla giderilir. Bazı durumlarda bu ağrı varikosel ile karıştırılır. Bu belirti teşhiste yanılgıya neden olabilir. Dikkat edilmesi gereklidir. Hastalara varikosel için hemen cerrahi müdahale uygulanmamalıdır. Hastanın varikoselinin durumuna göre ameliyat kararı verilmelidir.
 

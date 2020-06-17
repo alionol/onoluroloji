@@ -20,8 +20,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 Gömük penis doğuştan veya sonradan görünebilir. Erkek çocukların genital bölgelerinin üzerinde fazla yağ dokusu oluşumuna bağlı gözükür. Veya cilt ve cilt altı dokuları doğumsal olarak gelişmediğinde görünür. Bu sebeplerle penis gömük gözükür ve bu duruma Gömük Penis adı verilir. Normal penisin 3’te 2’si dışarda gözükür. Gömük penis hastalarında ise penisin 3’te 2’si veya daha fazlası deri içinde gömüktür. Normalde penis, tutucu bir bağ ile arka tarafındaki dokulara tutunmuş durumdadır. Doğuştan gömük penis hastalığı gözüken hastalarda, penisin tutucu bağı yeteri kadar gelişmediği için gömüklüğe sebep olur.
 

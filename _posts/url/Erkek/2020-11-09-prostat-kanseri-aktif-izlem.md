@@ -20,8 +20,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 Prostat kanseri için cerrahi uygulanmadan yapılan tedaviye aktif izlem denir. Bu tedavi yöntemi yalnızca düşük risk grubuna mensup prostat kanserlerine uygulanmaktadır. 3 ay aralıkla hastanın PSA değerine bakılır. PSA sonucunda olağanüstü bir artış görülmüyorsa 1 yılın sonunda tekrar biyopsi yapılır. Fakat PSA sonucunda olağanüstü bir artış tespit edilmiş ise biyopsi yapılması için 1 yıl beklenmez. Biyopsiyi yapan patoloğun tecrübesizliğine bağlı olarak düşük risk grubu orta, orta risk grubu da düşük risk grubu olarak rapor edilebilir, bu duruma patolojik inceleme yanılgısı adı verilir. Aktif izlemde 1 yıl sonra yapılan biyopsi, ilk biyopsi de olası patolojik yanılmayı açıklığa kavuşturmak amacıyla yapılır. İkinci biyopsiden elde edilen sonuçlar neticesinde uygulanacak kesin tedaviye karar verilir. Biz ikinci biyopsi de gerekli durumlarda, klasik biyopsiden ziyade multiparametrik emar görüntüleme biyopsisini tavsiye ediyoruz. İkinci biyopsinin, kanser teşhisinde daha faydalı olan emar görüntüleme ile birlikte yapılması daha iyi bir sonuç alınmasını sağlar. Yapılan ilk biyopside düşük risk grubu olarak rapor edilen kanserlerin yüzde 10-15’i, ikinci biyopsi de orta risk grubunda olduğu görülmektedir. Bunun sebebi yapılan ilk patolojik incelemenin hatalı olmasıdır. Prostat kanserinde düşük risk grubu kanserler, orta ya da yüksek risk grubuna evrimleşmezler. Yapılan araştırmalara göre, yüzde 10-15 oranındaki yanılgıya uğramış hastalarda yaşanan bir yıllık ertelenmenin hastaların yaşam beklentisini etkilemediği görülmüştür (Filippou et al., EuropeanUrology 2015.06.011).
 

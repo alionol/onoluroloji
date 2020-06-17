@@ -20,8 +20,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 Ateşli bakteriyel tipte ki prostatite basit bir fizik muayene ile rahatlıkla tanı konulabilir. Ateşli bakteriyel prostatit hastalarının PSA değerleri yüksektir. Bu nedenle hastalık, prostat kanseri ile karıştırılabilir. Hastalığın detaylı bir şekilde incelenmesi gerekmektedir.
 

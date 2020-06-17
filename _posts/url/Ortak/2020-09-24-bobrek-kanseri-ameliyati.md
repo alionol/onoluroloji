@@ -23,8 +23,8 @@ lightBoxImages: ["/assets/img/BobrekKanseriAmeliyati1.jpeg", "/assets/img/Bobrek
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 ![Böbrek Kanseri ameliyatı](/assets/img/bobrekkanseriameliyati.jpeg)
 Böbrek kanseri cerrahi operasyon ile tedavi edilebilir. Böbrek kanserinde yapılan ameliyatlar 2 tipten oluşmaktadır. Böbrekte bulunan kitlenin lokasyonu ve büyüklüğü saptandıktan sonra cerrahlar ameliyat planlaması yaparlar. Bu planlama da hastanın genel sağlık durumu ve diğer tarafında bulunan böbreğin durumu baz alınır ve Partiel Nefrektomi veya Radikal Nefrektomi ameliyatlarının hangisinin yapılacağına karar verilir. Bazı özel vakalarda ise hiç tedavi uygulanmaması yönünde karar alınır.

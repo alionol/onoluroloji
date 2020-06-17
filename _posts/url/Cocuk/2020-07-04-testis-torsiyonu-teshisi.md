@@ -21,8 +21,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 Testis torsiyonun teşhisi için farklı bir puanlama sistemi kullanılır.
 

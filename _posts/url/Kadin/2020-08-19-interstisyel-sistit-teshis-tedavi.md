@@ -20,8 +20,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 Ağrılı mesane sendromu da dediğimiz İnterstisyel sistit; mesane, rahim ve diğer pelvis içi organlarda şiddetli bir ağrı ile kendini gösterir. İnterstisyel sistit hastaya basınç hissi verir ve kronik bir hastalıktır. Sağlıklı bireylerin boşaltım sistemlerinde mesanenin dolması, beyne uyarı gitmesi ve mesanenin boşaltılması şeklinde işler. Fakat İnterstisyel sistit vakalarında hastalar, mesanelerine az miktarda idrar gitse bile şiddetli bir ağrı hissederler ve idrar yapma ihtiyacı duyarlar. İnterstisyel sistite genelde 30 yaş üstü rastlanır. Erkekler de görülme oranı nadirdir fakat İnterstisyel sistite benzer şikayetler varsa araştırılmalıdır. Çünkü bu sistitin erkeklerde nadir görülmesi, hastalığa teşhis konulamamasına sebebiyet verebilir. İnterstisyel Sistit, diğer adıyla ağrılı mesane sendromunun net bir tedavisi yoktur. Fakat hastaların, uygulanan diğer tedavi yöntemleri ile rahatlatılması denenir. Hastalık; yoğun stres, regl döneminde uzun süre oturulması, fazla fiziksel aktivite ve cinsel birleşme sonrasında şiddetlenir. Bu anlarda ağrı vajina, anüs ve mesane, rahim gibi diğer pelvis iç organlarda kendini gösterir. İnterstisyel sistit vakalarında hasta sürekli işeme ihtiyacı duyar. Bir günde 60-70 kez idrar yapma ihtiyacı hisseden vakalar görülmüştür. Cinsel birleşme İnterstisyel sistit ağrılarını harekete geçirir. Bu durum partnerler arasında oluşabilecek cinsel problemlere sebebiyet verebilir.
 

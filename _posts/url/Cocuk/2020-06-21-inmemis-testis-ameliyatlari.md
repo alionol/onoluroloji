@@ -23,8 +23,8 @@ lightBoxImages: ["/assets/img/inmemistestiskasikfitigi.jpeg","/assets/img/inmemi
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 
 ## İnmemiş Testisin İlaçla Tedavisi Mümkün Mü?

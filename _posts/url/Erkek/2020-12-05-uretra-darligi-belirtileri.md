@@ -20,8 +20,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 ![Üretra Darlığı Belirtileri](/assets/img/uretradarligi.jpeg)
 Yan tarafta sunulan görsellerde idrar yolunda meydana gelen darlıkların seviyeleri gösterilmektedir. Üretra darlığında en önemli belirtiler sık ve ağrılı işemedir. Hasta idrarını yapmak için zorluk çeker ve ince işer. Mesanede ise idrarın tam olarak atılamamasından kaynaklı ağrı ve dolgunluk hissedilir. İdrar yapıldıktan sonra damlama görülür. Peniste eğrilik görülebilir ya da hastanın idrarında ve menisinde kan bulunabilir. Hastalar cinsel birleşme esnasında ağrı yaşayabilirler.

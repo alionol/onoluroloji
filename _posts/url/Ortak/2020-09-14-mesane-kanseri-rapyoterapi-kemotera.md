@@ -20,8 +20,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 Mesane kanserinin tedavisinde uygulanan operasyonlar büyük önem taşımaktadır. Fakat operasyona ek olarak kemoterapi ve radyoterapi de önemli ölçülerdir. Ameliyat ile birlikte kemoterapi ve radyoterapinin de uygulanması hastanın yaşam kalitesi ve süresinin artması bakımından etkili faktörlerdir.
 

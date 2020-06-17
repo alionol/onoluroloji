@@ -22,8 +22,8 @@ youtubeId2: "BW89QLwkGP0"
 {% include youtubePlayer.html id=page.youtubeId %}
 
 
-* TOC
-{:toc}
+
+
 
 ## Kadında Üretra Darlığı Kapalı Ameliyat;
 

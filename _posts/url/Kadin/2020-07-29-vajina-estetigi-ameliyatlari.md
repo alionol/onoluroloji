@@ -20,8 +20,8 @@ youtubeId: "iIEvyYvsXnU"
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 ## Labioplasti (Küçük Dudak Estetiği)
 

@@ -21,8 +21,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 İnmemiş testis fizik muayene ile yüzde 80 oranında tespit edilir. Fizik muayene ile anlaşılmayan durumlarda ultrasonografi, tomografi, EMAR ve tanısal laparoskopi kullanılarakta teşhis konulabilir. Çocukların bünyesi radyasyona karşı hassas olduğu için Tomografi kullanımı mümkünse tercih edilmemelidir. EMAR anestezi gerektirdiği ve uzun zaman aldığı için kullanışlı değildir. İnmemiş testisler yüzde 15 oranında karın içi bölgesinde takılmıştır. Çok yukarda kalmış bu testisler için tanısal laparoskopi gereklidir. Çift taraflı inmemiş testisi bulunan hastalarda çift cinsiyet olma ihtimali vardır. Bunun kesin tanısı için hormon analizi, genetik araştırma ve  tanısal laparoskopi yapılmalıdır.
 

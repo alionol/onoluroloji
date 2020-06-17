@@ -20,8 +20,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 •	Klitoris üzerinde bulunan cilt dokusunun uzun ve geniş olması
 •	Vajinal büyük dudakların normalden ince veya kalın olması

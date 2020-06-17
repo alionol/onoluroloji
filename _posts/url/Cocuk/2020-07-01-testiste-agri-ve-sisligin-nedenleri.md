@@ -21,8 +21,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 Testistede ki şişlik ve ağrılar daima testis torsiyonundan (Testis dönmesi) kaynaklanmayabilir. Bu ağrı ve şişlikler iyi bir şekilde incelenmesi doğru teşhis koyulması için önemlidir.
 

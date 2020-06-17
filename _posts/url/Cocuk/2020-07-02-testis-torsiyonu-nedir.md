@@ -21,8 +21,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 ![Testis Torsiyonu](/assets/img/testistorsiyonunedir.jpeg)
 Sağlıklı bir yetişkinin testisleri alt ve üst taraflardan sabit haldedir.Bu yüzden normalde damarsal sapları etrafında dönmezler. Testis sapının (spertmatik kord) dönmesini engelleyen tunika vajinalis adını verdiğimiz bir zar vardır. Bu zar balonsu yapıdadır ve testisi hem üstünden hem altından sarar.

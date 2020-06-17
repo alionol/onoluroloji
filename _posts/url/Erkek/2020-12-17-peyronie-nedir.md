@@ -20,8 +20,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 ![Peyronie Nedir](/assets/img/peyronie.jpeg)
 Erkek hastaların yüzde 3’ü penislerinde görülen eğrilik nedeniyle doktorlara müracaat ederler. Penis eğriliği; doğumsal penis eğrilikleri ve sonradan kazanılan penis eğrilikleri olarak iki farklı sınıfta incelenmektedir. Peyronie hastalığı ile oluşan penis eğrilikleri sonradan kazanılır. Doğuştan gelen penis eğrilikleri Hipospadyas hastalığına bağlı olarak oluşabilir. Ayrıca doğumsal bir anomali olarak bebeğin erkeklik organı eğri olabilir.

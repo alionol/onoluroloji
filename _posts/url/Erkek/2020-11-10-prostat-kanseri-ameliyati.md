@@ -22,8 +22,8 @@ lightBoxImages: ["/assets/img/ProstatKanseri1.jpeg","/assets/img/ProstatKanseri2
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 Prostat kanseri için yapılan operasyonlarda 3 ayrı yöntem uygulanmaktadır.
 

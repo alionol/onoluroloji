@@ -20,8 +20,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 Testis kanseri, testiste kötü huylu kanser hücrelerinin oluşmasına bağlı olarak görülen kanser türüdür. Testis kanseri çoğunlukla 15-35 yaş aralığındaki hastaların testislerinin birinde şişliğe yol açarak kendini belli eder. Bu yaştaki insanların şişliği önemsememesi veya utanma sebebiyle muayeneye gelmemesi hastalığın erken teşhisini engellemektedir. Testiste herhangi bir şişlik fark edildiğinde mutlaka bir üroloğa muayene olunması gerekmektedir. Testis kanserinin görülme oranı 60 yaş üstü hastalarda fazlalaşabilir. Tedaviye çabuk cevap veren bir kanser türüdür. Testis kanseri hastada ağrı hissi oluşturmadığından genellikle geç fark edilmektedir. Hastalar; muayene olmakta, testislerinde görülen şişlikten dolayı çekingenlik duyduklarından testis kanserinin ilk teşhisi için zaman kaybı yaşanabilir. Erken teşhis testis kanseri tedavisinde önemlidir.
 

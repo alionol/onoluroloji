@@ -20,8 +20,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 Kadınların mesanelerinde oluşan iltihaplanmaya tıp dilinde sistit adı verilir. Sistite genelde bakteriler sebep olur. Ancak bakteriye bağlı olmayan sistitler de vardır. Sistit işeme esnasında ağrı ve yanma hissiyle kendini gösterir. Sistitin böbreklere yayılması durumu hayati tehlike oluşturabilir fakat bu durum çok sık görülen bir durum değildir. Sistit, farklı tedaviler için kullanılan ilaçların yan etkisi sebebiyle olabilir. Mesane etrafında ki kanserli organlara uygulanan ışık tedavisi de sistite neden olabilir. Bakteriyel sistit antibiyotik ile kolayca tedavi edilir ancak farklı nedenlerden ötürü oluşan sistitte tedavi yöntemi, sistitin nedenine göre belirlenir. Bazı durumlarda kadınlarda gereksiz antibiyotik kullanımı sistit hastalığını tedavi etmek yerine alevlendirir. Çünkü antibiyotik kullanımı vajinadaki kötü ve iyi mikrop dengesini bozar. Bu yüzden antibiyotik kullanımı mutlaka tecrübeli bi hekim tarafından değerlendirilmelidir. Sistit iyi sorgulanması gereken bir hastalıktır. Sistit birçok etkene bağlı olarak oluşabilir. Sistitin nedenini bulmak tedavi planlamasının en önemli parçasıdır. Sebebe yönelik tedavi başarılı sonuç verir.
 

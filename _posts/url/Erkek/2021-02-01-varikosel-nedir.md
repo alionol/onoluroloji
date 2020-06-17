@@ -20,8 +20,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 ![Varikosel](/assets/img/varikosel.jpeg)
 Erkek bireylerin testisleri, skrotum adı verilen gevşek ve esnek yapıda bulunan testis torbasının içinde konumlanmıştır. Testislerin oluşumu anne karnında iken bebeğin bel bölgesinde başlar. Hamileliğin 7. ayında, bel bölgesinde oluşum gösteren testisler aşağı yönde kasıklara doğru iniş gösterir ve skrotuma yerleşim sağlar. Anne karnından yaşanan bu sürece bağlı olarak testislerin damarlarının kaynağı bel bölgesidir. Testisler, skrotum dediğimiz testis torbasının içinde damarsal yapıda bir sapla asılı haldedir. Testislerin asılı durmasını sağlayan bu damarsal sap bel bölgesinden gelmektedir. İşte bu sapın toplardamarının anormal bir şekilde genişlemesi durumuna Varikosel adı verilmektedir. Varikosel hastalığı, skrotumun yüzeyinde oluşturduğu solucan şekline benzer birçok kıvrımlarla dışardan fark edilebilir. Varikoselin teşhisi bu bakımdan kolaydır. Genellikle sol testiste görünür. Bazı durumlarda ise her iki testiste rastlanır. Varikosel yaygın bir hastalıktır. Ancak her varikosel ameliyat edilmez. Hastanın durumuna göre ameliyat kararı alınır. Varikosel sperm sayısını ve kalitesini etkileyen bir hastalıktır. Varikosel ameliyatından sonra kısırlık şikayeti olan hastalar bu sorunlarından kurtulabilir. Ameliyat sonrası geçen belli bir süre sonrasında sperm sayı ve kalitesinde artış gözlenebilir.

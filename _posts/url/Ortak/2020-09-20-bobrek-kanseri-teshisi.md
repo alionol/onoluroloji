@@ -21,8 +21,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 Böbrek kanserini teşhis etmek amacıyla damar yolundan contrast madde dediğimiz boyalı bir madde gönderilir. Böbrek bu maddeye tutunarak tümörün ebatı ve lokasyonu hakkında belirleyici bilgiler almamızı sağlar (kontraslı EMAR ve BT). Fakat böbrek içinde bulunan bir kitlenin masum ya da saldırgan olduğunun anlaşılması hiçbir görüntüleme tekniğiyle mümkün değildir. Bunun için cerrahi uygulanarak böbrekte bulunan her kitle dışarı çıkarılmalı, patalojik incelemeler yapılmadır. Pataloji sonucunda elde edilen veri tümör ile alakalı kesin teşhisin konmasında ışık tutar.
 

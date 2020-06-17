@@ -20,8 +20,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 Sistit teşhisini koyabilmek için en pratik yöntem anamnezdir. Anamnez hastanın iyi bir şekilde sorgulanmasıdır. Bu yöntemde hastaya kendisi ve aile geçmişi hakkında belirli sıra ve düzende sorular sorulur. Bu şekilde sistitin teşhisi yanında sebebi de anlaşılmaya çalışılır. Aynı zamanda hastadan idrar tahlili alınmalı ve antibiyotik duyarlılık testi yapılmalıdır. Sistit çok fazla tekrarlıyor ise idrar kanalı üzerinden mesaneye girilmelidir. Mesane teleskopik araçlar ve kameralarla izlenmelidir. Radyolojik ve ultrasonografik görüntüleme tekniklerini kullanmak önemlidir. Bu yöntemler sistiti oluşturan sebepler hakkında bilgilenmeyi sağlayacaktır. Sistitin sebebini saptamak tedavi için çok önemlidir. Sistitin kronik bir hal almamasıda tedavide öncelikler arasındadır.
 

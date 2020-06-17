@@ -20,8 +20,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 ![Vajina Anatomisi](/assets/img/vajinaanatomisi.jpeg)
 Vajina, pubis kemiği üzerindeki kıllı bölge, mons tepesi, büyük ve küçük dudaklardan oluşur. Üzerinde penis minyatürü olan bir organ vardır ve bu bölgeye klitoris adı verilir. Klitorisin altında mea dediğimiz idrar deliği vardır. İdrar kanalı bu deliğe açılır. İdrar deliğinin altında ise içinde kızlık zarı bulunan vajina girişi vardır. Vajinada, girişi dış taraftan kaplayan etli kısıma labium minus adı verilen dış dudaklar vardır. Labium minus dediğimiz iç dudaklar ise dış dudakların iç kısmında bulunur. Klitoris kadınlar için orgazm olma da önemli rol oynar. Klitorisin üzerinde bir deri bulunur ve bu deri erkeklerde ki sünnet derisini anımsatır. Kızlık zarı ise idrarın çıktığı deliğin altında bulunan vajina girişinde bulunmaktadır.

@@ -20,8 +20,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 ![Kadınlarda Boşaltım Sistemi](/assets/img/kadinidrarkacirma.jpeg)
 

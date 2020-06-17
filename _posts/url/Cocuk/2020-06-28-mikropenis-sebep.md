@@ -20,8 +20,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 
 •	Mikropenis vakalarının büyük bir kısmı, bebek henüz anne karnındayken testislerin yeterli miktarda erkeklik hormonu salgılamamasından kaynaklanmaktadır. Testosteron dediğimiz erkeklik hormonunun salgılanmaması, beyinde ki uyarıcı hormonların salgılanmamasından kaynaklanabilir. Aynı zamanda testislerin doğuştan gelişimini tamamlayamamasına bağlı olarak beyinden gelen bu uyarılara cevap verebilecek nitelikte testis dokusununun bulunmamasından da kaynaklanabilir. Beyin ve testis salgılarının işlevlerini sağlamasına rağmen hastanın genital bölgesinde alıcı bulunmamasına bağlı olarakta görülebilmektedir.

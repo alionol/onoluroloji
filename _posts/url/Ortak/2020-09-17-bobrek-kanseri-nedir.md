@@ -21,8 +21,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 Böbrek kanseri böbrekte kanser hücrelerinin oluşup kümelenmesiyle meydana gelir. Böbrek hücreleri olağandışı bir şekilde artıp çoğalarak kitle oluştururlar. Bu kitle oluşumu böbrek kanserine sebebiyet verir. Uzakta bulunan dokulara ve organlara sıçramayan tipte kanser ve tümör tipleri vardır ve bu özellikleri neticesinde hayati tehlike oluşturmazlar. Kanserli hücrelerin gelişip diğer organlara kan aracılığıyla sıçraması durumuna metastaz denir. Metastaz yapan hücreler çoğalarak kitle oluşumuna neden olurlar. Kanserler iki ayrı sınıfta değerlendirilir; evre ya da stage dediğimiz, hasta da görülen kitlenin büyüklüğü ve grade adını verdiğimiz hücrenin saldırganlık durumuna göre bu değerlendirme yapılır.
 Böbrek kanseri birçok tipte görülebilir. Çok saldırgan ve kısa bir sürede metastaz yapan tipte kanserler görülmesinin yanında saldırgan olmayan tipte ki kanserlere de rastlanılabilir. Cerrahi operasyonla çıkarılan kitleye patalojik tetkikler yapılmasından sonra kanser tipi anlaşılır. Böbrek kanseri bu sebebi ile diğer kanser tiplerinden daha farklıdır. Böbrek kanserinin çok fazla tipi vardır.

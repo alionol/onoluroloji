@@ -20,8 +20,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 Yetişkinlerde görülen hidroselde, hasta testislerinde ağrı hisseder ve testis torbasında şişlik görülür. Testislerdeki bu şişlik zaman içinde iyice büyür ve kıyafetler üzerinden bile fark edilebilecek hale gelir. Bu durumda hastanın sosyal yaşantısını ve psikolojisini kötü anlamda etkiler. Yetişkin bireylerde görülen hidrosel, kasık kanalında açıklık yaratmaz.
 

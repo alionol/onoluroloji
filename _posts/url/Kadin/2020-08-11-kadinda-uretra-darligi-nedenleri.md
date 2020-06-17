@@ -20,8 +20,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 Normal doğum esnasında kadınların vajinalarındaki yaralanmalar üretra darlığına sebebiyet verebilir. Aynı zamanda vajinaya yapılan çeşitli cerrahi müdahaleler, idrar yolunda meydana gelen iltihaplanmalar, üretraya uygulanan gereksiz sondalar, trafik kazaları sonucu çeşitli yaralanmalar ve vajina etrafında oluşan kanser sebebiyle uygulanan ışın tedavisi gibi işlemler üretranın esnekliğine hasar verebilir. Bu hasar sonucunda üretranın tamamıyla yada bölgesel olarak daralabilir. Kadınlarda üretranın daralması durumunda idrar yapılırken güçlük çekilir. İdrarın yapılması esnasında ince işeme, ıkınarak işeme veya sık sık işeme ihtiyacı duyulması gibi sonuçlara yol açar. Üretra darlığına en çok sebebiyet veren konulardan biri ihtiyaç duyulmamasına rağmen idrar kanalına uygulanan sonda işlemidir. Sürekli tekrar edilen sonda işlemleri idrar kanalında yaralanmalara yol açar. Bu yaralanmalarda idrar kanalı darlığına sebebiyet verir. İdrar kaçırma şikayetlerinde yapılan gevşek sling (TOT-TVT) operasyonlarının bir komplikasyonu olarak idrar kanalının daralması da sık rastladığımız durumlardan biridir. Bir çok nedeni olan kadınlardaki idrar kanalı darlığının nedene bağlı olarak uygulanan tedavi yöntemleri vardır. Darlığın boyutu, darlığın sebebi vs.. tedavinin belirlenmesinde önemli rol oynar.
 

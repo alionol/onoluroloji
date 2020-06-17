@@ -20,8 +20,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 Cinsel isteksizliğin tedavisinde ilk adım hasta da tıbbi bir problemin olup olmadığının belirlenmesidir. Detaylı sorgulama yapılması, fizik muayene, idrar ve kan tahlilleri aracılığıyla hastalık kesin olarak teşhis edilebilir. Cinsel isteksizliğe neden olan faktörün doğru bir şekilde saptanması tedavinin verimini arttırmaktadır. Çünkü sebep üzerine belirlenen tedavilerden iyi sonuç alınmaktadır.
 

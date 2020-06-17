@@ -20,8 +20,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 •	Tomografi: Bu yöntem kullanılarak farklı açılardan görüntü alınır ve vücut içinin fotoğrafı çekilir. Hastaya damar ya da ağız yoluyla boyalı madde verilir. Boyalı madde sayesinde hastanın organı ve dokuları rahatlıkla görünür hale gelir. Tomografi ile sadece mesane değil, göğüs boşluğu, leğen kemiği içinde bulunan organlar, karın içi resimleri de elde edilir.
 

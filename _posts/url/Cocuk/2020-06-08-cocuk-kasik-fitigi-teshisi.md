@@ -20,8 +20,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 Kasık fıtığı; yeni doğan bebekte ve çocukta, kasık veya testis torbasında oluşan bir şişlikle kendini gösterir. Bu şişlik çıplak gözle kolay fark edilebilen bir şişliktir. Şişlik sayesinde hastalığın teşhisi kolaydır. Fakat; çocuk yattığında, bağırsakların ve omentumun geriye, karın içerisine doğru kaçmasıyla şişlik kaybolabilir. Bu durumda hiç belirti olmadığı düşünülebilir. Çocuk hareket ettiğinde veya ağladığında karının içinde ki basınç arttığı için organlar tekrar fıtık kesesinden dışarı kayar ve şişlik tekrar belirginleşir. Bu şişliğe ağrılı ve ağrısız rastlamak mümkündür. Çocuk kasık fıtığından şüphe edildiğinde ultrasonografi faydalıdır.
 

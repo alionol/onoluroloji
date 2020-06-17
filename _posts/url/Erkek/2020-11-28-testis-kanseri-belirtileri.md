@@ -20,8 +20,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 Testis kanseri hastalarının testislerinde ağrı hissedilmeyen bir şişlik görülebilir. Testiste büyüme gösteren bu kitlenin ağırlığına bağlı olarak hastanın bel kısmında ve hayalarında belirsiz ağrılar görülür. Hastalar ağrı hissetmeden gördükleri bu şişliği önemsemediklerinden hekimlere başvuru yapmakta geç kalabilirler. Hastanın bu önemsememe durumuna bağlı olarak tanısı ve tedavisi yapılamayan testis kanseri karın arkasında bulunan lenf bezlerine ve akciğerlere yayılım sağlayabilir. Hastanın testisleri iyice büyür. Erken teşhis yapılarak bu tip durumların önüne geçilebilmesi için hastanın konunun bilincinde olması ve doktora başvurmakta geç kalmaması mühimdir.
 

@@ -20,8 +20,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 Prostatta görülen basit büyümelerden kaynaklanan işeme şikayetlerinin günümüzde, yaşlanmış mesaneden de kaynaklanıyor olabileceği düşünülmektedir. Bu ihtimal hastanın durumunun incelenmesinde göz ardı edilmemesi gereken bir konudur.
 

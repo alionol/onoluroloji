@@ -23,8 +23,8 @@ lightBoxImages4: ["/assets/img/KalinBagirsakYapayMesane1.jpeg", "/assets/img/Kal
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 Radikal sistektomi operasyonunda hastanın mesanesi ve etraf dokuları çıkartılmaktadır. Hastanın idrarını dışarıya atması gerektiğinden, vücutta yeni bir idrar sistemi oluşturulmalıdır. Bu ameliyatta uygulanan 2 teknik bulunmaktadır. Her 2 teknikte hastanın genel durumu ve kanserin vücuttaki yayılımına göre kullanılmaktadır.
 

@@ -20,8 +20,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 •	Hastanın geçmişte yaşadığı tıbbi hadiseler tetkik edilir. Önceden geçirdiği ameliyatlar ve işlemler titizlikle incelenir.
 

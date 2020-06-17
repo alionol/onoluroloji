@@ -20,8 +20,8 @@ youtubeId: false
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
-* TOC
-{:toc}
+
+
 
 Halk tarafından ‘su fıtığı’ adı verilen hastalık, tıp çevrelerinde hidrosel adını almaktadır. Testis çevresinde sıvı birikmesine bağlı olarak gelişen bir hastalıktır. Testis ve testis sapını çepeçevre saran iki katmanlı koruyucu bir zar bulunur ve bu zara “Tünikavajinalis” adı verilir. Bu zarın katmanları arasında vücudun ürettiği az miktarda bir sıvı bulunmaktadır. Vücudun devamlı olarak salgıladığı ve fazlası dışarı atılan bu sıvıyla testisler travmalara karşı kendini korumaya alır ve sperm üretimi devamlılık sağlar. Testisi saran bu zarın salgılamasında ve emilim yapmasında meydana gelebilecek hasarlar, iki zar arasındaki sıvı birikiminin artmasına sebep olur. Normalde bu sıvı 0,5 ml - 1 ml arasındadır. Ancak Hidrosel görüldüğü durumda 100 - 200 ml’ye kadar çıkabilir. Zarlar arasında ortaya çıkan sıvı birikimindeki artış hastada şikayetlere neden olur ve bu hastalığa Hidrosel adı verilir. Bu sıvı birikimi testis torbasında şişliğe neden olur. Hidrosel genellikle çocuklarda ve yetişkin erkeklerde görülür. Çocuklardaki hidrosel genellikle 1 yaşına kadar kendiliğinden kaybolur. Çocuklarda uygulanan tedavi ile yetişkin bireylerde uygulanan tedavi birbirinden farklıdır.
 
