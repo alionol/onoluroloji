@@ -27,4 +27,4 @@ youtubeId: false
 Tıp literatüründe kitle veya tümör adı verilen oluşumun içi katı madde ile doludur. Kist dediğimiz oluşum ise içi sıvı dolu olan kesedir. Her kist kanser demek değildir. Hasta yaş aldıkça böbreğinin içinde farklı ebatlarda kistler meydana gelebilir. Bu kistler için çoğunlukla tedaviye gerek kalmaz, zararsızdırlar. Bosniak adı verilen kontrast tutulumunda kistler 4 derecede sınıflandırılmıştır. Bu sınıflandırma da; I ve II. grup kanser sayılmaz. III. grubun yüzde 50’si kanser olabilir, IV. Grup ise kistik kanserdir. Kistlerin kanser olup olmadığı kontrastı görüntüleme yöntemi kullanılarak anlaşılabilir.
 
 
-Böbrek Kanseri hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/bobrek-kanseri)
+Böbrek Kanseri hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/bobrek-kanseri)

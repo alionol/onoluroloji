@@ -33,7 +33,7 @@ Radikal sistektomi operasyonunda hastanın mesanesi ve etraf dokuları çıkart�
 **İkinci yöntem ise;** üretero ileo kutaneostomi adı verilen, uygulaması daha kolay bir tekniktir. Hasta idrarını normal bir şekilde dışarı atamaz. İki böbrekten gelen idrar kanalı birbirine ağızlaştırır. Öncesinde 15-20 cm boyutlarında alınan saplı bağırsak parçasının bir ucuna ağızlaştırılan idrar kanalı yerleştirilir. Bağırsaktan alınan parçanın diğer ucu ise hastanın karın cildine ağızlaştırılır. Kanser nedeniyle hastanın mesanesi bütünüyle çıkarıldığından, hastalar idrarını ciltten 15 cm civarında oluşturulan ara bağırsak bölümünden dışarı atabilirler. Hastanın cildine ürostami adı verilen bir idrar torbası yerleştirilir ve idrar atmak için yaşam boyunca bu torba kullanılır.
 
 
-Mesane Kanseri hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/mesane-kanseri)
+Mesane Kanseri hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/mesane-kanseri)
 
 
 ## Bağırsaktan Mesane Yapımı Ameliyatı Görselleri

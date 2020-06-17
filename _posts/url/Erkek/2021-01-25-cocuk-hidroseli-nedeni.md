@@ -26,4 +26,4 @@ youtubeId: false
 Erkek bebeklerin testis gelişimi anne karnında başlar. Böbreklerle beraber büyümeye başlayan testisler, bebek büyüdükçe aşağı yönde iniş gösterirler. Zaman içinde kasık kanalı üzerinden skrotum adını verdiğimiz testis torbasına yerleşim yaparlar. Testislerin skrotuma inişi sırasında ‘’periton’’ adı verilen karın zarını da beraberlerinde sürüklerler. Testislerle beraber testis torbasına sürüklenen periton zarı, testisleri saran koruyucu zarın oluşumuna neden olur. Yeni doğan bebeklerde bu periton zarı kasık kanalı üzerinde tam anlamıyla kapanmayabilir. Bu durumda bebeğin karnının içinde oluşum gösteren sıvı, testis zarlarının arasına doğru akar. Yeni doğan bebeklerde görülebilen bu bağlantı çoğunlukla bebek büyüdükçe tümüyle kapanma gösterir. Ancak bebek doğduktan sonra 1-1,5 yıl içinde zarın kapanmaması durumunda çocuğun testisleri çevresinde fazla miktarda sıvı birikimi yaşanır.
 
 
-Hidrosel hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/hidrosel)
+Hidrosel hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/hidrosel)

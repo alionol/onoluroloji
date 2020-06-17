@@ -28,5 +28,5 @@ youtubeId: false
 Böbrekler; karın boşluğunun arka tarafındaki bel bölgesinde bulunmaktadır. Fasulye şekline benzetilen böbrekler, sağ ve sol tarafta konumlanmışlardır, yumru büyüklüğündedirler. Böbrekler kanda bulunan atık maddeleri filtreleyip idrar haline getirmekle yükümlüdürler. Sağ böbrekte 1, sol böbrekte 1 milyon olmak üzere böbreklerde toplam 2 milyon adet nefron bulunmaktadır. Nefron ise kanı atık maddelerden süzerek temizleyen mikroskobik bir ünitedir.
 
 
-Böbrek Taşı hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/bobrek-tasi)
-Böbrek Kanseri hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/bobrek-kanseri)
+Böbrek Taşı hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/bobrek-tasi)
+Böbrek Kanseri hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/bobrek-kanseri)

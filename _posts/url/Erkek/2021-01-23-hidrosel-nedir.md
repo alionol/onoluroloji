@@ -27,4 +27,4 @@ Halk tarafından ‘su fıtığı’ adı verilen hastalık, tıp çevrelerinde 
 
 
 
-Hidrosel hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/hidrosel)
+Hidrosel hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/hidrosel)

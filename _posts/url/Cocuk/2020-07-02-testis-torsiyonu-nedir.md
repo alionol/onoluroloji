@@ -38,4 +38,4 @@ Testis torsiyonu genellikle yeni doğan bebeklerde ve ergenlik çağındaki erke
 Testis torsiyonu ile testis kanseri beraber görülebilir. Hatta testis torsiyonunu vakalarının yarısından fazlası kanserli olabilir. Kanser sebebiyle şişen ve ağırlaşan testis damarsal sapı çevresinde dönmeye müsait hale gelir.
 
 
-Testis torsiyonu hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/testis-torsiyonu)
+Testis torsiyonu hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/testis-torsiyonu)

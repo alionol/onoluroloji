@@ -42,4 +42,4 @@ Erken tanı konması durumunda, uygunluk halinde hormon tedavisi uygulanarak ço
 Mikropenisin geç teşhis edildiği vakalarda da hormon tedavisi yapılır. Fakat bu tedaviler erken döneme kıyasla daha az verimliliğe sahiptir. Çocuğu yaşı ilerledikçe erkek tipi kıllanma ve kas kemik gelişimi tatmin edici oranda olmayabilir.
 
 
-Mikropenis hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/mikropenis)
+Mikropenis hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/mikropenis)

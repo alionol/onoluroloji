@@ -31,4 +31,4 @@ youtubeId: false
 Beşinci derece ise en yüksek derecedir.  Bu derecede üreter bütünüyle genişlemiştir. Böbrek havuzcuğu genişlemiştir. Böbreğe kaçan idrar böbrekte incelme yaratmıştır. Beşinci derecede, idrar mesaneden böbreğe çok yoğun olarak kaçmaktadır. Böbrek reflüsü hastaları tedavi edilmemesi sonucunda böbrek yetmezliği ile karşılaşabilirler hatta diyalize bağlı bir yaşam sürdürme ihtimalleri vardır.
 
 
-Böbrek reflüsü hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/bobrek-reflusu)
+Böbrek reflüsü hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/bobrek-reflusu)

@@ -73,7 +73,7 @@ Yapılacak 2. operasyonda 1. Operasyondaki yama serbestleştirilir. 2 yandan bir
 Defalarda operasyon geçirmiş fakat başarılı netice alınamamış hastaların ameliyatı daha fazla tecrübe ve beceri gerektirir. İdrar kanalı oluşturulduktan sonra penisi sarma da kullanılacak yeterli cilt dokusu yoksa tüy olmayan bölgelerinden alınan cilt yamaları kullanılarak penis cildi yapılır.
 
 
-Hipospadias hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/hipospadias)
+Hipospadias hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/hipospadias)
 
 
 ## Hipospadias Ameliyatı Görselleri

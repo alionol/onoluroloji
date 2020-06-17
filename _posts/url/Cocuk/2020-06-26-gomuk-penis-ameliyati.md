@@ -32,4 +32,4 @@ Sünnet hatasına bağlı gömük penis vakalarının ameliyatlarında penisi sa
 Ameliyatta eski sünnet izi kullanıldığından iz kalmaz. Önceden sünnet olmamış hastalarda ise sünnet izine benzer bir iz kalır. Gömük penis ameliyatı ile penisteki şekil bozukluğu düzelir. Hastalıktan kaynaklanan hijyen sorunları ve beraberinde getirdiği psikolojik sorunlar ortadan kalkar. Hastanın penisi normal büyüklüğüne getirilir.
 
 
-Gömük penis hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/gomuk-penis)
+Gömük penis hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/gomuk-penis)

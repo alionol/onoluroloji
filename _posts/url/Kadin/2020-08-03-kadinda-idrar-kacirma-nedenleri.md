@@ -36,4 +36,4 @@ Vajinadan başarısız cerrahi operasyon geçirmiş hastaların üretraları ame
 20 yıl öncesinde mesanenin depolama ve boşaltma işlevi hakkında bugünki kadar bilgi yoktu. O yıllarda hastalar son derece yorucu ve hastanede kalma süresini uzatan operasyonlarla iyileştirilmekteydi. PETROS ve ULMSTEN ile beraber işeme fizyolojisi ve fizyopatolojisi daha net anlaşıldı. İdrar kaçırmaların onarılması için yapılan müdahaleler hastaya minimum travma veren basit operasyonlar haline geldiler. Günümüz teknolojisi ve ameliyat teknikleriyle hastalar genellikle aynı gün içinde taburcu edilirler.
 
 
-İdrar kaçırma hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/kadinlarda-idrar-kacirma)
+İdrar kaçırma hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/kadinlarda-idrar-kacirma)

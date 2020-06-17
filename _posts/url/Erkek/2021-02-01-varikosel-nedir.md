@@ -37,4 +37,4 @@ Varikosel bu gibi nedenlere bağlı olarak sperm kalitesinde bozukluklara neden 
 
 
 
-Varikosel hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/varikosel)
+Varikosel hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/varikosel)

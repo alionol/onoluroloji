@@ -30,4 +30,4 @@ youtubeId: false
 Vajinada en çok görülen şekil bozukluklarıdır. Bilhassa küçük dudakların uzun olması önemli bir şekil bozukluğudur. Penis, küçük dudakları uzun olan vajinaya girerken güçlük çeker ve bu da ciddi cinsel problemlere sebep olabilir. Klitoris üzerinde bulunan cilt olması gerekenden fazla ise, kadının klitoral orgazmı zorlaşır. Mons tepesinin ve büyük dudakların normalde daha fazla dolgun olması hoş bir görüntü oluşturmaz ve hastalada cinsel birleşme esnasında özgüven kaybına yol açar. Çok doğum yapılması veya yaşlılık vajina çıkışının gevşemesine ve genişlemesine sebep olabilir. Bu da vajina kanalından mesane, kalın bağırsak veya rahim gibi organların bütünüyle ya da kısmen vajinadan sarkmasına sebebiyet verir. Organların sarkması konusu vajina estetiğinde en önemli hususlardan biridir. Sarkan organların tekrar kendi yerlerine yerleştirilmesi işlemi olan TURC yöntemi operasyonu, tarafımızca dünya tıp literatürüne kazandırılmış bir işlemdir.
 
 
-Vajina estetiği hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/vajina-estetigi)
+Vajina estetiği hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/vajina-estetigi)

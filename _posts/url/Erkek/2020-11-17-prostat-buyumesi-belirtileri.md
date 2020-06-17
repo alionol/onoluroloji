@@ -30,4 +30,4 @@ Prostattaki basit büyümelerin teşhisi zor değildir. İdrar kanalı; prostat�
 Hastanın bu şikayetleri yalnızca prostat büyümesinden kaynaklanmayabilir. Diyabet, kalp ve böbrek sorunları, üretra denilen idrar kanalı darlıkları gibi nedenler de hastada işeme şikayetlerine yol açabilir. Bu tip hastalıklar prostat büyümesiyle karıştırılmamalıdır.
 
 
-Prostat Büyümesi hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/prostat-buyumesi)
+Prostat Büyümesi hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/prostat-buyumesi)

@@ -33,4 +33,4 @@ Testis kanserleri, “Seminematoz” ve “Non-seminematoz” adı verilen iki g
 
 Testis kanserinin genel olarak kalıtsal faktörlerden etkilendiği bilinmektedir. Buna ek olarak; inmemiş testis hastalarının testisleri operasyon ile düzeltilse bile yine de testis kanseri görülme ihtimali vardır. Aynı zamanda ileri erkek kısırlığı hastalarında da normal hastalara oranla daha fazla görülmektedir.
 
-Testis Kanseri hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/testis-kanseri)
+Testis Kanseri hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/testis-kanseri)

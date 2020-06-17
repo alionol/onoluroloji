@@ -102,7 +102,7 @@ Yukarıda bahsedilen tüm komplikasyonların onarımı tarafımızdan başarıyl
 
 
 
-Prostat Kanseri hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/prostat-kanseri)
+Prostat Kanseri hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/prostat-kanseri)
 
 ## Prostatın ve Lenf Düğümlerinin Çıkartılması Ameliyatı
 

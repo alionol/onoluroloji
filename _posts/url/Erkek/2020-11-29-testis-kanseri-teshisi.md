@@ -45,4 +45,4 @@ Testis kanserlerinde; gerekli incelemeler sonucunda evreleme yapılması ve uygu
 Gerek görüldüğünde hekim hastanın sertleşme problemi ile ilgili de tedavi uygular. Ve bu problemden hasta kurtulur. Testis kanseri sonrası sertleşme sorununun tedavisi mümkündür.
 
 
-Testis Kanseri hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/testis-kanseri)
+Testis Kanseri hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/testis-kanseri)

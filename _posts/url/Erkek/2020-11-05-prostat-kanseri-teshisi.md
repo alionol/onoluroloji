@@ -44,4 +44,4 @@ Orta ve yüksek risk grubundaki prostat kanserlerine tedavi şarttır. Gleason 4
 
 
 
-Prostat Kanseri hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/prostat-kanseri)
+Prostat Kanseri hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/prostat-kanseri)

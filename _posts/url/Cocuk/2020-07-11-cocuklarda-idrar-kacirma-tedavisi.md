@@ -43,4 +43,4 @@ Bu tedavi türünde; idrar kaçırma gösteren çocuğun iç çamaşırına veya
 Bütün tedavi türleri denenmiş fakat sonuç alınamamış ise aşırı aktif mesane, şeker hastalığı ve gece uyku apnesi hastalıkları üzerinde araştırma yapılmalıdır. Çocuğun psikolojisine bakılmalı, varsa davranış bozuklukları incelenmelidir. Çocuklarda idrar kaçırmanın nedenlerinden biride gizli kabızlıktır.  Çocuğa düz karın grafisi çekilir ve kalın bağırsağında bulunan dışkı gözlenir. Bu çekilen karın grafisi ile gizli kabızlık tanısı konulur ise, gizli kabızlık tedavisi yapılır ve bu sayede gece idrar kaçırma problemi ortadan kalkabilir. Ayrıca, ultrasonografi kullanılarak idrar sisteminde anomali olup olmadığına bakılır. Mesanede işlev bozukluğu araştırılır. Tedavi buralardan alınacak sonuçlar neticesinde planlanır. Tedaviye dirençli çocuk idrar kaçırmalarında Trisiklik antidepresan ilaçların etkisi ispat edilmiştir.
 
 
-Çocuklarda idrar kaçırma hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/cocuklarda-idrar-kacirma)
+Çocuklarda idrar kaçırma hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/cocuklarda-idrar-kacirma)

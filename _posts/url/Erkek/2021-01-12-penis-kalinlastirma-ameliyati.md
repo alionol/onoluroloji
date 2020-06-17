@@ -29,4 +29,4 @@ Sağlıklı bireylerde ereksiyon halindeki penis kalınlığının çevresi 10 i
 **Bizim uyguladığımız penis kalınlaştırma tekniğinde** ise skrotum adı verilen testis torbasının içinden dörtgen şeklinde geniş bir saplı dartos flap (doku) çıkartılıp, hazırlanır. Hazırlanan bu dokular penis derisi altından penis etrafına 360 derece sarılır ve penis derisi kapatılır. Bu sayede peniste simetrik bir görünüm elde edilerek daha düzgün bir kalınlaştırma işlemi yapılır.
 
 
-Penis Kalınlaştırma hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/penis-kalinlastirma)
+Penis Kalınlaştırma hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/penis-kalinlastirma)

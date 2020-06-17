@@ -75,4 +75,4 @@ Uzun yıllardan beri kullanmakta olduğumuz bu yöntem ile yalnızca ciltte 4-6 
 {% include youtubePlayer.html id=page.youtubeId2 %}
 
 
-Böbrek Taşı hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/bobrek-tasi)
+Böbrek Taşı hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/bobrek-tasi)

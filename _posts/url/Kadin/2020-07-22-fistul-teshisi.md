@@ -40,4 +40,4 @@ youtubeId: false
 Teşhiste en önemli konu fistülün bölgesini ve uzunluğunu belirlemektir. Fistül ameliyatları bulunduğu bölgeye ve uzunluğuna göre değişiklik gösterir. Teşhiste elde edilen bulgular hekimin ameliyatı nasıl yapıcağını kararlaştırmasını sağlar. İyi bir hasta sorgulaması ile beraber görüntüleme yöntemlerinden mutlaka faydalanılır.
 
 
-Fistül hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/fistul-idrar-kacirma)
+Fistül hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/fistul-idrar-kacirma)

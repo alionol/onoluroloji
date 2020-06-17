@@ -33,4 +33,4 @@ Bu gece idrar kaçırmaların çoğunun ise monosemptomatik idrar kaçırmalar o
 Yukarıda mono semptomatik idrar kaçırmalardan bahsettik. Diğer bir gece idrar kaçırma durumu ise, çoklu sebebe bağlı olan, Mono semptomatik olmayan (non-mono semptomatik) durumlardır. Non-mono semptomatik adını verdiğimiz gece idrar kaçırmalarında, idrar kaçırmaya ek olarak farklı hastalıklar da görülür. Bu durumda hastalar gündüz de idrar kontrolünü sağlayamaz ve idrar kaçırırlar. İdrar kaçırmanın bu türünün görüldüğü vakalarda ağrılı ve sık idrar yapma görülür. Bunun sebebi ise mesanenin dolması ve boşalması esnasında koordinasyon bozukluğu yaşamasıdır. Bu hastaların tedavileri daha komplekstir. Bu vakalarda titiz araştırmalar gere
 
 
-Çocuklarda idrar kaçırma hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/cocuklarda-idrar-kacirma)
+Çocuklarda idrar kaçırma hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/cocuklarda-idrar-kacirma)

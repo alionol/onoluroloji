@@ -59,7 +59,7 @@ Robot yardımlı laparoskopik ameliyatta, açık ameliyatın benzeri işlemler y
 Derecesi düşük olan vezikoüreteral reflü vakalarında endeskopik cerrahi yöntem kullanılabilir. Bu teknikte mesanenin içine uç tarafında aydınlatıcı olan bir tüple giriş yapılır. Üreterin mesaneye bağlandığı bölgeye bir madde enjekte edilir. Bu işlem kolaydır. Fakat orta derece olan böbrek reflülerinde ilk seferde sonuç alınamayabilir. Bu vakalarda birden fazla operasyona ihtiyaç duyulabilir. Bu da çocuğun işlem için 1 den fazla anestezi alması demektir.
 
 
-Böbrek reflüsü hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/bobrek-reflusu)
+Böbrek reflüsü hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/bobrek-reflusu)
 
 
 ## Böbrek Reflüsü Ameliyatı Görselleri

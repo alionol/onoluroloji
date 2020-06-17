@@ -50,4 +50,4 @@ Hidrosel hastalığı cerrahi müdahale uygulanmadan da tedavi edilebilir. Skrot
 Prensipte kolay görünen hidrosel operasyonunda, hidrosel probleminin giderilmesinin yanı sıra, testislerde oluşan spermin penise taşınmasını sağlayan “Vas Deferens” kanalına herhangi bir hasar verilmemesi de büyük önem taşımaktadır.
 
 
-Hidrosel hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/hidrosel)
+Hidrosel hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/hidrosel)

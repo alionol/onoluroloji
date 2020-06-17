@@ -36,4 +36,4 @@ Mesane kanserinin en büyük risk faktörü sigara kullanımıdır. İdrardan ka
 Mesane kanseri için gerekli tedavinin uygulanmasının akabinde tekrar mesanenin içinde ya da vücudun diğer bölgelerinde kanser görülmesidir.
 
 
-Mesane Kanseri hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/mesane-kanseri)
+Mesane Kanseri hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/mesane-kanseri)

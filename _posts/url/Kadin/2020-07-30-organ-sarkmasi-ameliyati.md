@@ -32,4 +32,4 @@ Vajina, hastanın çok doğum yapmasına veya yaşlanmasına bağlı olarak geni
 TURC adını verdiğimiz ameliyat tekniğinde, göbeğin alt kısmına 4-5 cm civarında bir kesi yapılır. Kaslar kesilmez ve sarkmış olan mesane, rahim, bağırsak organlarının bulunduğu bölgeye giriş yapılır. Organlar burada kendi özgün lokasyonlarına sentetik mesh dediğimiz özel bir cerrahi yama ile bağlanır. TURC tekniği ile yapılan operasyonların başarı oranı yüksektir. Bu teknik ile yapılan ameliyatlardan sonra hastalık nüks etmez ve bir daha cerrahi müdahaleye ihtiyaç kalmaz. Organ sarkması idrar kaçırmayla veya vajina girişi genişliği ile beraber görülebilir. Aynı ameliyatta iki soruna da müdahale edilebilir. Vajina girişine yapılan daraltma işlemiyle, cinsel temas esnasında penisin girmesi için daha ideal bir yapı oluşturulur.
 
 
-Vajina estetiği hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/vajina-estetigi)
+Vajina estetiği hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/vajina-estetigi)

@@ -39,4 +39,4 @@ Erkeklik hormonunun takviye edilmesi cinsel isteksizlik tedavisinde uygulanabili
 
 
 
-Cinsel İsteksizlik hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/cinsel-isteksizlik)
+Cinsel İsteksizlik hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/cinsel-isteksizlik)

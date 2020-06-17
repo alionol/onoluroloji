@@ -30,4 +30,4 @@ Hastane ortamında bulaşan enfeksiyonlardan kaynaklanan sistitin tedavisi daha 
 Menapoz dönemindeki kadınlarda görülen sistilerde antibiyotik kullanımına ek olarak vajinaya sürülecek östrojen içeren kremler de yarar sağlayabilir. Gebelik süresinde, hamileliğin sebep olduğu hormon dengesinin bozulmasına bağlı olarak idrar yolu, enfeksiyonlara karşı daha hassastır. Bu dönemde özel tedavi uygulanmalıdır ve hastayı belirli periyotlarda izlemek gerekir.
 
 
-Sistit hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/sistit)
+Sistit hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/sistit)

@@ -27,4 +27,4 @@ Varikoselin teşhisi çoğu zaman basittir. Çünkü genellikle testis üzerinde
 
 
 
-Varikosel hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/varikosel)
+Varikosel hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/varikosel)

@@ -28,4 +28,4 @@ Varikosel erkeklerin yüzde 20’sinde görülmektedir. Varikosel görülen erke
 İleri derecedeki varikosel çoğunlukla sol testiste ağrı hissine neden olur. Hastanın ağrı şikayetleri ilaç tedavisiyle sonlandırılır. Varikosel ameliyatından önce kesinlikle sperm testi uygulanmalıdır. Sperm testi uygulanmadan operasyon yapılmamalıdır.
 
 
-Varikosel hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/varikosel)
+Varikosel hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/varikosel)

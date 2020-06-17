@@ -39,4 +39,4 @@ Böbrek taşı vakalarında genetik faktör önemli rol oynar. İdrar yolu iltih
 
 Vücudun gıda yolu ile aldığı kalsiyumun fazlası idrar yolu aracılığıyla vücuttan dışarı atılır. D vitamini kullanımının fazla olması, üriner sistemde görülen enfeksiyonlar sebebiyle böbrek taşları görülür. Üriner sistemde meydana gelmiş tıkanıklıklar taş yapabilir. Gut hastalığı olan bireylerde görülebilir. Ayrıca ince bağırsak ameliyatının akabinde ve uzun bir süreçte bağırsakta bulunan iltihabi hastalıklarda da böbrek taşı oluşabilir. Sıcak iklimde yaşayan insanlarda görülme oranı gazladır. Obezite ve beslenme bozuklukları böbrek taşlarının habercisi olabilir. Bunun yanında az su içmek böbrek taşı oluşumunda rol oynayabilir.
 
-Böbrek Taşı hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/bobrek-tasi)
+Böbrek Taşı hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/bobrek-tasi)

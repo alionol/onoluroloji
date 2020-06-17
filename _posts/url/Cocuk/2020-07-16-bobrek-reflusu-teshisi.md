@@ -31,4 +31,4 @@ Böbrek reflüsü tanısında işeme sistoüretrografisi adı verilen bir yönte
 Renal sintigrafi adlı yöntem ile çocuğa damar yolundan radyoizotop madde gönderilir. Bu sayede böbreğin çalışması ölçülerek böbrekler de hasar olup olmadığı, varsa derecesi tespit edilir.
 
 
-Böbrek reflüsü hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/bobrek-reflusu)
+Böbrek reflüsü hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/bobrek-reflusu)

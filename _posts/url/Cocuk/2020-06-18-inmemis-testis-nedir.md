@@ -33,4 +33,4 @@ Testisin ana damarı böbrek seviyesinde aorta denilen ana atardamara bağlıdı
 
 
 
-İnmemiş testis hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/inmemis-testis)
+İnmemiş testis hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/inmemis-testis)

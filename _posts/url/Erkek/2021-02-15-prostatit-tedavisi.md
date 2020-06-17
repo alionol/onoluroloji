@@ -61,4 +61,4 @@ Pudendal Sinir Sıkışması dediğimiz rahatsızlık hastanın apış arasında
 
 
 
-Prostatit hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/prostatit)
+Prostatit hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/prostatit)

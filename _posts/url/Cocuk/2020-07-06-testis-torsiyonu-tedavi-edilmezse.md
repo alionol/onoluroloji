@@ -29,4 +29,4 @@ Testise kan gitmemesi sonucu enfarktüs oluşumuna bağlı olarak testis iltihap
 Testis torsiyonu yaşayan hastalar kısırlık yönünden takip edilmelidir. Bu konuda aileler; ergen yaşta yapılması gereken sperm tahlilleri hakkında bilgilendirilmedir.  Yapılan araştırmalar; torsiyonlu hasar görmüş testisin sağlam testisi de etkileyebileceğini göstermiştir. Sağlam testis, sperm kalitesi ve miktarı bakımından etkilenebilir. Hastalar bu sebeple takip edilmelidirler.
 
 
-Testis torsiyonu hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/testis-torsiyonu)
+Testis torsiyonu hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/testis-torsiyonu)

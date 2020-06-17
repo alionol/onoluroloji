@@ -43,4 +43,4 @@ Testis torsiyonunda tecrübeli bir hekim yüzde 95 oranında fizik muayene ile t
 Testis torsiyonunun çok yüksek şüphe taşımadığı ve aciliyet gerektirmediği durumlarda kullanılabilir.Testisteki kan akışını gösterdiği için testis torsiyonu dışı testis hastalıklarının ayrımı için Radyonuklit scan faydalı olabilir. Bu yöntem yüzde 90 ile 100 oranı arasında teşhis konmasında yardımcı olur.
 
 
-Testis torsiyonu hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/testis-torsiyonu)
+Testis torsiyonu hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/testis-torsiyonu)

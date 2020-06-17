@@ -49,4 +49,4 @@ Fazla kilo sorunu yaşayan hastaların penis boylarının büyütülmesinde göm
 
 
 
-Penis Büyütme hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/penis-buyutme)
+Penis Büyütme hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/penis-buyutme)

@@ -31,7 +31,7 @@ Testisin çürümesi veya zarar görmesinin engellenmesi için acil olarak ameli
 Testis torbaları üzerinden veya kasık bölgesinden 2-4 cm’lik bir kesi yapılarak testisin üzerindeki bulunan zar açılır. Testis dönmesi ters yöne çevrilecek testis normal haline getirilir. Testis damarı dönmeden kurtulduğu için rahatlar. Testisin kanlanıp kanlanmayacağını tespit etmek için sıcak uygulaması yapılır. Bu sırada karşı taraftaki testisi güvenceye almak için kasığın diğer tarafından da bir kesi yapılır. Sağlam testisin ileride dönmesi riskine karşın testis torbasına sabitlenir. Dönen testiste sıcak uygulamasının sonucunda kanlanma ve testis renginde açılma görülürse testis sabitlenerek ameliyat noktalanır. Testiste sıcak uygulamasına rağmen kanlanma görülmemesi testisin çürüdüğü anlamına gelir. Testis; çürümesi durumunda kesilerek çıkarılır.
 
 
-Testis torsiyonu hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/testis-torsiyonu)
+Testis torsiyonu hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/testis-torsiyonu)
 
 
 ## Testis Torsiyonu Ameliyatı Görselleri

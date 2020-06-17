@@ -51,4 +51,4 @@ Prostatit teşhisi konulan hastaların yüzde 90’ına gereksiz yere antibiyoti
 -	Pudental Sinir Sıkışması (apış arasında sinir sıkışması)
 
 
-Prostatit hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/prostatit)
+Prostatit hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/prostatit)

@@ -43,7 +43,7 @@ Radikal sistektomi operasyonunda mesane çıkarıldığı için yeni boşaltım 
 
 İkinci teknikte ise ince veya kalın bağırsaktan 20-30 cm boyutlarında bir parça alınır. Alınan parça kesilir, önce 2’ye ardından 4’e katlanır. Bu şekilde hastaya bağırsaktan yeni bir mesane yapılır. Uygulanan bu yöntemle hastalar idrarlarını normal bir şekilde yapabilirler.
 
-Yapay mesane ameliyatı hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/bagirsaktan-mesane-yapimi-ameliyati)
+Yapay mesane ameliyatı hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/bagirsaktan-mesane-yapimi-ameliyati)
 
 
 ## Biz radikal sistektomi ameliyatını nasıl yapıyoruz?
@@ -56,7 +56,7 @@ Kadın hastalarda uygulanan standart radikal sistektomi operasyonunda mesane; yu
 Fakat yapılan çalışmalara göre, kadın hastaların mesane kanserinde rahimin, yumurtalıkların ve fallop tüplerinin alınmadığı vakalar yüzde 3 ile yüzde 10 oranlarındadır. Yani tıp çevreleri; mesane kanserindeki tümörler ve mesanenin diğer kısımlarında bulunan kanserler tabanda değilse ve aşırı anarşist yapıda değilse, rahim ve yumurtalığın çıkarılmasının gereksiz bir işlem olduğunu düşünmektedirler. Buna bağlı olarak kadın hastaların cinsel organları korunur ve yaşam standartlarında bir düşüşe neden olmaz. Aynı zamanda, hastanın rahminin alınmadığı vakalarda bağırsak kullanılarak yeni mesane yapılır ve hastanın idrarını doğal yolla yapabilmesine olanak tanınır.
 
 
-Mesane Kanseri hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/mesane-kanseri)
+Mesane Kanseri hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/mesane-kanseri)
 
 
 ## Mesane Kanseri Ameliyatı Görselleri

@@ -42,4 +42,4 @@ gibi faktörler geç boşalma problemini meydana getirir. Geç boşalmanın psik
 
 
 
-Geç Boşalma hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/gec-bosalma)
+Geç Boşalma hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/gec-bosalma)

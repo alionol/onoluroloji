@@ -35,4 +35,4 @@ Ultrasonografi görüntüleme yöntemi kullanılarak idrar kanalında herhangi b
 Birinci aşamada hastanın damarına (IVD) veya adalesine (KETOROLAG) ağrı kesici verilir. Bulantı ve kusma şikayetinin giderilmesi için ise metoklopramit verilmelidir. Sonrasında taşın düşmesi ve ağrının giderilmesi için 5 veya 7 gün zarfında ağız yolu ile alınan tablet şeklindeki parasetamol veya ketorolaksın kullanılır. Gerekli durumlarda; böbrek ağrısının giderilmesi için idrar yapımını azaltmaya yarayan anti diüretik verilebilir. İdrar yolunda iltihaplanma bulgusuna rastlanmadıysa antibiyotik kullanımı gereksiz olacaktır.
 
 
-Böbrek Taşı hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/bobrek-tasi)
+Böbrek Taşı hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/bobrek-tasi)

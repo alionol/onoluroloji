@@ -34,4 +34,4 @@ Genellikle böbrek taşları cerrahi müdahale gerekmeksizin boşaltım sistemi 
 
 Kısaca böbrek taşı oluşumunun engellenmesinde su tüketimi önem arz etmektedir. Doğru su tüketimi böbrek taşlarının oluşumunun azalmasında büyük rol oynar.
 
-Böbrek Taşı hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/bobrek-tasi)
+Böbrek Taşı hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/bobrek-tasi)

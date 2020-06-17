@@ -41,4 +41,4 @@ Kemoterapi ilaçları, vücuttaki kanserli hücrelerin öldürülmesine ya da ü
 Mesane kanserinin tedavisinde mesane içine zayıflatılmış verem mikrobu gönderilerek bağışıklık sisteminin uyarılması da sağlanır. Bu sayede mesane kanserinin tekrar etmesi engellenmiş olur.
 
 
-Mesane Kanseri hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/mesane-kanseri)
+Mesane Kanseri hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/mesane-kanseri)

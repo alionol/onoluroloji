@@ -35,4 +35,4 @@ Erkeklerin sünnet olması ise birtakım cinsel hastalıklardan korunma da rol o
 
 
 
-Cinsel Hastalıklar hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/cinsel-hastaliklar)
+Cinsel Hastalıklar hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/cinsel-hastaliklar)

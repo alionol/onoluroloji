@@ -50,4 +50,4 @@ Meninin kadın vajinası içine atılması sırasında erkek bireyin mesane boyn
 Kısırlığa neden olan diğer faktörler ise; nikotin kullanımı, alkol tüketimi, sürekli kullanılan bazı ilaçlar, fıtık operasyonu neticesinde sperm ulaşımını sağlayan Vasdeferens kanalının zedelenmesi, hormonlardaki anormallikler, farklı nedenlere bağlı olarak uygulanan Radyoterapi, sıkan iç çamaşırların giyilmesi, kasık bölgesine uygulanan operasyonlar, cinsel temasla bulaşıp tedavi edilmeyen hastalıklar sebebiyle sperm nakleden kanalların tıkanması olarak sıralanabilir.
 
 
-Erkekte kısırlık hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/erkek-kisirligi)
+Erkekte kısırlık hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/erkek-kisirligi)

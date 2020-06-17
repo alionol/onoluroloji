@@ -28,4 +28,4 @@ youtubeId: false
 Öncesinde idrar kaçırma şikayetlerine bağlı olarak operasyon geçirmiş fakat başarı yakalanamamış ya da farklı sebeplerden jinekolojik ve cerrahi  girişimler uygulanmış vakalarda ise daha detaylı bir sorgulama yapılmalıdır. Çünkü önceden yapılmış operasyonun vücuda verdiği hasar doğru şekilde tespit edilmelidir. Buna ek olarak tomografi, ürodinami, sistoskopi ve gerekli durumlarda dinamik EMAR kullanılabilir. Öncesinde gevşek sling (TOT-TVT) ameliyatı geçirmiş fakat iyi sonuç alınamamış hastalara labiyal ultrasonografi görüntülemesi ile tanı konulabilir. Önceki operasyonun işeme sistemine verdiği zarar net olarak anlaşılmalıdır. Ancak bu anlaşıldıktan sonra tedavi planlaması doğru bir şekilde yapılabilir.
 
 
-İdrar kaçırma hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/kadinlarda-idrar-kacirma)
+İdrar kaçırma hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/kadinlarda-idrar-kacirma)

@@ -50,4 +50,4 @@ Kullanılan görüntüleme yöntemleri, böbrekte bulunan tümörün iyi ya da k
 
 
 
-Böbrek Kanseri hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/bobrek-kanseri)
+Böbrek Kanseri hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/bobrek-kanseri)

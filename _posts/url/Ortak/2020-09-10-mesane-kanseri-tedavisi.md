@@ -38,4 +38,4 @@ Tedaviyi belirleyen diğer etkenler ise; tümörün büyüklüğü, mesanenin ka
 **4. evredeki** mesane kanseri tedavisinde ilk olarak kemoterapi verilir. Sonrasında radikal sistektomi operasyonu uygulanır. Veya hastanın durumu baz alınarak önce ameliyat sonra kemoterapi uygulanabilir. Gerekli olan hususlardan biri de radyoterapidir. Dördüncü evre mesane kanserlerinde yapılan radikal sistektomi ameliyatı kesin tedaviden ziyade hastanın yakınmalarını yok etmek ve yaşam kalitesini yükseltmek amacıyla yapılmaktadır. Dördüncü evre mesane kanseri; karaciğer, akciğer ve kemiklere yayılmış ise uygulanacak ilk tedavi kemoterapidir. Hastanın ağrı hissini ortadan kaldırmak ve yaşam kalitesini artırmak için eksternal radyasyon kullanılır. Dördüncü evre mesane kanseri için yeni ilaçlar geliştirilmektedir.
 
 
-Mesane Kanseri hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/mesane-kanseri)
+Mesane Kanseri hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/mesane-kanseri)

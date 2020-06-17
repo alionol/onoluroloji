@@ -34,4 +34,4 @@ Böbrek kanseri genetik faktörlerle de ilişkilidir. Ailesinde böbrek kanseri 
 
 
 
-Böbrek Kanseri hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/bobrek-kanseri)
+Böbrek Kanseri hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/bobrek-kanseri)

@@ -44,8 +44,8 @@ Testistede ki şişlik ve ağrılar daima testis torsiyonundan (Testis dönmesi)
 
 •	Epidimal apandisit adını verdiğimiz bir oluşum vardır. Bu oluşum 1-2 mm çapındadır ve burada da dönme durumu saptanabilir. Testis torsiyonuna yakın ağrılar izlenebilir fakat bu durum ehemmiyetli değilidir. Ameliyat ile müdaheleye gerekmez. Ağrı zaman içinde kaybolur (Apendiks testis torsiyonu). 7-12 yaş aralığındaki çocuklarda görülen ve tehlike arz etmeyen bu duruma tecrübeli uzman doktorlar tarafından teşhis konur ve tedavi gerekli değildir.
 
-Testis torsiyonu hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/testis-torsiyonu)
+Testis torsiyonu hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/testis-torsiyonu)
 
-Çocuk kasık fıtığı hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/cocuk-kasik-fitigi)
+Çocuk kasık fıtığı hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/cocuk-kasik-fitigi)
 
-Varikosel hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/varikosel)
+Varikosel hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/varikosel)

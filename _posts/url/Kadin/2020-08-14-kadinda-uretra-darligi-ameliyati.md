@@ -43,7 +43,7 @@ Serbest yamalar iki şekilde kullanılır. Üretranın üzerinden veya altından
 Kısacası, idrar kanalındaki darlık, yeniden yapılandırma dediğimiz rekonstrüktif üroloji tekniklerinin kullanılmasına bağlı olarak giderilir. Hastaların şikayetleri son bulur ve üretra normal işlevine geri döner.
 
 
-İdrar kanalı darlığı hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/kadin-uretra-darliklari)
+İdrar kanalı darlığı hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/kadin-uretra-darliklari)
 
 
 ## Kadında Üretra Darlığı Ameliyatı Görselleri

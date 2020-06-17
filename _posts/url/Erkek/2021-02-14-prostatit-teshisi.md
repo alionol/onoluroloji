@@ -32,4 +32,4 @@ Bakteriyel prostatit hastada herhangi bir yakınmaya neden olmadığından bir s
 Virüs kaynaklı meydana gelen prostatitin kan tahlili desteğiyle detaylı bir şekilde incelenmesi gerekmektedir. Bilhassa cinsel yolla bulaşan hastalıklarda gerekli tahliller uygulanmalıdır. Prostatitin virüsten kaynaklandığı durumlarda kullanılan antibiyotik tedavisi hastalığın daha yoğun seyretmesine neden olur. Bu nedenle hastalığa doğru tanı konması büyük önem taşımaktadır.
 
 
-Prostatit hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/prostatit)
+Prostatit hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/prostatit)

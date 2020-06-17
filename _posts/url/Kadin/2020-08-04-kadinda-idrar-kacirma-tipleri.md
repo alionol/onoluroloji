@@ -52,4 +52,4 @@ Vücutta oluşan normalde olmaması gereken kanallara fistül denir. Rahim alın
 Bu tipteki idrar kaçırmaların yalnızca cinsel temas sırasında idrar kaçırdığı görülür. Stres tipi idrar kaçırmaların yüzde 40’ında cinsel ilişki sırasında idrar kaçırma durumu da vardır. Hastaya detaylı bir sorgulama yapılmadığı takdirde teşhis konamayabilir. Hastalar, cinsel ilişki sırasında kaçan idrarı zevk suyu sanılabilir. Fakat bu durumun asıl nedeni sanılanın aksine zevk suyu değil, üretradaki bağların hasar görmesidir.
 
 
-İdrar kaçırma hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/kadinlarda-idrar-kacirma)
+İdrar kaçırma hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/kadinlarda-idrar-kacirma)

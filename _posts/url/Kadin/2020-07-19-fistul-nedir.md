@@ -29,4 +29,4 @@ Vajina ve idrar sistemi arasında oluşan fistüle ürovajinal fistül denir. Ü
 
 
 
-Fistül hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/fistul-idrar-kacirma)
+Fistül hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/fistul-idrar-kacirma)

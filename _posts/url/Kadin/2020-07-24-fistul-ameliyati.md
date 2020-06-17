@@ -62,7 +62,7 @@ Rektovajinal fistülün tedavisi; fistülün ebatı, bulunduğu konumu ve sebebi
 
 
 
-Fistül hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/fistul-idrar-kacirma)
+Fistül hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/fistul-idrar-kacirma)
 
 
 

@@ -38,4 +38,4 @@ Gömük penis hastalığı olan bebekler sünnet edilmemelidir. Gömük penisli 
 Obez çocuklar zayıfladıkları takdirde, gömük penislerinde belirli oranda iyileşme görülebilir. Ancak kısmi iyileşme görülse bile vakaların büyük çoğunluğunda ameliyat gereklidir.
 
 
-Gömük penis hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/gomuk-penis)
+Gömük penis hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/gomuk-penis)

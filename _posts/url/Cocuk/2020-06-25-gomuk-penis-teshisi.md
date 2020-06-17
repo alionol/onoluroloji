@@ -30,4 +30,4 @@ Gömük Penis, Küçük penis (mikro penis) adını verdiğimiz, penis boyutunun
 Gömük penis ameliyatının erken yaşta yapılması tercih edilmelidir. Hastanın henüz çocukken, ideal penise kavuşması gereklidir. Bu sayede hastanın yetişkinlik döneminde karşılaşabileceği cinsel, ruhsal ve hijyenik sorunlar engellenmiş olur. Aynı zamanda erken yaşta yapılan ameliyatların başarı oranı daha yüksektir. Bu ameliyatların alanında uzman cerrahlar tarafından yapılması gereklidir.
 
 
-Gömük penis hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/gomuk-penis)
+Gömük penis hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/gomuk-penis)

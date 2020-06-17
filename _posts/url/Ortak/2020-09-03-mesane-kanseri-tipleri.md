@@ -31,4 +31,4 @@ youtubeId: false
 • Adenokarsinom denilen kanser tipi sık rastlanmayan bir kanser türüdür. Mesane tabakasında bulunan salgı bezi hücreleri sebebiyle oluşum gösterir.
 
 
-Mesane Kanseri hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/mesane-kanseri)
+Mesane Kanseri hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/mesane-kanseri)

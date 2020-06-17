@@ -28,4 +28,4 @@ Cinsel hastalıklar bir partnerden diğerine cinsel temas yoluyla bulaşan hasta
 Alkol tüketen ve uyuşturucu kullanan insanlar risk grubundadır. Manikür-pedikür aletlerinin ve jilet gibi kişisel kullanılması gereken araçların ortak kullanılması hastalığın bulaşması konusunda risk oluşturabilir. Diş kliniklerinde uygulanan işlemler de sterilizasyon çok mühimdir.
 
 
-Cinsel Hastalıklar hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/cinsel-hastaliklar)
+Cinsel Hastalıklar hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/cinsel-hastaliklar)

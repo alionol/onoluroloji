@@ -28,4 +28,4 @@ Prostat kanseri için cerrahi uygulanmadan yapılan tedaviye aktif izlem denir. 
 Aktif izlem tedavisi uygulanan bazı hastalar, kanserin oluşturduğu paranoyaya bağlı olarak ihtiyaç olmadığı halde operasyon uygulanması hususunda ısrarcı davranmaktadırlar. Gerekli olmadığı halde ameliyat yapılması hastanın cinsel işlevini ve işeme fonksiyonunu kötü anlamda etkileyecektir. Bu vakalarda görülebilecek her dezavantaj hastaya detaylı bir şekilde anlatılmalıdır.  Günümüzde, cerrahlar güncel kılavuza göre eğitim almaktadırlar ve hastalar iyi bir şekilde bilgilendirilmektedir. Eskiden gerekli olmadığı halde operasyon yapılan düşük risk grubundaki prostat kanserlerinin büyük bir kısmı günümüzde aktif izlem ile tedavi edilmektedir (PIVOT; Prostat Cancer Intervationand Observation Trail).
 
 
-Prostat Kanseri hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/prostat-kanseri)
+Prostat Kanseri hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/prostat-kanseri)

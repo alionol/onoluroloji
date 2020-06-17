@@ -31,4 +31,4 @@ Bireyde kanser görülme ihtimalini yükselten faktörlere risk faktörü adı v
 
 
 
-Mesane Kanseri hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/mesane-kanseri)
+Mesane Kanseri hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/mesane-kanseri)

@@ -42,4 +42,4 @@ Penil protez operasyonu ile sertleşme problemi olan hastaların yaşadığı so
 
 
 
-Penil Protez hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/penil-protez-mutluluk-cubugu)
+Penil Protez hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/penil-protez-mutluluk-cubugu)

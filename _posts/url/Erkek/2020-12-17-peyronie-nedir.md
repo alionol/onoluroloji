@@ -35,4 +35,4 @@ Peyronie hastalarının penisleri yukarı doğru bir eğrilik gösterirler. Peni
 Peyronie’nin nedeni günümüzde hala gizemini korumaktadır. Peyronie hastalığına neden olan faktörler kesin olarak bilinmemektedir. Yapılan çalışmalarda bazı tespitler vardır. Ancak kesin. Bir sebep saptanamamıştır. Cinsel birleşme sırasında yaşanan mikrotravmalara bağlı olarak oluştuğu gibi bir takım söylemler bulunmaktadır. Ancak bu söylemler bilimsel olarak ispatlanmış vaziyette değildir. Penis eğriliğinin prostat kanseri için uygulanan operasyonun bir komplikasyonu olarak görülme ihtimali vardır. Orta yaş erkek hastalarda görülmektedir. Peyronie için ameliyat kararı alındığında sertleşme sorununa etkisi ve yarattığı eğriliğin derecesi göz önünde bulundurulur. Bazı durumlarda sertleşme sorunu ilaç kombinasyonları ile tedavi edilebilir. Bunun yanında eğrilik cinsel ilişkiye mani olmuyor ise ameliyata gerek duyulmayabilir.
 
 
-Peyronie hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/peyronie)
+Peyronie hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/peyronie)

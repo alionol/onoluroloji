@@ -42,4 +42,4 @@ Mesane ile rahim arasında görülen bir fistül tipidir. Çok sık rastlanmayan
 Fistül tiplerinin saptanması tedavi planlaması bakımından çok önemlidir. Fistül tipi saptandıktan sonra fistülün tam bölgesi ve uzunluğu saptanır. Ve ameliyat tekniğinin planlaması hekim tarafından yapılır.
 
 
-Fistül hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/fistul-idrar-kacirma)
+Fistül hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/fistul-idrar-kacirma)

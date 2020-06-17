@@ -39,4 +39,4 @@ Aynı zamanda pelvis kırıklarına bağlı olarak oluşan idrar kanalı kopmala
 Erkek ve kadın hastalarda görülen idrar kaçırmalar büyük oranda farklı operasyon teknikleri ve bir takım ilaçlar ile rahatlıkla tedavi edilebilmektedir. Devamlı idrar kaçırma durumlarında; farklı tedavi yöntemlerinin denendiği  ancak başarılı sonuç alınamadığı durumlarda yapay sfinkter ameliyatı son çare olarak uygulanmalıdır. Üretra dediğimiz idrar kanalı zarar görmüş, bölgesel yada tamamen daralmış ise ilk olarak darlığın giderilmesi için operasyon uygulanmalıdır. İdrar kanalında gerekli onarma işlemi yapıldıktan sonra yapay sfinkter operasyonu uygulanmalıdır.
 
 
-Yapay Sfinkter hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/yapay-sfinkter)
+Yapay Sfinkter hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/yapay-sfinkter)

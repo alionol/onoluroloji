@@ -28,4 +28,4 @@ Testis oluşumu, bebek henüz anne karnındayken böbreklerin bulunduğu yerde b
 Fıtık büyük olduğunda bağırsaklar ve diğer iç organlar aşağıya doğru inmeye başlarlar. Bu durum kendi kendine düzelmez. Müdehale etmek şarttır. 100 doğumda 1-5 oranında kasıt fıtığı gözükür. Kasık fıtıklarının yüzde 60 oranında sağ tarafta oluşur. Kasık fıtıklarının yüzde 30 ise sol tarafta oluştuğu bilinmektedir. Yüzde 10 ihtimal ise her iki tarafta da oluşmasıdır. Kız bebeklerde kasık fıtığı oluşumu erkek bebeklere nazaran daha nadirdir. Erkek bebeklerde kasık fıtığı, inmemiş testis hastalığı ile beraber olabilir. Erken doğan (prematüre) bebeklerde ise tam gelişim sağlanmadığı için yüzde 30 oranında çocuk kasık fıtığı gözükür.
 
 
-Çocuk kasık fıtığı hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/cocuk-kasik-fitigi)
+Çocuk kasık fıtığı hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/cocuk-kasik-fitigi)

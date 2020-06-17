@@ -30,4 +30,4 @@ Testis kanseri hastalarının testislerinde ağrı hissedilmeyen bir şişlik g�
 Testis kanseri; testiste su toplanmasına bağlı oluşan hidrosel hastalığı, testis torsiyonu, varikosel, epididimoorşit adı verilen testis iltihabı, kasık fıtığı veya sperm kanallarında meydana gelen spermatosel adlı kistlerle karıştırılabilir. Genelde ultrasonografi yardımıyla testis kanserine kesin tanı yapılabilmektedir.
 
 
-Testis Kanseri hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/testis-kanseri)
+Testis Kanseri hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/testis-kanseri)

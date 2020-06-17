@@ -28,4 +28,4 @@ Hastanın cinsiyetinin erkek olması ve nikotin tüketimi böbrek kanseri oluşu
 Böbrek kanseri genetik faktörlerle de ilişkilidir. Ailesinde böbrek kanseri görülen bireyde kanser riski bulunmaktadır. Bu tip kişiler böbrek kanseri bakımından takipte kalmalıdır. Von Hipel - Lindau adı verilen kanser tipi; genetik geçiş göstermektedir ve aile üyelerinin her iki böbreklerinde birden fazla kanser oluşması ile karakterize bir hastalıktır.
 
 
-Böbrek Kanseri hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/bobrek-kanseri)
+Böbrek Kanseri hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/bobrek-kanseri)

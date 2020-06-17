@@ -41,4 +41,4 @@ Erken boşalmanın tedavisinde prensip olarak ilk önce erken boşalmaya neden o
 
 
 
-Erken Boşalma hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/erken-bosalma)
+Erken Boşalma hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/erken-bosalma)

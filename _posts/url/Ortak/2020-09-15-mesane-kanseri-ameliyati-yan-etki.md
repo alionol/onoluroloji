@@ -33,4 +33,4 @@ youtubeId: false
 •	Lenf düğüm zincirlerinin çıkarılması sebebiyle lenfosel adı verilen kistik oluşumların görülmesi diğer komplikasyonlardan biridir. Bizim karın zarına girmeden uyguladığımız teknikle bu oluşumlar da karın zarı arkasında kalır. Zamanla kendiliğinden kaybolurlar. Erken müdahale ile kistlerin gereksiz yere boşaltılması ciddi problemlere neden olabilir.
 
 
-Mesane Kanseri hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/mesane-kanseri)
+Mesane Kanseri hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/mesane-kanseri)

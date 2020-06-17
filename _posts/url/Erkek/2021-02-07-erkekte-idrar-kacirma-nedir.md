@@ -61,4 +61,4 @@ Sıkışma tipi ve stres tipi idrar kaçırma semptomlarının bir arada görül
 İki adet idrar kontrolü sağlayan mekanizmanın bütünüyle zedelendiği durumlarda hastalar idrarlarını tutamazlar. Bu tip idrar kaçırmalarda kontrol dışı olarak sürekli idrar kaçırılır.
 
 
-Erkekte İdrar Kaçırma hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/erkekte-idrar-kacirma)
+Erkekte İdrar Kaçırma hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/erkekte-idrar-kacirma)

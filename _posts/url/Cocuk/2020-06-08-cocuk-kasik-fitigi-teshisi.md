@@ -37,4 +37,4 @@ Bebeklerden öksürme ve ıkınma istenemeyeceği için bazı özel hareketlerle
 Kasık fıtığı, yeni doğan (prematüre) bebeklerde, inmemiş testis ve hipospadias hastalarında, mesane extrofisinde ve epipadyasta daha sık görülebilir. Sağ taraf fıtıklarında; sol taraf fıtıklarına kıyasla iç organ boğulması oranı fazladır. Prematüre bebeklerde, fıtığa ek olarak fıtık bölgesindeki bağırsak boğulmasına da çok sık rastlanır. 1 yaş altı bebeklerde yüzde 70 oranında kasık fıtığında boğulma da görülür. Kız bebeklerde bu oran erkeklere göre daha fazladır. Kasık fıtıklarının kendi kendine geçmesi beklenemez, bağırsak boğulma ihtimaline karşı hemen ameliyat edilmesi gereklidir.  Aynı anda hidroselin görüldüğü vakalarda ise en az 12 ay beklenir çünkü hidrosel kendiliğinden düzelme gösterebilir. Göbek fıtığı da kendi kendine geçebilir dolayısıyla 5 yaşından önce ameliyat edilmez.
 
 
-Çocuk kasık fıtığı hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/cocuk-kasik-fitigi)
+Çocuk kasık fıtığı hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/cocuk-kasik-fitigi)

@@ -34,4 +34,4 @@ Yetişkin hidroseli çoğunlukla fizik muayene ve ultrasonografi görüntülemel
 Daha önceden varikosel hastalığı için operasyon geçiren hastalar, yetişkin hidrosel hastalarının yüzde 7’sini oluşturmaktadır. Aynı zamanda testislerde darbe yaşanması sonrasında meydana gelen travma ve testis kanseri de hidrosel hastalığının ortaya çıkmasına neden olabilir. Hidrosel hastalığının büyük bir kısmında ise hastalığın nedeni tam olarak belirlenememiştir.
 
 
-Hidrosel hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/hidrosel)
+Hidrosel hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/hidrosel)

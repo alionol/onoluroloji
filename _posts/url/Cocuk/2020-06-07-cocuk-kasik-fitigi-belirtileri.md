@@ -31,4 +31,4 @@ Hasta bazı durumlarda hemen ameliyat edilmez. Örneğin; iç organların fıtı
 Ancak iç organları fıtık bölgesinde sıkışmış aynı zamanda genel durumu da kötü olan (kusma, bulantı, karında şişlik ve anormal gerginlik) vakalar için beklenmez. Hasta hemen ameliyat edilir.
 
 
-Çocuk kasık fıtığı hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/cocuk-kasik-fitigi)
+Çocuk kasık fıtığı hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/cocuk-kasik-fitigi)

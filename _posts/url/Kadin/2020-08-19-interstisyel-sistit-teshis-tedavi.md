@@ -30,4 +30,4 @@ Ağrılı mesane sendromu da dediğimiz İnterstisyel sistit; mesane, rahim ve d
 Tüm tedavi yöntemleri denenmiş fakat başarı sağlanamamış ise son çare olarak cerrahi müdahale gerekir. Mesane bütünüyle çıkarılır ve bağırsak kullanılarak yeni bir mesane yapılır. Böbrekten gelen üretralar bu yeni mesaneye birleştirilir. Bu ameliyat tekniği sonucunda hasta rahatlar. Bazı vakalarda, hastalara yeni mesane yapılmasına rağmen ağrılar azalmış bir şekilde devam edebilir. Bu fantom ağrı teorisiyle tanımlanır. Yapılan yeni mesane ile ağrıya sebep olan faktörler ortadan kaldırılmıştır fakat beyin hayali olarak ağrının hala var olduğunu düşünür.
 
 
-Sistit hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/sistit)
+Sistit hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/sistit)

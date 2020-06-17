@@ -35,4 +35,4 @@ youtubeId: false
 Modern görüntüleme yöntemleri bize kanserin vücuttaki yayılımı hakkında tam bilgi veremezler, yalnızca fikir sahibi olunmasına yardımcı olurlar. Bu son derece önemli ve bilinmesi gereken bir konudur. Kanserin yayılımı hakkındaki bilgi yalnızca başarılı bir ameliyatla organın tamamen, lenf düğümlerinin de yayılmış olabileceği kısımların çıkarılması ile mümkün olabilir. Patolojik incelemeler sonucunda tümörün yayılımı hakkında net bir bilgiye ulaşılabilir.
 
 
-Mesane Kanseri hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/mesane-kanseri)
+Mesane Kanseri hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/mesane-kanseri)

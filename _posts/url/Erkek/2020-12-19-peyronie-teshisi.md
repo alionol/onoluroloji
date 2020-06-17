@@ -26,4 +26,4 @@ youtubeId: false
 Bazen peniste ele gelen sertlikler peyronie kaynaklı olabilir. Hastalık genellikle 40 - 60 yaş aralığında görülür. İleri evre peyronie hastalarında penisteki sertleşme bütünüyle bozulmuştur. Penis eğriliği tanısı; yapılan fizik muayene ile kolaylıkla konulabilir. Penisteki eğrilik fizik muayenede gözlenir. Penisteki kireçlenmenin ne derece olduğunun ve yayılımının saptanması amacıyla film ve ultrason görüntülemelerine ihtiyaç duyulabilir. Peyronie, hastalarda ereksiyon esnasında hissedilen ağrı ve yetersiz sertleşme ile belirti verir. Hekim fizik muayene ve anamnez ile peyronieye teşhis koyabilir.
 
 
-Peyronie hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/peyronie)
+Peyronie hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/peyronie)

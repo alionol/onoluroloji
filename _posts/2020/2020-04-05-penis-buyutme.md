@@ -20,7 +20,7 @@ youtubeId: "vo3tp5qi8so"
 ---
 
 
-Penis büyütme; penis uzatma ve penis kalınlaştırma olarak incelenir. Bu yazımızda penis uzatma ile ilgili bilgi vereceğiz. Penis kalınlaştırma hakkında bilgi almak için [Tıklayınız.] (https://www.onoluroloji.com/penis-kalinlastirma)
+Penis büyütme; penis uzatma ve penis kalınlaştırma olarak incelenir. Bu yazımızda penis uzatma ile ilgili bilgi vereceğiz. Penis kalınlaştırma hakkında bilgi almak için [Tıklayınız.](https://www.onoluroloji.com/penis-kalinlastirma)
 
 ## Penis Anatomisi
 

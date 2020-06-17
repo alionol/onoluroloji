@@ -33,7 +33,7 @@ Testislerde yaklaşık 400 metre uzunluğunda olan mikroskobik kanallar vardır.
 (erkeklik hormonu) üretilir. Spermler büyürler ve bu kanallardan geçerek Epididim adı verilen kanalda gelişimlerini sürdürürler. Spermler, vasdeferens kanalı üzerinden meni keselerine ulaşırlar ve burda birikirler. Yetişkin bir erkek vücudu bir günde 1 milyon sperm üretir. Erkeklerde 11 ile 17 yaş aralığında hamile bırakma yetisi oluşur. Testisler ise 10 ile 13 yaşlarında gelişmeye başlarlar.
 
 
-Testis torsiyonu hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/testis-torsiyonu)
+Testis torsiyonu hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/testis-torsiyonu)
 
 
-İnmemiş testis hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/inmemis-testis)
+İnmemiş testis hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/inmemis-testis)

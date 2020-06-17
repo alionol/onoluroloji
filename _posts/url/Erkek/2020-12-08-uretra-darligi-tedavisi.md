@@ -146,7 +146,7 @@ Genel durumları iyi olsa bile idrar kanalı hiçbir şekilde onarılamayacak ha
 
 
 
-İdrar Kanalı Darlığı hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/erkek-uretra-darligi)
+İdrar Kanalı Darlığı hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/erkek-uretra-darligi)
 
 
 

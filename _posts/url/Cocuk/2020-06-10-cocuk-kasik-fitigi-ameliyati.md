@@ -31,7 +31,7 @@ Yapılan çalışmalara göre; bir tarafta fıtık var ise, ileri ki dönemde y�
 Hastanın acilen ameliyata alınması gereken durumlarda ameliyat komplekstir ve normale göre daha zordur. Hastanın ailesi, ameliyatın riskleri konusunda aydınlatılmalıdır. Bağırsak boğulup kangren olmuşsa, boğulan bağırsak bölümünün çıkarılabileceği aileye bildirilmelidir.
 
 
-Çocuk kasık fıtığı hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/cocuk-kasik-fitigi)
+Çocuk kasık fıtığı hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/cocuk-kasik-fitigi)
 
 
 ## Çocuk Kasık Fıtığı Ameliyatı Görselleri

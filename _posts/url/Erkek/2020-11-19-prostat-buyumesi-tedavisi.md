@@ -44,4 +44,4 @@ Basit büyümeler için yapılan operasyonlar; hastada, ileride ortaya çıkabil
 
 
 
-Prostat Büyümesi hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/prostat-buyumesi)
+Prostat Büyümesi hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/prostat-buyumesi)

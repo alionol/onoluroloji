@@ -53,4 +53,4 @@ Donör spermi işlemi ise erkeğin sperminin hiç olmadığı ya da testislerin 
 Hastanın testislerinde az miktarda sperm üretildiği ya da normal spermin üretilmesine rağmen erkeklik organı aracılığıyla dışarıya atılamadığı durumlarda; testisler, skrotum dediğimiz testis torbasından dışarı çıkartılır. Testislerin torbasından çıkarılmasından sonra testis kesilerek içinde bulunan mikro kanallardan örnekler alınır. Bu mikro kanallar laboratuvar ortamında incelenir ve mikroskop yardımıyla kanalların içinden sperm bulunur. Spermler mikro enjeksiyon yöntemi kullanılarak kadından alınan yumurtalığın için enjekte edilir. Son 10-15 sene içinde tüp bebek yöntemindeki büyük çalışmalar sonucunda elde edilen gelişmeler, en umutsuz durumlarda dahil hamile kalma ve çocuk sahibi olma ihtimalinde artış sağlamıştır.
 
 
-Erkekte kısırlık hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/erkek-kisirligi)
+Erkekte kısırlık hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/erkek-kisirligi)

@@ -28,4 +28,4 @@ Geç boşalma sorununun tedavi edilmesinde ilk olarak geç boşalmaya neden olan
 Geç boşalmanın nedeni refleks bozukluğundan kaynaklanan organik bir sebep ise tedavi bu sebebe göre belirlenir ve uygulanır. Geç boşalmaya neden olan faktör belirlendikten sonra hastanın kullandığı ilaçların bırakılması ve şeker hastalığının kontrole alınması gibi tedbirler uygulanır. Bu gibi tedbirlerin uygulanması durumunda geç boşalma problemi zaman içinde giderilmektedir.
 
 
-Geç Boşalma hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/gec-bosalma)
+Geç Boşalma hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/gec-bosalma)

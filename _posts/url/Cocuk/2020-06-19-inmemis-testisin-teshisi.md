@@ -48,4 +48,4 @@ Testislerin fizik muayene esnasında ele gelmemesi durumunda, laparoskopi yapıl
 **Üçüncü neden,** yüzde 15 oranında muayenede ele gelmeyen testisin sebebi testislerin karın içinde takmasıdır kalmasıdır. Bu testisler böbrek bölgesinden testis torbasına kadar olan bir bölgede kalmıştır. Bu vakalar gerçek karın içi (intraabdominal) inmemiş testisler olarak isimlendirilirler. Çok yukarıda kalan bu testislerin indirilme ameliyatı çocuk ürolojisinin en kompleks ameliyatlarından biridir. Testis ne kadar yukarıda kalmış ise ameliyatı o kadar zordur.
 
 
-İnmemiş testis hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/inmemis-testis)
+İnmemiş testis hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/inmemis-testis)

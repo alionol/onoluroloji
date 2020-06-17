@@ -32,4 +32,4 @@ Yapılacak olan ikinci ameliyat, birinci ameliyatın bıraktığı etkiler sebeb
 
 
 
-İnmemiş testis hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/inmemis-testis)
+İnmemiş testis hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/inmemis-testis)

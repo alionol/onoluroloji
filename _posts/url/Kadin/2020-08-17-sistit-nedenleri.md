@@ -39,4 +39,4 @@ Non-bakteriel dediğimiz, bakteriden kaynaklanmayan sistitler birçok nedene ba�
 Sistit, ilaç kullanımının yan etkilerine bağlı olarak da oluşabilir. Vücut kemoterapi ilaçlarını idrar yoluyla atttığı için bu ilaçlar mesaneyi etkiler ve sistite neden olur. Radyoterapi, alerjik reaksiyonlar veya mesaneye uygulanan sonda neticesinde de sistit oluşabilir. İdrardaki mikropların çoğalması sistit için önemli bir faktördür. Diyabet hastalığının idrarda mikrop üremesini kolaylaştırması idrar iltihaplanmasına sebep olarak verilebilir.  Diyabet hastalığında idrar kolayca iltihaplanabilir ve bu iltihaplanma sistit oluşumu sağlar. Sistit; prostat büyümesi, böbrek taşları ve omurilik yaralanmalarına bağlı olarakta oluşabilir.
 
 
-Sistit hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/sistit)
+Sistit hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/sistit)

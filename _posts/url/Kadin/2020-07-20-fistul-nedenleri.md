@@ -41,4 +41,4 @@ youtubeId: false
 Kısacası bir çok ameliyatın komplikasyonu olarak fistül oluşur. Fistüller hastaya ciddi psikolojik travmalar verir.
 
 
-Fistül hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/fistul-idrar-kacirma)
+Fistül hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/fistul-idrar-kacirma)

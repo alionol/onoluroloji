@@ -35,4 +35,4 @@ Penis ucundaki idrar deliği olması gereken yerde ise de peniste eğriliği gö
 
 
 
-Hipospadias hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/hipospadias)
+Hipospadias hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/hipospadias)

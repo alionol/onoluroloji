@@ -41,7 +41,7 @@ Ergenlik çağındaki hastalarda şiddetli ağrı hissine ve testislerde küçü
 İleri derece görülen ve testislerde küçülmeye neden olan varikoseller için ise cerrahi müdahale uygulanmalıdır. Hastanın yalnızca ağrı şikayetinin olması operasyon için yeterli değildir. Ergen yaşta ki hastaların testislerinde dönemsel olarak yaşanan ciddi ağrılar, testis torsiyonu adı verilen testis dönmesi ile de karıştırılabilir. Bu yanlış anlaşılmanın önüne geçilmesi için hastanın muhakkak tecrübe sahibi bir üroloji uzmanı tarafından muayene edilmesi gerekmektedir. Testis torsiyonunda, hastanın testisi damarsal sapı etrafında döner. Bu vakalara acil operasyon uygulanmalıdır.
 
 
-Varikosel hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/varikosel)
+Varikosel hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/varikosel)
 
 ## Varikosel Ameliyatı Görselleri
 

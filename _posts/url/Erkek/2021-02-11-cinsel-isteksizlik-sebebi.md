@@ -46,4 +46,4 @@ youtubeId: false
 •	Partneri tatmin edememe kaygısı yaşayan erkekte performans anksiyetesi yaşanabilir. Buna bağlı olarak erken boşalma sorunu görülür ve kişinin cinsel arzusunda azalma yaşanır.
 
 
-Cinsel İsteksizlik hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/cinsel-isteksizlik)
+Cinsel İsteksizlik hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/cinsel-isteksizlik)

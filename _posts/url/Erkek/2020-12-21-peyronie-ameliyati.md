@@ -36,7 +36,7 @@ Uzun yıllar boyunca peyronie tedavisi için hastalara ağızdan kullanılan ila
 
 
 
-Peyronie hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/peyronie)
+Peyronie hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/peyronie)
 
 
 

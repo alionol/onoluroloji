@@ -39,4 +39,4 @@ Erken boşalma yaygın görünen cinsel bir sorundur. Erkeklerin yüzde 30’u h
 Erken boşalmanın nedenlerinden bazılarıdır. Erken boşalma bir çok sebebe bağlı olarak gerçekleşebilir. İyi bir anamnez ile altta yatan sebep saptanmaya çalışılır. Nedenlerin saptanması tedavi açısından çok önemlidir. Çünkü erken boşalmada sebebe yönelik tedavi uygulanmalıdır.
 
 
-Erken Boşalma hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/erken-bosalma)
+Erken Boşalma hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/erken-bosalma)

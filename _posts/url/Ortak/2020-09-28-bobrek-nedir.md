@@ -28,5 +28,5 @@ youtubeId: false
  Vücudumuzun boşaltım sistemi; idrar üretimini sağlayan böbrekler, böbrekte üretilen idrarı mesaneye ileten üreterler, idrarı kendi içinde depolayan mesane ve idrarın vücuttan dışarı atılmasını sağlayan üretra adlı idrar kanalından oluşur. Böbrekler bel kemiğinin yanlarında bulunur ve 2 adettir. Görünüm olarak fasulyeyi andıran böbrekler kanda bulunan atık maddeleri ve fazla suyu filtreler, idrar yoluyla vücuttan dışarı atar. Kanda bulunan tuz ve diğer maddelerin dengelenmesini sağlar. Böbrekler aynı zamanda kırmızı kan hücrelerini oluşmasını sağlayan ve kemiklerin güçlenmesini sağlayan hormonların üretimini sağlamaktadır. Böbrek aynı zamanda tansiyonun düzenlenmesinde büyük rol oynar. Vücuttaki kanın yüzde 20’si her an böbrekten geçer. Böbrekler kirlenen kanı alır ve temiz kan olarak vücuda verir. Her böbrekte 1 milyon nefron vardır.
 
 
- Böbrek Taşı hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/bobrek-tasi)
- Böbrek Kanseri hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/bobrek-kanseri)
+ Böbrek Taşı hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/bobrek-tasi)
+ Böbrek Kanseri hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/bobrek-kanseri)

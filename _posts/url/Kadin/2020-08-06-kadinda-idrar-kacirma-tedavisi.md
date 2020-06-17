@@ -62,4 +62,4 @@ Yapay askıların idrar kanalının veya mesane içine kayması ileri dönemde g
 
 
 
-İdrar kaçırma hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/kadinlarda-idrar-kacirma)
+İdrar kaçırma hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/kadinlarda-idrar-kacirma)

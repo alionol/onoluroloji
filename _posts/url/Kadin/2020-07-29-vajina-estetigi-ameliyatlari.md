@@ -62,4 +62,4 @@ TURC adını verdiğimiz ameliyat tekniğinde, göbeğin alt kısmına 4-5 cm ci
 
 
 
-Vajina estetiği hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/vajina-estetigi)
+Vajina estetiği hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/vajina-estetigi)

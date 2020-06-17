@@ -34,4 +34,4 @@ Vajina estetiği işlemi, bu konuda tecrübe kazanmış ürologların ve kadın 
 Vajina estetiğinde, hastaların hoş ve estetik görünümlü bir vajinaya sahip olmaları ve cinsel aktivitelerini fonksiyonel bir şekilde sürdürmeleri amaçlanır. Ayrıca hastada idrar kaçırma görülüyorsa, aynı ameliyatta bu sorunda çözüme kavuşturulur.
 
 
-Vajina estetiği hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/vajina-estetigi)
+Vajina estetiği hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/vajina-estetigi)

@@ -27,5 +27,5 @@ youtubeId: false
 
 
 
-Prostat Kanseri hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/prostat-kanseri)
-Prostat Büyümesi hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/prostat-buyumesi)
+Prostat Kanseri hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/prostat-kanseri)
+Prostat Büyümesi hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/prostat-buyumesi)

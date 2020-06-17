@@ -41,4 +41,4 @@ Prostat için uygulanan trans uretral rezeksiyon-TURP adlı kapalı ameliyat sı
 Üretra darlığına neden olan farklı etkenler de bulunmaktadır. Örneğin ata biner şekilde yaşanan düşmeler neticesinde bulber üretra darlıkları meydana gelebilir. Cinsel yolla bulaşan iltihabi hastalıklar, iyi sonuçlanmamış hipospadyas operasyonları, liken Sklerozis adı verilen idrar kanalının içini ve penis başını tutan ve nedeni bilinemeyen problemler de ön üretranın tümünde darlığın oluşmasına neden olabilir.
 
 
-İdrar Kanalı Darlığı hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/erkek-uretra-darligi)
+İdrar Kanalı Darlığı hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/erkek-uretra-darligi)

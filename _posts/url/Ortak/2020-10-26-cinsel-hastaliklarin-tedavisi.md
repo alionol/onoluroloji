@@ -32,4 +32,4 @@ Human Papilloma Virüs (HPV), Herpes Simpleks (HSV), Hepatit B ve HIV (AIDS) gib
 Cinsel hastalıklara tedavi uygulanmaması durumunda; hamile kadınlarda düşük riski, erkek ve kadınlarda kalp hastalığı, mafsal iltihabı, özellikle HPV virüsüne bağlı olarak rahim ağzı kanseri ve kısırlık gibi riskler oluşmaktadır.
 
 
-Cinsel Hastalıklar hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/cinsel-hastaliklar)
+Cinsel Hastalıklar hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/cinsel-hastaliklar)

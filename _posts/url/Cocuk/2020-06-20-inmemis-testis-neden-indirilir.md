@@ -42,4 +42,4 @@ Testis kanseri sık rastlanılan bir kanser türü değildir. Testis kanseri erk
 Testisler, testis torbasına inerken testis torbası tabanına sabitlenirler. Bu sabitlenme gubernekulum adı verilen bir bağ ile olur. İnmemiş testislerde testis yerine inmediği için torbalara sabitlenmez. Sabitlenmediği için de testis damarsal sapı kendi etrafında dönebilir. Bu dönme testisi kansız bırakır ve testis beslenemez. Testis ufalır ve fonksiyonunu kaybeder. Bu ihtimali ortadan kaldırmak için testislerin mutlaka indirilmesi gerekmektedir.
 
 
-İnmemiş testis hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/inmemis-testis)
+İnmemiş testis hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/inmemis-testis)

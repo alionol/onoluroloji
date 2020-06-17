@@ -33,4 +33,4 @@ Bu hastalıkta hekimin tecrübesi çok önemlidir. Çünkü belirtileri doğru t
 Testisin kendi etrafında 1 seferlik dönmesi 360 derecedir. 2 defa dönmesi ise 720 derecedir. Testisin tam dönmesine komplet torsiyon adı verilir. Çok sık olmamakla birlikte testiste, 90 derecelik çeyrek dönme ve 180 derecelik yarım dönme de (inkomplet torsiyon) görülebilir. Testisin arterleri ve damarları; testisin dönme miktarına göre tıkanma gösterebilir. Bu durumda testis atardamarlardan beslenemez. Kirli kanı taşımaya yarayan toplardamarlar da kanı taşıyamaz. Testis kangren olur ve bu kangren organı çürüterek siyah renge çevirir. Çürümeye başlar. Testis torsiyonuna acil müdahale çok önemlidir.
 
 
-Testis torsiyonu hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/testis-torsiyonu)
+Testis torsiyonu hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/testis-torsiyonu)

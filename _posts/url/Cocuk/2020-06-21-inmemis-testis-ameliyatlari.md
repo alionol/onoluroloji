@@ -50,7 +50,7 @@ Eğer testisin damarsal sapının serbestleşmesi yeterli değil ve damarsal sap
 Hasta ne kadar erken yaşta ameliyat edilirse ameliyat o kadar kolaydır. Çünkü hasta küçük olduğu için vücut uzaklıkları fazla değildir. Fakat ilerlemiş yaşlarda da bu ameliyatın başarı oranı çok yüksektir. Bu ameliyatta herhangi bir adale (kas) kesilip zarar görmediği için hasta konforu yüksektir. Bu ameliyat tekniğinin hastaya verdiği ameliyat travması çok azdır (minimal invaziv açık cerrahi). Hasta ameliyattan 1 gün sonra hastaneden taburcu edilir. 1 hafta sonra kontrol edilir. 1-2-6-12 aylık periyotlarda ultrasonografi ile operasyonun başarısına bakılır.
 
 
-İnmemiş testis hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/inmemis-testis)
+İnmemiş testis hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/inmemis-testis)
 
 ## İnmemiş Testis Ameliyatı Görselleri
 {% include youtubePlayer.html id=page.youtubeId2 %}

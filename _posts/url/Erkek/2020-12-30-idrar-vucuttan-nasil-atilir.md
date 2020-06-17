@@ -28,4 +28,4 @@ Vücut içinde biriken atık maddeler ve fazla su böbrekler aracılığıyla fi
 Bu idrar tutucu mekanizmalar eş zamanlı olarak görevlerini yerine getiremedikleri durumlarda devamlı bir şekilde idrar kaçırma görülür. Sfinkterlerin sadece birinin bile işlevini yapıyor olması idrar tutma da yeterli olabilir. İki sfinkterin de zedelendiği ve görevlerini yapamadığı durumlar ise zorluk çekilmesine neden olur. Hastalar sosyal hayatlarında kötü anlamda etkilenirler. Hem hijyen hem de psikoloji anlamında yıpratıcı bir durum oluşturur. Bu tip vakalarda uygulanacak yapay sfinkter ameliyatı hastaların şikayetlerinin giderilmesi için çözüm niteliğindedir.
 
 
-Yapay Sfinkter hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/yapay-sfinkter)
+Yapay Sfinkter hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/yapay-sfinkter)

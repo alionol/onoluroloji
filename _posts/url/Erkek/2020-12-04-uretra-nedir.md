@@ -32,4 +32,4 @@ Arka üretranın boyu 4-5 cm uzunluğundadır. Arka üretra 2 kısımda incelenm
 Ön üretra ise 3 bölümden oluşmaktadır. Bulber üretra adı verilen kısım üretranın en geniş alanıdır. 2-3 cm boyundadır ve Corpus Sponciozum adı verilen kalın damardan zengin olan bir süngersi tabaka tarafından sarmalanmıştır. Penil üretra ise 10-12 cm civarında, erkeklik organının altında görülen ve hissedilen kısımdır. Fossa Navikülaris dediğimiz bölüm ise, glans adı verilen penis başının içinde bulunur. 1 cm ebatlarındaki bu bölüm mea adlı idrar deliğine açılmaktadır.
 
 
-İdrar Kanalı Darlığı hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/erkek-uretra-darligi)
+İdrar Kanalı Darlığı hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/erkek-uretra-darligi)

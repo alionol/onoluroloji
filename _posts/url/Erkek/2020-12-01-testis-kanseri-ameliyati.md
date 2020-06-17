@@ -47,4 +47,4 @@ Sertleşme sorunu genel olarak psikolojik veya organik sebeplerden kaynaklanmakt
 
 
 
-Testis Kanseri hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/testis-kanseri)
+Testis Kanseri hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/testis-kanseri)

@@ -82,4 +82,4 @@ Bakteriyel vajinozis kadın cinsel organında bulunan yararlı mikropların azal
 
 
 
-Cinsel Hastalıklar hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/cinsel-hastaliklar)
+Cinsel Hastalıklar hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/cinsel-hastaliklar)

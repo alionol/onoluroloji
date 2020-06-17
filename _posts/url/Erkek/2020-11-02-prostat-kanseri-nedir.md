@@ -31,4 +31,4 @@ Prostatın gösterdiği kötü huylu büyümeler prostat kanserine neden olur. P
 
 Aşırı kilo gibi faktörler prostat kanserine neden olabilir. Prostat kanseri siyahilerde kalıtsal olarak daha yüksek oranda görülür. Yapılan araştırmalarda prostat kanserinin genetik faktörlerden etkilendiği ortaya çıkmıştır. Kalıtsal yatkınlığı olan hastalara 40 yaş, normal hastalara ise 50 yaşının akabinde PSA testi uygulanıp hasta kontrol edilmelidir. Baba ya da amca da prostat kanseri görülmüş ise çocukta da prostat kanseri görülme riski 2-3 katına çıkmaktadır. Baba ve amcanın ikisinde de prostat kanseri saptanmış ise çocukta da görülme ihtimale 7-8 katına yükselmektedir.
 
-Prostat Kanseri hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/prostat-kanseri)
+Prostat Kanseri hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/prostat-kanseri)

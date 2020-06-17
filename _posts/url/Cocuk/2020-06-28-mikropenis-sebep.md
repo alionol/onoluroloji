@@ -46,4 +46,4 @@ Aşırı kilolu ve obezite hastası çocukların erkeklik organları, vücutlar�
 Klinefelter sendromu mikropenise neden olan faktörlerden biridir. Normal bir genetiğe sahip erkek 46 xy karyotipte görülür. Ancak Klinefelter sendromu hastaları 47 xxy karyotiptedir. Testis gelişimini ve sperm oluşumunu bozan bir hastalıktır. Klinefelter sendromu hastalarının jinekomasti adı verilen kız çocuğu tipinde memeleri vardır ve testisleri küçüktür. Bacak, kol ve ellerde orantısızlık görülür. Bu vakalarda ki çocuklarda öğrenme bozukluğu da görülebilir. Bu durumlarda ki hastalarda kalıtsal kromozom bozukluğuna bağlı olarak mikropenis görülebilmektedir.
 
 
-Mikropenis hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/mikropenis)
+Mikropenis hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/mikropenis)

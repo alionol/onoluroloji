@@ -31,4 +31,4 @@ Modern tıpta; anne karnındaki bebeğin iç organları ultrasonografi yöntemiy
 Bebek 3 aylık olmadan önce anüsündeki derece 38 derece ve üstüyse ya da sonraki aylarında 38.9 dan fazla ise ebeveynlerin zaman harcamadan pediatrik ürologlara veya böbrek reflüsü hakkında tecrübe kazanmış çocuk uzmanlarına gözükmelidirler. Anüste görülen bu ateş; böbreklerin uğradığı büyük bir zararın belirtisidir.
 
 
-Böbrek reflüsü hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/bobrek-reflusu)
+Böbrek reflüsü hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/bobrek-reflusu)

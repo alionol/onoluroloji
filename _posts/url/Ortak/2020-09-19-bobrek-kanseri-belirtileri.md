@@ -27,4 +27,4 @@ youtubeId: false
 Böbrek kanseri uzun süre sessizce gelişir ve önemli bir belirti göstermez. Önceden geç dönem böbrek kanseri karında bulunan ve elle hissedilen kitle, kanama ve zayıflama semptomları ile saptanırdı. Şuan; bulgu göstermeyen böbrek kanserleri de tesadüfen görüntüleme teknikleri kullanılarak yüzde 70 oranında teşhis edilmektedir. Her kanser tipinde olduğu gibi böbrek kanseri için de erken teşhis son derece önemlidir. Erken teşhis edilen hastalar kanserlerinden ömürleri boyunca kesin olarak kurtulmaktadırlar. Kilo kaybı ve iştahsızlık, yüksek ateş yanında halsizlik de böbrek kanserinin belirtisi olabilir. İdrar renginde değişik ve böbrek ağrısı böbrek kanserinin habercisi olabilir. Bu belirtiler ışığında hekim kanserden şüphe eder ve teşhis için görüntüleme yöntemlerine başvurur.
 
 
-Böbrek Kanseri hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/bobrek-kanseri)
+Böbrek Kanseri hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/bobrek-kanseri)

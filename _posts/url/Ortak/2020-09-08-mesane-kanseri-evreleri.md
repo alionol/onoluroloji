@@ -40,4 +40,4 @@ Kapalı teknikte frekansı yüksek elektrik akımı kullanılarak, kanser bulund
 **Evre 4:** Mesanede oluşan tümör, karın ve pelvise ulaşarak içeride yayılım göstermiştir. Bu evrede kanserin bazı lenf düğümlerine tutulduğu görülür. Aynı zamanda 4. evre tümörün akciğer, karaciğer ve kemiklere yayılma ihtimali de vardır.
 
 
-Mesane Kanseri hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/mesane-kanseri)
+Mesane Kanseri hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/mesane-kanseri)

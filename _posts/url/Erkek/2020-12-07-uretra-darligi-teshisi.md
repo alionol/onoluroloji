@@ -32,4 +32,4 @@ Antegrad adlı film çekilirken ise hastanın mesanesi contrast madde ile doldur
 Üretra darlığının tanısında yapılan diğer mühim yöntem ise üretrosistoskopidir. Bu yöntemin uygulanması esnasında penis ucundan teleskopik bir aletle girilerek idrar kanalının içi kamera yardımıyla gözlemlenerek kaydedilir. Üroflometri adlı yöntemle idrarın akış hızı saptanır ve mesanede bulunan idrarın miktarı ölçülür. Bu yöntemde pelvisin EMAR görüntüleme ile gözlemlenmesine ve idrar kültürünün alınmasına da ihtiyaç duyulabilir. Yapılan tüm bu tetkiklerin esas amaçlanan; darlığın konumunun, sayısının ve derinliğinin saptanmasıdır. Cerrahın operasyondan önce bu verilere sahip olması gereklidir.
 
 
-İdrar Kanalı Darlığı hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/erkek-uretra-darligi)
+İdrar Kanalı Darlığı hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/erkek-uretra-darligi)

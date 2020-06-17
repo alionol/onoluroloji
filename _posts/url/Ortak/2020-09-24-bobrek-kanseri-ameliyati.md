@@ -104,7 +104,7 @@ Tümör saptanan böbreğin tamamının çıkarıldığı ameliyata Radikal Nefr
 Böbrek kanseri T3 aşamasında vena kava inferior adı verilen alt ana toplardamarın içine girip, buradan kalp içine (kulakçık) ulaşabilir. Radyolojik olarak bilhassa EMAR görüntüleme yöntemi kullanılarak tümörün tam konumu saptanabilir. Bu vakalara parsiyel nefrektomi uygulanamaz. Radikal nefrektomi yapılması gerekir. Vena kava dediğimiz alt ana toplardamar dikey bir şekilde açılır, içinde bulunan tümör temizlenir ve sonrasında yeniden dikilir. Yan tarafta bulunan görsel de kalbin içine giren bir böbrek kanseri vakası bulunmaktadır. Bu vakalarda da kalbin kulakçık kısmı açılır ve tümör temizlenir. Bu tip vakaların görüldüğü hastalar başarılı bir ameliyat geçirmeleri durumunda yaşamlarını yıllarca sürdürebilirler. Amerikada düzenlenen Uluslararası Kongrede kanserlerinde Radikal Nefrektomi vena kava ve atrial trombektomi çalışmalarımız sunulmuştur.
 
 
-Böbrek Kanseri hakkında detaylı bilgi için [Tıklayınız.] (https://www.onoluroloji.com/bobrek-kanseri)
+Böbrek Kanseri hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/bobrek-kanseri)
 
 
 ## Böbrek Kanseri Ameliyatı Videosu
