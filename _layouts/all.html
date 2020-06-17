@@ -1,0 +1,11 @@
+---
+layout: default
+---
+<br/>
+<br/>
+<div class="container">
+{% for post in site.posts %}
+<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+<br/>
+{% endfor %}
+</div>
