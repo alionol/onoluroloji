@@ -28,9 +28,9 @@ layout: default
           <h2 class="carousel-caption-title py-4">{{- site.data.i18n.home.carousel[page.lang][2] | strip_html | strip_newlines | xml_escape -}}</h2>
         </div>
         ​<picture>
-          <source srcset="{{- thumb_base | append: thumb_home | append: 'carousel-v3' | append: '.webp' | relative_url -}}" type="image/webp">
-          <source srcset="{{- thumb_base | append: thumb_home | append: 'carousel-v3' | append: '.jpg' | relative_url -}}" type="image/jpeg">
-          <img src="{{- thumb_base | append: thumb_home | append: 'carousel-v3' | append: '.jpg' | relative_url -}}" class="" alt="Önol Üroloji">
+          <source data-srcset="{{- thumb_base | append: thumb_home | append: 'carousel-v3' | append: '.webp' | relative_url -}}" type="image/webp">
+          <source data-srcset="{{- thumb_base | append: thumb_home | append: 'carousel-v3' | append: '.jpg' | relative_url -}}" type="image/jpeg">
+          <img data-src="{{- thumb_base | append: thumb_home | append: 'carousel-v3' | append: '.jpg' | relative_url -}}" class="lazyload" alt="Önol Üroloji">
         </picture>
       </div>
       <div class="carousel-item">
@@ -38,9 +38,9 @@ layout: default
           <h2 class="carousel-caption-title py-4">{{- site.data.i18n.home.carousel[page.lang][1] | strip_html | strip_newlines | xml_escape -}}</h2>
         </div>
         ​<picture>
-          <source srcset="{{- thumb_base | append: thumb_home | append: 'carousel-v2' | append: '.webp' | relative_url -}}" type="image/webp">
-          <source srcset="{{- thumb_base | append: thumb_home | append: 'carousel-v2' | append: '.jpg' | relative_url -}}" type="image/jpeg">
-          <img src="{{- thumb_base | append: thumb_home | append: 'carousel-v2' | append: '.jpg' | relative_url -}}" class="" alt="Önol Üroloji">
+          <source data-srcset="{{- thumb_base | append: thumb_home | append: 'carousel-v2' | append: '.webp' | relative_url -}}" type="image/webp">
+          <source data-srcset="{{- thumb_base | append: thumb_home | append: 'carousel-v2' | append: '.jpg' | relative_url -}}" type="image/jpeg">
+          <img data-src="{{- thumb_base | append: thumb_home | append: 'carousel-v2' | append: '.jpg' | relative_url -}}" class="lazyload" alt="Önol Üroloji">
         </picture>
       </div>
     </div>
@@ -130,9 +130,9 @@ layout: default
       <div class="col-md-4 mb-4 px-3">
         <div class="card h-100 border-0">
           ​<picture>
-            <source srcset="{{- doctors_base | append: site.thumbnail.author.doctor_1 | append: '.webp' | relative_url -}}" type="image/webp">
-            <source srcset="{{- doctors_base | append: site.thumbnail.author.doctor_1 | append: '.jpg' | relative_url -}}" type="image/jpeg">
-            <img src="{{- doctors_base | append: site.thumbnail.author.doctor_1 | append: '.jpg' | relative_url -}}" class="card-img-top doctors-img" alt="{{- doctors_base | append: site.thumbnail.author.doctor_1_alt -}}">
+            <source data-srcset="{{- doctors_base | append: site.thumbnail.author.doctor_1 | append: '.webp' | relative_url -}}" type="image/webp">
+            <source data-srcset="{{- doctors_base | append: site.thumbnail.author.doctor_1 | append: '.jpg' | relative_url -}}" type="image/jpeg">
+            <img data-src="{{- doctors_base | append: site.thumbnail.author.doctor_1 | append: '.jpg' | relative_url -}}" class="card-img-top doctors-img lazyload" alt="{{- doctors_base | append: site.thumbnail.author.doctor_1_alt -}}">
           </picture>
           <div class="card-body px-0">
             <h5 class="card-title text-center pt-3">{{- site.data.i18n.home.doctors.title[page.lang][0] | strip_html | strip_newlines | xml_escape -}}</h5>
@@ -156,9 +156,9 @@ layout: default
       <div class="col-md-4 mb-4 px-3">
         <div class="card h-100 border-0">
           ​<picture>
-            <source srcset="{{- doctors_base | append: site.thumbnail.author.doctor_2 | append: '.webp' | relative_url -}}" type="image/webp">
-            <source srcset="{{- doctors_base | append: site.thumbnail.author.doctor_2 | append: '.jpg' | relative_url -}}" type="image/jpeg">
-            <img src="{{- doctors_base | append: site.thumbnail.author.doctor_2 | append: '.jpg' | relative_url -}}" class="card-img-top doctors-img" alt="{{- doctors_base | append: site.thumbnail.author.doctor_2_alt -}}">
+            <source data-srcset="{{- doctors_base | append: site.thumbnail.author.doctor_2 | append: '.webp' | relative_url -}}" type="image/webp">
+            <source data-srcset="{{- doctors_base | append: site.thumbnail.author.doctor_2 | append: '.jpg' | relative_url -}}" type="image/jpeg">
+            <img data-src="{{- doctors_base | append: site.thumbnail.author.doctor_2 | append: '.jpg' | relative_url -}}" class="card-img-top doctors-img lazyload" alt="{{- doctors_base | append: site.thumbnail.author.doctor_2_alt -}}">
           </picture>
           <div class="card-body px-0">
             <h5 class="card-title text-center pt-3">{{- site.data.i18n.home.doctors.title[page.lang][1] | strip_html | strip_newlines | xml_escape -}}</h5>
