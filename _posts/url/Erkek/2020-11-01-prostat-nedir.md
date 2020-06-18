@@ -19,10 +19,6 @@ summary: "Prostatın kanserleri hakkında detaylı bilgi , Prostat Nedir, Prosta
 youtubeId: false
 ---
 
-
-
-
-
 İdrar torbasının alt kısmında içinde idrar kanalını bulunduran organa prostat adı verilir. İdrar kanalı prostatın içerisinden geçer. Vücutta prostatın bulunmaması yaşamsal bir tehlike oluşturmaz. Prostat, cinsel işlev ve üreme açısından önem taşımaktadır. İki sebeple hastada şikayetlere sebebiyet verir. Kanserden kaynaklanan ve kanserle bağlantısı olmayan büyümeler. Bununla birliktede prostat iltihabı olarak adlandırabileceğimiz prostatit hastalığına da sebep olabilir. Prostatın basit büyümeleri kanseriyle aynı değildir. Basit büyümeleri çeşitli işeme şikayetlerine neden olur. Çünkü prostat büyür ve içerisinden geçen idrar kanalını sıkıştırır. Prostatın kötü huylu büyümeleri olan prostat kanseri ise üzerinde ciddi şekilde durulması gereken bir konudur. Prostat kanseri uygun konumda ve karakterde ise prostatın gereksiz yere çıkarılmaması gerekmektedir. Çünkü ameliyat sonrası oluşabilecek idrar kaçırma ve cinsel işlev bozukluklarının önüne bu şekilde geçilebilir. Kanser cerrahisi tecrübe ve güncel bilgi birikimi gerektiren derin bir konudur. İnternet sitemizin menü bölümünden prostat kanseri, prostat büyümesi ve prostatit hastalıkları hakkında detaylı bilgilere ulaşabilirsiniz.
 
 

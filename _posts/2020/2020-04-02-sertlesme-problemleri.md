@@ -64,7 +64,7 @@ Penisteki Korpus Kavernozum denilen iki adet süngersi cismin içine damar geni�
 
 ### Penil Protez Ameliyatı (Mutluluk Çubuğu)
 
-![Penil Protez](/assets/img/penilprotez.jpeg){:.size2}
+![Penil Protez](/assets/img/penilprotez.jpeg)
 Artık penisin süngersi cisimlerinde rezerv (sertleştirici doku) kalmamıştır. İlaçla tedaviye cevap veren hastalara yapılmamalıdır. Etkili bir yöntemdir. Mutluluk çubuğu (Penil Protez) 3 parçadan oluşur; iki adet silindir şeklinde penisi sertleştiren çubukları taklit eden bölüm, pompa ve rezervuar (depo).  Skrotuma (testis torbası) yerleştirilen pompanın ucundaki düğmeye basılır. Penis sertleşme problemi ameliyatında karın içine yerleştirilen 50-60 cc'lik depodan sıvı, penisin içine yerleştirilen iki adet çubuğa pompalanır ve penisin sertleşmesi sağlanır. Cinsel birleşme sonunda testis torbasındaki pompaya tekrar basılarak penisin inmesi sağlanır. İktidarsızlığa kesin çözümdür. Penil protezin takılması operasyonu ince ve hassas bir ameliyattır. Deneyim gerektirir.  Penil Protez ameliyatı hakkında daha fazla bilgi için [Tıklayınız.](https://www.onoluroloji.com/penil-protez-mutluluk-cubugu)
 
 ## ESWT (Ultrasonik Şok Dalgası) Tedavisi

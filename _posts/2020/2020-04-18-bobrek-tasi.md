@@ -18,23 +18,18 @@ thumbnail:
 summary: "Böbrek Taşı Nedir? Böbek Taşı Nasıl Oluşur? Böbrek Taşı Tipleri Nedir? Kimlerde Böbrek Taşı Olur? Böbrek Taşı Belirtileri Nelerdir? Böbrek Taşı Teşhisi? Böbrek Taşı Nasıl Önlenir? Şiddetli Böbrek Ağrısı Nedir? Böbrek Taşlarının Tedavisi? Böbrek taşı nasıl oluşur? Böbrek Taşlarında Kapalı Ve Açık Ameliyatı. "
 youtubeId: "P-ABwvQ4uLc"
 youtubeId2: "Qg_Plfhwu9k"
-lightBoxImages: ["/assets/img/BobrekTasiAmeliyati1.jpg","/assets/img/BobrekTasiAmeliyati2.jpg","/assets/img/BobrekTasiAmeliyati3.jpg"]
-lightBoxImages2: ["/assets/img/BuyukBobrekTasi1.jpg"]
-lightBoxImages3: ["/assets/img/BobrekTasiAmeliyati1.jpg","/assets/img/BobrekTasiAmeliyati2.jpg","/assets/img/BobrekTasiAmeliyati3.jpg"]
+lightBoxImages: ["/assets/img/BobrekTasiAmeliyati1.jpg", "/assets/img/BobrekTasiAmeliyati2.jpg", "/assets/img/BobrekTasiAmeliyati3.jpg"]
+lightBoxImages2: ["/assets/img/BuyukBobrekTasi1.jpg", "/assets/img/BobrekTasiAmeliyati1.jpg", "/assets/img/BobrekTasiAmeliyati2.jpg", "/assets/img/BobrekTasiAmeliyati3.jpg"]
 ---
-
-
-
-
 
 ## Böbrek Nedir?
 
-![Böbrek](/assets/img/bobrek.jpeg)
+![Böbrek](/assets/img/bobrek.jpeg){:.size1}
 Boşaltım sistemi; idrarı üreten böbrekler, böbreklerden mesaneye idrarı aktaran üreterler, idrarı depolayan mesane ve idrarı dışarıya atan üretra denilen kanaldan oluşur. Bel kemiğinin hemen yanlarında 2 adet fasulyeye benzeyen böbrekler kandan atık maddeleri ve fazla suyu idrarla dışarıya atan organlardır. Ayrıca kandaki tuz ve diğer maddeleri dengeler. Böbrekler ayrıca kemikleri kuvvetlendiren ve kırmızı kan hücrelerini oluşturan hormonları üretir.
 
 ## Böbrek Taşı Nedir?
 
-![Böbrek Taşı](/assets/img/bobrektasinedir.jpeg)
+![Böbrek Taşı](/assets/img/bobrektasinedir.jpeg){:.size1}
 Böbrek taşları ürolojinin en ağrılı hastalıklarından birisidir. Birçok böbrek taşı herhangi bir girişim gerektirmeden kendi kendine düşer. Araştırmalar sayesinde taş oluşumunu tetikleyen sebepler ve bunu önlemeye yönelik tedbirler belirlenmiştir.
 
 ## Böbrek Taşı Neden Olur?
@@ -82,11 +77,11 @@ Ağrı kesici ilaç birinci basamakta damar (IVD) veya adale (KETOROLAG) içine 
 
 Böbrek taşı tedavisinde kapalı ve açık yöntemler kullanılmaktadır. Böbrek taşı ameliyatlarının başarısı hangi tekniğin kullanıldığından çok cerrahın o teknik üzerinde ne kadar çok deneyimi olduğuna bağlıdır. Başarıyı etkileyen bir diğer faktör taş yükünün fazlalığıdır.
 
-* ### Ekstra Korperal Şok Tedavisi İle Taşın Kırılması (ESWL)
+### Ekstra Korperal Şok Tedavisi İle Taşın Kırılması (ESWL)
 
 2 cm’in altındaki taşlarda ESWL yöntemi vücut bütünlüğünü bozmadan taşı yok eden ideal bir yöntemdir. Bu teknikte yüksek enerjili ses dalgaları dışarıdan taşa odaklanır. Taş parçalanarak dökülmesi sağlanır. Gebelik ve kanama bozukluklarında yapılmamalıdır.
 
-* ### Böbrek Taşı Kapalı Ameliyatı
+### Böbrek Taşı Kapalı Ameliyatı
 
 Son 20-25 yıldır açık taş cerrahisinin yerini endoskopik girişimler almıştır. Kapalı yöntemlerde taşların temizlenmesinde taşın büyüklüğü ve böbrek içindeki konumu büyük önem taşır. Büyük taşlar daha uzun sürede temizlenir ve böbrek taşlarına tekrar tekrar girişim gerekebilir. Bu da çok anestezi ve daha çok komplikasyon demektir. Endoskopik yöntemlerle görüş alanının sağlanması için basınçlı su verilmektedir. Basınçlı su ciddi yüksek ateş, kanama gibi hayatı tehdit edebilecek komplikasyonlara yol açabilir. İnce üreter kanalında girişimle temizlenen taşlarda sıklıkla üreter kanalının yaralandığı hatta koptuğu görülebilir. Kapalı yöntemde cerrahın deneyimine göre az veya çok böbrek kanaması nedeniyle operasyon yarım kalabilir. Taşlar bir bütün halinde çıkarılamadığı için parçalanarak küçük parçalar halinde çıkartılır. Bu da kapalı ameliyatın önemli sakıncalardan biridir.
 
@@ -121,7 +116,7 @@ Bizim böbreğe yaklaşımımız karın yan veya ön duvarındaki 3 tabaka adale
 ## Böbrek Taşı Ameliyat Görselleri
 
 {% include lightbox.html paths=page.lightBoxImages %}
+
 {% include lightbox.html paths=page.lightBoxImages2 %}
-{% include lightbox.html paths=page.lightBoxImages3 %}
 
 {% include youtubePlayer.html id=page.youtubeId2 %}

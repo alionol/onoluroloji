@@ -17,16 +17,12 @@ thumbnail:
     webp: false
 summary: "Hipospadias hastalığı ve tedavisi hakkında detaylı bilgiler... , Hipospadias nedir? ,  Hipospadias sakatı hastalarının tedavisi? , Hipospadias eğriliğinin sebebi, Hipospadias olmadığı halde peniste eğrilik olur mu? , Hipospadis teşhisi nasıl konur? , Hipospadiaslı çocuklar sünnet olmalı mı?, Hipospadias ameliyatı nasıl yapılır?"
 youtubeId: "3EQMBUtiOUU"
-lightBoxImages: ["/assets/img/hipospadias1.jpeg","/assets/img/hipospadias2.jpeg","/assets/img/hipospadias3.jpeg","/assets/img/hipospadias4.jpeg","/assets/img/hipospadiask.jpeg","/assets/img/hipospadias6.jpeg","/assets/img/hipospadias7.jpeg"]
-lightBoxImages2: ["/assets/img/hipospadiasameliyati1.jpeg","/assets/img/hipospadiasameliyati2.jpeg","/assets/img/hipospadiasameliyati3.jpeg","/assets/img/hipospadiasameliyati4.jpeg","/assets/img/hipospadiasameliyati5.jpeg","/assets/img/hipospadiasameliyati6.jpeg","/assets/img/hipospadiasameliyati7.jpeg","/assets/img/hipospadiasameliyati8.jpeg"]
-lightBoxImages3: ["/assets/img/hipospadiasameliyati9.jpeg","/assets/img/hipospadiasameliyati10.jpeg","/assets/img/hipospadiasameliyati11.jpeg","/assets/img/hipospadiasameliyati12.jpeg","/assets/img/hipospadiasameliyati13.jpeg","/assets/img/hipospadiasameliyati14.jpeg","/assets/img/hipospadiasameliyati15.jpeg","/assets/img/hipospadiasameliyati16.jpeg","/assets/img/hipospadiasameliyati17.jpeg","/assets/img/hipospadiasameliyati18.jpeg","/assets/img/hipospadiasameliyati19.jpeg"]
-lightBoxImages4: ["/assets/img/hipospadiasameliyati20.jpeg","/assets/img/hipospadiasameliyati21.jpeg","/assets/img/hipospadiasameliyati22.jpeg","/assets/img/hipospadiasameliyati23.jpeg","/assets/img/hipospadiasameliyati24.jpeg","/assets/img/hipospadiasameliyati25.jpeg","/assets/img/hipospadiasameliyati26.jpeg","/assets/img/hipospadiasameliyati27.jpeg"]
-lightBoxImages5: ["/assets/img/cocukhipospadias1.jpeg","/assets/img/hipospadiasameliyati29.jpeg"]
+lightBoxImages: ["/assets/img/hipospadias1.jpeg", "/assets/img/hipospadias2.jpeg", "/assets/img/hipospadias3.jpeg", "/assets/img/hipospadias4.jpeg", "/assets/img/hipospadias5.jpeg", "/assets/img/hipospadias6.jpeg", "/assets/img/hipospadias7.jpeg"]
+lightBoxImages2: ["/assets/img/hipospadiasameliyati1.jpeg", "/assets/img/hipospadiasameliyati2.jpeg", "/assets/img/hipospadiasameliyati3.jpeg", "/assets/img/hipospadiasameliyati4.jpeg", "/assets/img/hipospadiasameliyati5.jpeg", "/assets/img/hipospadiasameliyati6.jpeg", "/assets/img/hipospadiasameliyati7.jpeg", "/assets/img/hipospadiasameliyati8.jpeg"]
+lightBoxImages3: ["/assets/img/hipospadiasameliyati9.jpeg", "/assets/img/hipospadiasameliyati10.jpeg", "/assets/img/hipospadiasameliyati11.jpeg", "/assets/img/hipospadiasameliyati12.jpeg", "/assets/img/hipospadiasameliyati13.jpeg", "/assets/img/hipospadiasameliyati14.jpeg", "/assets/img/hipospadiasameliyati15.jpeg", "/assets/img/hipospadiasameliyati16.jpeg", "/assets/img/hipospadiasameliyati17.jpeg", "/assets/img/hipospadiasameliyati18.jpeg", "/assets/img/hipospadiasameliyati19.jpeg"]
+lightBoxImages4: ["/assets/img/hipospadiasameliyati20.jpeg", "/assets/img/hipospadiasameliyati21.jpeg", "/assets/img/hipospadiasameliyati22.jpeg", "/assets/img/hipospadiasameliyati23.jpeg", "/assets/img/hipospadiasameliyati24.jpeg", "/assets/img/hipospadiasameliyati25.jpeg", "/assets/img/hipospadiasameliyati26.jpeg", "/assets/img/hipospadiasameliyati27.jpeg"]
+lightBoxImages5: ["/assets/img/cocukhipospadias1.jpeg", "/assets/img/hipospadiasameliyati29.jpeg"]
 ---
-
-
-
-
 
 Bu yazıda Hipospadias hastalığından, tiplerinden, ameliyat tekniklerinden ve konunun daha iyi anlaşılması için penisin anatomisinden bahsedilecektir. Önceden birden fazla başarısız ameliyat geçirip Hipospadyas sakatı olan hastaların tedavi süreçleri anlatılacaktır.
 

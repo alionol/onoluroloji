@@ -19,11 +19,6 @@ summary: "Mikropenis doğumsal bir anomalidir. Erken teşhisin önemli olduğu m
 youtubeId: false
 ---
 
-
-
-
-
-
 •	Mikropenis vakalarının büyük bir kısmı, bebek henüz anne karnındayken testislerin yeterli miktarda erkeklik hormonu salgılamamasından kaynaklanmaktadır. Testosteron dediğimiz erkeklik hormonunun salgılanmaması, beyinde ki uyarıcı hormonların salgılanmamasından kaynaklanabilir. Aynı zamanda testislerin doğuştan gelişimini tamamlayamamasına bağlı olarak beyinden gelen bu uyarılara cevap verebilecek nitelikte testis dokusununun bulunmamasından da kaynaklanabilir. Beyin ve testis salgılarının işlevlerini sağlamasına rağmen hastanın genital bölgesinde alıcı bulunmamasına bağlı olarakta görülebilmektedir.
 
 •	Mikropenisin meydana gelmesine neden olan bir diğer faktör ise çocuğun büyüme hormonlarında görülen eksikliktir. Buna bağlı olarak çocuğun erkeklik organı gelişimini tamamlayamayabilir. Bu tip bir vakada penisin küçük olmasıyla beraber çocuğun genel durumunda da gelişim bozukluğu görülür.
@@ -41,7 +36,7 @@ youtubeId: false
 Aşırı kilolu ve obezite hastası çocukların erkeklik organları, vücutlarında ki aşırı yağlanmaya bağlı olarak küçük olabilir. Ancak bu çocuklarının penisleri gerdirildiğinde normal boyutlarda olduğu görülür. Böyle durumlarda ki çocukların penisleri yalnızca penis etrafında ki yağ birikiminden dolayı içine gömük haldedir, bu nedenle çocukların penisi küçük görünür. Böyle durumlar gömük penis adını verdiğimiz hastalık adı altında incelenir. Fakat çocuğun penis boyu 4 cm’den az ise ve hipospadias, inmemiş testis gibi doğumsal anomaliler de bulunuyorsa daha detaylı şekilde incelenmelidir.
 
 
-## KLINEFELTER SENDROMU
+## Klinefelter Sendromu
 
 Klinefelter sendromu mikropenise neden olan faktörlerden biridir. Normal bir genetiğe sahip erkek 46 xy karyotipte görülür. Ancak Klinefelter sendromu hastaları 47 xxy karyotiptedir. Testis gelişimini ve sperm oluşumunu bozan bir hastalıktır. Klinefelter sendromu hastalarının jinekomasti adı verilen kız çocuğu tipinde memeleri vardır ve testisleri küçüktür. Bacak, kol ve ellerde orantısızlık görülür. Bu vakalarda ki çocuklarda öğrenme bozukluğu da görülebilir. Bu durumlarda ki hastalarda kalıtsal kromozom bozukluğuna bağlı olarak mikropenis görülebilmektedir.
 

@@ -27,7 +27,7 @@ Yazımızda testis torsiyonundan yani yumurtalıkların damarsal sapı etrafınd
 
 ## Testis Nedir?
 
-![Testis Nedir](/assets/img/testistorsiyonu.jpeg)
+![Testis Nedir](/assets/img/testistorsiyonu.jpeg){:.size1}
 Testisler erkek üreme sisteminin organıdır. Ana karnındayken bel arkasında, böbreklerin bulunduğu bölgede oluşur. Kasıklara doğru iner. Kasık kanalından geçer. Yeni doğan bebekte torbalara yerleşir.  
 ​Skrotum (testis torbası) özel bir oluşumdur. İçindeki sıcaklığı sabit bir derecede tutma özelliğine sahiptir. Soğukta büzüşerek, sıcakta gevşeyerek içindeki sıcaklığı sperm oluşumu için sabit tutar. İnsan vücudundaki sıcaklık 36,8 - 37 derecedir. Testislerdeki ise 34-36 derecedir.  
 ​Testislerin içinde 400 metre uzunluğunda mikroskobik kanallar mevcuttur. Bu kanallar içerisinde sperm hayvancıkları üretilir. Ayrıca bu kanallar çevresindeki özel hücrelerde erkeklik hormonu salgılanır. Spermler olgunlaşarak bu tüplerden geçer. Epididim denilen kanalda olgunlaşmaya devam eder. Ve vasdeferens kanalıyla meni keselerine gider, depolanır. Olgun bir erkekte bir günde bir milyon sperm üretilir. Spermler süt (ejekulat) kıvamında bir salgı ortamında penisten dışarı atılır. Erkekler 11-17 yaş arasında gebe bıraktırma özelliği kazanabilir. Testisler 10-13 yaşları arasında büyümeye başlar.
@@ -115,6 +115,8 @@ Ana prensip testisin kurtarılması için acil ameliyattır. Laboratuvar tetkikl
 Kasık bölgesinden veya torbalar üzerinden 2 - 4 santimlik kesi yapılır. Testisin üzerindeki zar açılır. Testis ters tarafa döndürülerek torsiyon(dönme) düzeltilir. Kanlanmayı arttırmak için sıcak uygulanır ve testisin kanlanıp kanlanmayacağı gözlenir. Bu esnada karşı testisinde sağlama alınması için kasığın diğer tarafından bir kesi yapılır. Sağlam olan testiste daha sonra dönme ihtimaline karşı testis torbasının tabanına sağlamlaştırılır. Dönen testisin sıcak uygulamasıyla kısmen rengi açılmış ve kanlanmışsa yerine sabitlenir. Eğer kanlanma olmamışsa testis çürümüş demektir. Testis kesilir ve çıkarılır.
 
 ## Testis Torsiyonu Ameliyatı Görselleri
-{% include lightbox.html paths=page.lightBoxImages %}
-{% include lightbox.html paths=page.lightBoxImages2 %}
+{% include lightbox.html paths=page.lightBoxImages %}  
+
+{% include lightbox.html paths=page.lightBoxImages2 %}  
+
 {% include lightbox.html paths=page.lightBoxImages3 %}

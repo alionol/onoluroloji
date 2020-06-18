@@ -22,10 +22,10 @@ youtubeId2: "BW89QLwkGP0"
 
 
 ## Üretra (idrar kanalı) Nedir?
-![idrar kanalı Nedir](/assets/img/ShutterStock_Female_Urinary_System.jpeg){:.size1}
+![idrar kanalı Nedir](/assets/img/kadinidrarkacirma.jpeg){:.size1}
 Üretra (idrar kanalı), mesaneden idrarı dışarıya atan 5-6 cm uzunluğundaki idrar boşaltma kanalıdır. Vajina, 7,5 - 10 cm uzunluğunda rahimle birleşen basık silindir şeklinde cinsel birleşme organıdır. Üretra, vajinanın hemen üstündedir (resim 1 : Urethra). Üretra içten dışa 4 tabakadan oluşur. Mukoza, damar ağından zengin doku, içte uzunlamasına (longitüdünal) dışta dairesel (sirküler) kas dokusundan oluşur. İç adale tabakası mesane adalesinin devamıdır.
 
-![üretra nedir](/assets/Ekran Resmi 2018-02-15 17.32.32.jpeg){:.size1}
+![üretra nedir](/assets/img/kadinuretradarligi.jpeg){:.size1}
 Üretrada 2 adet idrarı tutan conta (sfinkter) mekanizması mevcuttur. Mesaneden gelen ince lifler, distal üretra denilen üretranın çıkış noktasında birleşerek kalınlaşır ve bir halka haline gelir. Bu halka idrar tutucu dış contadır (dış sfinkter). Bu dış idrarı tutucu (sfinkter) conta bütün üretra boyunca uzansa da en kalın yeri üretranın idrarı attığı çıkış deline yakındır. İç idrar tutucu conta (sfinkter) ise üretrayla mesanenin birleştiği mesane boynundadır. İç (internal) ve dış (external) sfinkteri resimde görebilirsiniz.
 
 
@@ -49,12 +49,12 @@ Kadında üretral dilatasyon; metal veya plastik sondalarla darlık yerinin zorl
 
 ### Üretra Darlığı Ameliyatı
 
-#### Üretra Darlığı Kapalı Ameliyat;
+#### Üretra Darlığı Kapalı Ameliyat
 
 Endoskopik soğuk bıçakla darlığın kesilmesi; teleskopik aletin ucunda küçük bir bıçakla ışık kaynağı kullanılarak darlık bizzat görülerek uzunlamasına kesilir. Kesi saat 3 ve 9 hizalarında 2 yönde yapılır. İşlemin sfinkter (conta) dediğimiz idrar tutucu mekanizmalara zarar verme ve buna bağlı olarak idrar kaçırma yapabileceğini bilmek gerekir. Deneyimli merkezlerde bu işlem başarıyla yapılır.
 
 
-#### Üretra Darlığı Açık Ameliyat;
+#### Üretra Darlığı Açık Ameliyat
 
 Kadınlarda üretra darlığı açık ameliyatının ismi üretroplastidir. Kesin sonuç verir. Ancak deneyimli merkez ve ellerde yapılmalıdır. Hassas bir ameliyattır. Darlık hemen idrar kanalının çıkışında ise işlem daha kolaydır. Darlık bölümü çepeçevre kesilir ve çıkarılır. Kesilen iki uc yeniden birbirine dikilir. İdrar tutucu mekanizmadan uzakta olduğu için sorun teşkil etmez.
 

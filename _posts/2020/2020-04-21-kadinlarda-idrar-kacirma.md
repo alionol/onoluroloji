@@ -23,10 +23,11 @@ youtubeId2: "0y6DVkG3lFM"
 
 ## Kadınlarda Boşaltım Sistemi
 
-![Kadınlarda Boşaltım Sistemi](/assets/img/kadinidrarkacirma.jpeg)
-![Kadında İdrar Kaçırma](/assets/kadinuretradarligi.jpeg)
+![Kadınlarda Boşaltım Sistemi](/assets/img/kadinidrarkacirma.jpeg){:.size1}
+Mesane; idrarı depolayan ve boşaltan bir organdır. Kadınlarda üretra (idrar kanalı) 4-5 cm uzunluğundaki idrarı dışarıya atan kanaldır. Vajina 5-6 cm boyunda silindir şeklinde bir yapıdır ve üstünde boydan boya uzanan idrar kanalı mevcuttur. İdrar kanalı (üretra) içten dışa; ağız içine benzer mukoza, damardan zengin doku, istemli ve istemsiz iki ayrı adale tabakasından oluşur.
 
-Mesane; idrarı depolayan ve boşaltan bir organdır. Kadınlarda üretra (idrar kanalı) 4-5 cm uzunluğundaki idrarı dışarıya atan kanaldır. Vajina 5-6 cm boyunda silindir şeklinde bir yapıdır ve üstünde boydan boya uzanan idrar kanalı mevcuttur. İdrar kanalı (üretra) içten dışa; ağız içine benzer mukoza, damardan zengin doku, istemli ve istemsiz iki ayrı adale tabakasından oluşur. İdrar kanalında, biri mesane çıkışında istemsiz yani otomatik kontrol sağlayan, bir diğeri de ortasında istemli yani istediğimiz zaman idrarımızı tutmamızı ve bırakmamızı sağlayan iki adet idrar tutucu sfinkter denilen bir çeşit conta mekanizması mevcuttur (2. resim: internal ve external sfinkter). Bu idrar tutucu conta mekanizması son derece komplekstir. Beyin, sinir sistemi ve kadınlık hormonuyla ilintili çok karmaşık bir sistemle çalışır.
+![Kadında İdrar Kaçırma](/assets/img/kadinuretradarligi.jpeg){:.size1}
+İdrar kanalında, biri mesane çıkışında istemsiz yani otomatik kontrol sağlayan, bir diğeri de ortasında istemli yani istediğimiz zaman idrarımızı tutmamızı ve bırakmamızı sağlayan iki adet idrar tutucu sfinkter denilen bir çeşit conta mekanizması mevcuttur (2. resim: internal ve external sfinkter). Bu idrar tutucu conta mekanizması son derece komplekstir. Beyin, sinir sistemi ve kadınlık hormonuyla ilintili çok karmaşık bir sistemle çalışır.
 
 ## İdrar Kaçırma Nedenleri
 
@@ -51,7 +52,7 @@ Vajenden gereksiz yere ameliyat geçirmiş hastalarda ise idrar kanalı ameliyat
 
 Kadınların idrar kaçırma nedenleri farklılık gösterir.
 
-* ### Stres tipi idrar kaçırma
+### Stres tipi idrar kaçırma
 
 Stres tipi idrar kaçırmada ana neden üretra (idrar kanalı) ve üretradaki idrar tutucu contalardır. Stres tipi idrar kaçırmalar şiddetine göre 3’e ayrılır.
 
@@ -64,19 +65,19 @@ Stres tipi idrar kaçırmada ana neden üretra (idrar kanalı) ve üretradaki id
 ​
 **Tip 3:** Bu tipte ise idrar devamlı kaçar. Mesane boynunda yerleşmiş olan idrar tutucu iç sfinkter (intrensek sfinkter) vücutta otonom sinir sistemi ile kontrol edilir. İsteğimiz dışında otomatik olarak idrar tutmayı sağlar. Bu tipte bu mekanizma tamamıyla bozulmuştur. Daha çok nörolojik nedenlere bağlıdır. İlaç tedavisine yanıt vermez.
 
-* ### Sıkışma tipi idrar kaçırma (Urgency İnkontinans)
+### Sıkışma tipi idrar kaçırma (Urgency İnkontinans)
 
 Sıkışma tipi idrar kaçırmalarındaki ana neden mesane adalesindedir. Ertelenmesi zor, ani ve zorlayıcı idrar yapma hissi ile birlikte idrar kaçırma vardır. Çok çeşitli nedenleri vardır. Mesanenin kasılmalarının kontrol edilemediği mesane adalesinin (detrusor) istem dışı kasıldığı durumlarda oluşur.
 
-* ### Karışık tip idrar kaçırma (hem stres hem sıkışmaya bağlı)
+### Karışık tip idrar kaçırma (hem stres hem sıkışmaya bağlı)
 
 Hem stres hem de sıkışma tipi idrar kaçırmanın olduğu gruptur. Hem mesanede hem de işeme kanalının işlevinde bozukluk vardır.  Pelvik taban (apış arası) fonksiyonunun bozulması, kabızlık, ileri yaş, obezite vs.. nedenlerle olur.
 
-* ### Fistüle bağlı devamlı idrar kaçırma
+### Fistüle bağlı devamlı idrar kaçırma
 
 Fistül vücutta istenmeyen yalancı kanal demektir. Rahimin alınması (histerektomi) ve sezaryen gibi nedenlerle jinekolojik ve rektum kanseri vs. gibi genel cerrahi ameliyatlarının bir komplikasyonu olarak mesane ile vajina arasında istenmeyen bir yeni yol (fistül) oluşur. Bu durumda idrar üretra (idrar yolu) yerine devamlı olarak yeni oluşan kanaldan (fistül) akarak vajinadan dışarı çıkar. Ayrıca idrar kaçırma nedeniyle vajinadan yapılan ürolojik gevşek sling ameliyatlarının komplikasyonu olarak da işeme kanalı ile kadınlık organı arasına istenmeyen bir kanal oluşabilir. Bu durumda idrar yine kadınlık organından gelir. Yani fistül (istenmeyen kanal) önceden yapılan operasyonların bir komplikasyonu olarak oluşur. Fiziksel, psikolojik ve hijyenik problem oluşturan fistül tipi idrar kaçırma, idrar kaçırma ameliyatlarının en zor konusudur. Bu sebepten bu konu ayrı bir sayfada sitemizde incelenmiştir. Fistülün sebepleri ve tedavileri hakkındaki geniş bilgi için Tıklayınız.
 
-* ### Cinsel ilişki sırasında idrar kaçırma
+### Cinsel ilişki sırasında idrar kaçırma
 
 Bu tipte hastalar, sadece cinsel temas esnasında idrar kaçırır. Stres tipi idrar kaçırma hastalarının yüzde 40’ında mevcuttur. İyi sorgulama yapılmazsa tanı konulamayabilir. Hastalar tarafından cinsel temas esnasında tatmin nedeniyle akan zevk suyu olarak değerlendirebilir. Ancak esas sebep bağların gevşemesi veya kopmasıdır.
 

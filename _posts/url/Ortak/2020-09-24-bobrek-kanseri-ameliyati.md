@@ -22,13 +22,8 @@ lightBoxImages: ["/assets/img/BobrekKanseriAmeliyati1.jpeg", "/assets/img/Bobrek
 
 ---
 
-
-
-
-
-![Böbrek Kanseri ameliyatı](/assets/img/bobrekkanseriameliyati.jpeg)
-Böbrek kanseri cerrahi operasyon ile tedavi edilebilir. Böbrek kanserinde yapılan ameliyatlar 2 tipten oluşmaktadır. Böbrekte bulunan kitlenin lokasyonu ve büyüklüğü saptandıktan sonra cerrahlar ameliyat planlaması yaparlar. Bu planlama da hastanın genel sağlık durumu ve diğer tarafında bulunan böbreğin durumu baz alınır ve Partiel Nefrektomi veya Radikal Nefrektomi ameliyatlarının hangisinin yapılacağına karar verilir. Bazı özel vakalarda ise hiç tedavi uygulanmaması yönünde karar alınır.
-
+![Böbrek Kanseri ameliyatı](/assets/img/bobrekkanseriameliyati.jpeg){:.size1}
+Böbrek kanseri cerrahi operasyon ile tedavi edilebilir. Böbrek kanserinde yapılan ameliyatlar 2 tipten oluşmaktadır. Böbrekte bulunan kitlenin lokasyonu ve büyüklüğü saptandıktan sonra cerrahlar ameliyat planlaması yaparlar. Bu planlama da hastanın genel sağlık durumu ve diğer tarafında bulunan böbreğin durumu baz alınır ve Partiel Nefrektomi veya Radikal Nefrektomi ameliyatlarının hangisinin yapılacağına karar verilir. Bazı özel vakalarda ise hiç tedavi uygulanmaması yönünde karar alınır.  
 Kanser saptanan böbreğin tamamen çıkarılması ameliyatına Radikal Nefrektomi adı verilir. Parsiyel nefrektomi ameliyatında ise böbreğin yalnızca kanserli bölgesi ve bu bölgeye birkaç mm yakınlıkta kanser riski oluşturan dokular çıkarılır. Parsiyel nefrektomi de böbreğin sağlam dokularına dokunulmaz, normal lokasyonlarında bırakılır.
 
 ## Parsiyel Nefrektomi Nedir?
@@ -49,9 +44,8 @@ Bazı vakalarda diğer böbreği iyi durumda olan hastalara da radikal nefrektom
 
 ### Parsiyel Nefrektomi Ameliyatı Neden Zordur?
 
-![Parsiyel Nefrektomi Ameliyatı](/assets/img/parsiyelnefrektomi.jpeg)
-Vücutta içinde en fazla kan bulunduran organ böbrektir. Böbrekte 2 adet ana damar bulunmaktadır. Bunlar; temiz kanı getiren atardamar ve kirli kanı götüren toplardamardır. Böbrek şekil itibariyle fasulyeye benzer. Atardamar böbreğe çukur olan bölümden girer, böbreğin içinde ki damarların dağılışı ise bir elin parmaklarına benzer. İçerde dağılım gösteren bu 5 küçük damar kendi içlerinde de ayrılıp farklı damarlarla birleşme göstermezler, bu duruma end arter adı verilir. Damar ağı böbrek içinde son bulur. Böbreğin kanlanamayan bölümü farklı damarlardan beslenemediği için solar. İnfarktüs oluşumu meydana gelir. Böbreğe giden ana damarın bütünüyle tıkanması halinde böbrek kansızlığa en fazla 20 dakika karşı koyabilir. Böbreğin 30 dakika kansız kalması ise tüm fonksiyonunu kaybetmesine neden olur. Böbrekteki bu karmaşık damarsal dağılım Parsiyel Nefrektomi operasyonunu daha zorlu bir hale getirir.
-
+![Parsiyel Nefrektomi Ameliyatı](/assets/img/parsiyelnefrektomi.jpeg){:.size1}
+Vücutta içinde en fazla kan bulunduran organ böbrektir. Böbrekte 2 adet ana damar bulunmaktadır. Bunlar; temiz kanı getiren atardamar ve kirli kanı götüren toplardamardır. Böbrek şekil itibariyle fasulyeye benzer. Atardamar böbreğe çukur olan bölümden girer, böbreğin içinde ki damarların dağılışı ise bir elin parmaklarına benzer. İçerde dağılım gösteren bu 5 küçük damar kendi içlerinde de ayrılıp farklı damarlarla birleşme göstermezler, bu duruma end arter adı verilir. Damar ağı böbrek içinde son bulur. Böbreğin kanlanamayan bölümü farklı damarlardan beslenemediği için solar. İnfarktüs oluşumu meydana gelir. Böbreğe giden ana damarın bütünüyle tıkanması halinde böbrek kansızlığa en fazla 20 dakika karşı koyabilir. Böbreğin 30 dakika kansız kalması ise tüm fonksiyonunu kaybetmesine neden olur. Böbrekteki bu karmaşık damarsal dağılım Parsiyel Nefrektomi operasyonunu daha zorlu bir hale getirir.  
 Böbrek damarlarının dağıldığı bölgeye HİLUM adı verilir, bu bölge aynı zamanda böbrek göbeği olarakta bilinmektedir. HİLUM’da oluşum gösteren kanserler son derece kompleks vakalardır. Yüksek risk taşımaktadırlar. Bunun sebebi; tümörün damarların dağılım gösterdiği alanda bulunması ve böbrek havuzcuğu dediğimiz idrar kanallarını birleştiren alanda konumlanmış olmasıdır. Ekzofitik dediğimiz böbrek dışına doğru büyüyen tümörlerin ameliyatları daha rahattır. Böbrek merkezine doğru büyüme gösteren tümörlerin ameliyatları daha zordur çünkü tümör derinde olduğundan operasyon esnasında rahat görülemez. Kistik böbrek kanserlerinde uygulanan parsiyel nefrektomi ameliyatı da zorlayıcı bir operasyondur (Bosniak tip III-IV).  Bu operasyonlarda, kist içi sıvı dolu bir kese olduğundan kistik kanser de dışarı çıkarılırken dağılabilir ve çevrede bulunan dokulara sıçrayabilir. Kanser cerrahisinde kesin kaide kanserin bütün halinde çıkarılmasıdır. Operasyon sırasında kanserli kitlenin parçalanıp çıkarılması, tümörün etraf dokulara sıçrayıp yayılmasına sebebiyet verir. Kistik böbrek tümörlerinin bütün halde çıkarılması çok fazla tecrübe ve deneyim gerektiren hassas bir konudur.
 
 ## Parsiyel Nefrektomi Kapalı Ameliyatı
@@ -97,10 +91,10 @@ Ameliyatta yapılan dikişlere bağlı olarak; arter dediğimiz temiz kanın akt
 
 ## Radikal Nefrektomi Ameliyatı
 
-![Radikal Nefrektomi](/assets/img/radikalnefrektomi.jpeg)
-![Radikal Nefrektomi Ameliyatı](/assets/radikalnefrektomi1.jpeg)
+![Radikal Nefrektomi](/assets/img/radikalnefrektomi.jpeg){:.size1}
 Tümör saptanan böbreğin tamamının çıkarıldığı ameliyata Radikal Nefrektomi adı verilir. Kanser böbrek dışında bulunan lenf düğümlerine ya da alt toplardamar içine sıçradığı vakalarda yalnızca tümörün çıkarıldığı Parsiyel Nefrektomi ameliyatı uygulanamaz. Bu vakalarda böbreğin tamamen çıkarıldığı Radikal Nefrektomi ameliyatı uygulanmalıdır. Böbrek bütün olarak lenf nodlarıyla birlikte alınmalıdır. Yapılan çalışmalar PET dediğimiz görüntüleme yönteminin de böbrek kanserlerindeki lenf nodu metastazlarını tam olarak belirleyemediğini göstermiştir. Dolayısıyla PET görüntüleme yöntemi gereksiz yere uygulanmamalıdır. Radikal Nefrektomi operasyonunda böbrek etrafında bulunan yağ dokusu ile birlikte bütün olarak çıkarılır. Kanserin yayıldığına dair radyolojik şüphe uyandıran büyümüş lenf nodları operasyon sırasında kesinlikle çıkarılmalı ve gerekli incelemeler için patolojiye yönlendirilmelidir.
 
+![Radikal Nefrektomi Ameliyatı](/assets/radikalnefrektomi1.jpeg){:.size1}
 Böbrek kanseri T3 aşamasında vena kava inferior adı verilen alt ana toplardamarın içine girip, buradan kalp içine (kulakçık) ulaşabilir. Radyolojik olarak bilhassa EMAR görüntüleme yöntemi kullanılarak tümörün tam konumu saptanabilir. Bu vakalara parsiyel nefrektomi uygulanamaz. Radikal nefrektomi yapılması gerekir. Vena kava dediğimiz alt ana toplardamar dikey bir şekilde açılır, içinde bulunan tümör temizlenir ve sonrasında yeniden dikilir. Yan tarafta bulunan görsel de kalbin içine giren bir böbrek kanseri vakası bulunmaktadır. Bu vakalarda da kalbin kulakçık kısmı açılır ve tümör temizlenir. Bu tip vakaların görüldüğü hastalar başarılı bir ameliyat geçirmeleri durumunda yaşamlarını yıllarca sürdürebilirler. Amerikada düzenlenen Uluslararası Kongrede kanserlerinde Radikal Nefrektomi vena kava ve atrial trombektomi çalışmalarımız sunulmuştur.
 
 

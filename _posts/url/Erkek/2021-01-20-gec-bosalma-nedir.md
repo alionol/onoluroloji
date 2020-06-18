@@ -19,10 +19,6 @@ summary: "Geç Boşalma Nedir?, Geç Boşalma Nedenleri, Geç Boşalmanın Tedav
 youtubeId: false
 ---
 
-
-
-
-
 Geç boşalma durumlarında; penis tam olarak sertleşse bile uzun süreli cinsel temasa rağmen bireyler spermlerini geç dışarı atarlar. Geç boşalma vakalarında cinsel birleşmeden 30-40 dakika sonra bile boşalamama hali yaşanabilir.  Boşalamamanın bu versiyonu da geç boşalma konu başlığı altında incelenir.
 
 ## Geç Boşalma Nedenleri
@@ -30,12 +26,19 @@ Geç boşalma durumlarında; penis tam olarak sertleşse bile uzun süreli cinse
 Erkek bireylerin beyinlerinde salgılanan kimyasalların sinirleri etkilemesi ve penisin, boşalma refleks sistemini uyarmasıyla boşalma sağlanır. Geç boşalma durumları bu refleks sisteminde bozulma ya da psikolojik nedenlerden kaynaklanabilir. Boşalma refleksinin bozulması;
 
 •	Alkol ve uyuşturucu maddeler
+
 •	Psikoloji
+
 •	Parkinson hastalığı ile alakalı kullanılan ilaçlar
+
 •	Antidepresan ilaçlar
+
 •	Alerji ilaçları
+
 •	Diyabet
+
 •	Erkeklik hormon düşüklüğü
+
 •	Geçirilmiş Ameliyatlara bağlı peniste oluşan his kusuru
 
 gibi faktörler geç boşalma problemini meydana getirir. Geç boşalmanın psikolojik nedenleri ise; cinsel isteklerin bastırılması, cinsel arzusuzluk hali, karşı cinse duyulan öfke, dominant partner ya da obsesif kişilik gibi nedenlere bağlı oluşan partnerler arasındaki cinsel uyumsuzluk gibi sebeplerdir.

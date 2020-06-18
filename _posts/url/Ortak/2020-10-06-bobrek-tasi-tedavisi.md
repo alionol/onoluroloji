@@ -18,15 +18,9 @@ thumbnail:
 summary: "Böbrek Taşı Nedir? Böbek Taşı Nasıl Oluşur? Böbrek Taşı Tipleri Nedir? Kimlerde Böbrek Taşı Olur? Böbrek Taşı Belirtileri Nelerdir? Böbrek Taşı Teşhisi? Böbrek Taşı Nasıl Önlenir? Şiddetli Böbrek Ağrısı Nedir? Böbrek Taşlarının Tedavisi? Böbrek taşı nasıl oluşur? Böbrek Taşlarında Kapalı Ve Açık Ameliyatı. "
 youtubeId: "Bqq7gXdzavA"
 youtubeId2: "Qg_Plfhwu9k"
-lightBoxImages: ["/assets/img/BobrekTasiAmeliyati1.jpg","/assets/img/BobrekTasiAmeliyati2.jpg","/assets/img/BobrekTasiAmeliyati3.jpg"]
-lightBoxImages2: ["/assets/img/BuyukBobrekTasi1.jpg"]
-lightBoxImages3: ["/assets/img/BobrekTasii1.jpg","/assets/img/BobrekTasiAmeliyati2.jpg","/assets/img/BobrekTasiAmeliyati3.jpg"]
-
+lightBoxImages: ["/assets/img/BobrekTasiAmeliyati1.jpg", "/assets/img/BobrekTasiAmeliyati2.jpg", "/assets/img/BobrekTasiAmeliyati3.jpg"]
+lightBoxImages2: ["/assets/img/BuyukBobrekTasi1.jpg", "/assets/img/BobrekTasi1.jpg", "/assets/img/BobrekTasiAmeliyati2.jpg", "/assets/img/BobrekTasiAmeliyati3.jpg"]
 ---
-
-
-
-
 
 8 mm altında bir ebata sahip olan taşlar genellikle müdahale gerekmeden kendiliğinden düşerler. 8 mm’den büyük taşlar için cerrahi müdahaleye ihtiyaç duyulabilir. Cerrahi tedavinin planlanması için, böbrek ve idrar yolunda bulunan taşın büyüklüğü ve bulunduğu konum önemlidir.
 
@@ -65,14 +59,12 @@ Böbrek içinde 7-8 adet kanal birleşir ve böbrek havuzcuğunu oluşturur. Biz
 Biz böbrek taşı operasyonlarında karnın yan ya da ön duvarında ki 3 tabakalı kasların kesilmemesi fikrini benimsemekteyiz. Bu kasların kesilerek operasyonun sürdürülmesi,  ameliyat sonrasında hastayı iyileşme anlamında uzun süreçlere mahkum edecektir. Karın duvarında bulunan bu 3 kas arka tarafta birleşir ve kalın bir zarf şeklini alır. Bu oluşum giriş bölgesi sayılabilir. Biz kullandığımız teknikte bu oluşumdan kesi yapmaktayız. Bu kesi ile alakalı bilinmesi gereken diğer önemli husus ise kesiyi yapan cerrahın yeterli donanım ve tecrübeye sahip olmasıdır. Yapılan kesi sayesinde hastanın vücudunun iç ve dış bütünlüğüne herhangi bir hasar verilmemektedir. Arka taraftan 4 veya 6 cm boyutlarında yapılacak bir cilt kesisi aracılığıyla direk olarak böbreğe yaklaşılır. Aynı esnada böbrek havuzcuğuna ulaşılır ve buraya da uygulanan kesi ile içeride bulunan taş parçalanmaya gerek olmaksızın bütün bir halde dışarı çıkarılır. Böbreğin derinlerinde idrar toplamaya yarayan kalis adlı kanallar bulunmaktadır. Bu kanalın içinde görülen taşlar ise esneyebilen (eğilip, bükülebilen) fleksibil sistoskop adı verilen alet yardımıyla endoskopik olarak rahatça konumlarının belirlenmesinin akabinde dışarı çıkarılırlar.  Bazı durumlarda böbrek parankimine 2-3 cm boyutlarında ışınsal bir kesi yapılarak taşa ulaşılabilir. Yapılan kesi böbrek damarları ile aynı enlemde olduğundan sorun yaratmaz. İşlem başarıyla son bulur. Kesilmiş olan, pelvis adı verilen böbrek havuzcuğu su sızdırmayacak bir şekilde kapatılarak dikilir. İşlem yapılan bölgeye küçük bir diren eklenir. Operasyon sonrasında hasta böbreğindeki tüm taşlardan kurtulmuş olur. Maksimum 1 veya 2 gün sonra ise taburcu olabilir. Operasyondan sonraki 1 haftada ise hasta taşlarından temizlenmiş ve başka bir müdahaleye ihtiyaç duymayacak halde yaşam rutinine geri döner. Bu işlemin adı açık, minimal invaziv cerrahidir. Yapılan açık ameliyat ile hastanın cildinde 4-6 cm boyutlarında bir kesi olur. Hastalar; bu yöntem sayesinde endoskopik yöntemlerin aksine, iç bütünlükleri zarar görmeden günlük aktivitelerine geri dönerler. Böbreklerinin 2 tarafında aynı esnada taş meydana gelen hastalar da yüz üstü yatırılıp operasyon görerek iki taraflarında da bulunan taşlarından tamamen kurtulabilir.
 Uzun yıllardan beri kullanmakta olduğumuz bu yöntem ile yalnızca ciltte 4-6 cm boyutlarındaki kesi izi kalır. Böbreklerde bir zarar görülmez. Böbrekteki taşlar parçalanmadan bütün halde dışarı çıkarılır. Gerekli durumlarda böbrek havuzcuğuna fleksibl sistoskop gönderilerek içeride kalan taşlar kolaylıkla temizlenir. Konu ile alakalı görsel ve videolar yazının altında sunulmaktadır.
 
+Böbrek Taşı hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/bobrek-tasi)
 
 ## Böbrek Taşı Ameliyat Görselleri
 
 {% include lightbox.html paths=page.lightBoxImages %}
+
 {% include lightbox.html paths=page.lightBoxImages2 %}
-{% include lightbox.html paths=page.lightBoxImages3 %}
 
 {% include youtubePlayer.html id=page.youtubeId2 %}
-
-
-Böbrek Taşı hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/bobrek-tasi)

@@ -23,10 +23,6 @@ lightBoxImages3: ["/assets/img/YapayMesane1.jpeg", "/assets/img/YapayMesane2.jpe
 lightBoxImages4: ["/assets/img/KalinBagirsakYapayMesane1.jpeg", "/assets/img/KalinBagirsakYapayMesane2.jpeg", "/assets/img/KalinBagirsakYapayMesane3.jpeg", "/assets/img/KalinBagirsakYapayMesane4.jpeg", "/assets/img/KalinBagirsakYapayMesane5.jpeg", "/assets/img/KalinBagirsakYapayMesane6.jpeg", "/assets/img/KalinBagirsakYapayMesane7.jpeg", "/assets/img/KalinBagirsakYapayMesane8.jpeg", "/assets/img/KalinBagirsakYapayMesane9.jpeg"]
 ---
 
-
-
-
-
 ## Mesane Nedir?
 Mesane (idrar torbası) karnın alt bölümünde balon şeklinde böbrekten atılan idrarı depolayan bir organdır. Mesane adalesi büyüyüp küçülerek içinde idrarı depolamayı sağlar. İnsanda bel bölgesinde, omurga kemiğinin yanlarında iki adet böbrek mevcuttur. Böbreğin içindeki minik tüpler kanı filtre ederek idrarı oluşturur ve idrar üreter yoluyla mesaneye taşınır. Mesanede depolanan idrar üretra denilen işeme kanalı ile dışarıya atılır.
 
@@ -106,15 +102,15 @@ Diğer tedaviyi belirleyen faktörler; kanserin büyüklüğü, kanserin mesanen
 
 ## Mesane Kanseri Ameliyatı
 
- * ### Mesane Kanseri Kapalı Ameliyat
+### Mesane Kanseri Kapalı Ameliyat
 
- Transuretral Rezeksiyon (TUR - Mt): İdrar yolundan mesane içerisine sistoskop denilen aletle girilip mesane içindeki kanserlerin ucunda küçük bir tel halka olan aletle kanser dokusunun elektrokoterle kazılıp kanserin temizlenmesi işlemidir. Yüksek elektrik enerjisi ile çalışır. Başlangıç ve ana tedavidir.
+Transuretral Rezeksiyon (TUR - Mt): İdrar yolundan mesane içerisine sistoskop denilen aletle girilip mesane içindeki kanserlerin ucunda küçük bir tel halka olan aletle kanser dokusunun elektrokoterle kazılıp kanserin temizlenmesi işlemidir. Yüksek elektrik enerjisi ile çalışır. Başlangıç ve ana tedavidir.
 
- * ### Mesane Kanseri Açık Ameliyatı (Radikal Sistektomi)
+### Mesane Kanseri Açık Ameliyatı (Radikal Sistektomi)
 
-  **Radikal Sistektomi:** Erkekte mesanenin, prostat ve meni keseleri ile birlikte çıkartılması ameliyatıdır. Kadında ise mesane ile birlikte rahimin, yumurtalıkların, vajinanın bir bölümünün çıkarıldığı ameliyattır. İlerlemiş mesane kanserinde yalnız mesanenin ve komşu organların çıkartılması eksik bir ameliyattır. Mutlaka ana damarlar üzerindeki lenf düğümlerinin yukarıya kadar çıkarılması gerekmektedir. Çünkü hiçbir görüntüleme yöntemi kanserin lenf düğümlerine bulaşıp bulaşmadığını saptayamaz bu yüzden lenf düğümlerinin çıkarılması çok önemlidir. Bu hem kanserin tamamen ortadan kaldırılmasını hem de pataloji ile kanserin nerelere kadar yayıldığını göstermesi bakımından çok önemlidir. Hasta için hayati önemdedir.
+**Radikal Sistektomi:** Erkekte mesanenin, prostat ve meni keseleri ile birlikte çıkartılması ameliyatıdır. Kadında ise mesane ile birlikte rahimin, yumurtalıkların, vajinanın bir bölümünün çıkarıldığı ameliyattır. İlerlemiş mesane kanserinde yalnız mesanenin ve komşu organların çıkartılması eksik bir ameliyattır. Mutlaka ana damarlar üzerindeki lenf düğümlerinin yukarıya kadar çıkarılması gerekmektedir. Çünkü hiçbir görüntüleme yöntemi kanserin lenf düğümlerine bulaşıp bulaşmadığını saptayamaz bu yüzden lenf düğümlerinin çıkarılması çok önemlidir. Bu hem kanserin tamamen ortadan kaldırılmasını hem de pataloji ile kanserin nerelere kadar yayıldığını göstermesi bakımından çok önemlidir. Hasta için hayati önemdedir.
 
-* ### Radikal Sistektomi Ameliyatı Nasıl Yapılır?
+### Radikal Sistektomi Ameliyatı Nasıl Yapılır?
 
 Standart Radikal Sistektomi ameliyatında göbek altında orta hattan yapılan kesi ile karın içine girilerek mesane kadında rahim ve erkekte prostat ayrıca meni keseleri ile birlikte çıkarılır. Lenf düğümleri zinciri aortanın çaprazladığı bölgenin 3-4 cm yukarısına kadar sağdan ve soldan bütün zincirleriyle çıkarılır.
 
@@ -176,6 +172,9 @@ Ayrıca mesane kanserlerinde mesane içerisine zayıflatılmış verem mikrobu v
 ## Mesane Kanseri Ameliyat Görselleri
 
 {% include lightbox.html paths=page.lightBoxImages %}
+
 {% include lightbox.html paths=page.lightBoxImages2 %}
+
 {% include lightbox.html paths=page.lightBoxImages3 %}
+
 {% include lightbox.html paths=page.lightBoxImages4 %}

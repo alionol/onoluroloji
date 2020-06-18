@@ -26,13 +26,12 @@ youtubeId: false
 
 Testis torsiyonunda; intravajinal (testis zarı içi) ve ekstravajinal (testis zarı dışı) dediğimiz 2 tip torsiyon vardır.
 
-![Testis Torsiyonu Tip](/assets/img/testistorsiyonutip.jpeg)
+![Testis Torsiyonu Tip](/assets/img/testistorsiyonutip.jpeg){:.size2}
+
 ## Bebek torsiyonu (Ekstra vajinal torsiyon)
 
-Bebek torsiyonu olarak adlandırdığımız ekstra vajinal torsiyon; yüzde 5 oranında görülür. Bunun yüzde 70’i bebek henüz anne karnında gelişimde iken, yüzde 30’u ise doğduktan sonra oluşum gösterir. Tunika vajinalis adında; testisi çevreleyen bir kese vardır. Testis sapı bu kesenin dışında döner ise bu duruma Ekstra vajinal denir. Bazı vakalarda iki tarafta da aynı anda testis torsiyonu görülebilir.
-
+Bebek torsiyonu olarak adlandırdığımız ekstra vajinal torsiyon; yüzde 5 oranında görülür. Bunun yüzde 70’i bebek henüz anne karnında gelişimde iken, yüzde 30’u ise doğduktan sonra oluşum gösterir. Tunika vajinalis adında; testisi çevreleyen bir kese vardır. Testis sapı bu kesenin dışında döner ise bu duruma Ekstra vajinal denir. Bazı vakalarda iki tarafta da aynı anda testis torsiyonu görülebilir.  
 Yeni doğan bebeklerdeki porsiyon tipi farklıdır. Bu torsiyon 3 veya 5 günlük yeni doğmuş bebeklerde görülür. Testisin alt tarafının, testis torbasına yapışmamış olmasından kaynaklanır. Bu yapışma olmadığı için testis, testis torbasının içinde sabit değildir. Buda damarsal sapı etrafında dönmesine sebebiyet verir.
-
 
 ## Intravajinal torsiyon
 

@@ -20,13 +20,8 @@ youtubeId: false
 
 ---
 
-
-
-
-
-![Testis Torsiyonu](/assets/img/testistorsiyonunedir.jpeg)
-Sağlıklı bir yetişkinin testisleri alt ve üst taraflardan sabit haldedir.Bu yüzden normalde damarsal sapları etrafında dönmezler. Testis sapının (spertmatik kord) dönmesini engelleyen tunika vajinalis adını verdiğimiz bir zar vardır. Bu zar balonsu yapıdadır ve testisi hem üstünden hem altından sarar.
-
+![Testis Torsiyonu](/assets/img/testistorsiyonunedir.jpeg){:.size1}
+Sağlıklı bir yetişkinin testisleri alt ve üst taraflardan sabit haldedir.Bu yüzden normalde damarsal sapları etrafında dönmezler. Testis sapının (spertmatik kord) dönmesini engelleyen tunika vajinalis adını verdiğimiz bir zar vardır. Bu zar balonsu yapıdadır ve testisi hem üstünden hem altından sarar.  
 Testisin kendi damarsal sapı etrafında 90-180-360-720 açılarla dönmesine testis torsiyonuna (testis dönmesi) adı verilir. Testis torsiyonu yaşayan çocuklar sert ağrılar sebebiyle gece uykularından ani bir şekilde uyanırlar. Spermatik kord (damarsal sap); testisin sinirleri, vas deferens denilen spermi aktaran kanalı, testisin atar ve toplardamarlarını içerir. Testisin dönmesi testis içindeki kan akışını engelleyip bozar. Bu durum testislerde kangrene yol açar ve yoğun ağrılar görülür. Hastaya acil ameliyatla müdahale edilmelidir. Testis torsiyonuna deneyimli hekimler tarafından erken teşhis koyulması ve tedavi sürecinin tamamlanması ile testisin; erkekli hormonunu ve sperm üretimine devam etmesi sağlanabilir. Testis tam dönmüş ise 6 saat içinde ameliyat ile müdahale edilmesi gerekir. Testis torsiyonunda genetik yatkınlık söz konusu olabilir. Baba, amca, kardeş gibi akrabalarında testis torsiyonu görülen çocuklara hastalığın tespiti için daha özen gösterilmelidir.
 
 ## Testis torsiyonu hangi dönemlerde görülür?

@@ -17,12 +17,8 @@ thumbnail:
     webp: false
 summary: "Kadınlar neden idrar kaçırır? , Kadınlarda idrar boşaltma sistemi, idrar kaçırmaların tipleri , Stres tipi idrar kaçırma, Sıkışma ve kompeks tip idrar kaçırma, Cinsel ilişkide idrar kaçırma tedavileri, İdrar kaçırmada cerrahi tedavi, Cerrahi tedavi sonrası oluşabilicek komplikasyonlar ve tedavileri , TVT, TOT ameliyatları."
 youtubeId: "NLNo-9oPyuQ"
+youtubeId2: "0y6DVkG3lFM"
 ---
-
-
-
-
-
 
 ## İdrar Kaçırmada Alışkanlıkların Değiştirilmesi ve İlaç Tedavisi
 
@@ -63,3 +59,7 @@ Yapay askıların idrar kanalının veya mesane içine kayması ileri dönemde g
 
 
 İdrar kaçırma hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/kadinlarda-idrar-kacirma)
+
+## Kadınlarda İdrar Kaçırma Ameliyatı Görselleri
+
+{% include youtubePlayer.html id=page.youtubeId2 %}

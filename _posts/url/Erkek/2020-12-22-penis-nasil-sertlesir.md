@@ -19,17 +19,18 @@ summary: "Cinsellik nedir? İktidarsızlığın tedavi yöntemleri nelerdir? Cin
 youtubeId: false
 ---
 
-
-
-
-
-![Penis Nasıl Sertleşir](/assets/img/penisnasilsertlesir.jpeg)
+![Penis Nasıl Sertleşir](/assets/img/penisnasilsertlesir.jpeg){:.size2}
 
 •	Ereksiyon (sertleşme) ilk olarak beyinde başlar.
+
 •	Görme, koklama, hissetme, işitme ve düşünme şeklindeki duyular sinir sistemiyle penisin damarlarına uyarılar gönderir.
+
 •	Penis içindeki atardamarlar (arterler) genişler, penisin içine kan dolmaya başlar.
+
 •	Toplardamarlar (venler) kapanır.
+
 •	Kan penisin içinde geri kaçamaz ve içinde kalır.
+
 •	Penis sertleşmeye başlar.
 
 Resimde görüldüğü üzere; peniste iki adet bulunan ve yan yana duran süngersi çubukların içine kan ulaşması ve içeri giren kanın hapsolması neticesinde penisin sertleşmesi sağlanır. Sertleşmiş penis içinde bulunan basınç; 17 metre suyu yukarı atabilecek kuvvettedir. Erkeklerin; görme, koklama, duyma, dokunma ve hayal gibi duyuları beyinde kimyasallar meydana getirerek sertleşmenin ilk adımını oluşturur. Beyinde oluşan bu kimyasallarla penise ulaşan sinir ve damar ağları uyarılarak penis içine kan pompalanması sağlanır. Penis içine pompalanan kan içeride hapsolur ve nihayetinde penis sertleşir. Cinsel haz ortadan kalkınca erkeklik organı içinde kalan kan geri boşalır ve penisteki sertleşme durumu son bulur. Penis kanlanarak sertleşen bir organdır. Bazı nedenlerle erkekler hayatlarının belirli dönemlerinde sertleşme problemleri yaşayabilir. Sertleşme sorunlarının tedavileri mevcuttur.

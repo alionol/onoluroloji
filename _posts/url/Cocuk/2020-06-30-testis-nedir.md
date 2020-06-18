@@ -20,15 +20,9 @@ youtubeId: false
 
 ---
 
-
-
-
-
-![Testis Nedir](/assets/img/testistorsiyonu.jpeg)
-Testisler anne karnında gelişim sürecindeyken böbreklerin bulunduğu alanda oluşmaya başlarlar. Daha sonra testisler kasıklara doğru giderek, kasık kanalı üzerinden testis torbalarına yerleşir. Testisler erkek üreme organdır.
-
-Testis torbasına Skrotum adı verilir. Testislerde sperm belirli bi ısıda oluşur. Skrotum, ısıyı kendi içinde sabitleyen muazzam bir oluşumdur. Normalde insanların vücut ısısı 37 derecedir. Sktorum içindeki sıcaklık ise 34 ile 36 derece arasındadır. Testis torbası (Skrotum) sıcakta gevşer ve soğukta büzüşür. Böylece kendi içindeki ısıyı sabit tutarak sperm oluşumu için gerekli ısı dengesini korur.
-
+![Testis Nedir](/assets/img/testistorsiyonu.jpeg){:.size1}
+Testisler anne karnında gelişim sürecindeyken böbreklerin bulunduğu alanda oluşmaya başlarlar. Daha sonra testisler kasıklara doğru giderek, kasık kanalı üzerinden testis torbalarına yerleşir. Testisler erkek üreme organdır.  
+Testis torbasına Skrotum adı verilir. Testislerde sperm belirli bi ısıda oluşur. Skrotum, ısıyı kendi içinde sabitleyen muazzam bir oluşumdur. Normalde insanların vücut ısısı 37 derecedir. Sktorum içindeki sıcaklık ise 34 ile 36 derece arasındadır. Testis torbası (Skrotum) sıcakta gevşer ve soğukta büzüşür. Böylece kendi içindeki ısıyı sabit tutarak sperm oluşumu için gerekli ısı dengesini korur.  
 Testislerde yaklaşık 400 metre uzunluğunda olan mikroskobik kanallar vardır. Bu mikroskobik kanalların içinde sperm oluşur. Bu mikroskopil kanalların etrafında bulunan özel hücrelerde de testosteron
 (erkeklik hormonu) üretilir. Spermler büyürler ve bu kanallardan geçerek Epididim adı verilen kanalda gelişimlerini sürdürürler. Spermler, vasdeferens kanalı üzerinden meni keselerine ulaşırlar ve burda birikirler. Yetişkin bir erkek vücudu bir günde 1 milyon sperm üretir. Erkeklerde 11 ile 17 yaş aralığında hamile bırakma yetisi oluşur. Testisler ise 10 ile 13 yaşlarında gelişmeye başlarlar.
 

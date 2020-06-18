@@ -19,13 +19,8 @@ summary: "Penil Protez Nedir?, Mutluluk Çubuğu nedir?, Penil Protez Ameliyatı
 youtubeId: false
 ---
 
-
-
-
-
 ![Mutluluk Çubuğu](/assets/img/penilprotez.jpeg)
-Çoğu erkek yaşamının bir kısmında sertleşme kusuru sorunu yaşamaktadır. Sertleşme problemi, modern tıp sayesinde cerrahi müdahaleye gerek duyulmadan tedavi edilebilmektedir. Cerrahi müdahale olmadan yapılan tedavilerde başarı sağlanamazsa uygulanması gereken tedavi yöntemi penil protez adını verdiğimiz mutluluk çubuğu operasyonudur. Penil protez ameliyatı sertleşme probleminin tedavisinde kesin sonuç vermektedir. Halk dilinde mutluluk çubuğu olarak anılan penil protez operasyonu son derece tecrübe ve teknik gerektiren bir operasyondur.
-
+Çoğu erkek yaşamının bir kısmında sertleşme kusuru sorunu yaşamaktadır. Sertleşme problemi, modern tıp sayesinde cerrahi müdahaleye gerek duyulmadan tedavi edilebilmektedir. Cerrahi müdahale olmadan yapılan tedavilerde başarı sağlanamazsa uygulanması gereken tedavi yöntemi penil protez adını verdiğimiz mutluluk çubuğu operasyonudur. Penil protez ameliyatı sertleşme probleminin tedavisinde kesin sonuç vermektedir. Halk dilinde mutluluk çubuğu olarak anılan penil protez operasyonu son derece tecrübe ve teknik gerektiren bir operasyondur.  
 Penil protez operasyonu ile sertleşme problemi olan hastaların yaşadığı sorunlar tamamen ortadan kaldırılır. Penil protez operasyonunda hastanın erkeklik organının içine 2 adet yapay çubuk yerleştirilir. Şişebilen ve inebilen yapıda olan bu çubuklar, penisin içinde bulunan ve penisin sertleşmesinde rol oynayan 2 adet sünger yapıdaki çubuk cisimlerin bulunduğu konuma takılır. Penisin içine yerleştirilen yapay çubuklar sayesinde penis sertleşebilir ve inebilir. 2 parçadan oluşan penil protezler hastaların çok tercih etmediği protezlerdir. Bunun sebebi 2 parçalı protezin erkeklik organının sertleşmesini ve inmesini tam anlamıyla taklit edememesidir. Penisin sertleşmesinde ve inmesinde bire bir taklit yapan penil protezler 3 parçadan oluşan protezlerdir. 3 parçalı penil protez; 2 adet silindir yapıda erkeklik organının sertleşmesini sağlayan çubuklardan, pompadan ve rezervuar dediğimiz depodan oluşmaktadır. Penil protezde; karın içine 50-60 cc civarında bir sıvı depolanır. Bu sıvılar penil protez aracılığıyla erkeklik organının iç kısmına yerleştirilen 2 adet çubuğa pompalanmaktadır. Bu pompalanma işlemi sayesinde erkeklik organında sertleşme meydana gelir. Penil protez ameliyatı olan hastalar skrotum adını verdiğimiz testis torbasına eklenen pompayı kullanırlar ve penislerinin sertleşip inmesini rahatlıkla kontrol edebilirler.
 
 ## Penil Protez Ameliyatı Hangi Durumlarda Yapılır?

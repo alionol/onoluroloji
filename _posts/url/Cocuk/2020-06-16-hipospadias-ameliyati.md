@@ -17,17 +17,13 @@ thumbnail:
     webp: false
 summary: "Hipospadias hastalığı ve tedavisi hakkında detaylı bilgiler... , Hipospadias nedir? ,  Hipospadias sakatı hastalarının tedavisi? , Hipospadias eğriliğinin sebebi, Hipospadias olmadığı halde peniste eğrilik olur mu? , Hipospadis teşhisi nasıl konur? , Hipospadiaslı çocuklar sünnet olmalı mı?, Hipospadias ameliyatı nasıl yapılır?"
 youtubeId: "JC0f_YcLYL8"
-lightBoxImages: ["/assets/img/hipospadias1.jpeg","/assets/img/hipospadias2.jpeg","/assets/img/hipospadias3.jpeg","/assets/img/hipospadias4.jpeg","/assets/img/hipospadiask.jpeg","/assets/img/hipospadias6.jpeg","/assets/img/hipospadias7.jpeg"]
-lightBoxImages2: ["/assets/img/hipospadiasameliyati1.jpeg","/assets/img/hipospadiasameliyati2.jpeg","/assets/img/hipospadiasameliyati3.jpeg","/assets/img/hipospadiasameliyati4.jpeg","/assets/img/hipospadiasameliyati5.jpeg","/assets/img/hipospadiasameliyati6.jpeg","/assets/img/hipospadiasameliyati7.jpeg","/assets/img/hipospadiasameliyati8.jpeg"]
-lightBoxImages3: ["/assets/img/hipospadiasameliyati9.jpeg","/assets/img/hipospadiasameliyati10.jpeg","/assets/img/hipospadiasameliyati11.jpeg","/assets/img/hipospadiasameliyati12.jpeg","/assets/img/hipospadiasameliyati13.jpeg","/assets/img/hipospadiasameliyati14.jpeg","/assets/img/hipospadiasameliyati15.jpeg","/assets/img/hipospadiasameliyati16.jpeg","/assets/img/hipospadiasameliyati17.jpeg","/assets/img/hipospadiasameliyati18.jpeg","/assets/img/hipospadiasameliyati19.jpeg"]
-lightBoxImages4: ["/assets/img/hipospadiasameliyati20.jpeg","/assets/img/hipospadiasameliyati21.jpeg","/assets/img/hipospadiasameliyati22.jpeg","/assets/img/hipospadiasameliyati23.jpeg","/assets/img/hipospadiasameliyati24.jpeg","/assets/img/hipospadiasameliyati25.jpeg","/assets/img/hipospadiasameliyati26.jpeg","/assets/img/hipospadiasameliyati27.jpeg"]
-lightBoxImages5: ["/assets/img/cocukhipospadias1.jpeg","/assets/img/hipospadiasameliyati29.jpeg"]
+lightBoxImages: ["/assets/img/hipospadias1.jpeg", "/assets/img/hipospadias2.jpeg", "/assets/img/hipospadias3.jpeg", "/assets/img/hipospadias4.jpeg", "/assets/img/hipospadias5.jpeg", "/assets/img/hipospadias6.jpeg", "/assets/img/hipospadias7.jpeg"]
+lightBoxImages2: ["/assets/img/hipospadiasameliyati1.jpeg", "/assets/img/hipospadiasameliyati2.jpeg", "/assets/img/hipospadiasameliyati3.jpeg", "/assets/img/hipospadiasameliyati4.jpeg", "/assets/img/hipospadiasameliyati5.jpeg", "/assets/img/hipospadiasameliyati6.jpeg", "/assets/img/hipospadiasameliyati7.jpeg", "/assets/img/hipospadiasameliyati8.jpeg"]
+lightBoxImages3: ["/assets/img/hipospadiasameliyati9.jpeg", "/assets/img/hipospadiasameliyati10.jpeg", "/assets/img/hipospadiasameliyati11.jpeg", "/assets/img/hipospadiasameliyati12.jpeg", "/assets/img/hipospadiasameliyati13.jpeg", "/assets/img/hipospadiasameliyati14.jpeg", "/assets/img/hipospadiasameliyati15.jpeg", "/assets/img/hipospadiasameliyati16.jpeg", "/assets/img/hipospadiasameliyati17.jpeg", "/assets/img/hipospadiasameliyati18.jpeg", "/assets/img/hipospadiasameliyati19.jpeg"]
+lightBoxImages4: ["/assets/img/hipospadiasameliyati20.jpeg", "/assets/img/hipospadiasameliyati21.jpeg", "/assets/img/hipospadiasameliyati22.jpeg", "/assets/img/hipospadiasameliyati23.jpeg", "/assets/img/hipospadiasameliyati24.jpeg", "/assets/img/hipospadiasameliyati25.jpeg", "/assets/img/hipospadiasameliyati26.jpeg", "/assets/img/hipospadiasameliyati27.jpeg"]
+lightBoxImages5: ["/assets/img/cocukhipospadias1.jpeg", "/assets/img/hipospadiasameliyati29.jpeg"]
 
 ---
-
-
-
-
 
 Karmaşık ameliyatlarda bilinmesi gereken genel bir kural vardır. Yapılan ilk ameliyat başarı oranın en yüksek olabileceği ameliyattır. Çünkü ilk ameliyatta dokularda bütünlük vardır. Epitel dediğimiz cilt dokusu ve karaciğerdeki yaralanmaların haricinde, olabilecek bütün yaralanmalar vücut  tarafından üretilen bir dolgu maddesiyle iyileşme gösterirler. Bu dolgu maddesine nebde dokusu adı verilir. Başarısız geçen ilk ameliyatta nebde dokusu oluşur. Sonraki ameliyattaki durum zorlaşır çünkü eğriliğin düzelmesine ek olarak, bu kötü nebde dokusunun da çıkarılması gerekmektedir. İlk müdahale sonucu başarı yakalanmayan vakalar daha sonra bir kaç ameliyata ihtiyaç duyar. Ve bu tip vakarda hekim çok deneyimli olması gerekmektedir. Bu anlamda ilk cerrahi müdahale önem taşımaktadır. Cerrahi operasyonlarda başarı yakalanması için, bu konuda tecrübe sahibi hekimlere başvurulmalıdır.
 
@@ -46,12 +42,9 @@ Geçmişten günümüze tıp çevreleri tarafından hipospadias ameliyatı için
 **Operasyonun ilk adımında** ortoplasti yapılarak penis düz hale getirilir. Penis, hipospadias deliğinin bulunduğu noktanın alt tarafından boydan boya kesilir. Kesilen deri penisin köküne kadar sıyrılır. Penisin arkasındaki normal gelişim gösteren idrar kanalı, apış arasına kadar etraf yapışıklıklardan kurtarılır (radikal bulber proksimal diseksiyon). Bu işlemle penisin eğrilikten kaynaklı ufak görünmesi düzeltilerek penisin normal boyutuna ulaşması sağlanır. Yani penis alt tarafta onu sıkıştıran yapışıklıklardan kurtulduğu için normal boyutuna kavuşur. Hipospadias ameliyatlarında bu işlemin (bulber proksimal diseksiyon) yapılmaması, sık görülen hatalardan biridir. Başarısız cerrahi müdahalelerde hekimler penis eğriliğinin, hipospadias deliği önünde bulunan tam oluşum göstermemiş dokulardan kaynaklandığını düşünerek sadece ön bölümle ilgilenirler. Ancak hipospadias deliğinin altındaki dokular da temizlenmelidir çünkü bu dokular da eğriliğe sebebiyet vermektedir. Öndeki (distal)  ve arkadaki (proksimal) bu işlemler göz ardı edildiğinde, idrar kanalı onarılsa bile penisteki eğrilik tam olarak düzelmez. Bu vakalarda hastaların idrar delikleri normal lokasyonuna yerleştirildiği için idrarlarını olması gerektiği gibi yapabilirler. Fakat operasyon başarılı değildir çünkü penis eğriliği tam olarak düzeltilememiştir. Ve bu hastalar ileride cinsel birlikteliklerinde sıkıntı yaşarlar. Başarısız operasyon geçirdikleri için hipospadias sakatı olurlar.
 
 ![Hispospadias Ameliyatı](/assets/img/hipospadiasameliyati.jpeg)
-**Operasyonun ikinci adımında** tam oluşum göstermemiş ve kusurlu olan idrar kanalı yeniden yapılıyor (urethral reconstruction – neo urethra). Sağlıklı bir gelişme göstermiş üst dokudaki idrar kanalı tabanı ortalanarak Hipospadias deliğinin bulunduğu noktaya kadar kesilir. Bu kesi 1-2 cm derinliğinde ve boydan boyadır (resimde gözüktüğü gibi). Bu sayede iki şerit elde edilir. Ardından bu 2 şerit orta hatta birbirlerine dikilirler. Bu şekilde idrar kanalı tüp şeklinde oluşturulur. Bu yöntem hipospadias operasyonlarında büyük sansasyon yaratarak faydalı olmuştur ve tekniği bulan kişinin ismi olan Snodgrass adı kullanılır. İdrar kanalı tüp şeklinde oluşturulduktan sonra penisin çevre dokuları idrar kanalının üstüne örtülür. Oluşturulan kanalın ön tarafına penisin çevre dokuları kaydırılır ve kanal örtülür.
-
-Bazı durumlarda mevcut olan cilt dokusu idrar kanalı tüpünü oluşturmaya yetmeyebilir. Bu durumlarda ağızdan alınan yama ile ekleme yapılarak tüp oluşturulur. Ağızdan alınan yama idrar kanalı oluşturmak için uygun bir dokudur.
-
-**Operasyonun üçüncü adımı,** penis başının onarılmasıdır. Hipospadias hastalarının penis başlarının alt tarafları ayrık görünümdedir. İdrar kanalı tüpü yapıldıktan sonra, iki tarafta ayrık halde bulunan peniş başı dikilerek birleştirilir. Bu şekilde penis başı uygun şekilde düzeltilir.
-
+**Operasyonun ikinci adımında** tam oluşum göstermemiş ve kusurlu olan idrar kanalı yeniden yapılıyor (urethral reconstruction – neo urethra). Sağlıklı bir gelişme göstermiş üst dokudaki idrar kanalı tabanı ortalanarak Hipospadias deliğinin bulunduğu noktaya kadar kesilir. Bu kesi 1-2 cm derinliğinde ve boydan boyadır (resimde gözüktüğü gibi). Bu sayede iki şerit elde edilir. Ardından bu 2 şerit orta hatta birbirlerine dikilirler. Bu şekilde idrar kanalı tüp şeklinde oluşturulur. Bu yöntem hipospadias operasyonlarında büyük sansasyon yaratarak faydalı olmuştur ve tekniği bulan kişinin ismi olan Snodgrass adı kullanılır. İdrar kanalı tüp şeklinde oluşturulduktan sonra penisin çevre dokuları idrar kanalının üstüne örtülür. Oluşturulan kanalın ön tarafına penisin çevre dokuları kaydırılır ve kanal örtülür.  
+Bazı durumlarda mevcut olan cilt dokusu idrar kanalı tüpünü oluşturmaya yetmeyebilir. Bu durumlarda ağızdan alınan yama ile ekleme yapılarak tüp oluşturulur. Ağızdan alınan yama idrar kanalı oluşturmak için uygun bir dokudur.  
+**Operasyonun üçüncü adımı,** penis başının onarılmasıdır. Hipospadias hastalarının penis başlarının alt tarafları ayrık görünümdedir. İdrar kanalı tüpü yapıldıktan sonra, iki tarafta ayrık halde bulunan peniş başı dikilerek birleştirilir. Bu şekilde penis başı uygun şekilde düzeltilir.  
 **Operasyonun dördüncü adımı;** penis üzerindeki cilt ve dokular penisin alt tarafına kaydırılır. Bu şekilde idrar kanalı tüpünün üzeri örtülerek kozmetik bir görünüm sağlanır.
 
 ## Hipospadias Sakatı Nedir?
@@ -78,7 +71,11 @@ Hipospadias hakkında detaylı bilgi için [Tıklayınız.](https://www.onolurol
 
 ## Hipospadias Ameliyatı Görselleri
 {% include lightbox.html paths=page.lightBoxImages %}
+
 {% include lightbox.html paths=page.lightBoxImages2 %}
+
 {% include lightbox.html paths=page.lightBoxImages3 %}
+
 {% include lightbox.html paths=page.lightBoxImages4 %}
+
 {% include lightbox.html paths=page.lightBoxImages5 %}

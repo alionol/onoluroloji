@@ -21,18 +21,12 @@ youtubeId2: "RW7fMM66P_k"
 lightBoxImages: ["/assets/img/ProstatKanseri1.jpeg","/assets/img/ProstatKanseri2.jpeg", "/assets/img/ProstatKanseri3.jpeg", "/assets/img/ProstatKanseri4.jpeg","/assets/img/ProstatKanseri5.jpeg"]
 ---
 
-
-
-
-
 ## Prostat Nedir?
-![Prostat Nedir](/assets/img/Prostate_Cancer_Stages.jpeg){:.size2}
  Prostat, idrar torbasının altında içinden idrar kanalının geçtiği bir organdır. Eksikliği hayati değildir. Üreme ve cinsel fonksiyon bakımından önemli bir organdır. İki nedenle yakınmalara neden olur. Kansere bağlı olan ve olmayan büyümeler. Bu yazımızda prostat kanserinden bahsedeceğiz. Prostatın iyi huylu büyümeleri için.
 
 ## Prostat Kanseri Nedir?
 
-![Prostat Nedir](/assets/img/prostatkanserinedir.jpeg)
-
+![Prostat Nedir](/assets/img/Prostate_Cancer_Stages.jpeg){:.size2}
 Prostat kanseri prostatın kötü huylu büyümesidir. Prostat kanseri ameliyatında prostat, kabuğu ve meni keseleriyle bir bütün olarak çıkartılır. Aynı zamanda leğen kemiğinin her iki yanında bulunan, karın arka duvarında ana damarlar üzerindeki bütün lenf bezlerinin de çıkartılması şarttır (Radikal prostatektomi + Genişletilmiş lenf adenektomi). Prostat kanser ameliyatı usulüne uygun yapıldığında son derece kompleks, zor bir operasyondur. Günümüzde prostat kanser ameliyatına ilaveten genişletilmiş lenf düğümü ameliyatı yapılmıyorsa bu eksik yapılmış bir ameliyat olarak kabul edilir. Prostat kanserinin lenf düğümlerine sıçlayarak ne kadar yukarıya yayıldığı anlaşılamaz. Bu yüzden geride kanserli doku bırakmamak adına lenf düğümlerinin hepsi mutlaka çıkarılmalıdır.
 
 ### Prostat kanseri genetik mi?

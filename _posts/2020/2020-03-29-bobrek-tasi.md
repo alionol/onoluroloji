@@ -18,23 +18,19 @@ thumbnail:
 summary: "Böbrek Taşı Nedir? Böbek Taşı Nasıl Oluşur? Böbrek Taşı Tipleri Nedir? Kimlerde Böbrek Taşı Olur? Böbrek Taşı Belirtileri Nelerdir? Böbrek Taşı Teşhisi? Böbrek Taşı Nasıl Önlenir? Şiddetli Böbrek Ağrısı Nedir? Böbrek Taşlarının Tedavisi? Böbrek taşı nasıl oluşur? Böbrek Taşlarında Kapalı Ve Açık Ameliyatı. "
 youtubeId: "P-ABwvQ4uLc"
 youtubeId2: "Qg_Plfhwu9k"
-lightBoxImages: ["/assets/img/BobrekTasiAmeliyati1.jpg","/assets/img/BobrekTasiAmeliyati2.jpg","/assets/img/BobrekTasiAmeliyati3.jpg"]
-lightBoxImages2: ["/assets/img/BuyukBobrekTasi1.jpg"]
-lightBoxImages3: ["/assets/img/BobrekTasii1.jpg","/assets/img/BobrekTasiAmeliyati2.jpg","/assets/img/BobrekTasiAmeliyati3.jpg"]
+lightBoxImages: ["/assets/img/BobrekTasiAmeliyati1.jpg", "/assets/img/BobrekTasiAmeliyati2.jpg", "/assets/img/BobrekTasiAmeliyati3.jpg"]
+lightBoxImages2: ["/assets/img/BuyukBobrekTasi1.jpg", "/assets/img/BobrekTasi1.jpg", "/assets/img/BobrekTasiAmeliyati2.jpg", "/assets/img/BobrekTasiAmeliyati3.jpg"]
+
 ---
-
-
-
-
 
 ## Böbrek Nedir?
 
-![Böbrek](/assets/img/bobrek.jpeg)
+![Böbrek](/assets/img/bobrek.jpeg){:.size1}
 Boşaltım sistemi; idrarı üreten böbrekler, böbreklerden mesaneye idrarı aktaran üreterler, idrarı depolayan mesane ve idrarı dışarıya atan üretra denilen kanaldan oluşur. Bel kemiğinin hemen yanlarında 2 adet fasulyeye benzeyen böbrekler kandan atık maddeleri ve fazla suyu idrarla dışarıya atan organlardır. Ayrıca kandaki tuz ve diğer maddeleri dengeler. Böbrekler ayrıca kemikleri kuvvetlendiren ve kırmızı kan hücrelerini oluşturan hormonları üretir.
 
 ## Böbrek Taşı Nedir?
 
-![Böbrek Taşı Nedir](/assets/img/bobrektasinedir.jpeg)
+![Böbrek Taşı Nedir](/assets/img/bobrektasinedir.jpeg){:.size1}
 Böbrek taşları ürolojinin en ağrılı hastalıklarından birisidir. Birçok böbrek taşı herhangi bir girişim gerektirmeden kendi kendine düşer. Araştırmalar sayesinde taş oluşumunu tetikleyen sebepler ve bunu önlemeye yönelik tedbirler belirlenmiştir.
 
 ## Böbrek Taşı Neden Olur?
@@ -124,7 +120,7 @@ Böbrek Taşı hakkında detaylı bilgi için [Tıklayınız.]
 ## Böbrek Taşı Ameliyat Görselleri
 
 {% include lightbox.html paths=page.lightBoxImages %}
+
 {% include lightbox.html paths=page.lightBoxImages2 %}
-{% include lightbox.html paths=page.lightBoxImages3 %}
 
 {% include youtubePlayer.html id=page.youtubeId2 %}

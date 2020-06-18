@@ -17,12 +17,8 @@ thumbnail:
     webp: false
 summary: "Mesane Kanseri Nedir?  Kaç tip mesane kanseri vardır? Mesane kanseri ve sigara? Mesane Kanseri belirtileri? Mesane kanseri teşhisi? Mesane kanseri evreleri? Mesane kanseri tedavisi, Mesane kanseri ameliyatı, Radikal sistektomi nedir? Radikal sistektomi ameliyatı nasıl yapılır? Bağırsaktan mesane yapılması, Yapay mesane"
 youtubeId: "JaMrJlXDJfk"
-lightBoxImages: ["/assets/img/MesaneCikarilmasi1.jpeg", "/assets/img/MesaneCikarilmasi2.jpeg","/assets/img/MesaneCikarilmasi3.jpeg"]
+lightBoxImages: ["/assets/img/MesaneCikarilmasi1.jpeg", "/assets/img/MesaneCikarilmasi2.jpeg", "/assets/img/MesaneCikarilmasi3.jpeg"]
 ---
-
-
-
-
 
 ##	Mesane Kanseri Kapalı Ameliyat
 

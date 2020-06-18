@@ -20,15 +20,9 @@ youtubeId: false
 
 ---
 
-
-
-
-
 ![Böbrek Reflüsü](/assets/img/bobrek.jpeg)
-Mesanede üretilen idrarın böbreklere geri gitmesine böbrek reflüsü (Vezikoüreteral Reflü) denir. Böbrek reflüsü, çocuklarda ve yeni doğanlarda görülen idrar yolu iltihaplarına sebep olur. Böbrek reflüsünün tedavisi önemlidir çünkü enfeksiyon böbreklerde yayılabilir. Bunun neticesinde böbrek yetmezliği veya böbrek kaybı görülebilir. Böbrek reflüsü doğumsal bir anamolidir.
-
-Kanımızda bulunan artık maddeler, mineraller ve su; böbreklerimiz tarafından süzülür. İdrar böbreklerde oluşur ve üreter adı verilen; ince borulara benzeyen oluşumla mesaneye gönderilir. İdrar mesanede (idrar torbası) depolanır. Sağlıklı kabul edilen boşaltım sisteminde; üreter ve mesanenin buluştuğu noktada check-valve adında bir mekanizma bulunur. Bu mekanizma idrarın böbrekleri geri kaçmasını engeller. Bu mekanizmanın oluşumda bir problem var ise mesanede depolanan idrar; üreter üzerinden geriye doğru gider ve tekrar böbreklere döner. Böbreklere geri giden idrar iltihap oluşumuna neden olur ve böbreklere ciddi boyutlarda zarar verebilir. Bazı vakalarda ; Üreter, çocuğun büyüyüp gelişmesine bağlı olarak uzar ve kasları kuvvetlenir. Bu gelişim sonucunda check - valve mekanizması da gelişim gösterir. İdrarın geri kaçması durumu bazı hastalarda büyüdükçe düzelebilir.
-
+Mesanede üretilen idrarın böbreklere geri gitmesine böbrek reflüsü (Vezikoüreteral Reflü) denir. Böbrek reflüsü, çocuklarda ve yeni doğanlarda görülen idrar yolu iltihaplarına sebep olur. Böbrek reflüsünün tedavisi önemlidir çünkü enfeksiyon böbreklerde yayılabilir. Bunun neticesinde böbrek yetmezliği veya böbrek kaybı görülebilir. Böbrek reflüsü doğumsal bir anamolidir.  
+Kanımızda bulunan artık maddeler, mineraller ve su; böbreklerimiz tarafından süzülür. İdrar böbreklerde oluşur ve üreter adı verilen; ince borulara benzeyen oluşumla mesaneye gönderilir. İdrar mesanede (idrar torbası) depolanır. Sağlıklı kabul edilen boşaltım sisteminde; üreter ve mesanenin buluştuğu noktada check-valve adında bir mekanizma bulunur. Bu mekanizma idrarın böbrekleri geri kaçmasını engeller. Bu mekanizmanın oluşumda bir problem var ise mesanede depolanan idrar; üreter üzerinden geriye doğru gider ve tekrar böbreklere döner. Böbreklere geri giden idrar iltihap oluşumuna neden olur ve böbreklere ciddi boyutlarda zarar verebilir. Bazı vakalarda ; Üreter, çocuğun büyüyüp gelişmesine bağlı olarak uzar ve kasları kuvvetlenir. Bu gelişim sonucunda check - valve mekanizması da gelişim gösterir. İdrarın geri kaçması durumu bazı hastalarda büyüdükçe düzelebilir.  
 Sekonder reflü ileri yaşlarda meydana gelebilir. Bu vakalarda, hastada doğduğu zaman check - valve mekanizması normaldir. Fakat sonradan oluşan bazı sıkıntılar check - vale mekanizmasının bozulmasına yol açar. Mesane çıkışındaki tıkanmalar, mesane (idrar torbası) kaslarındaki çalışma bozuklukları, mesane sinirlerinin zarar görmesi check - valve mekanizmasının işleyişini bozar. Bunların neticesinde hastalarda sonradan Vezikoüreteral reflü (Böbrek reflüsü) hastalığına yakalır.
 
 ## Böbrek Reflüsü Kimlerde Görülür?

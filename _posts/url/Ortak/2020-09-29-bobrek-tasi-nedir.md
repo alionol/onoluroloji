@@ -20,13 +20,8 @@ youtubeId: false
 
 ---
 
-
-
-
-
 ![Böbrek Taşı Nedir](/assets/img/bobrektasinedir.jpeg)
-Böbrek taşı hastalığı üroloji alanında ağrı ile karakterizedir. Hastanın yaşadığı taş ağrısı çok yüksektir. Çoğu böbrek taşının müdahale gerekmeksizin kendiliğinden düşer. Konuyla alakalı yapılan araştırmalar sonucunda, taşın oluşumuna neden olan faktörler ve oluşumun engellenmesi için uygulanacak tedbirler bilinmektedir.
-
+Böbrek taşı hastalığı üroloji alanında ağrı ile karakterizedir. Hastanın yaşadığı taş ağrısı çok yüksektir. Çoğu böbrek taşının müdahale gerekmeksizin kendiliğinden düşer. Konuyla alakalı yapılan araştırmalar sonucunda, taşın oluşumuna neden olan faktörler ve oluşumun engellenmesi için uygulanacak tedbirler bilinmektedir.  
 İdrar böbrekte oluşur. İdrarın içerisinde kalsiyum fosfat gibi pek çok mineraller vardır. Bu mineraller bazı nedenlerle böbrek içinde birbirine bağlanarak küçük kristaller oluşturur. Bu kristaller sonrasında böbrek taşını meydana getirir. Küçük olan böbrek taşlarını vücut idrar yoluyla dışarı atar. Vücudun dışarı atamadığı böbrek taşlarına ise müdahale edilmesi gerekir. Böbrek taşının genetik faktör, az su içmek, obezite, beslenme bozuklukları, sıcak iklimli ortam, metabolik bozukluklar gibi nedenleri vardır. 1 defa böbrek taşı oluşan kişide daha sonra da böbrek taşı oluşması yüksek ihtimaldir. Böbrek taşı oluşumunu azaltıcı bazı önlemler vardır.
 
 ## Böbrek Taşı Neden Olur?

@@ -19,10 +19,6 @@ summary: "Cinsellik nedir? İktidarsızlığın tedavi yöntemleri nelerdir? Cin
 youtubeId: "r5np7vHczPQ"
 ---
 
-
-
-
-
 Sertleşme sorunu 3 farklı yöntemle tedavi edilebilir. Hangi yöntemin uygulanacağını sertleşme sorunun derecesi belirler. Uygulanan bu tedavilerden alınan sonuçlar çok yüksek oranda başarı göstermektedir. Bilinen bu 3 tedavi yöntemi dışında penise vakum aleti uygulanması ve dışarıdan düşük dozda ultrason dalgaları gönderilmesi gibi işlemler vardır ancak bunların kullanım alanı kısıtlıdır. Amerika’da bulunan FDA sağlık kurumu; sertleşme sorununda PRP adı verilen kök hücre tedavisini ve ESWT adlı mikro şok dalgası tedavisini kabul etmemektedir. İspat edilmiş tıpta uygulanan esas tedavi 3 basamak tedavisidir. Geri kalan tedaviler alternatif tedavi olup kesinliği kanıtlanmış değildir.
 
 
@@ -35,14 +31,12 @@ Bu olağanüstü ilaçlar sayesinde penise ulaşan kan akımı artış gösterer
 ## Penis Sertleşmesinde İğne Tedavisi
 
 ![Penis Sertleşmesi İğne Tedavisi](/assets/img/sertlesmesorunuigne.jpeg)
-
 Erkeklik organının içinde; 2 adet Korpus Kavernozum adlı süngersi dokuya sahip cisimler bulunmaktadır. Doktorlar bu cisimlerin içine damarın genişlemesini sağlayan papaverin ve prostaglandin adlı ilaçların enjekte edilmesini hastalara öğretirler. Hasta cinsel birleşmeden önce bu ilaçların enjeksiyonunu bizzat kendisi sağlar. Bu iğnelerin bilinen bir yan etkisi bulunmamaktadır. İnsülin iğnelerinin kullanımına benzerlik gösteren bu iğnelerin kullanımı rahatlıkla öğrenilebilir. İğnelerin kullanımından 2-3 saat sonra peniste hala sertleşme görülüyorsa hekimler tarafından sertlik sonlandırılmaktadır. Bu durum nadir gerçekleşir.
 
 
 ## Penil Protez Ameliyatı (Mutluluk Çubuğu)
 
 ![Penil Protez](/assets/img/penilprotez.jpeg)
-
 Peniste bulunan süngersi yapıdaki cisimlerde rezerv dediğimiz sertleştirici dokunun bulunmadığı durumlarda uygulanır. Başarılı sonuçlar elde edilen bir uygulamadır. İlaç tedavisine yanıt veren hastalara uygulanmaması gereken bir işlemdir. Mutluluk çubuğu denilen Penil Protez 3 parçadan oluşmaktadır; penisi sertleştiren çubukların imitasyonu olan iki adet silindir şeklindeki bölüm, rezervuar dediğimiz depo ve pompa. Skrotum adı verilen testis torbasının ucuna bir düğme yerleştirilir. Bu düğmeye basılmasıyla birlikte; erkeklik organına yerleştirilen iki adet çubuğa, iktidarsızlık sorunu için uygulanan operasyonda karın içine yerleştirilmiş olan 50-60 cc’lik depodan sıvı pompalanır. Böylece penisin sertleşmesi sağlanmaktadır. Cinsel aktivite son bulduğunda testis torbaasında bulunan düğmeye tekrar basılır ve penis iner. Penil protez uygulaması sertleşme sorunlarında kesin çözüm verir. Mutluluk çubuğunun takılması için yapılan ameliyat çok hassas ve incelik gerektiren bir operasyondur. Tecrübeli cerrahlar tarafından uygulanmalıdır. Penil protez hakkında detaylı bilgi edinmek için menü kısmından yararlanabilirsiniz.
 
 ## ESWT (Ultrasonik Şok Dalgası) Tedavisi

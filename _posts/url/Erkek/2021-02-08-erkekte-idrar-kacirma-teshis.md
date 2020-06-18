@@ -19,12 +19,6 @@ summary: "Varikosel nedir?, Varikosel neden olur?, Varikosel nasıl anlaşılır
 youtubeId: false
 ---
 
-
-
-
-
-## İdrar Kaçırma Teşhis
-
 - Hastanın bir gün boyunca vücuduna aldığı ve idrar yoluyla attığı sıvı miktarları ölçülerek işeme günlüğü tutulur. İşeme günlüğü idrar kaçırmanın hangi seviyede olduğunun saptanmasında önemli bir rol oynamaktadır.
 
 - Mesane dolu haldeyken hastanın öksürmesi sağlanır ve idrar kaçırma olup olmadığı kontrol edilir.

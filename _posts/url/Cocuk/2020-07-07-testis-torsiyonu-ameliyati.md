@@ -35,6 +35,8 @@ Testis torsiyonu hakkında detaylı bilgi için [Tıklayınız.](https://www.ono
 
 
 ## Testis Torsiyonu Ameliyatı Görselleri
-{% include lightbox.html paths=page.lightBoxImages %}
-{% include lightbox.html paths=page.lightBoxImages2 %}
-{% include lightbox.html paths=page.lightBoxImages3 %}
+{% include lightbox.html paths=page.lightBoxImages %}  
+
+{% include lightbox.html paths=page.lightBoxImages2 %}  
+
+{% include lightbox.html paths=page.lightBoxImages3 %}  

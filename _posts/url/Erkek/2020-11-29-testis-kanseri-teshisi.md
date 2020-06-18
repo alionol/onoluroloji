@@ -19,10 +19,6 @@ summary: "Testis Kanseri Nedir?, Testis Kanserinin Nedenleri?, Testis Kanseri Be
 youtubeId: false
 ---
 
-
-
-
-
 Ultrasonografi kullanılarak testis kanserine rahatlıkla ön tanı konulabilmektedir. Testis kanseri teşhis edildikten sonra kanserin vücutta yayılımı incelenir. Kanserin vücuttaki yayılımı hakkında fikir edinmek için kanda bulunan alfa feto protein adlı kanser belirteçleri, beta-hCG, LDH, göğüs radyolojisi ve karın tomografisi kullanılmalıdır. Kanserin beyin gibi organlara yayılımı şüphesi varsa MR görüntülemeye ihtiyaç duyulur. Kanser türünün anlaşılması ve kesin tanının konmasının için hastanın testisi 10-15 cm civarındaki sapıyla beraber çıkartılır ve patolojik değerlendirme yapılır. Patolojiden gelen raporlar neticesinde kanserin türü anlaşılır. Özetle testis kanserinin teşhisi kadar yayılımının incelenmesi de önemlidir. Çünkü testis kanserinin yayılımı tedavi planlamasını etkiler.
 
 ## Testis Kanseri Evreleri
@@ -30,15 +26,20 @@ Ultrasonografi kullanılarak testis kanserine rahatlıkla ön tanı konulabilmek
 Hastanın kanser teşhisi konulduktan sonra testis içindeki kanserin hangi alanlara sıçradığı, lenf bezlerine yayılıp yayılmadığı ve uzakta bulunan doku ile organlarla metastaz yapıp yapmadığına bakılır. Buralardan edinilen sonuçlarla testis kanserine evreleme yapılır.
 
 1.	Kanser sadece testisin içinde bulunuyorsa 1. evre olarak kabul edilir.
+
 2.	Kanser, “Tunika Albuginea” adı verilen testis kapsülü aşmış ise 2. evre olarak kabul edilir.
+
 3.	Kanser, “Spermatik Kort” adında ki testis damarsal sapına bulaşmış ise 3. evre olarak kabul edilir.
+
 4.	Kanser, “Skrotum” denilen testis torbasına yayılmış ise 4. evre olarak kabul edilir.
 
 Aynı zamanda kanserin; akciğer, karın arkasında bulunan lenf bezleri, uzak doku ve organlara yayılımı sayı ve hacim bazında değerlendirilir. Yapılan bu değerlendirmeye göre evreleme yapılarak tedavi planlanır. Patolojiden elde edilen sonuç neticesinde kanser türünün saldırgan yapıda olmadığı saptanırsa hasta belli aralıklarla izleme alınır. Bu vakalarda hastaya farklı bir tedavi yapılmaz. Ancak patolojik sonuçlara göre testiste bulunan kanser saldırgan yapıda ise tedavi planlaması yapılırken hastalara 3 alternatif sunulur;
 
-•	Kemoterapi,
-•	“Retroperitoneal Lenfadenektomi” adı verilen karın arkasındaki lenf bezlerinin bütün olarak çıkartılması,
-•	Radyoterapi planlanır.
+•	Kemoterapi
+
+•	“Retroperitoneal Lenfadenektomi” adı verilen karın arkasındaki lenf bezlerinin bütün olarak çıkartılması
+
+•	Radyoterapi planlanır
 
 Testis kanserlerinde; gerekli incelemeler sonucunda evreleme yapılması ve uygulanacak tedavinin planlaması son derece bilgi ve tecrübe gerektiren konulardır. Çıkarılan testisin deneyimli bir patolog tarafından incelenmesi de önem arz eder.
 

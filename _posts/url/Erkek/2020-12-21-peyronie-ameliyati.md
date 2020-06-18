@@ -17,12 +17,8 @@ thumbnail:
     webp: false
 summary: "Peyronie Nedir? Penis Eğriliği Nedir? Peyronie İlaçla tedavi edilir mi? Peyronie'nin sebebi? Peyronie belirtileri, Peyronie ameliyatları, Penis Eğriliği düzeltilmesi, penis eğriliği ameliyatı, mutluluk çubuğu ameliyatı, penil protez ameliyatı, Penis eğriliği nasıl düzeltilir, Penis eğriliği ameliyatı nasıl olur"
 youtubeId: "BL0_TTziJ4M"
-lightBoxImages: ["/assets/img/peyronie1.jpeg","/assets/img/peyronie2.jpeg","/assets/img/peyronie3.jpeg"]
+lightBoxImages: ["/assets/img/peyronie1.jpeg", "/assets/img/peyronie2.jpeg", "/assets/img/peyronie3.jpeg"]
 ---
-
-
-
-
 
 Peyronie hastalığının tedavisinde 2 farklı ameliyat yöntemi kullanılmaktadır. Hastalarda yeterli seviyede ereksiyon görülüyor ancak penisteki eğrilik nedeniyle cinsel temasta sorun yaşanıyorsa bu hastalara penis eğriliği düzeltme cerrahisi yapılır. Hiç ereksiyon olmayan hastalara ise penil protez dediğimiz mutluluk çubuğu uygulaması yapılır. Uygulanan bu operasyonla hem hastanın penisindeki eğrilik onarılır hem de mutluluk çubuğu takılarak ereksiyon sorunu iyileştirilir.
 
@@ -33,7 +29,6 @@ Peyronie hastalığı neticesinde peniste ereksiyon tamamen yok olabilir. Bu dur
 ## Penis Eğriliği (Peyronie) İlaç Tedavisi
 
 Uzun yıllar boyunca peyronie tedavisi için hastalara ağızdan kullanılan ilaçlar verilmiştir. Ancak bu ilaçların faydasız olduğu anlaşılmıştır. Aynı zamanda erkeklik organı içine uygulanan iğne tedavisinin de çok fazla bir yararının olmadığı kanıtlanmıştır. Peyronie hastalarına uygulanan düşük dozdaki radyoterapinin ise yalnızca hissedilen ağrının giderilmesi konusunda bir yararı olabilir. Ancak peyronie’nin yarattığı sertleşme bozukluğunda ilaç veya ilaç kombinasyonlarının etkisi vardır. Peyronie hastalarının sertleşme sorunlarını ilaç tedavisi ile kontrol altına alınabilir. Ancak bu ilaçlar hastalığı kesinlikle iyileştirmez. Bu noktadaki amaç hastanın cinsel işlevini yerine getirebilmesini sağlamaktır.
-
 
 
 Peyronie hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/peyronie)

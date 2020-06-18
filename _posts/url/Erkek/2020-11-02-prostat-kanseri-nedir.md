@@ -20,10 +20,7 @@ youtubeId: false
 ---
 
 
-
-
-
-![Prostat Nedir](/assets/img/prostatkanserinedir.jpeg)
+![Prostat Nedir](/assets/img/prostatkanserinedir.jpeg){:.size2}
 
 Prostatın gösterdiği kötü huylu büyümeler prostat kanserine neden olur. Prostat kanseri tedavisi için uygulanan cerrahide prostat, kabuğu ve meni keseleriyle beraber tamamen çıkartılmaktadır. Karın arka duvarında bulunan ana damarların üstündeki lenf bezlerinin de tümüyle çıkartılması gerekmektedir. Bu işleme Radikal prostatektomi ve Genişletilmiş lenf adenektomi adı verilir. Bazı durumlarda prostat kanseri sıçrama özelliğine sahip değildir. Ve bulunduğu bölge neticesinde hayati tehlikeye mahal vermez. Bu tip durumlarda prostat kanseri ameliyat edilmez. Hasta periyodik olarak takip edilerek izlenir. Ancak bazı prostat kanserlerinde ise mutlaka prostat kanserinin ameliyat edilmesi gereklidir. Prostat kanseri için yapılan operasyonlar oldukça kompleks ve güç ameliyatlardır. Prostat kanseri tedavisinde ameliyata ek olarak genişletilmiş lenf düğümü operasyonu da uygulanmalıdır. Genişletilmiş lenf düğümü ameliyatı uygulanmadan yapılan operasyonlar yarım kalmış operasyonlardır. Hiç bir görüntüleme yöntemiyle prostatta meydana gelen kanserin lenf düğümlerine yayılarak ne derece yukarıya ulaştığı ortaya çıkarılamaz. Bu nedenle lenf düğümlerinde kanser hücresi olup olmadığı bilinemez. Ameliyat esnasında prostattan sonra lenf düğümleride çıkarılmalıdır ki vücutta olası kanser hücreleri bırakılmasın. Aksi takdirde ameliyattan seneler sonra bile başka yerde bir kanser metastazı görülme ihtimali vardır. Özetle prostat kanseri ameliyatı esnasında lenf düğümlerinin çıkarılması ciddi alınması gereken oldukça önemli bir konudur.
 

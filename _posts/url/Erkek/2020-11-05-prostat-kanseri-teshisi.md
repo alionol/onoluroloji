@@ -19,15 +19,11 @@ summary: "Prostatın kanserleri hakkında detaylı bilgi , Prostat Nedir, Prosta
 youtubeId: false
 ---
 
-
-
-
-
-![Prostat Kanseri Teşhisi](/assets/img/prostatkanseriteshisi.jpeg)
 Kandan yapılan PSA testi, prostat biyopsisi ya da parmakla yapılan fiziksel muayene ile prostat kanserine tanı konulmaktadır. Hastaya ilk olarak fiziksel muayene ve PSA testi yapılır. Kanser şüphesi uyandıran vakalarda biyopsi istenir. Bu 3 işlem yapıldıktan sonra prostat kanserine kesin tanı konur ve cerrahiye ihtiyaç duyulup duyulmadığına karar verilir. Bütün prostat kanserleri risk teşkil etmez, operasyona gerek kalmayabilir.
 
 ## Prostat Kanseri Parmakla Muayene
 
+![Prostat Kanseri Teşhisi](/assets/img/prostatkanseriteshisi.jpeg){:.size1}
 Prostat kanseri teşhisinde parmakla muayene yöntemi kullanılır. Anüsten parmak mesafesinde bulunan prostat, muayene de hissedilebilen bir organdır. Anüsten yapılan kolay bir fiziksel muayene ile prostatın sertliği ve büyüklüğüne bakılarak önem taşıyan ipuçları elde edilir. Prostatta hissedilen sertlik kanser oluşumuna dair şüphe uyandırır.  Prostat kanseri teşhisinde parmakla muayene tek başına yeterli değildir.
 
 ## Prostat Kanseri PSA Testi

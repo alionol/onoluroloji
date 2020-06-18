@@ -19,15 +19,9 @@ summary: "Peyronie Nedir? Penis Eğriliği Nedir? Peyronie İlaçla tedavi edili
 youtubeId: false
 ---
 
-
-
-
-
-![Peyronie Nedir](/assets/img/peyronie.jpeg)
-Erkek hastaların yüzde 3’ü penislerinde görülen eğrilik nedeniyle doktorlara müracaat ederler. Penis eğriliği; doğumsal penis eğrilikleri ve sonradan kazanılan penis eğrilikleri olarak iki farklı sınıfta incelenmektedir. Peyronie hastalığı ile oluşan penis eğrilikleri sonradan kazanılır. Doğuştan gelen penis eğrilikleri Hipospadyas hastalığına bağlı olarak oluşabilir. Ayrıca doğumsal bir anomali olarak bebeğin erkeklik organı eğri olabilir.
-
-Hastalarda doğumsal olmayan ve sonradan oluşum gösteren penis eğriliklerine Peyronie adı verilir. Penisin sertleşmesini sağlayan süngersi cisimcikleri çevreleyen doku üzerinde skor doku oluşur. Kabuk içinde oluşum gösteren bu kireçlenme dediğimiz skar dokusu hastaların erkeklik organına kan gitmesini önler ve sertleşmeyi bozar. Peyronie hastalarında ereksiyon anında ağrı hissedilir. Ve penislerinde eğrilme olur.
-
+![Peyronie Nedir](/assets/img/peyronie.jpeg){:.size1}
+Erkek hastaların yüzde 3’ü penislerinde görülen eğrilik nedeniyle doktorlara müracaat ederler. Penis eğriliği; doğumsal penis eğrilikleri ve sonradan kazanılan penis eğrilikleri olarak iki farklı sınıfta incelenmektedir. Peyronie hastalığı ile oluşan penis eğrilikleri sonradan kazanılır. Doğuştan gelen penis eğrilikleri Hipospadyas hastalığına bağlı olarak oluşabilir. Ayrıca doğumsal bir anomali olarak bebeğin erkeklik organı eğri olabilir.  
+Hastalarda doğumsal olmayan ve sonradan oluşum gösteren penis eğriliklerine Peyronie adı verilir. Penisin sertleşmesini sağlayan süngersi cisimcikleri çevreleyen doku üzerinde skor doku oluşur. Kabuk içinde oluşum gösteren bu kireçlenme dediğimiz skar dokusu hastaların erkeklik organına kan gitmesini önler ve sertleşmeyi bozar. Peyronie hastalarında ereksiyon anında ağrı hissedilir. Ve penislerinde eğrilme olur.  
 Peyronie hastalarının penisleri yukarı doğru bir eğrilik gösterirler. Penisteki bu eğrilik cinsel temas esnasında problem yaşanmasına neden olur. Aynı zamanda hoş olmayan bir görüntüdedir. Kireçlenmenin derecesi nedeniyle penis boyutunda küçülme görünür. Hastalarda fazlasıyla sertleşme sorunu görülür. Kireçlenme ne kadar penis kökünde bulunuyorsa penis ucuna o kadar kan gidemez. Kan gidememeside sertleşme sorununu meydana getirir.
 
 ## Penis Eğriliği (Peyronie) Neden Olur?

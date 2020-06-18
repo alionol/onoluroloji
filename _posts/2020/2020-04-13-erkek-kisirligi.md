@@ -19,10 +19,6 @@ summary: "Erkek kısırlığı nedir? , Erkek kısırlığının nedenleri? , Sp
 youtubeId: "ZpN8wZUK40c"
 ---
 
-
-
-
-
 ## Erkekte Kısırlık Nedir?
 
 Bir yıllık normal ve düzenli bir cinsel ilişkiye rağmen gebe kalınma yaşanmıyorsa kısırlıktan bahsedilir. Yüzde 35 sadece erkek, yüzde 35 sadece kadın, yüzde 30 da hem erkek hem kadın sebebiyle kısırlık yaşanır.
@@ -33,7 +29,7 @@ Bir yıllık normal ve düzenli bir cinsel ilişkiye rağmen gebe kalınma yaşa
 Sadece testise bağlı olanlar (yüzde 30-40), testiste oluşan spermin kanallardaki tıkanıklığa bağlı olan bozuklukları (yüzde 10-20), beyindeki Hipofiz bezine ve Hipotalemik bölgeye ait hastalıklar (yüzde 1-2) ve bilinmeyen nedenler (yüzde 40-50) erkek kısırlığının nedeni olabilir. Anlaşıldığı üzere erkek kısırlığında bilinmeyen nedenlerin fazladır.
 
 ### Sperm kaynaklı kısırlık;
-![Erkek Kısırlığı](/assets/img/kisirliknedeni.jpeg){:.size2}
+![Erkek Kısırlığı](/assets/img/kisirliknedeni.jpeg)
 Spermin testiste oluşmaya başlamasından meniyle dışarı atımına kadar 3,5 – 4 ay geçer. Erkekte kısırlığın ana sebebi spermin sayı, kalite ve hareketlilik olarak anormal yapıda oluşması ya da hiç oluşmamasıdır. Yandaki görsel sperm anormalliklerini göstermektedir. Penis vasıtasıyla spermin dışarı atılamayan vakalar kısırlığın ayrıca bölümünü oluşturur. Sperm normal oluşsa bile kanallardaki tıkanıklık sebebiyle sperm meni sıvısına karışmaz. Testis gelişimi ve hormon dengesi tamamen normal olsa bile genetik sebeplerle testislerde sperm üretimi çok yetersiz olabilir veya hiç sperm oluşmayabilir. Erkek kısırlığında sonuç alınması en zor nedenlerin başında genetik sebeplerle spermin oluşmadığı durumlardır. Çok derin araştırmalar yapılması gerekir. Sınırlı hastaların dışında başarı oranı düşüktür.
 
 ### Testis Kaynaklı Kısırlık;

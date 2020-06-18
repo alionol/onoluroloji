@@ -22,10 +22,6 @@ lightBoxImages3: ["/assets/img/YapayMesane1.jpeg", "/assets/img/YapayMesane2.jpe
 lightBoxImages4: ["/assets/img/KalinBagirsakYapayMesane1.jpeg", "/assets/img/KalinBagirsakYapayMesane2.jpeg", "/assets/img/KalinBagirsakYapayMesane3.jpeg", "/assets/img/KalinBagirsakYapayMesane4.jpeg", "/assets/img/KalinBagirsakYapayMesane5.jpeg", "/assets/img/KalinBagirsakYapayMesane6.jpeg", "/assets/img/KalinBagirsakYapayMesane7.jpeg", "/assets/img/KalinBagirsakYapayMesane8.jpeg", "/assets/img/KalinBagirsakYapayMesane9.jpeg"]
 ---
 
-
-
-
-
 Radikal sistektomi operasyonunda hastanın mesanesi ve etraf dokuları çıkartılmaktadır. Hastanın idrarını dışarıya atması gerektiğinden, vücutta yeni bir idrar sistemi oluşturulmalıdır. Bu ameliyatta uygulanan 2 teknik bulunmaktadır. Her 2 teknikte hastanın genel durumu ve kanserin vücuttaki yayılımına göre kullanılmaktadır.
 
 **Birinci yöntem;** ortotopik neobladder dediğimiz bu teknik, radikal sistektomi operasyonun ikinci kısmı olan yeni mesane yapılması için karın zarına küçük bir aralıkla girilmesi ve bağırsaktan parça alındıktan sonra karın zarının kapatılmadı işlemidir. Yapay mesane yapılırken, bağırsağın tipine göre 15-40 cm boylarında bir parça, damarları sağlama alınarak ayrılır. Alınan parça kenar kısmından kesilir ve önce ikiye, ardından dörde katlanır. Silindirik bir boru kullanılarak mesane şekli alınır, balon benzeri yeni bir mesane yapılır. Yeni mesanenin şekillenme işlemi karın zarı dışında yapılmalıdır. 2 böbrekten gelen idrar kanalı yeni mesaneye ağızlaştırılır. Bu sayede hasta idrarını normal yolla dışarı atabilir. Yapılan bu işlemle hastanın idrar kanalları ve mesanesi karın zarı dışına yerleştirilmiştir. Vücudun doğuştan halinde de mesane karın zarı dışında kalmaktadır. Oysaki, standart teknikte yeniden yapılan mesane ve idrar kanalı karın zarı içine eklenmektedir. Bu yapılmaması gereken bir işlemdir. Operasyon sonrasında görülebilecek idrar sızıntılarının karın zarı içine akmasına neden olur ve bu da ciddi problemlere sebebiyet verir. Bizim uyguladığımız teknikte mesane, orijinal halinde olduğu gibi karın zarı dışında eklenmektedir. Bu sayede operasyon sonrasında yaşanacak olası idrar kaçağı komplikasyonları, içinde hayati organları bulunduran karın içi bölgesinde yaşanmaz. Buna bağlı olarakta hayati tehlike oluşturmaz. Hastaların operasyon sonrasında iyileşme süreci hızlıdır ve komplikasyon görülme ihtimali çok düşüktür.
@@ -39,5 +35,7 @@ Mesane Kanseri hakkında detaylı bilgi için [Tıklayınız.](https://www.onolu
 ## Bağırsaktan Mesane Yapımı Ameliyatı Görselleri
 
 {% include lightbox.html paths=page.lightBoxImages2 %}
+
 {% include lightbox.html paths=page.lightBoxImages3 %}
+
 {% include lightbox.html paths=page.lightBoxImages4 %}

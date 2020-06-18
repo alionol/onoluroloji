@@ -21,15 +21,13 @@ youtubeId2: "RW7fMM66P_k"
 lightBoxImages: ["/assets/img/ProstatKanseri1.jpeg","/assets/img/ProstatKanseri2.jpeg", "/assets/img/ProstatKanseri3.jpeg", "/assets/img/ProstatKanseri4.jpeg","/assets/img/ProstatKanseri5.jpeg"]
 ---
 
-
-
-
-
 Prostat kanseri için yapılan operasyonlarda 3 ayrı yöntem uygulanmaktadır.
 
-**•	Açık ameliyatı
-•	Laparoskopik teknik
-•	Robotik cerrahi**
+•	**Açık ameliyatı**
+
+•	**Laparoskopik teknik**
+
+•	**Robotik cerrahi**
 
 3 yöntemden de uzun vade de benzer sonuçlar elde edilir. Ameliyatın başarısı uygulanan teknikten ziyade uygulayan hekimin o teknikteki tecrübesine bağlıdır. Teknik fark etmeksizin kanser hücrelerinin tümünün temizlenmesi ve vücutta bırakılmaması prensibinin (prostat, meni keseleri ve bütün lenf düğümleri) layığıyla uygulandığı her operasyon, kanser cerrahisi kılavuzuna uygun yapılmış anlamına gelir. Prostat kanseri için yapılan operasyonda prostatın meni keseleri ve etraf dokuları ile birlikte bütün olarak çıkarılması yeterli olmayacaktır. Genişletilmiş lenfadenektomi işleminin de uygulanması şarttır.  Bu işlemle; prostat çevresinde başlangıç gösteren, iki taraftaki leğen kemiği boyunca ve karın arka duvarında bulunan aorta-venakava adlı ana damarların üstünde yer alan lenf düğümleriyle kanallarının tümüyle çıkarılması sağlanır.
 
@@ -86,8 +84,11 @@ Yüksek risk grubundaki prostat kanserlerinde operasyonun sonrasında vücutta g
 Kanser cerrahisi kılavuzuna yaraşır şekilde yapılan detaylı bir ameliyatın bir takım istenmeyen komplikasyon dediğimiz yan etkileri görülebilir. Görülen komplikasyonların bir kısmı zaman içinde kendiliğinden düzelebilir. Düzelmediği durumlarda ise tedavi uygulanarak düzelebilir. Operasyondan önce hasta ve yakınları görülme ihtimali olan komplikasyonlar hususunda detaylı bir şekilde bilgilendirilmeli ve ameliyat sonrasında uygulanacak yöntemler izah edilmelidir.
 
 1) İdrar kaçırma
+
 2) Cinsellik sorunları
+
 3) İdrar kanalında darlık oluşumu
+
 4) Kist oluşumu (lenf düğümlerinin çıkarıldığı bölgede lenfosel denilen sıvı birikimi)
 
 1. Prostat; idrar tutucu ve penisin sertleşmesini sağlayan damar, sinir ve diğer oluşumların konumlandığı riskli bir bölgede yer almaktadır. Operasyon sonrasında bulunduğu konum sebebiyle hastada idrar kaçırma ve penisin sertleşmesinde problem yaşanması gibi durumlar meydana gelebilir. Vücutta idrar tutmaya yarayan iki ana mekanizma (conta) mevcuttur ve bunlar prostatın alt ve üst bölgesinde yer alır. Hasta işemesini bu sfinkter dediğimiz idrar tutucu mekanizmalar ile kontrol altına alır. Uygulanan her tip prostat operasyonunda iç istemsiz sfinkterin prostatla beraber çıkartılması şarttır. Hastanın idrar yapma kontrolü için tek istemli sfinkter de yeterlidir. Bu conta ile miktarı az da olsa idrar kaçırma yaşanıyorsa hastaya tut-bırak egzersizi yapması tavsiye edilir. Bu sayede idrar kontrolü kısa sürede sağlanmış olacaktır. Hastanın idrar tutucu mekanizmaları bütünüyle hasar görmüş ise yapay sfinkter ameliyatı adı verilen operasyonla yapay idrar tutma mekanizması uygulanarak tedavi sağlanır. Yapay sfinkter operasyon esnasında hastaya yerleştirilir ve idrar kaçırma da kesin çözüme ulaşılır. Hasta aynı anda peniste sertleşme sorunu ve idrar kaçırma sorunlarını yaşıyor ise aynı ameliyatta aynı kesi ile mutluluk çubuğu ve idrar tutmaya yarayan conta yerleştirilerek şikayetler giderilmiş olur. Bu konular hakkında detaylı bilgilere internet sitemizin menüsünden ulaşabilirsiniz.

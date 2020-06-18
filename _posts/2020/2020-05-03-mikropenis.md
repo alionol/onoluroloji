@@ -19,11 +19,6 @@ summary: "Mikropenis doğumsal bir anomalidir. Erken teşhisin önemli olduğu m
 youtubeId: False
 ---
 
-
-
-
-
-
 ## Mikropenis Nedir?
 
 Yeni doğan bebeklerde gerdirilmiş penis boyu 3,5 cm’dir. 2 - 2,5 cm’in altında kalan penis uzunluğu mikropenis (küçük penis) olarak tanımlanır. Bebek ana karnındayken, bazı sebeplere bağlı olarak penis gelişiminini tamamlayamaz ve bu durumda mikropenis görülür. Diğer bir durumda ise mikropenis, ileri hipospadias gibi doğumsal penis anamolilerine bağlı olarak gözükür. Aynı zamanda genetik olarak Klinefelter gibi genetik kromozom bozukluklarına bağlı olarak da görülebilir.
@@ -43,7 +38,7 @@ Aileler, genelde erken yaştaki çocuğun penisi zaten küçük olduğu için ha
 Her iki testisin yerinde olması durumunda normal bir erkek genetik tipinin olduğu anlaşılır. Eğer testisler ele gelmiyorsa ve penisin altındaki idrar kanalı oluşmamışsa bebeklerin genetik cinsiyet tayininin yapılması gerekir.
 Bazı çocukların penisi obeziteye bağlı aşırı yağlanma sebebiyle küçüktür. Bu çocukların gerdirilmiş penis boyutları normaldir. Sadece penis çevresindeki yağlanmaya bağlı olarak penisleri yağın içerisine gömüktür. Bu da penisi küçük gösterir. Bu vakalar gömük penis dediğimiz hastalığa girer. Ancak yinede penis boyu 4 cm’nin altında ise ve inmemiş testis, hipospadyas gibi doğumsal anomaliler de varsa daha ileri bir değerlendirme yapılmalıdır.
 
-### KLINEFELTER SENDROMU
+### Klinefelter Sendromu
 
 Klinefelter sendromu mikropenis hastalığının nedenlerinden birisidir. Normal genetik erkek, 46 xy’dir. Bu hastalarda ise 47 xxy’dir. Bu hastalarda beyinden hormon salgısı fazladır. Jinekomasti denilen kız tipi memeler, küçük testisleri vardır. El, kol ve bacak orantısızlıkları vardır. Öğrenme bozuklukları olabilir. Bu hastalar genetik olarak kromozom bozukluğundan dolayı mikropenis hastalığına sahiplerdir.
 

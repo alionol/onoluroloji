@@ -19,20 +19,14 @@ summary: "Erkek kısırlığı nedir? , Erkek kısırlığının nedenleri? , Sp
 youtubeId: false
 ---
 
-
-
-
-
 ![Erkekte Kısırlığı Nedeni](/assets/img/erkektekisirlik.jpeg)
-Erkek bireylerde bir yıl süreyle normal ve düzen içindeki cinsel birliktelik sonucunda partnerde hamilelik görünmüyorsa kısırlıktan söz edilir. Kısırlık yüzde 35 oranında erkekten, yüzde 35 oranında kadından ve yüzde 30 oranında çiftlerin ikisinden de kaynaklanabilir.
-
+Erkek bireylerde bir yıl süreyle normal ve düzen içindeki cinsel birliktelik sonucunda partnerde hamilelik görünmüyorsa kısırlıktan söz edilir. Kısırlık yüzde 35 oranında erkekten, yüzde 35 oranında kadından ve yüzde 30 oranında çiftlerin ikisinden de kaynaklanabilir.  
 Erkek kısırlığının sebepleri; yüzde 30-40 ihtimalle yalnızca testisten kaynaklanması, yüzde 10-20 ihtimalle testislerde üretilen spermin kanallardaki tıkanma nedeniyle bozukluğa uğraması, yüzde 1-2 ihtimalle beyinde bulunan hipofiz bezine ve hipotalemik alandaki hastalıklar ve yüzde 40-50 ihtimalle bilinmeyen sebepler olarak listelenebilir. Hastalığın oranlarına bakıldığında erkek kısırlığında sebebi bilinemeyen etkenler daha fazladır.
 
 ## Sperm kaynaklı kısırlık;
 
 ![Erkek Kısırlığı](/assets/img/kisirliknedeni.jpeg)
-Erkekte görülen kısırlığın ana nedenleri sperm hayvancıklarının sayı, kalite ve hareketlilik bakımından anormal oluşması veya hiç oluşmamasıdır. Yan taraftaki görselde sperm anormalliklerini görebilirsiniz. Bazı vakalarda spermler normaldir ancak spermler penis yoluyla spermin dışarı atılamaz. Kanallardaki tıkanıklık spermin dışarı atılmasını engeller. Bu tip vakalar kısırlığın bir bölümünü oluşturur.
-
+Erkekte görülen kısırlığın ana nedenleri sperm hayvancıklarının sayı, kalite ve hareketlilik bakımından anormal oluşması veya hiç oluşmamasıdır. Yan taraftaki görselde sperm anormalliklerini görebilirsiniz. Bazı vakalarda spermler normaldir ancak spermler penis yoluyla spermin dışarı atılamaz. Kanallardaki tıkanıklık spermin dışarı atılmasını engeller. Bu tip vakalar kısırlığın bir bölümünü oluşturur.  
 Bazı durumlarda testislerin normal bir gelişim göstermesine ve hastanın hormon dengesinin de bütünüyle normal olmasına rağmen genetik faktörler nedeniyle testislerde az miktarda sperm üretimi yapılabilir ya da sperm oluşumu hiç yaşanmayabilir. Erkek kısırlığının tedavisinde en zor yanıt alınan vakaların ilk sırasında genetik faktörlere bağlı olarak sperm oluşumunun yaşanmadığı durumlar bulunur. Bu vakalarda çok derinlemesine inceleme yapılmalıdır. Kalıtsal faktörlerden kaynaklanan kısırlığın tedavisinde sınırlı hastalarda başarı yakalanır.
 
 ## Testis Kaynaklı Kısırlık;

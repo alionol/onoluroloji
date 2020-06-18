@@ -19,10 +19,6 @@ summary: "Mesane Kanseri Nedir?  Kaç tip mesane kanseri vardır? Mesane kanseri
 youtubeId: false
 ---
 
-
-
-
-
 Mesane kanserinin tedavisinde uygulanan operasyonlar büyük önem taşımaktadır. Fakat operasyona ek olarak kemoterapi ve radyoterapi de önemli ölçülerdir. Ameliyat ile birlikte kemoterapi ve radyoterapinin de uygulanması hastanın yaşam kalitesi ve süresinin artması bakımından etkili faktörlerdir.
 
 ## Mesane Kanserinde Radyoterapi Tedavisi
@@ -31,6 +27,7 @@ Kanser için uygulanan ışın tedavisinde; yüksek enerjili x ışınları veya
 
 
 **•	Eksternal radyasyon:** Kanser hücrelerinin yok edilmesi amacıyla vücuda dışarıdan yüksek enerjili radyasyon verilir. Mesane kanserinin tedavisinde daha çok eksternal radyoterapi kullanılmaktadır.
+
 **•	İnternal radyasyon:** Kanser hücrelerine radyasyon yayan küçük teller, tohumlar veya kateterler yerleştirilir.
 
 

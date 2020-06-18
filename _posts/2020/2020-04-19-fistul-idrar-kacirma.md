@@ -20,10 +20,6 @@ youtubeId: "O71euAzrTq8"
 lightBoxImages: ["/assets/img/Fistul.jpeg", "/assets/img/Fistul2.jpeg","/assets/img/Fistul3.jpeg","/assets/img/Fistul4.jpeg","/assets/img/Fistul5.jpeg","/assets/img/Fistul6.jpeg","/assets/img/Fistul7.jpeg"]
 ---
 
-
-
-
-
 ## Fistül Nedir?
 
 Genel tanımı ile fistül, iki organ arasında normalde bulunmaması gereken sonrada oluşmuş bir kanaldır. Bu kanallar (fistül) ameliyat sonrası komplikasyonlara ya da kazalara bağlı olarak oluşur.
@@ -91,11 +87,9 @@ Bu fistüller, mesane ile vajina arasındadır. Sıklıkla rahimin alınması ve
 
 Böbrekten mesaneye idrarı taşıyan üreter kanalının rahimin alınması veya diğer pelvik organ ameliyatlarına bağlı yaralanmasıyla oluşur. Bu fistülde idrar, mesaneye gitmez. Üreterden (böbrekten mesaneye idrar taşıyan kanal) direk olarak vajinaya akar.
 
-
 ### Üretrovajinal fistül:
 
 Üretra denilen idrar kanalı ile vajina arasında oluşan fistüldür. Bu fistülde idrar, idrar kanalında vajinaya akar.
-
 ​
 ### Vezikouterin (uterovajinal) fistül:
 

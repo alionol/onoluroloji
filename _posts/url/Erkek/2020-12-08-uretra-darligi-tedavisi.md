@@ -19,14 +19,10 @@ summary: "Erkek idrar yolu darlığı hakkında detaylı bilgi, Üretra nedir, �
 youtubeId: "rl3GdA0kTQw"
 youtubeId: "oEhe1VlbKSI"
 youtubeId2: "BbyhFI50SEM"
-lightBoxImages: ["/assets/img/UretraDarligi1.jpeg","/assets/img/UretraDarligi2.jpeg" ,"/assets/img/UretraDarligi3.jpeg","/assets/img/UretraDarligi4.jpeg","/assets/img/UretraDarligi5.jpeg","/assets/img/UretraDarligi6.jpeg","/assets/img/UretraDarligi7.jpeg" ]
+lightBoxImages: ["/assets/img/UretraDarligi1.jpeg", "/assets/img/UretraDarligi2.jpeg", "/assets/img/UretraDarligi3.jpeg", "/assets/img/UretraDarligi4.jpeg", "/assets/img/UretraDarligi5.jpeg", "/assets/img/UretraDarligi6.jpeg", "/assets/img/UretraDarligi7.jpeg" ]
 lightBoxImages2: ["/assets/img/Uretroplasti.jpeg", "/assets/img/Uretroplasti2.jpeg", "/assets/img/Uretroplasti3.jpeg"]
 lightBoxImages3: ["/assets/img/idrarKanaliDarligi.jpeg", "/assets/img/idrarKanaliDarligi2.jpeg", "/assets/img/idrarKanaliDarligi3.jpeg", "/assets/img/idrarKanaliDarligi4.jpeg"]
 ---
-
-
-
-
 
 Üretra darlığında ilaç tedavisinin yeri bulunmamaktadır. Üretra darlığı için uygulanan tedavi açık ve kapalı tedavi olmak üzere iki bölüme ayrılır. Kapalı tedavi ile hastanın şikayetleri bir süre için giderilir. Üretradaki küçük darlıklar dışında kapali yöntemin tedavi etkisi kısıtlıdır. Kapalı yöntemle uygulanan tedaviler 2 defadan fazla yapılmamalıdır. Dilatasyon adı verilen idrar kanalına metal sondalar sokularak genişletilme sağlanması üretra darlıklarında geçici bir iyileşme sağlar. Aynı zamanda internal uretrotomi adı verilen kapalı teknikle üretraya kamerayla girerek darlığın görüntülenmesi ve bıçakla kesilerek tedavi edilmesi işlemi de iyileşmeye bir süre için yardımcı olur. Uygulanan bu yöntemler neticesinde hastanın şikayetleri bir süre için son bulur fakat birkaç ayın ardından tekrar aynı yakınmalar görülür.
 
@@ -35,11 +31,8 @@ lightBoxImages3: ["/assets/img/idrarKanaliDarligi.jpeg", "/assets/img/idrarKanal
 ## Üretra Darlığında Kapalı Ameliyat
 
 ![Üretra Darlığı Kapalı Ameliyat](/assets/img/uretradarligiameliyati.jpeg)
-
-Bilhassa arka üretrada bulunan membranöz üretrada ve ön üretra darlıklarında dilatasyon veya kapalı endoskopik teknikler kullanılarak darlıklar iyileştirilebilir. Bu yöntemler uzun olmayan ve derine inmemiş darlıklarda işe yarayabilir. Üretradaki darlıklar uzun ve derinlerde ise hastalar müdahaleden 1-2 ay sonra eskisinden daha yoğun hissedilen şikayetlerle doktorlara müracaat ederler. Hastaya en fazla iki kez endoskopik dediğimiz kapalı yöntemle müdahale edilmiş ancak başarılı sonuç alınamamışsa hastanın açık ameliyat için deneyimli cerrahlara başvurması yerleşmiş bir kuraldır.
-
-Endoskopik müdahalede bıçakla kesi uygulanırken dilatasyon işleminde sonda kullanılarak idrar kanalının darlık yaşanan bölgesinden geçirilmektedir. Böylece üretradaki darlık yırtılır ve genişleme sağlanır. Ancak bu yöntemle kısmi bir iyileşme yaşanır. Orta dereceli üretra darlığı olan hastalara dilatasyon öğretilir ve hasta bizzat kendi uygulayarak hayatını bu şekilde idame ettirebilir. Bu süreç hastalar için sakıncalı olabilir ve oldukça sıkıntılıdır.
-
+Bilhassa arka üretrada bulunan membranöz üretrada ve ön üretra darlıklarında dilatasyon veya kapalı endoskopik teknikler kullanılarak darlıklar iyileştirilebilir. Bu yöntemler uzun olmayan ve derine inmemiş darlıklarda işe yarayabilir. Üretradaki darlıklar uzun ve derinlerde ise hastalar müdahaleden 1-2 ay sonra eskisinden daha yoğun hissedilen şikayetlerle doktorlara müracaat ederler. Hastaya en fazla iki kez endoskopik dediğimiz kapalı yöntemle müdahale edilmiş ancak başarılı sonuç alınamamışsa hastanın açık ameliyat için deneyimli cerrahlara başvurması yerleşmiş bir kuraldır.  
+Endoskopik müdahalede bıçakla kesi uygulanırken dilatasyon işleminde sonda kullanılarak idrar kanalının darlık yaşanan bölgesinden geçirilmektedir. Böylece üretradaki darlık yırtılır ve genişleme sağlanır. Ancak bu yöntemle kısmi bir iyileşme yaşanır. Orta dereceli üretra darlığı olan hastalara dilatasyon öğretilir ve hasta bizzat kendi uygulayarak hayatını bu şekilde idame ettirebilir. Bu süreç hastalar için sakıncalı olabilir ve oldukça sıkıntılıdır.  
 Prostat kanseri için yapılan operasyonlarda prostat meni keseleriyle birlikte bütün olarak çıkartılmaktadır. Prostatın çıkarılmasa bağı olarak idrar kanalında 4-5 cm civarında bir açıklık kalır. Bu açıklık mesane çıkışına tekrar eklenerek idrar kanalında bütünlük sağlanır. Fakat zaman içerisinde ekleme yapılan bu alanda darlık meydana gelebilir. İdrar kanalının başlangıç noktasında ve mesane boynunda ortaya çıkan bu tip darlıkların tedavisi basittir. Böyle vakalarda çoğunlukla kapalı yöntem kullanılır. Darlıklar endoskopik bıçakla kesilerek düzeltilebilir. Prostat kanseri operasyonundan sonra meydana gelen darlıkların yüzde 4-5 oranındakileri idrarı hiç dışarı atamaz. Bu vakalarda ise darlığın giderilmesi amacıyla üretroplasti dediğimiz açık cerrahi uygulanmalıdır.
 
 ### Dilatasyon ve kapalı yöntemle darlığın kesilmesi neden kalıcı iyileşme sağlamaz?
