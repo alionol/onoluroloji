@@ -59,7 +59,8 @@
           </a>
 
           <div class="dropdown-menu text-center" aria-labelledby="">
-            {% for post in site.posts %}
+            {% assign sortedPosts = site.posts | sort: 'date' %}
+            {% for post in sortedPosts %}
             {%- if post.category_id == my_page.id and post.lang == page.lang -%}
             <a class="dropdown-item" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
             {%- endif -%}
