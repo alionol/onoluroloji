@@ -72,16 +72,17 @@ blockquote {
 // WHOLE PAGE
 .fixed-phone {
   position: fixed;
-  bottom: 10px;
-  right: 10px;
+  bottom: 20px;
+  right: 20px;
   font-size: 3em;
   z-index: 999;
   color: $icon-green;
   .fa-phone{
-    padding: 8px;
-    border: 2px solid $brand;
-    border-radius: 48%;
-    color: $icon-green;
+    padding: 12px;
+    border: 2px solid $icon-green;
+    border-radius: 50%;
+    color: $white;
+    background: $icon-green;
   }
 
   @media only all and (min-width: map-get($grid-breakpoints, lg)) {
@@ -537,7 +538,7 @@ blockquote {
   }
 
   .navbar-above-social {
-    font-size: 1.85rem;
+    font-size: 2.30rem;
     i {
       color: $gray-600;
     }
@@ -549,11 +550,37 @@ blockquote {
       color: $icon-green;
       font-size: 1.275em;
     }
+    a {
+
+      display: inline-block;
+      font-size: 1.30em;
+    }
+    span {
+      display: inline-block;
+    }
+
+    @media only all and (max-width: map-get($grid-breakpoints, md)) {
+      i, span {
+        padding-bottom: 6px;
+      }
+      i, a {
+        padding-top: 12px;
+        padding-bottom: 12px;
+      }
+    }
+
+
   }
 
   .language {
     a {
       color: $gray-700;
+      font-size: 1.30em;
+    }
+    @media only all and (max-width: map-get($grid-breakpoints, md)) {
+      a {
+        padding-bottom: 15px;
+      }
     }
     .dropdown-menu {
       z-index: 2000;
