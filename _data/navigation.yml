@@ -1,8 +1,10 @@
 - id: "home"
   name:
     tr: "Anasayfa"
+    en: "Home"
   link:
     tr: "/"
+    en: "/en/"
   category: false
   invisible: false
 - id: "male"
