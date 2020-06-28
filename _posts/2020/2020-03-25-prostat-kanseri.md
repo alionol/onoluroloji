@@ -148,6 +148,7 @@ Genişletilmiş lenf nodu temizlenen olgularda lenfosel denilen kistik oluşumla
 
 Yukarıda bahsedilen tüm komplikasyonların onarımı tarafımızdan başarıyla yapılabilmektedir.
 
+{:.text-center}
 ## Prostatın ve Lenf Düğümlerinin Çıkarılması Operasyonu
 
 {% include youtubePlayer.html id=page.youtubeId2 %}
