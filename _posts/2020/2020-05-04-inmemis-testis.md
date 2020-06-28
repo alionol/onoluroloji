@@ -124,4 +124,4 @@ Görüntüleme yöntemleri ve laparoskopiyle saptanan sağlıklı bir inmemiş t
 ## İnmemiş Testis Ameliyatı Görselleri
 {% include youtubePlayer.html id=page.youtubeId2 %}
 
-{% include lightbox.html paths=page.lightBoxImages %}
+{% include lightbox.html paths=page.lightBoxImages no=1 %}

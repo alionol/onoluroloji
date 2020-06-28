@@ -86,7 +86,7 @@ Prostat kanseri organ içerisinde büyüdükten sonra etraf dokulara yayılmaya 
 
 #### Prostat kanseri ameliyatında lenf düğümleri neden çıkarılmalıdır?
 
-{% include lightbox.html paths=page.lightBoxImages %}
+{% include lightbox.html paths=page.lightBoxImages no=1 %}
 
 Prostatın orta ve yüksek risk grubu kanserleri, yayılımda aritmetik sıra takip eder. Önce lenf düğümlerine, sonra kemiklere ve diğer organlara yayılır. Prostat kanser hücresi agresif ise, organı aşmasa bile, lenf kanalları yoluyla lenf düğümlerine atlayabilir. Prostat kanseri önce lenf düğümlerine yayıldığı için prostat kanserleri ameliyatında leğen kemiği yan ve karın arka duvarındaki bütün lenf düğümlerinin çıkartılması son derece önemlidir (Genişletilmiş Lenfadenektomi). Hiç bir görüntüleme yöntemi kanserin hangi lenf düğümlerine kadar yayıldığını göstermez.
 

@@ -37,4 +37,4 @@ Peyronie hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji
 
 ## Peyronie Ameliyatı Görselleri
 
-{% include lightbox.html paths=page.lightBoxImages %}
+{% include lightbox.html paths=page.lightBoxImages no=1 %}

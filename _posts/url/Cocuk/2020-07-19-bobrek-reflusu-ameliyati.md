@@ -68,4 +68,4 @@ Böbrek reflüsü hakkında detaylı bilgi için [Tıklayınız.](https://www.on
 
 {% include youtubePlayer.html id=page.youtubeId3 %}
 
-{% include lightbox.html paths=page.lightBoxImages %}
+{% include lightbox.html paths=page.lightBoxImages no=1 %}

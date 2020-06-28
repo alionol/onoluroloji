@@ -49,4 +49,4 @@ Hasta ne kadar erken yaşta ameliyat edilirse ameliyat o kadar kolaydır. Çünk
 
 ## İnmemiş Testis Ameliyatı Görselleri
 {% include youtubePlayer.html id=page.youtubeId2 %}
-{% include lightbox.html paths=page.lightBoxImages %}
+{% include lightbox.html paths=page.lightBoxImages no=1 %}

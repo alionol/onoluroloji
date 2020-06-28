@@ -57,4 +57,4 @@ Mesane Kanseri hakkında detaylı bilgi için [Tıklayınız.](https://www.onolu
 
 ## Mesane Kanseri Ameliyatı Görselleri
 
-{% include lightbox.html paths=page.lightBoxImages %}
+{% include lightbox.html paths=page.lightBoxImages no=1 %}

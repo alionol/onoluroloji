@@ -167,7 +167,7 @@ Ayrıca mesane kanserlerinde mesane içerisine zayıflatılmış verem mikrobu v
 * Bir diğer komplikasyon lenf düğüm zincirlerinin çıkarılmasına bağlı olarak lenfosel denilen kistik oluşumların meydana gelmesidir. Özellikle bizim uyguladığımız teknikle bu kistik oluşumlar karın zarı arkasında kalacağından zamanla kendi kendine kaybolur. Maalesef gereksiz yere erken müdahale ile kistlerin boşaltılmaya çalışıldığından ciddi problemler gözükebilir.
 
 ## Mesane Kanseri Ameliyat Görselleri
-{% include lightbox.html paths=page.lightBoxImages %}
-{% include lightbox.html paths=page.lightBoxImages2 %}
-{% include lightbox.html paths=page.lightBoxImages3 %}
-{% include lightbox.html paths=page.lightBoxImages4 %}
+{% include lightbox.html paths=page.lightBoxImages no=1 %}
+{% include lightbox.html paths=page.lightBoxImages2 no=2 %}
+{% include lightbox.html paths=page.lightBoxImages3 no=3 %}
+{% include lightbox.html paths=page.lightBoxImages4 no=4 %}

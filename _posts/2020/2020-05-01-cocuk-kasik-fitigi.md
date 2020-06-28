@@ -71,4 +71,4 @@ Kasık bölgesine 1-2 cm’lik bir kesi ile kasık kanalına girilir. Fıtık ke
 ​Acilen ameliyat gerektiren durumlarda ameliyat kompleks ve zordur. Aileye ameliyatın riskleri anlatılmalıdır. Eğer bağırsak kangren olmuşsa bağırsak bölümünün çıkarılabileceği aileye bildirilmelidir.
 
 ## Çocuk Kasık Fıtığı Ameliyatı Görselleri
-{% include lightbox.html paths=page.lightBoxImages %}
+{% include lightbox.html paths=page.lightBoxImages no=1 %}

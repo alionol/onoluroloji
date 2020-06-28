@@ -139,4 +139,4 @@ Rektovajinal fistüllerde vajinadan dışkı gelmesi gözükür. Rektovajinal fi
 Tedavisi fistülün büyülüğü, lokasyonu ve sebebine göre değişir. Vajina girişinin 3-4 cm yukarısına kadar olanlara düşük ve orta seviye fistüller denir. Rahim ağzı seviyesinde olanlara yüksek yerleşimli fistüller denir. Orta ve düşük yerleşimli fistüller vajinadan onarılır. İki organ arasına vajina kesisiyle girilir. Fistül bölümüne ulaşılıp fistül çıkarılır. Vajina ve rektum ayrı ayrı bir kaç tabaka olarak dikilir. Mutlaka araya sağlı dokudan aktarılmış doku, dolgu maddesi olarak konulur. Bu fistüllerde ideal dolgu maddesi, gracilis adelesinin bacaktan aktarımıdır.
 
 ## Fistül Ameliyatı Görselleri
-{% include lightbox.html paths=page.lightBoxImages %}
+{% include lightbox.html paths=page.lightBoxImages no=1 %}

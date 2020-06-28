@@ -35,4 +35,4 @@ Hastanın acilen ameliyata alınması gereken durumlarda ameliyat komplekstir ve
 
 
 ## Çocuk Kasık Fıtığı Ameliyatı Görselleri
-{% include lightbox.html paths=page.lightBoxImages %}
+{% include lightbox.html paths=page.lightBoxImages no=1 %}

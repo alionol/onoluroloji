@@ -34,8 +34,8 @@ Mesane Kanseri hakkında detaylı bilgi için [Tıklayınız.](https://www.onolu
 
 ## Bağırsaktan Mesane Yapımı Ameliyatı Görselleri
 
-{% include lightbox.html paths=page.lightBoxImages2 %}
+{% include lightbox.html paths=page.lightBoxImages2 no=2 %}
 
-{% include lightbox.html paths=page.lightBoxImages3 %}
+{% include lightbox.html paths=page.lightBoxImages3 no=3 %}
 
-{% include lightbox.html paths=page.lightBoxImages4 %}
+{% include lightbox.html paths=page.lightBoxImages4 no=4 %}

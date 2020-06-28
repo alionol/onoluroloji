@@ -37,7 +37,7 @@ Prostat kanseri, prostatta gelişir ve ardından çevresindeki dokulara doğru y
 
 ### Prostat kanseri ameliyatında lenf düğümleri neden çıkarılmalıdır?
 
-{% include lightbox.html paths=page.lightBoxImages %}
+{% include lightbox.html paths=page.lightBoxImages no=1 %}
 Orta ve yüksek risk grubunda bulunan prostat kanserleri aritmetik sıra ile yayılım gösterirler. Prostatta oluşan kanser ilk olarak lenf düğümlerine yayılır. Ardından kemiklere ve diğer çevre organlara yayılmaktadır. Prostatta bulunan kanser hücresi saldırgan yapıda ise organı aşmasa da lenf kanalları üzerinden lenf düğümlerine sıçrayabilir. Prostat kanserinin ilk olarak lenf düğümlerine yayılım göstermesi, prostat kanseri operasyonunda genişletilmiş lenfadenektomi işlemi ile leğen kemiği ve karın arka duvarında bulunan lenf düğümlerinin bütünüyle çıkarılmasını şart hale getirmektedir. Kanserin lenf düğümlerine ne kadar yayıldığı hiçbir görüntüleme yöntemi ile saptanamaz. Kanserin hangi alana ne kadar yayıldığı yalnızca lenf düğümlerinin çıkarılmasının ardından yapılacak patolojik değerlendirmeler sonucunda anlaşılabilir. Lenf düğümlerinin bütün olarak çıkarılmadığı ameliyatlarda geride kanser hücresi bırakılmış olma ihtimali yüksektir. Prostat çıkarılmış fakat genişletilmiş lenf düğümleri bırakılmış ise yapılan ameliyat eksik sayılmaktadır.
 
 Yapılan çalışmalar; çıkarılmış olan lenf düğümlerinde kanser saptanmamasına rağmen, normal mikroskopla görülmeyen moleküler düzeyde kanser hücrelerinin var olabildiğini göstermiştir. Lenf düğümlerinin çıkarılması ile mikroskopla saptanamayan olası kanser hücrelerinin de mevcudiyetine son verilmiş olur. (Genişletilmiş lenf nodu diseksiyonu)

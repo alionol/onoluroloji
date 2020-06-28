@@ -72,4 +72,4 @@ Kısırlık nedeninin varikosele bağlı olduğu anlaşılmış ve testisi küç
 Mikroskop ve lup kullanılarak yapılan açık cerrahi ameliyatı tedavi için en uygun yöntemdir.
 
 ## Varikosel Ameliyatı Görselleri
-{% include lightbox.html paths=page.lightBoxImages %}
+{% include lightbox.html paths=page.lightBoxImages no=1 %}

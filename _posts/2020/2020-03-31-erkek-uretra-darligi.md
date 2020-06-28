@@ -193,15 +193,15 @@ Sağlıklı da olsa onarımı hiç bir şekilde mümkün olmayan hastalarda uygu
 
 ### Bulber Üretroplasti
 
-{% include lightbox.html paths=page.lightBoxImages %}
+{% include lightbox.html paths=page.lightBoxImages no=1 %}
 
 ### Penil Üretroplasti
 
-{% include lightbox.html paths=page.lightBoxImages2 %}
+{% include lightbox.html paths=page.lightBoxImages2 no=2 %}
 
 ### Fossa Naviküler Üretroplasti
 
-{% include lightbox.html paths=page.lightBoxImages3 %}
+{% include lightbox.html paths=page.lightBoxImages3 no=3 %}
 
 ### Bulbomembranöz Üretroplasti (arka üretra darlık ameliyatı)
 

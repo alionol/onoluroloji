@@ -108,8 +108,8 @@ Penisi çevreleyen dokular hipospadiasın derecesine bağlı olarak gelişmemiş
 Sayısız başarısız ameliyat geçirmiş hastalarda tedavi çok daha zordur. Penisin tamamen yeniden onarımı gerekir. Tüp oluşturulduktan sonra penisi örtecek yeterli cilt yoksa vücudun kılsız bölgelerinden (her iki kasık vs) alınan cilt yamalarıyla penis cildi oluşturulur.
 
 ## Hipospadias Ameliyatı Görselleri
-{% include lightbox.html paths=page.lightBoxImages %}
-{% include lightbox.html paths=page.lightBoxImages2 %}
-{% include lightbox.html paths=page.lightBoxImages3 %}
-{% include lightbox.html paths=page.lightBoxImages4 %}
-{% include lightbox.html paths=page.lightBoxImages5 %}
+{% include lightbox.html paths=page.lightBoxImages no=1 %}
+{% include lightbox.html paths=page.lightBoxImages2 no=2 %}
+{% include lightbox.html paths=page.lightBoxImages3 no=3 %}
+{% include lightbox.html paths=page.lightBoxImages4 no=4 %}
+{% include lightbox.html paths=page.lightBoxImages5 no=5 %}

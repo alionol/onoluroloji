@@ -115,8 +115,8 @@ Bizim böbreğe yaklaşımımız karın yan veya ön duvarındaki 3 tabaka adale
 
 ## Böbrek Taşı Ameliyat Görselleri
 
-{% include lightbox.html paths=page.lightBoxImages %}
+{% include lightbox.html paths=page.lightBoxImages no=1 %}
 
-{% include lightbox.html paths=page.lightBoxImages2 %}
+{% include lightbox.html paths=page.lightBoxImages2 no=2 %}
 
 {% include youtubePlayer.html id=page.youtubeId2 %}

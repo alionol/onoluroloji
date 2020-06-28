@@ -115,8 +115,8 @@ Ana prensip testisin kurtarılması için acil ameliyattır. Laboratuvar tetkikl
 Kasık bölgesinden veya torbalar üzerinden 2 - 4 santimlik kesi yapılır. Testisin üzerindeki zar açılır. Testis ters tarafa döndürülerek torsiyon(dönme) düzeltilir. Kanlanmayı arttırmak için sıcak uygulanır ve testisin kanlanıp kanlanmayacağı gözlenir. Bu esnada karşı testisinde sağlama alınması için kasığın diğer tarafından bir kesi yapılır. Sağlam olan testiste daha sonra dönme ihtimaline karşı testis torbasının tabanına sağlamlaştırılır. Dönen testisin sıcak uygulamasıyla kısmen rengi açılmış ve kanlanmışsa yerine sabitlenir. Eğer kanlanma olmamışsa testis çürümüş demektir. Testis kesilir ve çıkarılır.
 
 ## Testis Torsiyonu Ameliyatı Görselleri
-{% include lightbox.html paths=page.lightBoxImages %}  
+{% include lightbox.html paths=page.lightBoxImages no=1 %}  
 
-{% include lightbox.html paths=page.lightBoxImages2 %}  
+{% include lightbox.html paths=page.lightBoxImages2 no=2 %}  
 
-{% include lightbox.html paths=page.lightBoxImages3 %}
+{% include lightbox.html paths=page.lightBoxImages3 no=3 %}

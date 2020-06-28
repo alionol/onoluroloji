@@ -105,4 +105,4 @@ Robot yardımlı laparoskopik cerrahide açık ameliyatın benzeri uygulanır. G
 {% include youtubePlayer.html id=page.youtubeId3 %}
 
 
-{% include lightbox.html paths=page.lightBoxImages %}
+{% include lightbox.html paths=page.lightBoxImages no=1 %}

@@ -45,4 +45,4 @@ Varikosel hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloj
 
 ## Varikosel Ameliyatı Görselleri
 
-{% include lightbox.html paths=page.lightBoxImages %}
+{% include lightbox.html paths=page.lightBoxImages no=1 %}
