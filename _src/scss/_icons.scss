@@ -1,20 +1,20 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('../fonts/icomoon/icomoon.eot?j0yuxg');
+  src:  url('../fonts/icomoon/icomoon.eot?ohe5wn');
   src:
-    url('../fonts/icomoon/icomoon.woff?j0yuxg') format('woff'),
-    url('../fonts/icomoon/icomoon.ttf?j0yuxg') format('truetype'),
-    url('../fonts/icomoon/icomoon.eot?j0yuxg#iefix') format('embedded-opentype'),
-    url('../fonts/icomoon/icomoon.svg?j0yuxg#icomoon') format('svg');
+    url('../fonts/icomoon/icomoon.woff?ohe5wn') format('woff'),
+    url('../fonts/icomoon/icomoon.ttf?ohe5wn') format('truetype'),
+    url('../fonts/icomoon/icomoon.eot?ohe5wn#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon/icomoon.svg?ohe5wn#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
-  font-display: swap;
+  font-display: block;
 }
 
 [class^="fa-"], [class*=" fa-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'icomoon' !important;
-  speak: none;
+  speak: never;
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
@@ -26,8 +26,17 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.fa-search:before {
+  content: "\f002";
+}
 .fa-envelope-o:before {
   content: "\f003";
+}
+.fa-search-plus:before {
+  content: "\f00e";
+}
+.fa-search-minus:before {
+  content: "\f010";
 }
 .fa-map-marker:before {
   content: "\f041";
@@ -44,18 +53,57 @@
 .fa-phone-square:before {
   content: "\f098";
 }
+.fa-twitter:before {
+  content: "\f099";
+}
+.fa-facebook:before {
+  content: "\f09a";
+}
+.fa-facebook-f:before {
+  content: "\f09a";
+}
 .fa-envelope:before {
   content: "\f0e0";
+}
+.fa-mobile:before {
+  content: "\f10b";
+}
+.fa-mobile-phone:before {
+  content: "\f10b";
 }
 .fa-youtube-square:before {
   content: "\f166";
 }
+.fa-youtube:before {
+  content: "\f167";
+}
+.fa-youtube-play:before {
+  content: "\f16a";
+}
 .fa-instagram:before {
   content: "\f16d";
+}
+.fa-envelope-square:before {
+  content: "\f199";
+}
+.fa-facebook-official:before {
+  content: "\f230";
+}
+.fa-map-pin:before {
+  content: "\f276";
 }
 .fa-map-o:before {
   content: "\f278";
 }
-.fa-phone1:before {
-  content: "\e942";
+.fa-map:before {
+  content: "\f279";
+}
+.fa-volume-control-phone:before {
+  content: "\f2a0";
+}
+.fa-envelope-open:before {
+  content: "\f2b6";
+}
+.fa-envelope-open-o:before {
+  content: "\f2b7";
 }
