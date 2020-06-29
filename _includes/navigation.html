@@ -83,11 +83,21 @@
             </div>
           </li>
           {%- else -%}
-          <li class="nav-item mx-1">
-            <a class="nav-link" href="{{- my_page.link[page.lang] | strip_html | strip_newlines | uri_escape | relative_url -}}">
-              {{- my_page.name[page.lang] | strip_html | strip_newlines | xml_escape -}}
-            </a>
-          </li>
+            {%- if my_page.id != "search" -%}
+            <li class="nav-item mx-1">
+              <a class="nav-link" href="{{- my_page.link[page.lang] | strip_html | strip_newlines | uri_escape | relative_url -}}">
+                {{- my_page.name[page.lang] | strip_html | strip_newlines | xml_escape -}}
+              </a>
+            </li>
+
+            {%- else -%}
+            <li class="nav-item mx-1">
+              <a class="nav-link" href="{{- my_page.link[page.lang] | strip_html | strip_newlines | uri_escape | relative_url -}}">
+                <i class="fa-search"></i>
+              </a>
+            </li>
+            {%- endif -%}
+
           {%- endif -%}
         {%- endif -%}
         {%- endunless -%}

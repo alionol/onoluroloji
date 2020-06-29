@@ -55,3 +55,11 @@
     tr: "/contact/"
   category: false
   invisible: false
+
+- id: "search"
+  name:
+    tr: "Ara"
+  link:
+    tr: "/search/"
+  category: false
+  invisible: false
