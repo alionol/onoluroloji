@@ -73,11 +73,11 @@ lightBoxImages2: ["/assets/img/BuyukBobrekTasi1.jpg", "/assets/img/BobrekTasi1.j
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Böbrek taşı tedavisinde kapalı ve açık yöntemler kullanılmaktadır. Böbrek taşı ameliyatlarının başarısı hangi tekniğin kullanıldığından çok cerrahın o teknik üzerinde ne kadar çok deneyimi olduğuna bağlıdır. Başarıyı etkileyen bir diğer faktör taş yükünün fazlalığıdır.
 
-* ### Ekstra Korperal Şok Tedavisi İle Taşın Kırılması (ESWL)
+### Ekstra Korperal Şok Tedavisi İle Taşın Kırılması (ESWL)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2 cm’in altındaki taşlarda ESWL yöntemi vücut bütünlüğünü bozmadan taşı yok eden ideal bir yöntemdir. Bu teknikte yüksek enerjili ses dalgaları dışarıdan taşa odaklanır. Taş parçalanarak dökülmesi sağlanır. Gebelik ve kanama bozukluklarında yapılmamalıdır.
 
-* ### Böbrek Taşı Kapalı Ameliyatı
+### Böbrek Taşı Kapalı Ameliyatı
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Son 20-25 yıldır açık taş cerrahisinin yerini endoskopik girişimler almıştır. Kapalı yöntemlerde taşların temizlenmesinde taşın büyüklüğü ve böbrek içindeki konumu büyük önem taşır. Büyük taşlar daha uzun sürede temizlenir ve böbrek taşlarına tekrar tekrar girişim gerekebilir. Bu da çok anestezi ve daha çok komplikasyon demektir. Endoskopik yöntemlerle görüş alanının sağlanması için basınçlı su verilmektedir. Basınçlı su ciddi yüksek ateş, kanama gibi hayatı tehdit edebilecek komplikasyonlara yol açabilir. İnce üreter kanalında girişimle temizlenen taşlarda sıklıkla üreter kanalının yaralandığı hatta koptuğu görülebilir. Kapalı yöntemde cerrahın deneyimine göre az veya çok böbrek kanaması nedeniyle operasyon yarım kalabilir. Taşlar bir bütün halinde çıkarılamadığı için parçalanarak küçük parçalar halinde çıkartılır. Bu da kapalı ameliyatın önemli sakıncalardan biridir.
 
@@ -95,7 +95,7 @@ lightBoxImages2: ["/assets/img/BuyukBobrekTasi1.jpg", "/assets/img/BobrekTasi1.j
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bunlardan ayrı olarak hem üreterorenoskopinin ve hem de nefrolitotominin yeni jenerasyonlarında daha minyatür aletlerle taş temizlenmesine yönelik gelişmeler mevcuttur. Ultramini perkutan nefrolitotomide daha küçük ve ince kılıflarla böbreğe giriş yapılır. Çocuklarda da böbrek taşları temizlenir.
 
-* ### Böbrek Taşı Açık Ameliyatı
+### Böbrek Taşı Açık Ameliyatı
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Böbrek ve idrar yolları karın zarı arkasında tıp dilinde retroperitoneal alanda yerleşmiştir. Karın zarı içinde mide, dalak, karaciğer, ince ve kalın bağırsaklar bulunmaktadır. Bu organlar periton zarı ile sarılmıştır. Ayrıca onun üstünde de karın duvarını oluşturan güçlü birbiri üzerine çaprazlama oluşmuş adale tabakası mevcuttur. Standart açık cerrahide maalesef böbreğe ulaşmak için bu güçlü karın duvarı adaleleri kesiliyor. Bu ameliyat sonrası hastanın normal fiziksel aktivite ve görevine dönmesi zaman alabilir. Ancak biz standart ameliyatın aksine farklı bir yöntemle adale kesmeden karın duvarı bütünlüğünü bozmadan operasyonumuzu gerçekleştiriyoruz. Böbreğe ulaştıktan sonra taşın böbrek içinden temizlenmesin de 3 yöntem mevcuttur.
 
@@ -107,6 +107,7 @@ lightBoxImages2: ["/assets/img/BuyukBobrekTasi1.jpg", "/assets/img/BobrekTasi1.j
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Çok uzun senelerden beri bizim uyguladığımız bu teknikte ciltte 4-6 cm’lik kesinin izinin dışında böbrekte herhangi bir hasar oluşmaz. Taşlar bir bütün olarak çıkarılır. Ayrıca gerekirse havuzcuk içine fleksibl sistoskop sokularak kalan taşlar rahatça temizlenir. Bu konudaki video ve görsellerimizi yazının altında sunmaktayız.
 
+{:.text-center}
 ## Böbrek Taşı Ameliyat Görselleri
 
 {% include lightbox.html paths=page.lightBoxImages no=1 %}

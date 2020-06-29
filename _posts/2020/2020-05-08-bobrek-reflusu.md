@@ -97,7 +97,8 @@ lightBoxImages: ["/assets/img/bobrekreflusuameliyati1.jpg","/assets/img/bobrekre
 
 ​&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Endeskopik cerrahi; bu yöntem düşük dereceli böbrek reflülerinde işe yarayabilir. Mesaneye sistoskop denilen ucunda aydınlatıcı bulunan bir tüple girilir. Üreterin mesaneye açıldığı yerde mukoza altına enjektörle bir madde verilir. Kolay bir işlemdir. Orta dereceli reflülerde bile tek bir girişimle sonuç elde edilemeyebilir. Birkaç operasyon gerekebilir. Bu da çocuk için tekrar tekrar anestezi gerektirir.
 
-## Reflü Ameliyatı Görselleri
+{:.text-center}
+## Böbrek Reflüsü Ameliyatı Görselleri
 
 {% include youtubePlayer.html id=page.youtubeId2 %}
 

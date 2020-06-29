@@ -20,7 +20,7 @@ layout: default
           ​<picture>
             <source srcset="{{- doctors_base | append: site.thumbnail.author.doctor_1 | append: '.webp' | relative_url -}}" type="image/webp">
             <source srcset="{{- doctors_base | append: site.thumbnail.author.doctor_1 | append: '.jpg' | relative_url -}}" type="image/jpeg">
-            <img src="{{- doctors_base | append: site.thumbnail.author.doctor_1 | append: '.jpg' | relative_url -}}" class="card-img-top doctors-img" alt="{{- doctors_base | append: site.thumbnail.author.doctor_1_alt -}}">
+            <img src="{{- doctors_base | append: site.thumbnail.author.doctor_1 | append: '.jpg' | relative_url -}}" class="card-img-top doctors-img w-100" alt="{{- doctors_base | append: site.thumbnail.author.doctor_1_alt -}}">
           </picture>
           <div class="card-body px-0">
             <h5 class="card-title text-center pt-3">{{- site.data.i18n.home.doctors.title[page.lang][0] | strip_html | strip_newlines | xml_escape -}}</h5>
@@ -46,7 +46,7 @@ layout: default
           ​<picture>
             <source srcset="{{- doctors_base | append: site.thumbnail.author.doctor_2 | append: '.webp' | relative_url -}}" type="image/webp">
             <source srcset="{{- doctors_base | append: site.thumbnail.author.doctor_2 | append: '.jpg' | relative_url -}}" type="image/jpeg">
-            <img src="{{- doctors_base | append: site.thumbnail.author.doctor_2 | append: '.jpg' | relative_url -}}" class="card-img-top doctors-img" alt="{{- doctors_base | append: site.thumbnail.author.doctor_2_alt -}}">
+            <img src="{{- doctors_base | append: site.thumbnail.author.doctor_2 | append: '.jpg' | relative_url -}}" class="card-img-top doctors-img w-100" alt="{{- doctors_base | append: site.thumbnail.author.doctor_2_alt -}}">
           </picture>
           <div class="card-body px-0">
             <h5 class="card-title text-center pt-3">{{- site.data.i18n.home.doctors.title[page.lang][1] | strip_html | strip_newlines | xml_escape -}}</h5>

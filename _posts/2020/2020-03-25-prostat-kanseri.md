@@ -26,7 +26,7 @@ lightBoxImages: ["/assets/img/ProstatKanseri1.jpeg","/assets/img/ProstatKanseri2
 
 ## Prostat Kanseri Nedir?
 
-![Prostat Nedir](/assets/img/Prostate_Cancer_Stages.jpeg){:.size2}
+![Prostat Nedir](/assets/img/prostatkanserinedir.jpeg){:.size2}
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Prostat kanseri prostatın kötü huylu büyümesidir. Prostat kanseri ameliyatında prostat, kabuğu ve meni keseleriyle bir bütün olarak çıkartılır. Aynı zamanda leğen kemiğinin her iki yanında bulunan, karın arka duvarında ana damarlar üzerindeki bütün lenf bezlerinin de çıkartılması şarttır (Radikal prostatektomi + Genişletilmiş lenf adenektomi). Prostat kanser ameliyatı usulüne uygun yapıldığında son derece kompleks, zor bir operasyondur. Günümüzde prostat kanser ameliyatına ilaveten genişletilmiş lenf düğümü ameliyatı yapılmıyorsa bu eksik yapılmış bir ameliyat olarak kabul edilir. Prostat kanserinin lenf düğümlerine sıçlayarak ne kadar yukarıya yayıldığı anlaşılamaz. Bu yüzden geride kanserli doku bırakmamak adına lenf düğümlerinin hepsi mutlaka çıkarılmalıdır.
 
 ### Prostat kanseri genetik mi?

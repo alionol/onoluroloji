@@ -50,13 +50,10 @@ Kadınların idrar kaçırma nedenleri farklılık gösterir.
 ### Stres tipi idrar kaçırma
 
 Stres tipi idrar kaçırmada ana neden üretra (idrar kanalı) ve üretradaki idrar tutucu contalardır. Stres tipi idrar kaçırmalar şiddetine göre 3’e ayrılır.
-
 ​
 + **Tip 1:** Öksürük, hapşırık, hıçkırık gibi aniden karın içi basıncının arttığı durumda idrar kaçırma en basit stres tipi idrar kaçırmadır. Bu sıkıntıların çoğu ilaçla kontrol altına alınabilir. Apış arasındaki bağların gevşemesi veya kopması sonucu üretranın hipermobil durumuna geçmesi yani normalden daha hareketli hale gelmesi sonucu olur. Rahim alınması (histerektomi), zor doğum, menopoz, apış arasındaki sinirlerin hasar görmesi, sigara, genetik faktörler neden olabilir.
-
 ​
 + **Tip 2:** Yürüme, eğilme, kalkma, koşma, spor gibi minimal aktivitelerde karın içi basıncında ani artma söz konusu olmasa bile aralıklı olarak idrar kaçar. İdrar kaçırmanın sebebi bağlarda ve idrar tutucu sfinkterde (conta) daha fazla hasar olmasıdır. Tip 1’deki nedenler aynen geçerlidir. Arka arkaya çok vajinal ameliyat, radyoterapi, şeker hastalığı, östrojen eksikliği ana sebeplerdendir.
-
 ​
 + **Tip 3:** Bu tipte ise idrar devamlı kaçar. Mesane boynunda yerleşmiş olan idrar tutucu iç sfinkter (intrensek sfinkter) vücutta otonom sinir sistemi ile kontrol edilir. İsteğimiz dışında otomatik olarak idrar tutmayı sağlar. Bu tipte bu mekanizma tamamıyla bozulmuştur. Daha çok nörolojik nedenlere bağlıdır. İlaç tedavisine yanıt vermez.
 
@@ -121,6 +118,7 @@ Stres tipi idrar kaçırmada ana neden üretra (idrar kanalı) ve üretradaki id
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Geç komplikasyonlar olarak, sentetik askıların idrar kanalı içerisine veya mesane içerisine kaymasıdır (Erozyon). Ciddi sorunlara yol açabilir. Bir diğer komplikasyon ise sentetik askıların (meş) kadınlık organı içerisinde pörtlemesidir (Extrusion). Akıntı ve iltihap yapar. Cinsel temas esnasında erkek ve kadında ağrıya sebep olabilir. Ciddi komplikasyonların düzeltilmesi ve idrar tutmanın ameliyatla tekrar sağlanması daha çok deneyim gerektirir.
 
+{:.text-center}
 ## Kadınlarda İdrar Kaçırma Ameliyatı Görselleri
 
 {% include youtubePlayer.html id=page.youtubeId2 %}

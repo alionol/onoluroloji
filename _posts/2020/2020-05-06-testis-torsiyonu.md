@@ -114,6 +114,7 @@ lightBoxImages3: ["/assets/img/inmemistestiskasikfitigi.jpeg","/assets/img/inmem
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kasık bölgesinden veya torbalar üzerinden 2 - 4 santimlik kesi yapılır. Testisin üzerindeki zar açılır. Testis ters tarafa döndürülerek torsiyon(dönme) düzeltilir. Kanlanmayı arttırmak için sıcak uygulanır ve testisin kanlanıp kanlanmayacağı gözlenir. Bu esnada karşı testisinde sağlama alınması için kasığın diğer tarafından bir kesi yapılır. Sağlam olan testiste daha sonra dönme ihtimaline karşı testis torbasının tabanına sağlamlaştırılır. Dönen testisin sıcak uygulamasıyla kısmen rengi açılmış ve kanlanmışsa yerine sabitlenir. Eğer kanlanma olmamışsa testis çürümüş demektir. Testis kesilir ve çıkarılır.
 
+{:.text-center}
 ## Testis Torsiyonu Ameliyatı Görselleri
 {% include lightbox.html paths=page.lightBoxImages no=1 %}  
 

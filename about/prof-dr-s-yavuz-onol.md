@@ -17,11 +17,7 @@ who_summary: ""
 ![Prof.Dr.Yavuz-Onol](/assets/img/author/doctor-1.jpg)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Prof Dr. Ş. Yavuz ÖNOL, Türk Silahlı Kuvvetleri'nin değişik kademelerinde 33 yıl boyunca başasistan, yardımcı doçent, doçent ve profesör olarak eğitim ve araştırma faaliyetlerinde bulunup öğretim üyesi ve klinik şefliği görevlerini icra ettikten sonra kıdemli Albay olarak emekli olmuştur. Sonrasında eğitim araştırma faaliyetlerine Üroloji Klinik Şefi ve Üroloji Anabilim Dalı Başkanı olarak devam etmiştir. Bu görevler esnasında bir çok üroloğun eğitiminde rol oynamıştır. Kariyeri boyunca **427 adet ulusal ve uluslararası yayın ve bildiriye imza atmıştır.** Ayrıca **2 adet dünya tıp literatürüne girmiş ameliyat teknikleriyle (TURC Tekniği Ve ONOL Tekniği),** üroloji bilim dalına katkı sağlamıştır. 1990’dan bu yana profesör olarak çalışmalarına devam eden Önol, ayrıca **çocuk ürolojisi üst ihtisas diplomasına** da sahiptir. Kariyeriyle dünya üroloji camiasında tanınmış bir hekimdir. Çalışmalarını daha çok ürolojik kanser cerrahisi, çocuk ürolojisi, kadın ürolojisi ve rekonstrüktif üroloji konularında yoğunlaştırmıştır. Spesifik olarak da erkek ve kadın üretroplasti alanında tanınmaktadır.
 
-## Öğrenim Durumu
-
 ![Yavuz-Onol-CV-2](/assets/img/yavuz_onol_cv_2.png){:.size2.center}
-
-## Görevler
 
 ![Yavuz-Onol-CV-1](/assets/img/yavuz_onol_cv_1.png){:.size2.center}
 
@@ -77,7 +73,7 @@ who_summary: ""
 
 **A2.** Hydatid disease of the kidney: Evaluation of diagnostic procedures and treatment. Baykal K., **ÖNOL Y.**, İseri c., kalci e., Kizilkaya E., İnan H. and Even D., İnter J. Urology Man no: 95111, 1996
 
-**A3. ** Diagnosis and treatment of renal hydadit disease: presentation of four cases. Baykal K. İnan H., **ÖNOL Y.**, İşeri C., Kalcı E., Kızılkaya E., Erden D., İnter J. Urology 3:497-500, 1996
+**A3.** Diagnosis and treatment of renal hydadit disease: presentation of four cases. Baykal K. İnan H., **ÖNOL Y.**, İşeri C., Kalcı E., Kızılkaya E., Erden D., İnter J. Urology 3:497-500, 1996
 
 **A4.** Metastasis of Prostate Adenocarcinoma to Testis. Baykal K, Yildirim S, İnan H, Kalci E, Albayrak S, Cingil H, **ONOL S.Y.**, Int. J. Urology; 4: 104-105,1997
 
@@ -930,7 +926,7 @@ katılımlı) Antalya Türkiye, 10 - 15 Haziran Türk Uroloji Dergisi, Kongre Ö
 
 ### E. Diğer yayınlar
 
-** Ulusal kitaplarda yazılan bölümler: **
+**Ulusal kitaplarda yazılan bölümler:**
 
 **1.** **Önol ŞY**, Onol F F. Metastalık testis tümörlerinde kemoterapi sonrası artık kitle rezeksiyonu. Özen H, Türkeri L (editörler), Üroonkoloji Kitabı. Cilt II, Bölüm VI, sf. 1143 - 1152, 2007.
 
@@ -1156,7 +1152,7 @@ katılımlı) Antalya Türkiye, 10 - 15 Haziran Türk Uroloji Dergisi, Kongre Ö
 
 **F19. Simsek A, Onol SY, Kurt O. Treatment of urethral strictures in balanitis xerotica obliterans (BXO) using circular buccal mucosal meatoplasy: experience of 15 cases. Arch Ital Urol Androl. 2014 Mar 28;86(1):23-5.**
 
-**F20. Erdem MR, Tepeler A, Gunes M, Sılay MS, Akman T, Akcay M, Armagan A, Onoı ŞY, Laparoscopic decortication of hilar renal cysts using LigaSure. JSLS. 2014 Apr-Jun;18(2):301-7. **
+**F20. Erdem MR, Tepeler A, Gunes M, Sılay MS, Akman T, Akcay M, Armagan A, Onoı ŞY, Laparoscopic decortication of hilar renal cysts using LigaSure. JSLS. 2014 Apr-Jun;18(2):301-7.**
 
 **1.** Topaktas R, Tepeler A. How should we treat renal calculi accompanying to simple renal cyst? Urology. 2015 Feb;85(2):484.
 

@@ -291,19 +291,39 @@ blockquote {
 
 // ABOUT PAGE
 .about-page {
+  font-family: $font-family-sans-serif;
+
+
   .jumbotron {
     background-color: lighten($urologue-green, 15%);
     color: $white;
   }
 
   .jumbotron-fluid {
-    background-image: linear-gradient(rgba(96,218,166,0.85),rgba(96,218,166,0.85)), url("/assets/img/band-bg.jpg");
+    background-image: linear-gradient(rgba(96,218,166,0.95),rgba(96,218,166,0.95)), url("/assets/img/band-bg.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: 100% auto;
     h1 {
       font-family: $font-family-serif;
     }
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    text-align: left;
+    color: darken($brand, 2.5%);
+    font-family: $font-family-serif;
+    font-weight: $headings-font-weight-post;
+  }
+
+  h2 {
+    color: darken($brand, 10%);
+    margin-top: 20px;
   }
 
   img {
@@ -469,7 +489,7 @@ blockquote {
 
     h2 {
       color: darken($brand, 10%);
-      margin-top: 16px;
+      margin-top: 20px;
     }
 
     p {
@@ -654,8 +674,8 @@ blockquote {
         padding-bottom: 6px;
       }
       i, a {
-        padding-top: 12px;
-        padding-bottom: 12px;
+        padding-top: 3px;
+        padding-bottom: 6px;
       }
     }
 
@@ -793,6 +813,11 @@ footer {
   .footer-license {
     font-size: $small-font-size * 0.95;
   }
+}
+
+// Search Page
+.search-page {
+  min-height: 40vh;
 }
 
 // Lazysizes.js Start

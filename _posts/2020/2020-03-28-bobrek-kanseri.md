@@ -155,6 +155,7 @@ Radikal Nefrektomi dediğimiz kanser olan böbreğin bütünüyle çıkarılmas�
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Böbrek kanseri T3 evresinde alt anatoplardamarın (vena kava inferior) içerisinden kalbin içine (kulakçık) doğru uzanabilir. Radyolojik olarak özellikle EMAR görüntüleme ile kesin olarak lokasyon belirlenebilir. Bu hastalarda da parsiyel nefrektominin yeri yoktur. Radikal nefrektomi yapılır. Vena kava(alt anatoplar damar) boydan boya açılır. Tümör temizlenir.  
 Ana toplardamar tekrar dikilir. Yandaki görseldeki gibi kalbin içine girmiş böbrek kanserli hastalarda bile kalbin kulakçık bölümünü de açarak kanser temizlenir. Bu hastalar başarılı ameliyatla tedavi edildiklerinde senelerce yaşayabilirler. İleri evre böbrek kanserlerinde Radikal Nefrektomi vena kava ve atrial trombektomi serimizi Amerika’da Uluslararası Kongre’de sunduk.
 
+{:.text-center}
 ## Böbrek Kanseri Ameliyat Videosu
 
 {% include youtubePlayer.html id=page.youtubeId2 %}

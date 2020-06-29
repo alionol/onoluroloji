@@ -34,8 +34,10 @@ youtubeId: "BJW0HwliWgE"
 ## Prostat Büyümesi Belirtileri
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Prostatın basit büyümelerinin neden olduğu işeme şikayetlerinin günümüzde yalnız prostatla ilgili olmadığı yaşlanan mesaneye bağlı da olabileceği anlaşılmıştır.
-​
+
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Prostat basit büyümelerin tanısı kolaydır. İdrar kanalı, prostatın büyüme derecesine göre az veya çok tıkanabilir. Hasta yaş ilerledikce ince ve sık idrar yapma, idrar yapma sonunda idrar damlatma, gece idrara çıkma, idrarın tam boşalamamasına bağlı olarak mesanede dolgunluk hissi gibi günlük yaşam kalitesini bozan şikayetlere neden olur. Prostatın içi (adenomu) büyüyerek (statik) ve dışındaki düz adalesi de kasılarak (dinamik) kanalı sıkıştırır. Ayrıca unutmamak gerekir ki her basit büyüme kanalı sıkıştırmaz. Yakınmalara fazla sebep olmayabilir.
+
 ​
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ancak bu yakınmalar sadece prostat büyümesinden dolayı olmayabilir. Şeker hastalığı, böbrek ve kalp rahatsızlıkları, idrar kanalı darlıkları gibi nedenlerden dolayı da olabilir. Ayırıcı tanısı konulması gerekir.
 

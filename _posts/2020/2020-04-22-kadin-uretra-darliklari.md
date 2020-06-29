@@ -64,6 +64,7 @@ youtubeId2: "BW89QLwkGP0"
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Özetle üretradaki darlıklar rekonstrüktif (yeniden yapılandırma) üroloji sayesinde onarılarak darlık giderilip idrar kanalı normal işlevine döndürülür. Hasta bu yakınmalarından tamamen kurtulur.
 
+{:.text-center}
 ## Kadınlarda Üretra Darlığı Ameliyatı Görselleri
 
 {% include youtubePlayer.html id=page.youtubeId2 %}

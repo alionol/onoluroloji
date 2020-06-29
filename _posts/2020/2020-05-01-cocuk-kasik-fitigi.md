@@ -63,5 +63,6 @@ lightBoxImages: ["/assets/img/inmemistestiskasikfitigi.jpeg","/assets/img/inmemi
 
 ​&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Acilen ameliyat gerektiren durumlarda ameliyat kompleks ve zordur. Aileye ameliyatın riskleri anlatılmalıdır. Eğer bağırsak kangren olmuşsa bağırsak bölümünün çıkarılabileceği aileye bildirilmelidir.
 
+{:.text-center}
 ## Çocuk Kasık Fıtığı Ameliyatı Görselleri
 {% include lightbox.html paths=page.lightBoxImages no=1 %}

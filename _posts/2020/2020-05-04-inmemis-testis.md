@@ -117,6 +117,7 @@ Fizik muayenede testislerin ele gelmeyişinin çeşitli nedenleri vardır.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Görüntüleme yöntemleri ve laparoskopiyle saptanan sağlıklı bir inmemiş testis hangi seviyede olursa olsun, daha önce başarısız bir operasyonla indirilemeyen testisler bile, testis torbasına başarılı bir şekilde indirilebilir.
 
+{:.text-center}
 ## İnmemiş Testis Ameliyatı Görselleri
 {% include youtubePlayer.html id=page.youtubeId2 %}
 

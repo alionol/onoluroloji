@@ -37,9 +37,9 @@ who_summary: ""
 
 ## Bilimsel Ödüller:
 
-European Society for Pediatric Urology (ESPU) Klinik Araştırma Sunumları, Sözlü Sunum İkincilik Ödülü. Tarcan T, Tinay I, Sekerci CA, **Önol F.F**, Alpay H, Simsek F, Ozek M. The timing of primary neurosurgical repair significantly affects neurogenic bladder prognosis in children with myelomeningocele – an update.  22nd Annual Congress of the European Society for Pediatric Urology, Cophenagen, Denmark, 27-30 April (2011).
++ European Society for Pediatric Urology (ESPU) Klinik Araştırma Sunumları, Sözlü Sunum İkincilik Ödülü. Tarcan T, Tinay I, Sekerci CA, **Önol F.F**, Alpay H, Simsek F, Ozek M. The timing of primary neurosurgical repair significantly affects neurogenic bladder prognosis in children with myelomeningocele – an update.  22nd Annual Congress of the European Society for Pediatric Urology, Cophenagen, Denmark, 27-30 April (2011).
 
-Amerikan Üroloji Derneği (AUA) En iyi Poster Ödülü: **Önol F.F**, Tosun F, Bugday S, Boylu U, Kucuk EV, Gumus E. A Comparison of the outcomes with “surgeon-tailored” mesh versus industrial kits in transobturator tape surgery. 107th Meeting of the American Urological Association, Atlanta, GA, USA, 19-23 May, 2012
++ Amerikan Üroloji Derneği (AUA) En iyi Poster Ödülü: **Önol F.F**, Tosun F, Bugday S, Boylu U, Kucuk EV, Gumus E. A Comparison of the outcomes with “surgeon-tailored” mesh versus industrial kits in transobturator tape surgery. 107th Meeting of the American Urological Association, Atlanta, GA, USA, 19-23 May, 2012
 
 ## Uluslararası Dergilerde Yayınlanmış Bilimsel Makaleler:
 

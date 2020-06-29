@@ -2,7 +2,7 @@
 # Global vars
 layout: posts
 title: "Erken Boşalma"
-date: 2020-03-27 12:00:00 +0300
+date: 2020-03-31 15:00:00 +0300
 published: true
 tags: ["erken boşalma ilaç tedavi", "erken boşalma ilaç" , "Erken boşalma", "Erken boşalma tedavisi", "erken boşalma sebepleri", "erken boşalma nedeni", "erken boşalma çözüm", "erken boşalma hakkında" , "erken boşalma nedir" , "erken boşalma ilaçsız tedavi" , "erken boşalma stop start" , "erken boşalma kegel egzersizi" , "erken boşalma nasıl"]
 category: "erkek-hastaliklari"
@@ -11,7 +11,7 @@ category_title:
     tr: "Erkek Hastalıkları"
 i18n-link: "erken-bosalma"
 # Theme specific vars
-last_modified_at: 2020-03-27 12:00:00 +0300
+last_modified_at: 2020-03-31 15:00:00 +0300
 thumbnail:
     name: false
     webp: false

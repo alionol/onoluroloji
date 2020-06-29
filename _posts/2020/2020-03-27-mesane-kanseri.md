@@ -18,7 +18,6 @@ thumbnail:
 summary: "Mesane Kanseri Nedir?  Kaç tip mesane kanseri vardır? Mesane kanseri ve sigara? Mesane Kanseri belirtileri? Mesane kanseri teşhisi? Mesane kanseri evreleri? Mesane kanseri tedavisi, Mesane kanseri ameliyatı, Radikal sistektomi nedir? Radikal sistektomi ameliyatı nasıl yapılır? Bağırsaktan mesane yapılması, Yapay mesane"
 youtubeId: "g2tmF0t8A0A"
 lightBoxImages: ["/assets/img/MesaneCikarilmasi1.jpeg", "/assets/img/MesaneCikarilmasi2.jpeg","/assets/img/MesaneCikarilmasi3.jpeg"]
-lightBoxImages2: ["/assets/img/IdrarKanaliGobekCikisi.jpeg"]
 lightBoxImages3: ["/assets/img/YapayMesane1.jpeg", "/assets/img/YapayMesane2.jpeg", "/assets/img/YapayMesane3.jpeg", "/assets/img/YapayMesane4.jpeg", "/assets/img/YapayMesane5.jpeg", "/assets/img/YapayMesane6.jpeg"]
 lightBoxImages4: ["/assets/img/KalinBagirsakYapayMesane1.jpeg", "/assets/img/KalinBagirsakYapayMesane2.jpeg", "/assets/img/KalinBagirsakYapayMesane3.jpeg", "/assets/img/KalinBagirsakYapayMesane4.jpeg", "/assets/img/KalinBagirsakYapayMesane5.jpeg", "/assets/img/KalinBagirsakYapayMesane6.jpeg", "/assets/img/KalinBagirsakYapayMesane7.jpeg", "/assets/img/KalinBagirsakYapayMesane8.jpeg", "/assets/img/KalinBagirsakYapayMesane9.jpeg"]
 ---
@@ -59,7 +58,7 @@ lightBoxImages4: ["/assets/img/KalinBagirsakYapayMesane1.jpeg", "/assets/img/Kal
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;İdrarın analizi kanser teşhisinde yardımcıdır. Ayrıca idrardan mikroskop altında kanser hücreleri aranarak teşhis konabilir. Özellikle yüksek evreli kanserlerde teşhiste daha faydalıdır. Buna idrar sitolojisi tetkiki denir. Daha önemli teşhis vasıtası mesanenin içine üretradan (idrar kanalı) girilerek sistoskop denilen ince tüp ile ışık altında bakmakla olur. Bu aletle aynı zamanda doku örnekleri de alınarak patolojik değerlendirmeye gönderilir. Diğer tanı yöntemi kontraslı (boyalı) tomografi ile böbrekler ve mesanenin görünür hale getirilmesidir.
 
 ## Mesane Kanseri Evreleri
-![Mesane Kanseri Evreleri](/assets/img/AdobeStock_75549266-1024x854.jpeg)
+![Mesane Kanseri Evreleri](/assets/img/Mesanekanserievre.jpeg)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mesane kanseri teşhisi konulduktan sonra kanserin mesane içinde ve vücudun diğer bölgelerine yayılmasının belirlenmesi tedaviyi etkiler. Kanser mesane içinde başladıktan sonra vücudun diğer bölgelerine yayılır. Yayılma derecesine göre 5 sınıfta incelenir.  
 **Evre 0:** Saldırgan olmayan papiller kanser veya saldırgan olan epitel içi kanser (karsinoma insitu)  
 **Evre 1:** Kanser mesanenin en iç epitel tabakasının hemen altındaki bağ dokuya yayılmıştır. Teşhis konulan mesane kanserlerinin yüzde 70’i mesanenin derin adale tabakasına yayılmamıştır. Yani mesanenin iç yüzündeki tümörlerdir. Kapalı yöntemle yüksek frekanslı elektirik akımı ile kazınarak çıkartılır. Bu yüzeysel kanserlerin yüzde 25 kadarı yaşamlarının bir bölümünde adale tabakasına yayılarak saldırgan karaktere bürünebilirler. Yani bu tip hastaların izlenmesi gerekir.  

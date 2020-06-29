@@ -177,24 +177,30 @@ Endoskopik olarak bıçakla kesmekten farklı olarak dilatasyonda bir sonda idra
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sağlıklı da olsa onarımı hiç bir şekilde mümkün olmayan hastalarda uygulanır. Birçok başarışız ameliyat geçirmiş vakalarda hiç sağlam üretra dokusu kalmaz ve hekim doku kalmadığı için idrar kanalını yeniden yapılandıramaz. Çözüm bağırsaktan oluşturulan 5-6 cm’lik bir kanal ile mesane ve cilt arasına bir köprü oluşturulmasıdır (Mitrofanoff ameliyatı). Hasta bizzat kendisi cilt üzerindeki bu küçük delikten sonda ile idrarını günde 4-5 kere boşaltır. Teknik check walfe mekanizması ile işlediğinden dışarıya idrar torbası konmaz. Hijyenik sorun oluşturmaz. Bu vakalar oldukça nadirdir.
 
+{:.text-center}
 ## Üretra Darlığı Ameliyatı Fotoğrafları ve Videoları
 
+{:.text-center}
 ### Bulber Üretroplasti
 
 {% include lightbox.html paths=page.lightBoxImages no=1 %}
 
+{:.text-center}
 ### Penil Üretroplasti
 
 {% include lightbox.html paths=page.lightBoxImages2 no=2 %}
 
+{:.text-center}
 ### Fossa Naviküler Üretroplasti
 
 {% include lightbox.html paths=page.lightBoxImages3 no=3 %}
 
+{:.text-center}
 ### Bulbomembranöz Üretroplasti (arka üretra darlık ameliyatı)
 
 {% include youtubePlayer.html id=page.youtubeId2 %}
 
+{:.text-center}
 ### Prostat kanseri ameliyatı komplikasyonu olarak oluşan mesane çıkışındaki darlık ameliyatı
 
 {% include youtubePlayer.html id=page.youtubeId3 %}

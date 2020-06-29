@@ -40,7 +40,7 @@ Penis büyütme; penis uzatma ve penis kalınlaştırma olarak incelenir. Bu yaz
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Doğumsal gömük penis hastalığı da penis kısalığına sebebiyet verir. Ameliyatla gömüklüğün giderilmesi durumunda penis normal büyüklüğüne ulaşır.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Prostat kanseri ameliyatından sonra penisi besleyen damarların anatomisi bozulur ve penis 2 cm kadar küçülebilir. Aynı zamanda sertleşme kaybı oluşur. Bu gibi hastalara Penil Protez dediğimiz mutluluk çubuğu ameliyatı yapılarak normal seksüel yaşamlarına ulaşması sağlanır. Penil Protezin enine ve boyuna genişleyen tipi sayesinde penis hem uzunluğa ulaşır hem de sertleşme problemini aşar.
-​
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Peyronie hastalığı penisi süngersi cisimciklerini kreçlendiren bir hastalıktır. Penis bu hastalık yüzünden küçülür. Sertleşme kaybı gözükür. Enine genişleyebilen ve boyuna uzayabilen Penil Protez ile büyüklük ve sertleşme sağlanır.
 
 ## Penis Büyütme Yöntemleri

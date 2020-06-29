@@ -43,13 +43,13 @@ Prostatit tanısı konulan hastaların %90’ı boşuna ve gereksiz şekilde ant
 
 ## Prostatit Teşhisi
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ateşli bakteriyel prostatit parmak muayene ile kolayca teşhis edilir. Ateşli Prostatit’te PSA değeri de yükselir. Bu sebeple prostat kanseri olarak yanlış teşhis koyulabilir. İyi sorgulamak gereklidir.
++ Ateşli bakteriyel prostatit parmak muayene ile kolayca teşhis edilir. Ateşli Prostatit’te PSA değeri de yükselir. Bu sebeple prostat kanseri olarak yanlış teşhis koyulabilir. İyi sorgulamak gereklidir.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kronik bakteriyel prostatitte, prostata yapılan masajla penis ucuna gelen prostat sıvısı alınır. Mikroskopla değerlendirilir. Veya sperm kültürüyle de teşhis koyulabilir.
++ Kronik bakteriyel prostatitte, prostata yapılan masajla penis ucuna gelen prostat sıvısı alınır. Mikroskopla değerlendirilir. Veya sperm kültürüyle de teşhis koyulabilir.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Belirti vermeyen bakteriyel prostatit ise hastaya hiç bir şikayet vermez. Yapılan tahliller ile tesadüfen ortaya çıkar.
++ Belirti vermeyen bakteriyel prostatit ise hastaya hiç bir şikayet vermez. Yapılan tahliller ile tesadüfen ortaya çıkar.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Virüse bağlı olan prostatit ise kan tahlilleriyle iyi bir şekilde sorgulanmalıdır. Özellikle cinsel temasla bulaşan hastalıkların tahlilleri yapılmalıdır. Bu prostatit tipinde fazla antibiyotik kullanımı özellikle hastalığı azdırır. Doğru teşhis önemlidir.
++ Virüse bağlı olan prostatit ise kan tahlilleriyle iyi bir şekilde sorgulanmalıdır. Özellikle cinsel temasla bulaşan hastalıkların tahlilleri yapılmalıdır. Bu prostatit tipinde fazla antibiyotik kullanımı özellikle hastalığı azdırır. Doğru teşhis önemlidir.
 
 ## Prostatit Tedavisi
 
@@ -73,9 +73,7 @@ Prostatit tanısı konulan hastaların %90’ı boşuna ve gereksiz şekilde ant
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gerekirse bir süre için antibiyotik tedavisi uygulanır. Ancak kronik bakteriyel prostatitte her antibiyotik prostat bezinin içine girip etki etmez. Bu yüzden doğru antibiyotiğin doğru dozda uygulanması gerekmektedir. Duruma göre sıcak uygulama, basit ağrı kesiciler, bazı mesane ve apış arası adalesi gevşetici ilaçlar da ilave edilir.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Alkol, gazlı içecekler, acılı- baharatlı yiyeceklerden uzak durulması hastalığın çabuk iyileşmesine yardımcı olur.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kronik prostatit, zamanla mesane çıkışında daralmaya da yol açarak işeme sorunlarına da neden olabilir.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Alkol, gazlı içecekler, acılı- baharatlı yiyeceklerden uzak durulması hastalığın çabuk iyileşmesine yardımcı olur.Kronik prostatit, zamanla mesane çıkışında daralmaya da yol açarak işeme sorunlarına da neden olabilir.
 
 ### Virüs Sebepli Prostatit (Prostat Nezlesi)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bu prostatit virüs kaynaklı oluşur. Cinsel bulaşıcı hastalıklardan dolayı oluşmuş olabilir. İyi bir araşma ile doğru sebep saptanmalıdır. Antibiyotik kullanımına gerek yoktur. Aşırı kullanımıda hastalığı azdırır. Prostatitin sebebi saptandıktan sonra sebebe yönelik tedavi ile hastalık tedavi edilir.
