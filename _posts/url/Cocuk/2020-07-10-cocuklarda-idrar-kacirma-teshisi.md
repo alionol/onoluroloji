@@ -19,11 +19,6 @@ summary: "Çocuklarda idrar kaçırmalarıyla ilgili detaylı bilgiler... Gece i
 youtubeId: false
 ---
 
-
-
-
-
-Çocuklarda gece idrar kaçırmanın teşhisi kolaydır. Eğer çocukta uyku esnasında idrar kaçırma görülüyorsa, ebeveynler doktora başvurmalıdırlar. Şeker hastalığı ve kabızlık çocuklarda idrar kaçırmanın sebeplerinden biri olabilir. Bu yüzden çocuklarda bu hastalıklar araştırılmalıdır. Çocuğun haftada kaç gece idrar kaçırdığı sorgulanır. Bunun yanında gece hangi saatlerde ve bir gece de kaç defa idrar kaçırdığı da öğrenilir.  Gece idrar kaçırmalarının yanı sıra çocuğun gündüz idrar kaçırmaları da incelenir. Gündüz idrar kaçırmalarının tedavisi, gece idrar kaçırması tedavisine göre daha zordur. Gündüz idrar kaçırmalarında etraflıca değerlendirme yapmak lazımdır.  Gündüz idrar kaçırmalarda;  kaka alışkanlığı mutlaka incelenmelidir. Çocuğun iç çamaşırından varsa dışkı izleri araştırılır. Kakanın bizzat deneyimli ürologlar tarafından değerlendirilmesi gerekir.  Ayrıca üredinomi ile çocuğun kalın bağırsağında ve mesanesinde ki işlev bozuklukları da incelenir.
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Çocuklarda gece idrar kaçırmanın teşhisi kolaydır. Eğer çocukta uyku esnasında idrar kaçırma görülüyorsa, ebeveynler doktora başvurmalıdırlar. Şeker hastalığı ve kabızlık çocuklarda idrar kaçırmanın sebeplerinden biri olabilir. Bu yüzden çocuklarda bu hastalıklar araştırılmalıdır. Çocuğun haftada kaç gece idrar kaçırdığı sorgulanır. Bunun yanında gece hangi saatlerde ve bir gece de kaç defa idrar kaçırdığı da öğrenilir.  Gece idrar kaçırmalarının yanı sıra çocuğun gündüz idrar kaçırmaları da incelenir. Gündüz idrar kaçırmalarının tedavisi, gece idrar kaçırması tedavisine göre daha zordur. Gündüz idrar kaçırmalarında etraflıca değerlendirme yapmak lazımdır.  Gündüz idrar kaçırmalarda;  kaka alışkanlığı mutlaka incelenmelidir. Çocuğun iç çamaşırından varsa dışkı izleri araştırılır. Kakanın bizzat deneyimli ürologlar tarafından değerlendirilmesi gerekir.  Ayrıca üredinomi ile çocuğun kalın bağırsağında ve mesanesinde ki işlev bozuklukları da incelenir.    
 
 Çocuklarda idrar kaçırma hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/cocuklarda-idrar-kacirma)

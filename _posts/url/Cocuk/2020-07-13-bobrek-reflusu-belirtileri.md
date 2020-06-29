@@ -20,11 +20,10 @@ youtubeId: false
 
 ---
 
-Böbrek reflüsü hastalarda idrarını yaparken yanma hissi, az ama sık sık idrar yapma, kanlı idrar, rahatsız edici kokulu idrar gibi belirtiler görülür. Böbrek reflüsü olan hastalarda görülen ateş; iltihabın böbreklere ulaştığını gösteren önemli bir belirtidir. Böbrek reflüsünde bebeklere teşhis koymak daha güçtür. Çünkü bebeklerde bu belirtiler başka hastalıkların belirtileriyle karışabilir. Bu sebeple anlamlandırılamayan ishal, ateş ve yeme isteksizliği veya bebeğin gergin olduğu anlarda da özenli sorgulama yapılmalıdır. Bebek büyüdükçe bu semptomlar daha belirgin hale gelir. Bu bebeklerde gece idrar kaçırması, yüksek tansiyon, iç çamaşırda kaka, böbrek yetmezliği, kabızlık ve idrar görülen protein bulguları görülür.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Böbrek reflüsü hastalarda idrarını yaparken yanma hissi, az ama sık sık idrar yapma, kanlı idrar, rahatsız edici kokulu idrar gibi belirtiler görülür. Böbrek reflüsü olan hastalarda görülen ateş; iltihabın böbreklere ulaştığını gösteren önemli bir belirtidir. Böbrek reflüsünde bebeklere teşhis koymak daha güçtür. Çünkü bebeklerde bu belirtiler başka hastalıkların belirtileriyle karışabilir. Bu sebeple anlamlandırılamayan ishal, ateş ve yeme isteksizliği veya bebeğin gergin olduğu anlarda da özenli sorgulama yapılmalıdır. Bebek büyüdükçe bu semptomlar daha belirgin hale gelir. Bu bebeklerde gece idrar kaçırması, yüksek tansiyon, iç çamaşırda kaka, böbrek yetmezliği, kabızlık ve idrar görülen protein bulguları görülür.
 
-Modern tıpta; anne karnındaki bebeğin iç organları ultrasonografi yöntemiyle izlenebilir. Bebeğin böbrekleri, mesanesi ve üreteri araştırılabilir. Bu sayede bebekte; henüz anne karnındayken anomaliler tespit edilebilir.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Modern tıpta; anne karnındaki bebeğin iç organları ultrasonografi yöntemiyle izlenebilir. Bebeğin böbrekleri, mesanesi ve üreteri araştırılabilir. Bu sayede bebekte; henüz anne karnındayken anomaliler tespit edilebilir.
 
-Bebek 3 aylık olmadan önce anüsündeki derece 38 derece ve üstüyse ya da sonraki aylarında 38.9 dan fazla ise ebeveynlerin zaman harcamadan pediatrik ürologlara veya böbrek reflüsü hakkında tecrübe kazanmış çocuk uzmanlarına gözükmelidirler. Anüste görülen bu ateş; böbreklerin uğradığı büyük bir zararın belirtisidir.
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bebek 3 aylık olmadan önce anüsündeki derece 38 derece ve üstüyse ya da sonraki aylarında 38.9 dan fazla ise ebeveynlerin zaman harcamadan pediatrik ürologlara veya böbrek reflüsü hakkında tecrübe kazanmış çocuk uzmanlarına gözükmelidirler. Anüste görülen bu ateş; böbreklerin uğradığı büyük bir zararın belirtisidir.    
 
 Böbrek reflüsü hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/bobrek-reflusu)

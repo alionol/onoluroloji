@@ -19,11 +19,6 @@ summary: "Sistit nedir? Sistit belirtileri ve nedenleri, Bakteriye bağlı olan 
 youtubeId: false
 ---
 
-
-
-
-
-Sistit teşhisini koyabilmek için en pratik yöntem anamnezdir. Anamnez hastanın iyi bir şekilde sorgulanmasıdır. Bu yöntemde hastaya kendisi ve aile geçmişi hakkında belirli sıra ve düzende sorular sorulur. Bu şekilde sistitin teşhisi yanında sebebi de anlaşılmaya çalışılır. Aynı zamanda hastadan idrar tahlili alınmalı ve antibiyotik duyarlılık testi yapılmalıdır. Sistit çok fazla tekrarlıyor ise idrar kanalı üzerinden mesaneye girilmelidir. Mesane teleskopik araçlar ve kameralarla izlenmelidir. Radyolojik ve ultrasonografik görüntüleme tekniklerini kullanmak önemlidir. Bu yöntemler sistiti oluşturan sebepler hakkında bilgilenmeyi sağlayacaktır. Sistitin sebebini saptamak tedavi için çok önemlidir. Sistitin kronik bir hal almamasıda tedavide öncelikler arasındadır.
-
+Sistit teşhisini koyabilmek için en pratik yöntem anamnezdir. Anamnez hastanın iyi bir şekilde sorgulanmasıdır. Bu yöntemde hastaya kendisi ve aile geçmişi hakkında belirli sıra ve düzende sorular sorulur. Bu şekilde sistitin teşhisi yanında sebebi de anlaşılmaya çalışılır. Aynı zamanda hastadan idrar tahlili alınmalı ve antibiyotik duyarlılık testi yapılmalıdır. Sistit çok fazla tekrarlıyor ise idrar kanalı üzerinden mesaneye girilmelidir. Mesane teleskopik araçlar ve kameralarla izlenmelidir. Radyolojik ve ultrasonografik görüntüleme tekniklerini kullanmak önemlidir. Bu yöntemler sistiti oluşturan sebepler hakkında bilgilenmeyi sağlayacaktır. Sistitin sebebini saptamak tedavi için çok önemlidir. Sistitin kronik bir hal almamasıda tedavide öncelikler arasındadır.    
 
 Sistit hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/sistit)

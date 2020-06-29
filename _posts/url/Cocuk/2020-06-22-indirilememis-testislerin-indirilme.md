@@ -19,17 +19,12 @@ summary: "İnmemiş testis nedir, Testisin işlevi, İnmemiş testisin teşhisi,
 youtubeId: false
 ---
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bazı vakarın ameliyatları başarısız geçebilir. Bu vakaların testisleri yerine indirilemeyerek yukarıda kalır. Bu hastaları tekrar ameliyat ederek inmemiş testisinin indirilmesine Re-DO inmemiş testis ameliyatı denir. Bu tip vakalar hasta portföyümüzün büyük çoğunluğudur. Yapılan ilk operasyonda; testis damarsal sapının, kendi etrafında bulunan dokulardan kurtulamamış olması ameliyatın başarısız olmasına sebep olur. Testis ve ana damarı yeterince serbestleştirilemediği için yeterli uzunluk sağlanamamıştır. Ve testis torbalara yerleştirilememiştir. Özetle teknik hatalar sebebiyle ilk ameliyatta başarı yakalanamamıştır.
 
-
-
-
-Bazı vakarın ameliyatları başarısız geçebilir. Bu vakaların testisleri yerine indirilemeyerek yukarıda kalır. Bu hastaları tekrar ameliyat ederek inmemiş testisinin indirilmesine Re-DO inmemiş testis ameliyatı denir. Bu tip vakalar hasta portföyümüzün büyük çoğunluğudur. Yapılan ilk operasyonda; testis damarsal sapının, kendi etrafında bulunan dokulardan kurtulamamış olması ameliyatın başarısız olmasına sebep olur. Testis ve ana damarı yeterince serbestleştirilemediği için yeterli uzunluk sağlanamamıştır. Ve testis torbalara yerleştirilememiştir. Özetle teknik hatalar sebebiyle ilk ameliyatta başarı yakalanamamıştır.
-Yapılacak olan ikinci ameliyat, birinci ameliyatın bıraktığı etkiler sebebiyle daha zordur. Bunun sebebi; birinci ameliyattan sonra oluşan nebde dokusu yapışıklıklarıdır. Testis; çevresinde ki nebde adı verilen vücudun kendi ürettiği dokuya yapışmıştır. Testis ve nebde dokusu beraberce serbestleşmesi gerekir. Daha sonra damarsal sapıyla serbestleştirilmesi gerekir. Daha sonra testis normal yerine indirilebilir. Deneyimli uzmanlar tarafından Re-Do inmemiş testis ameliyat tekniği uygulandıktan sonra testisler kendi lokasyonlarına indirilir ve başarı sağlanır.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yapılacak olan ikinci ameliyat, birinci ameliyatın bıraktığı etkiler sebebiyle daha zordur. Bunun sebebi; birinci ameliyattan sonra oluşan nebde dokusu yapışıklıklarıdır. Testis; çevresinde ki nebde adı verilen vücudun kendi ürettiği dokuya yapışmıştır. Testis ve nebde dokusu beraberce serbestleşmesi gerekir. Daha sonra damarsal sapıyla serbestleştirilmesi gerekir. Daha sonra testis normal yerine indirilebilir. Deneyimli uzmanlar tarafından Re-Do inmemiş testis ameliyat tekniği uygulandıktan sonra testisler kendi lokasyonlarına indirilir ve başarı sağlanır.
 
 ## Ameliyatla İndirilemeyen Testis Var Mıdır?
 
-Çeşitli görüntüleme tekniklerine ek olarak laparoskopi ile tanı konulan hasar görmemiş bir inmemiş testis, ne kadar yukarıda olursa olsun, indirilebilir. Öncesinde başarısız bir ameliyat ile indirilemeyen testisler dahi doğru ameliyat teknikleriyle testis torbasına indirilebilir.
-
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Çeşitli görüntüleme tekniklerine ek olarak laparoskopi ile tanı konulan hasar görmemiş bir inmemiş testis, ne kadar yukarıda olursa olsun, indirilebilir. Öncesinde başarısız bir ameliyat ile indirilemeyen testisler dahi doğru ameliyat teknikleriyle testis torbasına indirilebilir.    
 
 İnmemiş testis hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/inmemis-testis)

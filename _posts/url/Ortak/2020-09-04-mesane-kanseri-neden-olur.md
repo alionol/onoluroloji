@@ -19,16 +19,10 @@ summary: "Mesane Kanseri Nedir?  Kaç tip mesane kanseri vardır? Mesane kanseri
 youtubeId: false
 ---
 
-
-
-
-
-Mesane kanserinin meydana gelmesinde en etkili faktör tütün kullanımıdır. Yaşa bağlı olarakta oluşan mesane kanserinde kalıtsal faktörler de önemli bir rol oynar. Boya imalatı işi ile uğraşan bireyler de mesane kanserinde risk grubu içindedir. Mesane kanseri oluşumuna bağlı olan faktörlerden biri de leğen kemiği içinde bulunan organlara uygulanan radyoterapidir. Bir takım kanser tedavilerinde kullanılan ilaçlar da mesane kanserine sebep olabilir.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mesane kanserinin meydana gelmesinde en etkili faktör tütün kullanımıdır. Yaşa bağlı olarakta oluşan mesane kanserinde kalıtsal faktörler de önemli bir rol oynar. Boya imalatı işi ile uğraşan bireyler de mesane kanserinde risk grubu içindedir. Mesane kanseri oluşumuna bağlı olan faktörlerden biri de leğen kemiği içinde bulunan organlara uygulanan radyoterapidir. Bir takım kanser tedavilerinde kullanılan ilaçlar da mesane kanserine sebep olabilir.
 
 ## Mesane Kanseri ve Sigara
 
-Bireyde kanser görülme ihtimalini yükselten faktörlere risk faktörü adı verilir. Tütün kullanımı, bilhassa sigara kullanımı mesane kanserinin en önemli risk faktörüdür. Uzun zamandan beri sigara kullanan bireylerin idrarlarında kan görülmesi kesinlikle incelenmesi gereken bir olgudur. Sigaranın içeriğinde bulunan kansere sebep olan maddeler vücuttan idrar yoluyla dışarı atılır. Mesane içinde idrar depolayan bir organdır bu sebeple kansere çoğunlukla mesanede rastlanır.
-
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bireyde kanser görülme ihtimalini yükselten faktörlere risk faktörü adı verilir. Tütün kullanımı, bilhassa sigara kullanımı mesane kanserinin en önemli risk faktörüdür. Uzun zamandan beri sigara kullanan bireylerin idrarlarında kan görülmesi kesinlikle incelenmesi gereken bir olgudur. Sigaranın içeriğinde bulunan kansere sebep olan maddeler vücuttan idrar yoluyla dışarı atılır. Mesane içinde idrar depolayan bir organdır bu sebeple kansere çoğunlukla mesanede rastlanır.    
 
 Mesane Kanseri hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/mesane-kanseri)

@@ -19,18 +19,14 @@ summary: "Testis Kanseri Nedir?, Testis Kanserinin Nedenleri?, Testis Kanseri Be
 youtubeId: false
 ---
 
-
-
-
-
-Testis kanseri, testiste kötü huylu kanser hücrelerinin oluşmasına bağlı olarak görülen kanser türüdür. Testis kanseri çoğunlukla 15-35 yaş aralığındaki hastaların testislerinin birinde şişliğe yol açarak kendini belli eder. Bu yaştaki insanların şişliği önemsememesi veya utanma sebebiyle muayeneye gelmemesi hastalığın erken teşhisini engellemektedir. Testiste herhangi bir şişlik fark edildiğinde mutlaka bir üroloğa muayene olunması gerekmektedir. Testis kanserinin görülme oranı 60 yaş üstü hastalarda fazlalaşabilir. Tedaviye çabuk cevap veren bir kanser türüdür. Testis kanseri hastada ağrı hissi oluşturmadığından genellikle geç fark edilmektedir. Hastalar; muayene olmakta, testislerinde görülen şişlikten dolayı çekingenlik duyduklarından testis kanserinin ilk teşhisi için zaman kaybı yaşanabilir. Erken teşhis testis kanseri tedavisinde önemlidir.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Testis kanseri, testiste kötü huylu kanser hücrelerinin oluşmasına bağlı olarak görülen kanser türüdür. Testis kanseri çoğunlukla 15-35 yaş aralığındaki hastaların testislerinin birinde şişliğe yol açarak kendini belli eder. Bu yaştaki insanların şişliği önemsememesi veya utanma sebebiyle muayeneye gelmemesi hastalığın erken teşhisini engellemektedir. Testiste herhangi bir şişlik fark edildiğinde mutlaka bir üroloğa muayene olunması gerekmektedir. Testis kanserinin görülme oranı 60 yaş üstü hastalarda fazlalaşabilir. Tedaviye çabuk cevap veren bir kanser türüdür. Testis kanseri hastada ağrı hissi oluşturmadığından genellikle geç fark edilmektedir. Hastalar; muayene olmakta, testislerinde görülen şişlikten dolayı çekingenlik duyduklarından testis kanserinin ilk teşhisi için zaman kaybı yaşanabilir. Erken teşhis testis kanseri tedavisinde önemlidir.
 
 ## Testis Kanseri Tipleri
 
-Testis kanserleri, “Seminematoz” ve “Non-seminematoz” adı verilen iki genel hücre tipinde sınıflandırılır. Seminematoz hücre tipindeki testis kanserlerinin tedavileri daha basittir. Non-seminematoz hücre tipiyle görülen testis kanserlerinin tedavisi ise daha güçtür. Testis kanserinin Koryokalsinom adı verilen ve erkek memelerinde şişlik oluşumuna neden olan türü, diğer türlere göre daha hızlı seyretmektedir. Hastalarda, yüzde 5 ile 10 oranında görülen bu tür oldukça anarşist yapıdadır. Teratom adı verilen testis kanseri türü ise diğer türe kıyasla daha masum bir yapıdadır.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Testis kanserleri, “Seminematoz” ve “Non-seminematoz” adı verilen iki genel hücre tipinde sınıflandırılır. Seminematoz hücre tipindeki testis kanserlerinin tedavileri daha basittir. Non-seminematoz hücre tipiyle görülen testis kanserlerinin tedavisi ise daha güçtür. Testis kanserinin Koryokalsinom adı verilen ve erkek memelerinde şişlik oluşumuna neden olan türü, diğer türlere göre daha hızlı seyretmektedir. Hastalarda, yüzde 5 ile 10 oranında görülen bu tür oldukça anarşist yapıdadır. Teratom adı verilen testis kanseri türü ise diğer türe kıyasla daha masum bir yapıdadır.
 
 ## Testis Kanseri Nedenleri
 
-Testis kanserinin genel olarak kalıtsal faktörlerden etkilendiği bilinmektedir. Buna ek olarak; inmemiş testis hastalarının testisleri operasyon ile düzeltilse bile yine de testis kanseri görülme ihtimali vardır. Aynı zamanda ileri erkek kısırlığı hastalarında da normal hastalara oranla daha fazla görülmektedir.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Testis kanserinin genel olarak kalıtsal faktörlerden etkilendiği bilinmektedir. Buna ek olarak; inmemiş testis hastalarının testisleri operasyon ile düzeltilse bile yine de testis kanseri görülme ihtimali vardır. Aynı zamanda ileri erkek kısırlığı hastalarında da normal hastalara oranla daha fazla görülmektedir.    
 
 Testis Kanseri hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/testis-kanseri)

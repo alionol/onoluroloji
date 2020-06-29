@@ -20,13 +20,8 @@ youtubeId: false
 
 ---
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Testise kan gitmemesi sonucu enfarktüs oluşumuna bağlı olarak testis iltihaplanabilir veya çürüyebilir. Testis torsiyonu tedavi edilmez ise testis torbasının bir tarafında testis olmaz. Testisin yokluğu hastada psikolojik travma yapabilir. Tek taraf testisi sağlam olan vakalarda hormonlar salgılanması gereken miktarın altında salgılanmasına rağmen bu durum büyük bir sorun teşkil etmez. Eğer bir testiste testis torsiyonu var ise diğer testiste ileriki dönemde torsiyon ihtimali vardır. Dönen testis tedavi edilmediği ve çürüdüğü zaman çıkarılmalıdır. Çürüyen testis çıkarılırken sağlam testisin de ameliyat esnasında testis tabanına sabitlenmesi gereklidir. Testis tabana sabitlendiği takdirde dönme ihtimali ortadan kalkar. Bu sayede ileride yaşanacak olası bir testis torsiyonun önüne geçilir.
 
-
-
-
-Testise kan gitmemesi sonucu enfarktüs oluşumuna bağlı olarak testis iltihaplanabilir veya çürüyebilir. Testis torsiyonu tedavi edilmez ise testis torbasının bir tarafında testis olmaz. Testisin yokluğu hastada psikolojik travma yapabilir. Tek taraf testisi sağlam olan vakalarda hormonlar salgılanması gereken miktarın altında salgılanmasına rağmen bu durum büyük bir sorun teşkil etmez. Eğer bir testiste testis torsiyonu var ise diğer testiste ileriki dönemde torsiyon ihtimali vardır. Dönen testis tedavi edilmediği ve çürüdüğü zaman çıkarılmalıdır. Çürüyen testis çıkarılırken sağlam testisin de ameliyat esnasında testis tabanına sabitlenmesi gereklidir. Testis tabana sabitlendiği takdirde dönme ihtimali ortadan kalkar. Bu sayede ileride yaşanacak olası bir testis torsiyonun önüne geçilir.
-
-Testis torsiyonu yaşayan hastalar kısırlık yönünden takip edilmelidir. Bu konuda aileler; ergen yaşta yapılması gereken sperm tahlilleri hakkında bilgilendirilmedir.  Yapılan araştırmalar; torsiyonlu hasar görmüş testisin sağlam testisi de etkileyebileceğini göstermiştir. Sağlam testis, sperm kalitesi ve miktarı bakımından etkilenebilir. Hastalar bu sebeple takip edilmelidirler.
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Testis torsiyonu yaşayan hastalar kısırlık yönünden takip edilmelidir. Bu konuda aileler; ergen yaşta yapılması gereken sperm tahlilleri hakkında bilgilendirilmedir.  Yapılan araştırmalar; torsiyonlu hasar görmüş testisin sağlam testisi de etkileyebileceğini göstermiştir. Sağlam testis, sperm kalitesi ve miktarı bakımından etkilenebilir. Hastalar bu sebeple takip edilmelidirler.    
 
 Testis torsiyonu hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/testis-torsiyonu)

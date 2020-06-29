@@ -19,18 +19,13 @@ summary: "Hipospadias hastalığı ve tedavisi hakkında detaylı bilgiler... , 
 youtubeId: false
 ---
 
-
-
-
-
 ## Ön ve Orta Tipteki Hipospadias
 
-Penisteki eğrilik; penis ucundaki deliğin arkada kalma boyutuna göre oranlanır. İdrar çıkış deliği ne kadar arkada kalıyor ise penis eğriliği de o kadar artar. Fakat idrar çıkış deliğinin ön bölümde bulunduğu hastalarda bile eğriliğin fazla olduğu görülebilir. Ön hipospadias dediğimiz durumlarda; delik az miktarda aşağıda kalır. Bu durum görüldüğü kadar basit olmayabilir çünkü bu vakalarda deliğin nerede olduğundan çok penisteki eğriliğin hangi derece olduğu önemlidir. Cerrahi bakımdan idrar çıkış deliğini normal yerine yerleştirmek penis eğriliğini düzeltmekten daha kolaydır. Penisin alt tarafındaki dokular ne kadar gelişmemiş ise eğrilik derecesi o kadar fazladır. Ve dokular ne kadar gelişmemiş ise o kadar fazla doku aktarımı yapmak gerekmektedir. Kısaca penis deliği normal lokasyonunda olsa bile eğriliğin derecesi önemlidir.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Penisteki eğrilik; penis ucundaki deliğin arkada kalma boyutuna göre oranlanır. İdrar çıkış deliği ne kadar arkada kalıyor ise penis eğriliği de o kadar artar. Fakat idrar çıkış deliğinin ön bölümde bulunduğu hastalarda bile eğriliğin fazla olduğu görülebilir. Ön hipospadias dediğimiz durumlarda; delik az miktarda aşağıda kalır. Bu durum görüldüğü kadar basit olmayabilir çünkü bu vakalarda deliğin nerede olduğundan çok penisteki eğriliğin hangi derece olduğu önemlidir. Cerrahi bakımdan idrar çıkış deliğini normal yerine yerleştirmek penis eğriliğini düzeltmekten daha kolaydır. Penisin alt tarafındaki dokular ne kadar gelişmemiş ise eğrilik derecesi o kadar fazladır. Ve dokular ne kadar gelişmemiş ise o kadar fazla doku aktarımı yapmak gerekmektedir. Kısaca penis deliği normal lokasyonunda olsa bile eğriliğin derecesi önemlidir.
 
 
 ## İleri Tipteki Hipospadias (Penoskrotal ve Perineal)
 
-Hipospadiaslı hastalarda yüzde 10 oranında ön tarafta hipospadias, yüzde 50 oranında ise orta ve arka hipospadias görülür. Hipospadias vakalarında hastalar bu şekilde doğarlar. İdrar çıkış deliğinin apış arasında görüldüğü vakalar hipospadias en ileri vakalarıdır. Bu hastaların doğumsal olarak testis torbaları, idrar çıkış deliği çok aşağıda olduğu için, ikiye ayrılmıştır. Bu duruma bifit skrotum adı verilir. İleri hipospadias dediğimiz bu vakalar da inmemiş testis dediğimiz testisin torbalarına inmediği ve yukarıda bir yerde takıldığı durum gözükebilir. Bu tip durumlarda hasta çift cinsiyet bakımından araştırılmalıdır. Çift cinsiyet ihtimaline karşı; karyotip dediğimiz genetik inceleme, hormon analizi ve ultrasonofrafi tetkikleri yapılır.
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hipospadiaslı hastalarda yüzde 10 oranında ön tarafta hipospadias, yüzde 50 oranında ise orta ve arka hipospadias görülür. Hipospadias vakalarında hastalar bu şekilde doğarlar. İdrar çıkış deliğinin apış arasında görüldüğü vakalar hipospadias en ileri vakalarıdır. Bu hastaların doğumsal olarak testis torbaları, idrar çıkış deliği çok aşağıda olduğu için, ikiye ayrılmıştır. Bu duruma bifit skrotum adı verilir. İleri hipospadias dediğimiz bu vakalar da inmemiş testis dediğimiz testisin torbalarına inmediği ve yukarıda bir yerde takıldığı durum gözükebilir. Bu tip durumlarda hasta çift cinsiyet bakımından araştırılmalıdır. Çift cinsiyet ihtimaline karşı; karyotip dediğimiz genetik inceleme, hormon analizi ve ultrasonofrafi tetkikleri yapılır.    
 
 Hipospadias hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/hipospadias)

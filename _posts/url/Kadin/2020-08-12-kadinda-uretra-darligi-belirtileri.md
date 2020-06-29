@@ -19,11 +19,6 @@ summary: "Üretra (idrar kanalı) nedir? , Üretra darlıklarının nedenleri, �
 youtubeId: false
 ---
 
-
-
-
-
-Üretra (idrar kanalı) darlığı için çeşitli işeme şikayetlerine sebep olur. İşeme şikayetleri üretra darlığının en önemli belirtileridir. Bu darlık, mesanede birikmiş idrarın idrar kanalından dışarı rahat bir şekilde çıkamamasına veya hiç çıkamamasına sebebiyet verir. Hasta, normal insanlara göre idrarını yapmakta güçlük çeker. Üretra darlığı yaşayan hasta idrarını bekleyerek yapar. Sıklıkla işeme ihtiyacı duyar. Bu hastaların idrarları incedir ve işeme esnasında ağrı yaşarlar. Hastalar sıkışma hissi duyarlar. Hastalar idrarlarını yaptıktan sonra damlatma da görülür. İdrar kanalı darlığı mümkün olduğunca erken tedavi edilmelidir. Çünkü kronikleşirse mesanenin depolama ve boşaltma sistemini bozar. Böbreklerde de böbrek yetmezliği gibi sorunlara yol açabilir. Üretra darlığının ileri derecelerinde hastalar idrarlarını hiç yapamazlar. Bu duruma retansiyon adı verilir. Bu durum tehlikelidir. İdrar kanalında oluşabilecek ciddi boyutlarda enfeksiyonlara neden olur.
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Üretra (idrar kanalı) darlığı için çeşitli işeme şikayetlerine sebep olur. İşeme şikayetleri üretra darlığının en önemli belirtileridir. Bu darlık, mesanede birikmiş idrarın idrar kanalından dışarı rahat bir şekilde çıkamamasına veya hiç çıkamamasına sebebiyet verir. Hasta, normal insanlara göre idrarını yapmakta güçlük çeker. Üretra darlığı yaşayan hasta idrarını bekleyerek yapar. Sıklıkla işeme ihtiyacı duyar. Bu hastaların idrarları incedir ve işeme esnasında ağrı yaşarlar. Hastalar sıkışma hissi duyarlar. Hastalar idrarlarını yaptıktan sonra damlatma da görülür. İdrar kanalı darlığı mümkün olduğunca erken tedavi edilmelidir. Çünkü kronikleşirse mesanenin depolama ve boşaltma sistemini bozar. Böbreklerde de böbrek yetmezliği gibi sorunlara yol açabilir. Üretra darlığının ileri derecelerinde hastalar idrarlarını hiç yapamazlar. Bu duruma retansiyon adı verilir. Bu durum tehlikelidir. İdrar kanalında oluşabilecek ciddi boyutlarda enfeksiyonlara neden olur.    
 
 İdrar kanalı darlığı hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/kadin-uretra-darliklari)

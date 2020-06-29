@@ -29,7 +29,6 @@ youtubeId: false
 
 - Ürodinami adlı yöntemle mesanenin dolması ve boşalması grafiklerle kaydedilerek idrar boşaltma sistemine bakılır.
 
-İdrar kaçırma şikayetiyle başvuran hastalara detaylı bir sorgulama yapılır. Bu sorgulama da idrar kaçırmanın ne sıklıkla yaşandığı, idrara ne sıklıkla çıkıldığı, işeme esnasında yanma hissinin olup olmadığı, gaita kaçırma ve kabızlığın yaşanıp yaşanmadığı, öncesinde prostat ve sinir sistemine yönelik bir operasyon uygulanıp uygulanmadığı, nikotin kullanımı, alkol ve kafein tüketimi, devamlı kullanılan ilaçlar, ileri dereceli akciğer rahatsızlığı, fazla kilo, idrar söktürücü ilaç kullanımı, kronik öksürük ve kalp hastalıkları gibi sorular yöneltilir. Alınan cevaplar neticesinde idrar kaçırmaya neden olan faktör belirlenir.
-
+İdrar kaçırma şikayetiyle başvuran hastalara detaylı bir sorgulama yapılır. Bu sorgulama da idrar kaçırmanın ne sıklıkla yaşandığı, idrara ne sıklıkla çıkıldığı, işeme esnasında yanma hissinin olup olmadığı, gaita kaçırma ve kabızlığın yaşanıp yaşanmadığı, öncesinde prostat ve sinir sistemine yönelik bir operasyon uygulanıp uygulanmadığı, nikotin kullanımı, alkol ve kafein tüketimi, devamlı kullanılan ilaçlar, ileri dereceli akciğer rahatsızlığı, fazla kilo, idrar söktürücü ilaç kullanımı, kronik öksürük ve kalp hastalıkları gibi sorular yöneltilir. Alınan cevaplar neticesinde idrar kaçırmaya neden olan faktör belirlenir.    
 
 Erkekte İdrar Kaçırma hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/erkekte-idrar-kacirma)

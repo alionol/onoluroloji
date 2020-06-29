@@ -19,21 +19,17 @@ summary: "Gömük Penis Nedir? , Gömük Penisli çocuklar sünnet edilmeli midi
 youtubeId: "6qB2-WgtPhM"
 ---
 
-
-
-
-
 ## Gömük Penis Nedir?
 
-Gömük Penis, doğumsal olarak veya sonradan, genital bölgenin üstünde oluşan fazla yağ dokusu veya cilt ve altındaki dokuların gelişememesi nedeniyle penisin gömük görünmesi durumudur. Normalde penisin 3’te 2’si dışardadır. Bu hastalarda ise 3’te 2’si veya daha fazlası gömüktür. Normalde penis, bir bağ ile arka tarafında bulunan kemiğe tutunmuştur. Doğuştan olan gömük penislerde bu bağ gelişmediğinden gömüklüğe sebep olur.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gömük Penis, doğumsal olarak veya sonradan, genital bölgenin üstünde oluşan fazla yağ dokusu veya cilt ve altındaki dokuların gelişememesi nedeniyle penisin gömük görünmesi durumudur. Normalde penisin 3’te 2’si dışardadır. Bu hastalarda ise 3’te 2’si veya daha fazlası gömüktür. Normalde penis, bir bağ ile arka tarafında bulunan kemiğe tutunmuştur. Doğuştan olan gömük penislerde bu bağ gelişmediğinden gömüklüğe sebep olur.
 
 ### Penis  boyutları Gömük Peniste normal midir?
 
-Çoğunlukla normaldir. Penis, doku içerisinde gizlenmiştir. Doğumsal küçük penisi olan hastalar ile karıştırılmamalıdır.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Çoğunlukla normaldir. Penis, doku içerisinde gizlenmiştir. Doğumsal küçük penisi olan hastalar ile karıştırılmamalıdır.
 
 ### Gömük Penisli çocuklar sünnet edilmeli midir?
 
-Gömük penisi olduğundan şüphelenilen yeni doğanlar sünnet edilmemelidir. 6-12 ay süresince beklenmelidir. Çünkü bu süre içerisinde gömük penisin kendi kendine düzelme olasılığı vardır. Eğer zaman içinde düzelmez ise operasyon gerekir.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gömük penisi olduğundan şüphelenilen yeni doğanlar sünnet edilmemelidir. 6-12 ay süresince beklenmelidir. Çünkü bu süre içerisinde gömük penisin kendi kendine düzelme olasılığı vardır. Eğer zaman içinde düzelmez ise operasyon gerekir.
 
 ### Gömük Penis, obez çocuklarda zayıflama halinde düzelir mi?
 
@@ -53,22 +49,22 @@ Kısmi bir iyileşme görülmekle birikte, vakaların çoğunda yine de ameliyat
 
 ## Gömük Penis Hangi Sorunlara Yol Açar?
 
-Gömük penis hastalarında idrar, testis torbasını ve bacakları ıslatır. İçeriğinde asit barındıran idrar, ciltte yara ve tahrişlere neden olur. Penis cildi ve başında kızarıklık ve iltihap olabilir. “Buldog” cinsi köpeklerin ciltlerindeki gibi, gömük penisli hastaların penislerindeki kırışıklıklar nedeniyle iltihaplanma ve yaralar oluşabilir. Bu hastalık tipi, ciddi hijyen sorunlarının yanı sıra, ergenlikte sertleşme güçlüğüne de yol açar. Cinsel birliktelik zorlaşır, hastanın kendine güveni zedelenir, depresyon ve anksiyete görülebilir.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gömük penis hastalarında idrar, testis torbasını ve bacakları ıslatır. İçeriğinde asit barındıran idrar, ciltte yara ve tahrişlere neden olur. Penis cildi ve başında kızarıklık ve iltihap olabilir. “Buldog” cinsi köpeklerin ciltlerindeki gibi, gömük penisli hastaların penislerindeki kırışıklıklar nedeniyle iltihaplanma ve yaralar oluşabilir. Bu hastalık tipi, ciddi hijyen sorunlarının yanı sıra, ergenlikte sertleşme güçlüğüne de yol açar. Cinsel birliktelik zorlaşır, hastanın kendine güveni zedelenir, depresyon ve anksiyete görülebilir.
 
 ## Gömük Penis Teşhisi
 
-Küçük veya mikro penis denilen vaka ile karıştırılmaması gereken bu hastalığa, bir üroloji uzmanı ya da çocuk cerrahının basit bir muayenesi ile kolayca tanı konulabilir.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Küçük veya mikro penis denilen vaka ile karıştırılmaması gereken bu hastalığa, bir üroloji uzmanı ya da çocuk cerrahının basit bir muayenesi ile kolayca tanı konulabilir.
 
 ## Gömük Penis Ameliyatı Ne Zaman Yapılmalıdır?
 
-Gömük penis ameliyatının erken yaşta yapılması idealdir. Çocuk hasta tam bilinçlenmeden penisinin düzeltilmesi, erişkinlikte döneminde yaşayabileceği psikolojik ve hijyenik sorunların önüne geçilmesini sağlayacaktır. Ayrıca uzman cerrahlar tarafından erken yaşlarda gerçekleştirilen ameliyatlar daha rahat geçmektedir ve başarı oranı yüksektir.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gömük penis ameliyatının erken yaşta yapılması idealdir. Çocuk hasta tam bilinçlenmeden penisinin düzeltilmesi, erişkinlikte döneminde yaşayabileceği psikolojik ve hijyenik sorunların önüne geçilmesini sağlayacaktır. Ayrıca uzman cerrahlar tarafından erken yaşlarda gerçekleştirilen ameliyatlar daha rahat geçmektedir ve başarı oranı yüksektir.
 
 ## Gömük Penis Ameliyatı
 
-Penis başının altında bulunan bölgedeki cilde çepeçevre kesi yapılır. Önceden sünnet olmuş hastalarda eski sünnet izi kullanılır. Penis derisi “Bucks” ve “Dartos” fasyaları arasında aşağıya tamamen sıyrılır. Penisin damar ve sinirlerinin korunmasına özen gösterilmelidir. Hatalı oluşmuş olan kötü ve zayıf dokular kesilerek çıkarılır. Penisin tabakaları yeniden düzeltilerek şekillendirilir. 3-9-12 hizalarında, “Pubis Kemiği” üzerinde bulunan “Periost” (kemiğin üstündeki zar) özel dikişilerle tespit edilir. Ardından ise doğumsal olarak gelişmemiş olan penisin asıcı bağı yerine özel bir askı oluşturulur. Gerekirse pubis bölgesindeki fazla yağlar alınır.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Penis başının altında bulunan bölgedeki cilde çepeçevre kesi yapılır. Önceden sünnet olmuş hastalarda eski sünnet izi kullanılır. Penis derisi “Bucks” ve “Dartos” fasyaları arasında aşağıya tamamen sıyrılır. Penisin damar ve sinirlerinin korunmasına özen gösterilmelidir. Hatalı oluşmuş olan kötü ve zayıf dokular kesilerek çıkarılır. Penisin tabakaları yeniden düzeltilerek şekillendirilir. 3-9-12 hizalarında, “Pubis Kemiği” üzerinde bulunan “Periost” (kemiğin üstündeki zar) özel dikişilerle tespit edilir. Ardından ise doğumsal olarak gelişmemiş olan penisin asıcı bağı yerine özel bir askı oluşturulur. Gerekirse pubis bölgesindeki fazla yağlar alınır.
 
-​Sünnet derisinin fazla kesilmesine bağlı meydana gelen gömük penis vakalarında, penisin sarılması için gereken doku miktarında eksiklik bulunması sebebiyle ameliyat, deneyimli çocuk ürologları tarafından yapılmalıdır. Kılsız bölgelerden deri “Grafti” (yama) alınmasına gerek duyulabilir. Gömüklüğe neden olan yağ dokuları alınır. Penis asıcı bağının zayıf veya hiç gelişmediği doğumsal vakalarda, özel dikişlerle penis normal yerine sabitlenir.
+​&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sünnet derisinin fazla kesilmesine bağlı meydana gelen gömük penis vakalarında, penisin sarılması için gereken doku miktarında eksiklik bulunması sebebiyle ameliyat, deneyimli çocuk ürologları tarafından yapılmalıdır. Kılsız bölgelerden deri “Grafti” (yama) alınmasına gerek duyulabilir. Gömüklüğe neden olan yağ dokuları alınır. Penis asıcı bağının zayıf veya hiç gelişmediği doğumsal vakalarda, özel dikişlerle penis normal yerine sabitlenir.
 
 ### Gömük penis ameliyatı sonrası iz kalır mı?
 
-Sünnet izinin dışında herhangi bir izin kesi izi kalmaz. Ayrıca bu operasyonla şekil bozukluğu düzelir, hijyen sorunu ortadan kalkar ve penis normal büyüklüğüne bulaşır.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sünnet izinin dışında herhangi bir izin kesi izi kalmaz. Ayrıca bu operasyonla şekil bozukluğu düzelir, hijyen sorunu ortadan kalkar ve penis normal büyüklüğüne bulaşır.

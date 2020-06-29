@@ -20,21 +20,17 @@ youtubeId: false
 
 ---
 
-
-
-
-
-Testis torsiyonunda; intravajinal (testis zarı içi) ve ekstravajinal (testis zarı dışı) dediğimiz 2 tip torsiyon vardır.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Testis torsiyonunda; intravajinal (testis zarı içi) ve ekstravajinal (testis zarı dışı) dediğimiz 2 tip torsiyon vardır.
 
 ![Testis Torsiyonu Tip](/assets/img/testistorsiyonutip.jpeg){:.size2}
 
 ## Bebek torsiyonu (Ekstra vajinal torsiyon)
 
-Bebek torsiyonu olarak adlandırdığımız ekstra vajinal torsiyon; yüzde 5 oranında görülür. Bunun yüzde 70’i bebek henüz anne karnında gelişimde iken, yüzde 30’u ise doğduktan sonra oluşum gösterir. Tunika vajinalis adında; testisi çevreleyen bir kese vardır. Testis sapı bu kesenin dışında döner ise bu duruma Ekstra vajinal denir. Bazı vakalarda iki tarafta da aynı anda testis torsiyonu görülebilir.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bebek torsiyonu olarak adlandırdığımız ekstra vajinal torsiyon; yüzde 5 oranında görülür. Bunun yüzde 70’i bebek henüz anne karnında gelişimde iken, yüzde 30’u ise doğduktan sonra oluşum gösterir. Tunika vajinalis adında; testisi çevreleyen bir kese vardır. Testis sapı bu kesenin dışında döner ise bu duruma Ekstra vajinal denir. Bazı vakalarda iki tarafta da aynı anda testis torsiyonu görülebilir.  
 Yeni doğan bebeklerdeki porsiyon tipi farklıdır. Bu torsiyon 3 veya 5 günlük yeni doğmuş bebeklerde görülür. Testisin alt tarafının, testis torbasına yapışmamış olmasından kaynaklanır. Bu yapışma olmadığı için testis, testis torbasının içinde sabit değildir. Buda damarsal sapı etrafında dönmesine sebebiyet verir.
 
 ## Intravajinal torsiyon
 
-Bu torsiyon tipi; 30 yaş altındaki vakalarda görülür. 12 ile 18 yaş aralığında ki hasta sayısı daha fazladır. Testiste şişlik ve ağrı sebebi ile acile başvuran her 5 hastadan 1’nde intravajinal torsiyon görülür. Intravajinal torsiyon testisin sol tarafında daha çok görülür. Testislerin; testisi saran tunika vajinalis zarı içerisinde dönmesi sonucu intravajinal torsiyon (zar içi dönme) oluşur. Erkeklerde %12 oranında görülür. Bu oranın yüzde 40’ında ise iki taraflı testis torsiyonu görülür. İleri yaşta ve ergenlik döneminde daha sık görünen tiptir. Ergenlik çağında testis büyür ve ağırlık kazanır. Testis torbasının altında kremester adı verilen adalede de ani kasılmalar görülür. Bu torsiyonda damarsal sap kendi cevresinde 90-180-360-720 derece dönebilir.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bu torsiyon tipi; 30 yaş altındaki vakalarda görülür. 12 ile 18 yaş aralığında ki hasta sayısı daha fazladır. Testiste şişlik ve ağrı sebebi ile acile başvuran her 5 hastadan 1’nde intravajinal torsiyon görülür. Intravajinal torsiyon testisin sol tarafında daha çok görülür. Testislerin; testisi saran tunika vajinalis zarı içerisinde dönmesi sonucu intravajinal torsiyon (zar içi dönme) oluşur. Erkeklerde %12 oranında görülür. Bu oranın yüzde 40’ında ise iki taraflı testis torsiyonu görülür. İleri yaşta ve ergenlik döneminde daha sık görünen tiptir. Ergenlik çağında testis büyür ve ağırlık kazanır. Testis torbasının altında kremester adı verilen adalede de ani kasılmalar görülür. Bu torsiyonda damarsal sap kendi cevresinde 90-180-360-720 derece dönebilir.    
 
 Testis torsiyonu hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/testis-torsiyonu)

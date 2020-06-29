@@ -19,15 +19,10 @@ summary: "Testis Kanseri Nedir?, Testis Kanserinin Nedenleri?, Testis Kanseri Be
 youtubeId: false
 ---
 
-
-
-
-
-Testis kanseri hastalarının testislerinde ağrı hissedilmeyen bir şişlik görülebilir. Testiste büyüme gösteren bu kitlenin ağırlığına bağlı olarak hastanın bel kısmında ve hayalarında belirsiz ağrılar görülür. Hastalar ağrı hissetmeden gördükleri bu şişliği önemsemediklerinden hekimlere başvuru yapmakta geç kalabilirler. Hastanın bu önemsememe durumuna bağlı olarak tanısı ve tedavisi yapılamayan testis kanseri karın arkasında bulunan lenf bezlerine ve akciğerlere yayılım sağlayabilir. Hastanın testisleri iyice büyür. Erken teşhis yapılarak bu tip durumların önüne geçilebilmesi için hastanın konunun bilincinde olması ve doktora başvurmakta geç kalmaması mühimdir.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Testis kanseri hastalarının testislerinde ağrı hissedilmeyen bir şişlik görülebilir. Testiste büyüme gösteren bu kitlenin ağırlığına bağlı olarak hastanın bel kısmında ve hayalarında belirsiz ağrılar görülür. Hastalar ağrı hissetmeden gördükleri bu şişliği önemsemediklerinden hekimlere başvuru yapmakta geç kalabilirler. Hastanın bu önemsememe durumuna bağlı olarak tanısı ve tedavisi yapılamayan testis kanseri karın arkasında bulunan lenf bezlerine ve akciğerlere yayılım sağlayabilir. Hastanın testisleri iyice büyür. Erken teşhis yapılarak bu tip durumların önüne geçilebilmesi için hastanın konunun bilincinde olması ve doktora başvurmakta geç kalmaması mühimdir.
 
 ## Testis kanseri hangi hastalıklarla karışabilir?
 
-Testis kanseri; testiste su toplanmasına bağlı oluşan hidrosel hastalığı, testis torsiyonu, varikosel, epididimoorşit adı verilen testis iltihabı, kasık fıtığı veya sperm kanallarında meydana gelen spermatosel adlı kistlerle karıştırılabilir. Genelde ultrasonografi yardımıyla testis kanserine kesin tanı yapılabilmektedir.
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Testis kanseri; testiste su toplanmasına bağlı oluşan hidrosel hastalığı, testis torsiyonu, varikosel, epididimoorşit adı verilen testis iltihabı, kasık fıtığı veya sperm kanallarında meydana gelen spermatosel adlı kistlerle karıştırılabilir. Genelde ultrasonografi yardımıyla testis kanserine kesin tanı yapılabilmektedir.    
 
 Testis Kanseri hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/testis-kanseri)

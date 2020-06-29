@@ -19,11 +19,11 @@ summary: "Geç Boşalma Nedir?, Geç Boşalma Nedenleri, Geç Boşalmanın Tedav
 youtubeId: false
 ---
 
-Geç boşalma durumlarında; penis tam olarak sertleşse bile uzun süreli cinsel temasa rağmen bireyler spermlerini geç dışarı atarlar. Geç boşalma vakalarında cinsel birleşmeden 30-40 dakika sonra bile boşalamama hali yaşanabilir.  Boşalamamanın bu versiyonu da geç boşalma konu başlığı altında incelenir.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Geç boşalma durumlarında; penis tam olarak sertleşse bile uzun süreli cinsel temasa rağmen bireyler spermlerini geç dışarı atarlar. Geç boşalma vakalarında cinsel birleşmeden 30-40 dakika sonra bile boşalamama hali yaşanabilir.  Boşalamamanın bu versiyonu da geç boşalma konu başlığı altında incelenir.
 
 ## Geç Boşalma Nedenleri
 
-Erkek bireylerin beyinlerinde salgılanan kimyasalların sinirleri etkilemesi ve penisin, boşalma refleks sistemini uyarmasıyla boşalma sağlanır. Geç boşalma durumları bu refleks sisteminde bozulma ya da psikolojik nedenlerden kaynaklanabilir. Boşalma refleksinin bozulması;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Erkek bireylerin beyinlerinde salgılanan kimyasalların sinirleri etkilemesi ve penisin, boşalma refleks sistemini uyarmasıyla boşalma sağlanır. Geç boşalma durumları bu refleks sisteminde bozulma ya da psikolojik nedenlerden kaynaklanabilir. Boşalma refleksinin bozulması;
 
 •	Alkol ve uyuşturucu maddeler
 
@@ -41,8 +41,6 @@ Erkek bireylerin beyinlerinde salgılanan kimyasalların sinirleri etkilemesi ve
 
 •	Geçirilmiş Ameliyatlara bağlı peniste oluşan his kusuru
 
-gibi faktörler geç boşalma problemini meydana getirir. Geç boşalmanın psikolojik nedenleri ise; cinsel isteklerin bastırılması, cinsel arzusuzluk hali, karşı cinse duyulan öfke, dominant partner ya da obsesif kişilik gibi nedenlere bağlı oluşan partnerler arasındaki cinsel uyumsuzluk gibi sebeplerdir.
-
-
+gibi faktörler geç boşalma problemini meydana getirir. Geç boşalmanın psikolojik nedenleri ise; cinsel isteklerin bastırılması, cinsel arzusuzluk hali, karşı cinse duyulan öfke, dominant partner ya da obsesif kişilik gibi nedenlere bağlı oluşan partnerler arasındaki cinsel uyumsuzluk gibi sebeplerdir.    
 
 Geç Boşalma hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/gec-bosalma)

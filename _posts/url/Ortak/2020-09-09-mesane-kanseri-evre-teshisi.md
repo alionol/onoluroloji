@@ -19,10 +19,6 @@ summary: "Mesane Kanseri Nedir?  Kaç tip mesane kanseri vardır? Mesane kanseri
 youtubeId: false
 ---
 
-
-
-
-
 •	Tomografi: Bu yöntem kullanılarak farklı açılardan görüntü alınır ve vücut içinin fotoğrafı çekilir. Hastaya damar ya da ağız yoluyla boyalı madde verilir. Boyalı madde sayesinde hastanın organı ve dokuları rahatlıkla görünür hale gelir. Tomografi ile sadece mesane değil, göğüs boşluğu, leğen kemiği içinde bulunan organlar, karın içi resimleri de elde edilir.
 
 •	EMAR: Mıknatıs prensibi ile hastaya radio dalgaları gönderilerek vücut içinin görüntüleri elde edilir.
@@ -31,8 +27,6 @@ youtubeId: false
 
 •	Akciğer filmi: Göğüs kafesinin içinde yer alan organların görüntüsü alınır.
 
-
-Modern görüntüleme yöntemleri bize kanserin vücuttaki yayılımı hakkında tam bilgi veremezler, yalnızca fikir sahibi olunmasına yardımcı olurlar. Bu son derece önemli ve bilinmesi gereken bir konudur. Kanserin yayılımı hakkındaki bilgi yalnızca başarılı bir ameliyatla organın tamamen, lenf düğümlerinin de yayılmış olabileceği kısımların çıkarılması ile mümkün olabilir. Patolojik incelemeler sonucunda tümörün yayılımı hakkında net bir bilgiye ulaşılabilir.
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Modern görüntüleme yöntemleri bize kanserin vücuttaki yayılımı hakkında tam bilgi veremezler, yalnızca fikir sahibi olunmasına yardımcı olurlar. Bu son derece önemli ve bilinmesi gereken bir konudur. Kanserin yayılımı hakkındaki bilgi yalnızca başarılı bir ameliyatla organın tamamen, lenf düğümlerinin de yayılmış olabileceği kısımların çıkarılması ile mümkün olabilir. Patolojik incelemeler sonucunda tümörün yayılımı hakkında net bir bilgiye ulaşılabilir.    
 
 Mesane Kanseri hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/mesane-kanseri)

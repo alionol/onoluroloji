@@ -20,18 +20,14 @@ youtubeId: false
 
 ---
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Böbrek kanseri böbrekte kanser hücrelerinin oluşup kümelenmesiyle meydana gelir. Böbrek hücreleri olağandışı bir şekilde artıp çoğalarak kitle oluştururlar. Bu kitle oluşumu böbrek kanserine sebebiyet verir. Uzakta bulunan dokulara ve organlara sıçramayan tipte kanser ve tümör tipleri vardır ve bu özellikleri neticesinde hayati tehlike oluşturmazlar. Kanserli hücrelerin gelişip diğer organlara kan aracılığıyla sıçraması durumuna metastaz denir. Metastaz yapan hücreler çoğalarak kitle oluşumuna neden olurlar. Kanserler iki ayrı sınıfta değerlendirilir; evre ya da stage dediğimiz, hasta da görülen kitlenin büyüklüğü ve grade adını verdiğimiz hücrenin saldırganlık durumuna göre bu değerlendirme yapılır.
 
-
-
-
-Böbrek kanseri böbrekte kanser hücrelerinin oluşup kümelenmesiyle meydana gelir. Böbrek hücreleri olağandışı bir şekilde artıp çoğalarak kitle oluştururlar. Bu kitle oluşumu böbrek kanserine sebebiyet verir. Uzakta bulunan dokulara ve organlara sıçramayan tipte kanser ve tümör tipleri vardır ve bu özellikleri neticesinde hayati tehlike oluşturmazlar. Kanserli hücrelerin gelişip diğer organlara kan aracılığıyla sıçraması durumuna metastaz denir. Metastaz yapan hücreler çoğalarak kitle oluşumuna neden olurlar. Kanserler iki ayrı sınıfta değerlendirilir; evre ya da stage dediğimiz, hasta da görülen kitlenin büyüklüğü ve grade adını verdiğimiz hücrenin saldırganlık durumuna göre bu değerlendirme yapılır.
-Böbrek kanseri birçok tipte görülebilir. Çok saldırgan ve kısa bir sürede metastaz yapan tipte kanserler görülmesinin yanında saldırgan olmayan tipte ki kanserlere de rastlanılabilir. Cerrahi operasyonla çıkarılan kitleye patalojik tetkikler yapılmasından sonra kanser tipi anlaşılır. Böbrek kanseri bu sebebi ile diğer kanser tiplerinden daha farklıdır. Böbrek kanserinin çok fazla tipi vardır.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Böbrek kanseri birçok tipte görülebilir. Çok saldırgan ve kısa bir sürede metastaz yapan tipte kanserler görülmesinin yanında saldırgan olmayan tipte ki kanserlere de rastlanılabilir. Cerrahi operasyonla çıkarılan kitleye patalojik tetkikler yapılmasından sonra kanser tipi anlaşılır. Böbrek kanseri bu sebebi ile diğer kanser tiplerinden daha farklıdır. Böbrek kanserinin çok fazla tipi vardır.
 
 ## Böbrek Kanserinin Nedenleri
 
-Hastanın cinsiyetinin erkek olması ve nikotin tüketimi böbrek kanseri oluşum riskini ikiye katlamaktadır. Sigara tüketimi birçok kanserde olduğu gibi böbrek kanserinde de risk faktörüdür. Ayrıca araştırmalara göre; şişmanlık, ağrı kesici bazı ilaçların uzun vadelerde tüketilmesi ve uzun süreli kronik diyaliz hastalarında böbrek kanseri olma ihtimali 4 misli oranda artmaktadır.
-Böbrek kanseri genetik faktörlerle de ilişkilidir. Ailesinde böbrek kanseri görülen bireyde kanser riski bulunmaktadır. Bu tip kişiler böbrek kanseri bakımından takipte kalmalıdır. Von Hipel - Lindau adı verilen kanser tipi; genetik geçiş göstermektedir ve aile üyelerinin her iki böbreklerinde birden fazla kanser oluşması ile karakterize bir hastalıktır.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hastanın cinsiyetinin erkek olması ve nikotin tüketimi böbrek kanseri oluşum riskini ikiye katlamaktadır. Sigara tüketimi birçok kanserde olduğu gibi böbrek kanserinde de risk faktörüdür. Ayrıca araştırmalara göre; şişmanlık, ağrı kesici bazı ilaçların uzun vadelerde tüketilmesi ve uzun süreli kronik diyaliz hastalarında böbrek kanseri olma ihtimali 4 misli oranda artmaktadır.
 
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Böbrek kanseri genetik faktörlerle de ilişkilidir. Ailesinde böbrek kanseri görülen bireyde kanser riski bulunmaktadır. Bu tip kişiler böbrek kanseri bakımından takipte kalmalıdır. Von Hipel - Lindau adı verilen kanser tipi; genetik geçiş göstermektedir ve aile üyelerinin her iki böbreklerinde birden fazla kanser oluşması ile karakterize bir hastalıktır.    
 
 Böbrek Kanseri hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/bobrek-kanseri)

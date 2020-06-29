@@ -19,10 +19,6 @@ summary: "Fistül oluşumuna bağlı idrar kaçırmalar. , Fistül nedir? , Fist
 youtubeId: false
 ---
 
-
-
-
-
 •	Hastanın geçmişte yaşadığı tıbbi hadiseler tetkik edilir. Önceden geçirdiği ameliyatlar ve işlemler titizlikle incelenir.
 
 •	Fizik muayene edilerek fistülün varlığı ve yeri hakkında bilgi edinilir.
@@ -37,7 +33,6 @@ youtubeId: false
 
 •	Sigmoidoskopi : Makattan bağırsağa doğru gönderilen kamera ile bağırsaktaki füstül incelenir.
 
-Teşhiste en önemli konu fistülün bölgesini ve uzunluğunu belirlemektir. Fistül ameliyatları bulunduğu bölgeye ve uzunluğuna göre değişiklik gösterir. Teşhiste elde edilen bulgular hekimin ameliyatı nasıl yapıcağını kararlaştırmasını sağlar. İyi bir hasta sorgulaması ile beraber görüntüleme yöntemlerinden mutlaka faydalanılır.
-
+Teşhiste en önemli konu fistülün bölgesini ve uzunluğunu belirlemektir. Fistül ameliyatları bulunduğu bölgeye ve uzunluğuna göre değişiklik gösterir. Teşhiste elde edilen bulgular hekimin ameliyatı nasıl yapıcağını kararlaştırmasını sağlar. İyi bir hasta sorgulaması ile beraber görüntüleme yöntemlerinden mutlaka faydalanılır.    
 
 Fistül hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/fistul-idrar-kacirma)

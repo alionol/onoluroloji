@@ -19,13 +19,9 @@ summary: "Cinsellik nedir?, İktidarsızlığın tedavi yöntemleri nelerdir? , 
 youtubeId: "uN6kLz2UbFA"
 ---
 
-
-
-
-
 ## Erken Boşalma Nedir?
 
-Her üç erkekten biri yaşam boyunca erken boşalma sorunu ile karşılaşmaktadır. Vajinaya temastan sonra 1 dakikadan önce boşalmaya erken boşalma denir. Kadınlar penis vajinaya girdikten sonra ortalama 4 buçuk dakikada boşalır. Bu noktada ön sevişmenin önemi büyüktür. Erken boşalmanın çeşitli sebepleri vardır.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Her üç erkekten biri yaşam boyunca erken boşalma sorunu ile karşılaşmaktadır. Vajinaya temastan sonra 1 dakikadan önce boşalmaya erken boşalma denir. Kadınlar penis vajinaya girdikten sonra ortalama 4 buçuk dakikada boşalır. Bu noktada ön sevişmenin önemi büyüktür. Erken boşalmanın çeşitli sebepleri vardır.
 
 ## Erken Boşalma Nedenleri
 
@@ -49,20 +45,18 @@ Her üç erkekten biri yaşam boyunca erken boşalma sorunu ile karşılaşmakta
 
 ## Erken Boşalma Tedavisi
 
-Tedavideki ana prensip önce erken boşalmanın sebebini bulup daha sonra erken boşalmaya neden olan refleksin gecikmesini sağlamaktır.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tedavideki ana prensip önce erken boşalmanın sebebini bulup daha sonra erken boşalmaya neden olan refleksin gecikmesini sağlamaktır.
 
-​Erken boşalmanın tedavisinde mümkünse çiftlerin beraber değerlendirilmesi tercih edilir. Çiftlerin önce ayrı ayrı sonra beraber dinlenmesiyle cinsellik uyumunun araştırılması önemlidir. Çiftler arasındaki cinsellik algısındaki farklılıklar incelenmelidir. Örneğin erkek 15 dakikada boşalsa bile kadın kendi cinsel algısından dolayı erken boşalma olarak değerlendirebilir. Bu gibi sübjektif yaklaşımlarda göz önünde bulundurmalıdır.
+​&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Erken boşalmanın tedavisinde mümkünse çiftlerin beraber değerlendirilmesi tercih edilir. Çiftlerin önce ayrı ayrı sonra beraber dinlenmesiyle cinsellik uyumunun araştırılması önemlidir. Çiftler arasındaki cinsellik algısındaki farklılıklar incelenmelidir. Örneğin erkek 15 dakikada boşalsa bile kadın kendi cinsel algısından dolayı erken boşalma olarak değerlendirebilir. Bu gibi sübjektif yaklaşımlarda göz önünde bulundurmalıdır.
 
 ### Erken Boşalmada ilaçsız Tedavi;
 
-Penis başına sürülen anestezik krem ve spreyler, prezervatif kullanımı penis hassasiyetini azaltır. Ayrıca cinsel temas esnasında ‘Stop - Start’ denilen dur başla tekniğinin öğretilmesinin erken boşalma tedavisinde yeri vardır. Erken boşalmanın tedavisinde kullanılan apış arası kaslarını güçlendiren Kegel egzersizi de hastaya tavsiye edilir. Bu egzersizi günlük yaşamında birkaç defa yaparak hasta kaslarını güçlendirir ve refleks zamanını uzatır. Erken boşalma tedavisinde alkol ve tütün kullanımının bırakılması ve erken boşalmaya sebep olacak ilaçların kesilmesi önemlidir.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Penis başına sürülen anestezik krem ve spreyler, prezervatif kullanımı penis hassasiyetini azaltır. Ayrıca cinsel temas esnasında ‘Stop - Start’ denilen dur başla tekniğinin öğretilmesinin erken boşalma tedavisinde yeri vardır. Erken boşalmanın tedavisinde kullanılan apış arası kaslarını güçlendiren Kegel egzersizi de hastaya tavsiye edilir. Bu egzersizi günlük yaşamında birkaç defa yaparak hasta kaslarını güçlendirir ve refleks zamanını uzatır. Erken boşalma tedavisinde alkol ve tütün kullanımının bırakılması ve erken boşalmaya sebep olacak ilaçların kesilmesi önemlidir.
 
 ### Erken Boşalmada İlaç Tedavisi;
 
-Erken boşalmanın ilaçla tedavisinde beyinde serotonin salgılanmasını arttıran ilaçlar kullanılır. Bu ilaçlar refkeks zamanını 8 misline kadar uzatır. Erken boşalma için kullanılan ilaçlar cinsel temastan 3 - 4 saat önce kullanılmalıdır. Yeni geliştirilen bu ilaçların son jenerasyonu olan Dapoksetin ise 1 saat önce alınabilir. İlaçların yan etkisi bulantı ve baş dönmesi yapmasıdır. Bu sebepten tedaviye düşük dozda başlamakta fayda vardır.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Erken boşalmanın ilaçla tedavisinde beyinde serotonin salgılanmasını arttıran ilaçlar kullanılır. Bu ilaçlar refkeks zamanını 8 misline kadar uzatır. Erken boşalma için kullanılan ilaçlar cinsel temastan 3 - 4 saat önce kullanılmalıdır. Yeni geliştirilen bu ilaçların son jenerasyonu olan Dapoksetin ise 1 saat önce alınabilir. İlaçların yan etkisi bulantı ve baş dönmesi yapmasıdır. Bu sebepten tedaviye düşük dozda başlamakta fayda vardır.
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Erken boşalmanın ilaçlı tedavisinde ağrı kesici bir ilaçta kullanılır. Refleks zamanını uzatır. Trisiklik Antidepresanlar da aynı şekilde refleks zamanını 5 misli kadar arttırır.
 
-Erken boşalmanın ilaçlı tedavisinde ağrı kesici bir ilaçta kullanılır. Refleks zamanını uzatır. Trisiklik Antidepresanlar da aynı şekilde refleks zamanını 5 misli kadar arttırır.
-
-
-Prensip olarak erken boşalmanın tedavisinde önce erken boşalmanın nedeni araştırılır. Daha sonrasında uygun tedavi yöntemleri belirlenir ve hastaya uygulanır. Erken boşalmanın tedavi başarısı oldukça yüksektir.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Prensip olarak erken boşalmanın tedavisinde önce erken boşalmanın nedeni araştırılır. Daha sonrasında uygun tedavi yöntemleri belirlenir ve hastaya uygulanır. Erken boşalmanın tedavi başarısı oldukça yüksektir.

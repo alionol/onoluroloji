@@ -20,16 +20,11 @@ youtubeId: "1b-lBY_g6MI"
 lightBoxImages: ["/assets/img/inmemistestiskasikfitigi.jpeg","/assets/img/inmemistestiskasikfitigi1.jpeg","/assets/img/inmemistestiskasikfitigi2.jpeg","/assets/img/inmemistestiskasikfitigi3.jpeg","/assets/img/inmemistestiskasikfitigi4.jpeg","/assets/img/inmemistestiskasikfitigi5.jpeg"]
 ---
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kasık bölgesinde yapılan 1-2 cm’lik bir kesi sayesinde kasık kanalına girilir. Kasık kanalına girdikten sonra fıtık kesesi bulunur ve bağlanır. Bu bağlama işlemi sayesinde karın boşluğu ve testis torbaları arasındaki ilişki kapatılır. Bağırsaklar, aradaki ilişki kapatıldığı için kasık kanalına giremezler. Fıtığın oluştuğu zayıf nokta geniş ise mutlaka kasık kanalının tabanı örülür ve kuvvetlendirilir. Kasık fıtığı ameliyatları kız çocukları için daha hassastır. Çünkü kasık fıtığı kesesinin içinde överler ve fallop tüpü olabilir. Bu organların zarar görmemesi lazımdır.
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yapılan çalışmalara göre; bir tarafta fıtık var ise, ileri ki dönemde yüzde 30 ihtimalle diğer tarafta da fıtık oluşabilir. Bu sebeple, gelecekte oluşabilecek riskler konusunda ebeveynler bilgilendirilmelidir. Gerekli görüldüğü takdirde bu riski ortadan kaldırmak için kasık fıtığı ameliyatında diğer tarafa da müdahale edilip önlem alınır. Gelecekte karşılaşılması muhtemel fıtık riskinin önüne geçilir.
 
-
-
-Kasık bölgesinde yapılan 1-2 cm’lik bir kesi sayesinde kasık kanalına girilir. Kasık kanalına girdikten sonra fıtık kesesi bulunur ve bağlanır. Bu bağlama işlemi sayesinde karın boşluğu ve testis torbaları arasındaki ilişki kapatılır. Bağırsaklar, aradaki ilişki kapatıldığı için kasık kanalına giremezler. Fıtığın oluştuğu zayıf nokta geniş ise mutlaka kasık kanalının tabanı örülür ve kuvvetlendirilir. Kasık fıtığı ameliyatları kız çocukları için daha hassastır. Çünkü kasık fıtığı kesesinin içinde överler ve fallop tüpü olabilir. Bu organların zarar görmemesi lazımdır.
-
-Yapılan çalışmalara göre; bir tarafta fıtık var ise, ileri ki dönemde yüzde 30 ihtimalle diğer tarafta da fıtık oluşabilir. Bu sebeple, gelecekte oluşabilecek riskler konusunda ebeveynler bilgilendirilmelidir. Gerekli görüldüğü takdirde bu riski ortadan kaldırmak için kasık fıtığı ameliyatında diğer tarafa da müdahale edilip önlem alınır. Gelecekte karşılaşılması muhtemel fıtık riskinin önüne geçilir.
-
-Hastanın acilen ameliyata alınması gereken durumlarda ameliyat komplekstir ve normale göre daha zordur. Hastanın ailesi, ameliyatın riskleri konusunda aydınlatılmalıdır. Bağırsak boğulup kangren olmuşsa, boğulan bağırsak bölümünün çıkarılabileceği aileye bildirilmelidir.
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hastanın acilen ameliyata alınması gereken durumlarda ameliyat komplekstir ve normale göre daha zordur. Hastanın ailesi, ameliyatın riskleri konusunda aydınlatılmalıdır. Bağırsak boğulup kangren olmuşsa, boğulan bağırsak bölümünün çıkarılabileceği aileye bildirilmelidir.    
 
 Çocuk kasık fıtığı hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/cocuk-kasik-fitigi)
 

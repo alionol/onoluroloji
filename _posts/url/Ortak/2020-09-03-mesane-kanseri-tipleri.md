@@ -19,16 +19,10 @@ summary: "Mesane Kanseri Nedir?  Kaç tip mesane kanseri vardır? Mesane kanseri
 youtubeId: false
 ---
 
-
-
-
-
-
 • Transisyonel hücreli kanser dediğimiz mesane kanseri tipinde, kanser oluşumu mesanenin iç yüzünde bulunan hücrelerde başlar. Transisyonel hücreli kanser etrafına sıçraması sebebiyle gösterdiği saldırganlığına göre düşük ya da yüksek evreli kanser olarak iki farklı şekilde görülür. Düşük evreli kanserler tedavi uygulanmasının ardından sık bir biçimde tekrar oluşum gösterir. Ancak düşük evreli tipte ki kanser derin kas katmanlarına ve vücudun diğer bölgelerine sıçramaz. Yüksek evreli kanserler ise kısa zamanda önce mesanede bulunan kas katmanlarına, sonra ise lenf düğümlerine yayılır. Oradan da vücudun diğer bölgelerine ulaşır. Yüksek evreli kanserler ölümcül olabilir.
 
 • Sukuamöz hücreli kanser adı verilen kanser tipinde; kanser, mesanede uzun süreden beri bulunan iltihaplanmalar nedeniyle meydana gelir.
 
-• Adenokarsinom denilen kanser tipi sık rastlanmayan bir kanser türüdür. Mesane tabakasında bulunan salgı bezi hücreleri sebebiyle oluşum gösterir.
-
+• Adenokarsinom denilen kanser tipi sık rastlanmayan bir kanser türüdür. Mesane tabakasında bulunan salgı bezi hücreleri sebebiyle oluşum gösterir.    
 
 Mesane Kanseri hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/mesane-kanseri)

@@ -19,10 +19,6 @@ summary: "Libido cinsel arzu anlamına gelmektedir. Cinsel isteksizliğin birço
 youtubeId: false
 ---
 
-
-
-
-
 •	Yüksek tansiyon için kullanılan ilaçlar, kanser için uygulanan kemoterapi tedavisi, radyoterapi, hormon bozukluğu için kullanılan ilaçlar, kortizon ilaçları, birtakım mantar ve mide koruma ilaçları, kas miktarını arttırmak amacıyla kullanılan anebolik steroitler ve birtakım antidepresan ilaçları cinsel isteğin azalmasına veya kaybolmasına neden olabilir. Aynı zaman da depresyon da kişinin cinsel arzusu üzerinde kötü etki sağlar.
 
 •	Beyinde bulunan hipofiz bezinin salgıladığı prolaktin hormonunun da görülen salgı bozuklukları cinsel isteksizliğin nedenlerinden biri olabilir.
@@ -43,7 +39,6 @@ youtubeId: false
 
 •	Erkeklerde görülen sertleşme problemi direk cinsel isteğin azalmasına neden olmaktadır. Genç erkekler de sertleşme sorunu görülmesi oranı yüzde 7, 40 yaşlarında yüzde 12, 50-60 yaş aralığında yüzde 18 ve 60 yaştan sonraki yaşlarda sertleşme sorunu görülmesi oranı yüzde 25-30’dur. Yapılan çalışmalar sayesinde erkek cinselliği yüzde 97 oranında bilinmektedir. Sertleşme probleminin giderilebilmesi için de mucizevi ilaçlar geliştirilmiştir.
 
-•	Partneri tatmin edememe kaygısı yaşayan erkekte performans anksiyetesi yaşanabilir. Buna bağlı olarak erken boşalma sorunu görülür ve kişinin cinsel arzusunda azalma yaşanır.
-
+•	Partneri tatmin edememe kaygısı yaşayan erkekte performans anksiyetesi yaşanabilir. Buna bağlı olarak erken boşalma sorunu görülür ve kişinin cinsel arzusunda azalma yaşanır.    
 
 Cinsel İsteksizlik hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/cinsel-isteksizlik)

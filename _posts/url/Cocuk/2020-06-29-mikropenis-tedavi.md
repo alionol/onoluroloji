@@ -19,11 +19,7 @@ summary: "Mikropenis doğumsal bir anomalidir. Erken teşhisin önemli olduğu m
 youtubeId: false
 ---
 
-
-
-
-
-Mikropenis tanısı konan hastalarda ilk olarak gerekli olması durumunda aşağıda belirtilen laboratuvar testleri uygulanmalıdır. Mikropenise neden olan faktörün kesin olarak belirlenebilmesi için bu testler uygulanır. Mikropenisin sebebi kesin olarak belirlendikten sonra alınan sonuç baz alınarak tedavi planlaması yapılır.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mikropenis tanısı konan hastalarda ilk olarak gerekli olması durumunda aşağıda belirtilen laboratuvar testleri uygulanmalıdır. Mikropenise neden olan faktörün kesin olarak belirlenebilmesi için bu testler uygulanır. Mikropenisin sebebi kesin olarak belirlendikten sonra alınan sonuç baz alınarak tedavi planlaması yapılır.
 
 •	Kromozomal seks tayini yapılır (erkekler 46 xy, kadınlar 46xx).
 •	Beyinden salgılanan LH ve FSH hormon testi yapılır.
@@ -32,14 +28,14 @@ Mikropenis tanısı konan hastalarda ilk olarak gerekli olması durumunda aşağ
 •	Tiroit hormonlarına bakılır.
 •	Böbrek üstü bezi hormonlara bakılır.
 
-Testlerden sonra gerekli durumlarda görüntüleme yöntemleri kullanılarak mikropenis hususunda detaylı bilgi alınır.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Testlerden sonra gerekli durumlarda görüntüleme yöntemleri kullanılarak mikropenis hususunda detaylı bilgi alınır.
+
 •	Tüm karın ultrasonografisi kullanılarak çocuğun rahim ve kadın yumurtalıklarının varlığına bakılır ve çift cinsiyet şüphesi konusunda netlik kazanılır.
 •	Çocukta ki mikropenis beyinde bulunan salgı bozukluğuna bağlı olarak görülüyorsa beyin emarı istenir.
 •	Yine çift cinsiyet ihtimali açısından çocuğun karın içine laparoskopik işlem uygulanır. Minyatür kameralar yardımıyla karın içi organları gözlemlenir ve rahim veya yumurtalık olup olmadığına bakılır.
 
-Erken tanı konması durumunda, uygunluk halinde hormon tedavisi uygulanarak çocukta normal bir erkeklik organı ve testis oluşumu sağlanabilir. Fakat ne yazık ki mikropenis geç teşhis edildiğinde tedavi güçleşir. Mikropenis tedavisinin erken dönemde yapılması daha iyi bir sonuç alınmasını sağlar. Çocuğun diğer hormonlarında da eksiklik görülmesi durumunda uygun hormon tedavisi de uygulanır. Hormon tedavisinin uygulanmasından sonra çocuklar normal yetişkin görünümüne erişir. Hormon tedavisi esnasında ve tedavi bitiminden sonra hastalar belirli aralıklarla izlenmelidir.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Erken tanı konması durumunda, uygunluk halinde hormon tedavisi uygulanarak çocukta normal bir erkeklik organı ve testis oluşumu sağlanabilir. Fakat ne yazık ki mikropenis geç teşhis edildiğinde tedavi güçleşir. Mikropenis tedavisinin erken dönemde yapılması daha iyi bir sonuç alınmasını sağlar. Çocuğun diğer hormonlarında da eksiklik görülmesi durumunda uygun hormon tedavisi de uygulanır. Hormon tedavisinin uygulanmasından sonra çocuklar normal yetişkin görünümüne erişir. Hormon tedavisi esnasında ve tedavi bitiminden sonra hastalar belirli aralıklarla izlenmelidir.
 
-Mikropenisin geç teşhis edildiği vakalarda da hormon tedavisi yapılır. Fakat bu tedaviler erken döneme kıyasla daha az verimliliğe sahiptir. Çocuğu yaşı ilerledikçe erkek tipi kıllanma ve kas kemik gelişimi tatmin edici oranda olmayabilir.
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mikropenisin geç teşhis edildiği vakalarda da hormon tedavisi yapılır. Fakat bu tedaviler erken döneme kıyasla daha az verimliliğe sahiptir. Çocuğu yaşı ilerledikçe erkek tipi kıllanma ve kas kemik gelişimi tatmin edici oranda olmayabilir.    
 
 Mikropenis hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/mikropenis)

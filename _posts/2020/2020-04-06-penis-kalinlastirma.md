@@ -24,16 +24,16 @@ Penis büyütme; penis uzatma ve penis kalınlaştırma olarak incelenir. Bu yaz
 ## Penis Anatomisi
 
 ![Penis Anatomisi](/assets/img/penisanotimisi.jpeg){:.size1}
-Penis erkek cinsel organıdır. Penis; penis başı, penisin sertleşmesini sağlayan iki adet çubuksu yapı ve idrarı dışarı atmayı sağlayan idrar kanalı olarak 3 ana parçadan oluşur.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Penis erkek cinsel organıdır. Penis; penis başı, penisin sertleşmesini sağlayan iki adet çubuksu yapı ve idrarı dışarı atmayı sağlayan idrar kanalı olarak 3 ana parçadan oluşur.
 
 ## Penis Kalınlaştırma Nedir?
 
-Penisin ereksiyon halindeki çevre uzunluğu 10-11.5 cm’dir. Penis cilti içerisine doku aktarımıyla penis kalınlaştırılması gerçekleşir. Genellikle psikolojik nedenlerle hastalar kalınlaştırma talebinde bulunur.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Penisin ereksiyon halindeki çevre uzunluğu 10-11.5 cm’dir. Penis cilti içerisine doku aktarımıyla penis kalınlaştırılması gerçekleşir. Genellikle psikolojik nedenlerle hastalar kalınlaştırma talebinde bulunur.
 
 ## Penis Kalınlaştırma Ameliyatı
 
-Tam sertleşmiş normal bir penisin kalınlığının çevre uzunluğu 10 – 11.5 cm’dir. Penis kalınlaştırma operasyonu karın bölgesinden liposakşınla alınan yağ dokusunun penis cildi altına kalın bir iğne ile 20-30 ml kadar enjekte edilmesiyle gerçekleşir. Bu yağ dağılımı penis etrafına simetrik bir şekilde yapılmalıdır. Ancak penis başına (glans) yağ enjekte edilemez. Yani penise simetrik bir yağ dağılımı yapılsa bile hastalar penis başı küçük kaldığı için görüntüden hoşnut olmayabilir. Ayrıca enjekte edilen yağ 1 yıl içerisinde yüzde 50-60 erir ve kaybolur. Penis kalınlaştırma yapılırken yağ dağılımının asimetrik olması ve yağın zamanla erimesinden dolayı asimetrik bir görüntü oluşması eskisinden daha kötü bir estetik görüntü yaratır.  Bu durumda başka merkezlerde ameliyat edilmiş hastalar tarafımızdan yağ dokusunun çıkarılmasıyla eski haline dönerler. Bu sebeplerden dolayı yağ enjekte ederek penis kalınlaştırma tercih edilen bir yöntem değildir.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tam sertleşmiş normal bir penisin kalınlığının çevre uzunluğu 10 – 11.5 cm’dir. Penis kalınlaştırma operasyonu karın bölgesinden liposakşınla alınan yağ dokusunun penis cildi altına kalın bir iğne ile 20-30 ml kadar enjekte edilmesiyle gerçekleşir. Bu yağ dağılımı penis etrafına simetrik bir şekilde yapılmalıdır. Ancak penis başına (glans) yağ enjekte edilemez. Yani penise simetrik bir yağ dağılımı yapılsa bile hastalar penis başı küçük kaldığı için görüntüden hoşnut olmayabilir. Ayrıca enjekte edilen yağ 1 yıl içerisinde yüzde 50-60 erir ve kaybolur. Penis kalınlaştırma yapılırken yağ dağılımının asimetrik olması ve yağın zamanla erimesinden dolayı asimetrik bir görüntü oluşması eskisinden daha kötü bir estetik görüntü yaratır.  Bu durumda başka merkezlerde ameliyat edilmiş hastalar tarafımızdan yağ dokusunun çıkarılmasıyla eski haline dönerler. Bu sebeplerden dolayı yağ enjekte ederek penis kalınlaştırma tercih edilen bir yöntem değildir.
 
-​**Bizim uyguladığımız penis kalınlaştırma tekniğinde** ise skrotum (testis torbası) torbasının içinden dörtgen şeklinde geniş, saplı dartos flap (doku) çıkarıp hazırlıyoruz. Penisin cilt altından çevresine 360 derece sarıp penis cildini kapatıyoruz. Böylece hem simetrik hem daha düzgün bir kalın penis elde ediyoruz.
+​&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Bizim uyguladığımız penis kalınlaştırma tekniğinde** ise skrotum (testis torbası) torbasının içinden dörtgen şeklinde geniş, saplı dartos flap (doku) çıkarıp hazırlıyoruz. Penisin cilt altından çevresine 360 derece sarıp penis cildini kapatıyoruz. Böylece hem simetrik hem daha düzgün bir kalın penis elde ediyoruz.
 
-Ayrıca ölü insanlardan alınan greflerde (iç yama) penis cilt altına yerleştirilerek penis kalınlaştırma sağlanabiliyor.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ayrıca ölü insanlardan alınan greflerde (iç yama) penis cilt altına yerleştirilerek penis kalınlaştırma sağlanabiliyor.

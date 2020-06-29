@@ -19,14 +19,8 @@ summary: "Fistül oluşumuna bağlı idrar kaçırmalar. , Fistül nedir? , Fist
 youtubeId: false
 ---
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fistül, 2 organ arasında normal şartlarda bulunmaması gereken kanaldır. Bu kanallar normalde vücutta olmaz. Bazı sebeplere bağlı olarak oluşurlar. Kazalar veya geçirilen operasyon sonrasında gelişen komplikasyonlar fistül oluşmasının ana nedenlerindendir. Bir çok farklı noktada fistül oluşumu gözlenir. Normalde olmayan ve sonradan oluşan bu kanallar; atardamar ve toplardamar, vajina ve işeme sistemi, vajina ve bağırsak arasında oluşurlar. Bu sistemler normalde birbirleriyle bağlantılı olmamalıdırlar. Sonradan oluşan fistül bir yol oluşturarak organları istenmeyen şekilde birbirine bağlar.
 
-
-
-
-Fistül, 2 organ arasında normal şartlarda bulunmaması gereken kanaldır. Bu kanallar normalde vücutta olmaz. Bazı sebeplere bağlı olarak oluşurlar. Kazalar veya geçirilen operasyon sonrasında gelişen komplikasyonlar fistül oluşmasının ana nedenlerindendir. Bir çok farklı noktada fistül oluşumu gözlenir. Normalde olmayan ve sonradan oluşan bu kanallar; atardamar ve toplardamar, vajina ve işeme sistemi, vajina ve bağırsak arasında oluşurlar. Bu sistemler normalde birbirleriyle bağlantılı olmamalıdırlar. Sonradan oluşan fistül bir yol oluşturarak organları istenmeyen şekilde birbirine bağlar.
-
-Vajina ve idrar sistemi arasında oluşan fistüle ürovajinal fistül denir. Ürovajinal fistüllerde idrar devamlı olarak kadınlık organından gelir. idrar sistemindeki idrar fistül yolunu bularak vajinanın içinden akar. Vajina ve rektum (bağırsak) arasında oluşan fistüle rektovajinal fistül denir. Bu fistüllerde vajinadan dışkı gelir. Hastanın yaşamını ciddi anlamda etkileyen bir durumdur. Fistüller psikolojik yönden hastayı olumsuz yönde etkiler. Sosyal yaşam aktivitelerini kısıtlar. Hijyen bakımından büyük sorun teşkil eder. Fistülün tedavi edilmesi hasta psikolojisi açısından son derece önemlidir.
-
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vajina ve idrar sistemi arasında oluşan fistüle ürovajinal fistül denir. Ürovajinal fistüllerde idrar devamlı olarak kadınlık organından gelir. idrar sistemindeki idrar fistül yolunu bularak vajinanın içinden akar. Vajina ve rektum (bağırsak) arasında oluşan fistüle rektovajinal fistül denir. Bu fistüllerde vajinadan dışkı gelir. Hastanın yaşamını ciddi anlamda etkileyen bir durumdur. Fistüller psikolojik yönden hastayı olumsuz yönde etkiler. Sosyal yaşam aktivitelerini kısıtlar. Hijyen bakımından büyük sorun teşkil eder. Fistülün tedavi edilmesi hasta psikolojisi açısından son derece önemlidir.    
 
 Fistül hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/fistul-idrar-kacirma)

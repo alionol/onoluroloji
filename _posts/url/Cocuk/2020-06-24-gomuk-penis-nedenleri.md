@@ -19,10 +19,6 @@ summary: "Gömük Penis Nedir? , Gömük Penisli çocuklar sünnet edilmeli midi
 youtubeId: false
 ---
 
-
-
-
-
 •	Çocuklar sünnet edilirken penis derisinin az veya çok kesilmesi,
 
 •	Doğumsal bir durum olarak, penisin tutucu bağlarının normalden zayıf olması veya gelişmemiş olması,
@@ -37,7 +33,6 @@ gömük penisin nedenleri arasındadır.
 
 ## Gömük Penis Hangi Sorunlara Yol Açar?
 
-Gömük penis hastalarında işeme güçlüğü sebebiyle hastalar testis torbasını ve bacaklarını ıslatırlar. Bu durum, idrarın içeriğindeki asit sebebiyle, ciltte tahrişlere neden olur. Aynı zamanda penis cildinde ve penis başında da kızarıklık ve iltihap bulgularına sebebiyet verir. Gömük penis vakalarında peniste kırışıklıklar oluşur. Bu kırışıklıklar iltihaplanmaya neden olur. Gömük penis hastalığı hem ciddi hijyen sorunlarına hem de ergenlikte sertleşme sorununa sebep olur. Gömük penisli olan hastalarda cinsel birliktelik zorlaşır. Bu vakalarda hastanın kendine güveni azalır ve bu durum depresyon, anksiyete gibi ruhsal bozukluklara neden olabilir.
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gömük penis hastalarında işeme güçlüğü sebebiyle hastalar testis torbasını ve bacaklarını ıslatırlar. Bu durum, idrarın içeriğindeki asit sebebiyle, ciltte tahrişlere neden olur. Aynı zamanda penis cildinde ve penis başında da kızarıklık ve iltihap bulgularına sebebiyet verir. Gömük penis vakalarında peniste kırışıklıklar oluşur. Bu kırışıklıklar iltihaplanmaya neden olur. Gömük penis hastalığı hem ciddi hijyen sorunlarına hem de ergenlikte sertleşme sorununa sebep olur. Gömük penisli olan hastalarda cinsel birliktelik zorlaşır. Bu vakalarda hastanın kendine güveni azalır ve bu durum depresyon, anksiyete gibi ruhsal bozukluklara neden olabilir.    
 
 Gömük penis hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/gomuk-penis)
