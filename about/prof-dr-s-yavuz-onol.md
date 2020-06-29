@@ -14,20 +14,21 @@ who_img: "doctor-1"
 who_img_alt: "Prof. Dr. Ş. Yavuz ÖNOL"
 who_summary: ""
 ---
-
+![Prof.Dr.Yavuz-Onol](/assets/img/author/doctor-1.jpg)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Prof Dr. Ş. Yavuz ÖNOL, Türk Silahlı Kuvvetleri'nin değişik kademelerinde 33 yıl boyunca başasistan, yardımcı doçent, doçent ve profesör olarak eğitim ve araştırma faaliyetlerinde bulunup öğretim üyesi ve klinik şefliği görevlerini icra ettikten sonra kıdemli Albay olarak emekli olmuştur. Sonrasında eğitim araştırma faaliyetlerine Üroloji Klinik Şefi ve Üroloji Anabilim Dalı Başkanı olarak devam etmiştir. Bu görevler esnasında bir çok üroloğun eğitiminde rol oynamıştır. Kariyeri boyunca **427 adet ulusal ve uluslararası yayın ve bildiriye imza atmıştır.** Ayrıca **2 adet dünya tıp literatürüne girmiş ameliyat teknikleriyle (TURC Tekniği Ve ONOL Tekniği),** üroloji bilim dalına katkı sağlamıştır. 1990’dan bu yana profesör olarak çalışmalarına devam eden Önol, ayrıca **çocuk ürolojisi üst ihtisas diplomasına** da sahiptir. Kariyeriyle dünya üroloji camiasında tanınmış bir hekimdir. Çalışmalarını daha çok ürolojik kanser cerrahisi, çocuk ürolojisi, kadın ürolojisi ve rekonstrüktif üroloji konularında yoğunlaştırmıştır. Spesifik olarak da erkek ve kadın üretroplasti alanında tanınmaktadır.
 
-## Öğrenim Durumu:
+## Öğrenim Durumu
 
-![Yavuz-Onol-CV-1](/assets/img/yavuz_onol_cv_1.jpeg)
+![Yavuz-Onol-CV-2](/assets/img/yavuz_onol_cv_2.png){:.size2.center}
 
-## Görevler:
+## Görevler
 
-![Yavuz-Onol-CV-2](/assets/img/yavuz_onol_cv_2.jpeg)
+![Yavuz-Onol-CV-1](/assets/img/yavuz_onol_cv_1.png){:.size2.center}
 
-## Yöneltilen Doktora Tezleri / Sanatta Yetelilik Çalışmaları :
+## Yöneltilen Doktora Tezleri / Sanatta Yetelilik Çalışmaları
 
 **1.** Halil İbrahim Çam Asis. Dr. "Snodgrass tekniği ile yapılan distal hipospadias onarımında çift kar dartos flap kullanımının etkinliği" Uzmanlık Tezi /2002 - 2007) - Tez Danışmanı : Prof. Dr. **Şinasi Yavuz Önol**
+
 
 **2.** Mesut cilli Asis Dr. "Èkstraperitoneal sistektominin literatürdeki intraperitoneal sistektomi ile karşılaştırılması" uzmanlık Tezi (2005 - 2010) - Tez Danışmanı : Prof. Dr. **Şinasi Yavuz Önol**
 
@@ -56,7 +57,7 @@ who_summary: ""
 
 **1993 - 2005 yılları arasında değişik zamanlarda 15’er gün Amerika’da bulunan aşağıdaki üroloji merkezlerinde bilgi alışverişinde bulunma**
 
-## Bilimsel kuruluşlara üyelikler :
+## Bilimsel kuruluşlara üyelikler
 
 + Türk Üroloji Derneği,
 + Ürolojik Cerrahi Derneği,
@@ -70,7 +71,7 @@ who_summary: ""
 
 ## ESERLER
 
-### A. Uluslararası hakemli dergilerde yayımlanan makaleler :
+### A. Uluslararası hakemli dergilerde yayımlanan makaleler
 
 **A1.** Fourniers’ Disease: Adjunctive hyperbaric oxygen therapy to classic therapy. Baykal K., Albayrak S., İnan H., Elbuken E., Dudar S., **ÖNOL Y.,** internatonal Journal of Urology 3:2 161-162,1996
 
@@ -128,7 +129,7 @@ who_summary: ""
 
 **A28.** Polat EC, Erdem MR, Topaktas R, Ersoz C, **ONOL SY.** Our experiences in chordee without hypospadias: results of 102 cases. Urol J. 2014 Sep 6; 11(4):1783-7
 
-### B. Uluslararası bilimsel toplantılarda sunulan ve bildiri kitabında basilan bildiriler:
+### B. Uluslararası bilimsel toplantılarda sunulan ve bildiri kitabında basilan bildiriler
 
 **B1.** Sexual Function Following Nerve Sparing Radical Prostatectomy: Result of !5 Cases. **ONOL Y**, Albayrak S, Erden D, işeri C, Tuncay S., Şahin C, International Congress Andrology April 21-24 1993, Antalya
 
@@ -328,7 +329,7 @@ who_summary: ""
 
 **B99.** Onol F F, **Onol S Y**, Tahra A, Boylu U.STEP-BY-STEP DESCRIPTION OF THE TURC (TOTAL UTILIZATION OF RETROPERITONEUM FOR COLPOPEXY) TECHNIQUE FOR ADVANCED APICAL PROLAPSE 44th Meeting of the International Continence Society,20-24 Ekim 2014, Rio de Janeiro, Brezilya, abstract ID:000063
 
-### C. Ulusal hakemli dergilerde yayımlanan makaleler:
+### C. Ulusal hakemli dergilerde yayımlanan makaleler
 
 **C1.** Nüks dev median ve paramedian insizyonel hemiler basit bir teknikle nasıl onarılır. **ONOL Ş.Y..**, Türk Uroloji Dergisi, Cilt 11 61-67 1985
 
@@ -486,7 +487,7 @@ who_summary: ""
 
 **C78.** Pelin Yıldız, Zuhal Gucin, Fatma Cavide Sönmez, Zeynep Tosuner, Dilek Sema Arıcı, **Yavuz Şinasi Önol.** Periurethral Hemangioma - A Rare Case. ACU Sağlık Bil Derg 2014(4):293-295
 
-### D. Ulusal bilimsel toplantılarda sunulan ve bildiri kitaplarında basılan bildiriler:
+### D. Ulusal bilimsel toplantılarda sunulan ve bildiri kitaplarında basılan bildiriler
 
 **1.** Renal hipotermi ve koraliform taş cerrahisi. **ÖNOL. Ş.Y.**, Karadeniz M., Tırpan S., Y. Sargın, VII Ulusal Üroloji Kongresi, 7-11 Ekim 1985, Datça
 
@@ -927,13 +928,13 @@ katılımlı) Antalya Türkiye, 10 - 15 Haziran Türk Uroloji Dergisi, Kongre Ö
 
 **220.** lsmail Başıbüyük, Fatih Elbir, Sina Kardaş, Muhammed Tosun, Yunus Kayalı, **Şinasi Yavuz Onol.** 7 cm üzeri böbrek tümörlerinde parsiyel nefrektomi. Disiplinler Arası Uroonkoloji Toplantısı. İzmir, Türkiye. 28-30 Kasım 2014.
 
-### E. Diğer yayınlar:
+### E. Diğer yayınlar
 
 ** Ulusal kitaplarda yazılan bölümler: **
 
 **1.** **Önol ŞY**, Onol F F. Metastalık testis tümörlerinde kemoterapi sonrası artık kitle rezeksiyonu. Özen H, Türkeri L (editörler), Üroonkoloji Kitabı. Cilt II, Bölüm VI, sf. 1143 - 1152, 2007.
 
-### F. Uluslararası makalelere yapılan atıflar:
+### F. Uluslararası makalelere yapılan atıflar
 
 **F1. Armagan A, Tepeler A, Silay MS, Ersoz C, Akcay M, Akman T, Erdem MR, Onol SY. Micropercutaneous nephrolithotomy in the treatment of moderate-size renal calculi. J Endourol. 2013 Feb;27(2):177-81**
 

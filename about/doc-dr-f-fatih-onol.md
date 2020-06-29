@@ -14,7 +14,7 @@ who_img: "doctor-2"
 who_img_alt: "Doç. Dr. Fikret Fatih Önol"
 who_summary: ""
 ---
-
+![Doc.Dr.Fatih-Onol](/assets/img/author/doctor-2.jpg){:.size1}
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lise eğitimini İstanbul Beşiktaş Atatürk Anadolu Lisesi'nde, tıp eğitimini Marmara Üniversitesi Tıp Fakültesi’nde tamamladı. Üroloji Uzmanlık eğitimini Marmara Üniversitesi Tıp Fakültesi Üroloji Ana Bilim Dalı’nda tamamlayan Dr. F. Fatih ÖNOL, 2001 ve 2002 yılları arasında ABD’nin Philadelphia kentindeki Thomas Jefferson University Hospital (TJU Üniversitesi Hastanesi) Üroloji Anabilim Dalı’nda gözlemci doktor olarak bulundu. Aynı üniversitede Mart-Haziran 2002 tarihleri arasında Genel Cerrahi rotasyonu yaptı. 2003 yılında ABD’nin Philadelphia kentindeki University of Pennsylvania Hospital – UPENN Hastanesi Üroloji Anabilim Dalı ve Children’s Hospital of Philadelphia – CHOP Hastanesi Pediatrik Üroloji Anabilim Dalı’nda gözlemci doktor olarak çalıştı.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aralık 2005 - Kasım 2006 arasında Marmara Üniversitesi Tıp Fakültesi Vakfı, Özel Academic Hospital'da Üroloji Uzmanı olarak çalıştı. Kasım 2006 - Eylül 2010 tarihleri arasında T.C. Sağlık Bakanlığı Sakarya Eğitim ve Araştırma Hastanesi’nde (SEAH) uzman doktor olarak görev yaptı.
