@@ -31,14 +31,12 @@ youtubeId: false
 
 •	Bazı mikropenis vakalarında; beyindeki ve testislerde ki salgıda, erkeklik hormonunu aktif hale getiren enzimde bir sorun olmamasına rağmen çocuğun dış genital organında bunların algısını sağlayacak reseptör adı verilen alıcılar tam değildir. Bu problem de kalıtsal bozukluğa bağlı olarak yaşanmaktadır. Mikropenisin sebeplerinden biridir.
 
-Çocuğun iki testisinin de normal lokasyonunda bulunması sağlıklı bir erkek genetik tipine sahip olduğunun göstergesidir. Ancak bebeğin testisleri elle hissedilmemiş ve erkeklik organının alt kısmında bulundan idrar kanalı oluşum göstermemiş ise bu bebeklere genetik cinsiyet tayini işlemi yapılmalıdır.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Çocuğun iki testisinin de normal lokasyonunda bulunması sağlıklı bir erkek genetik tipine sahip olduğunun göstergesidir. Ancak bebeğin testisleri elle hissedilmemiş ve erkeklik organının alt kısmında bulundan idrar kanalı oluşum göstermemiş ise bu bebeklere genetik cinsiyet tayini işlemi yapılmalıdır.
 
-Aşırı kilolu ve obezite hastası çocukların erkeklik organları, vücutlarında ki aşırı yağlanmaya bağlı olarak küçük olabilir. Ancak bu çocuklarının penisleri gerdirildiğinde normal boyutlarda olduğu görülür. Böyle durumlarda ki çocukların penisleri yalnızca penis etrafında ki yağ birikiminden dolayı içine gömük haldedir, bu nedenle çocukların penisi küçük görünür. Böyle durumlar gömük penis adını verdiğimiz hastalık adı altında incelenir. Fakat çocuğun penis boyu 4 cm’den az ise ve hipospadias, inmemiş testis gibi doğumsal anomaliler de bulunuyorsa daha detaylı şekilde incelenmelidir.
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aşırı kilolu ve obezite hastası çocukların erkeklik organları, vücutlarında ki aşırı yağlanmaya bağlı olarak küçük olabilir. Ancak bu çocuklarının penisleri gerdirildiğinde normal boyutlarda olduğu görülür. Böyle durumlarda ki çocukların penisleri yalnızca penis etrafında ki yağ birikiminden dolayı içine gömük haldedir, bu nedenle çocukların penisi küçük görünür. Böyle durumlar gömük penis adını verdiğimiz hastalık adı altında incelenir. Fakat çocuğun penis boyu 4 cm’den az ise ve hipospadias, inmemiş testis gibi doğumsal anomaliler de bulunuyorsa daha detaylı şekilde incelenmelidir.
 
 ## Klinefelter Sendromu
 
-Klinefelter sendromu mikropenise neden olan faktörlerden biridir. Normal bir genetiğe sahip erkek 46 xy karyotipte görülür. Ancak Klinefelter sendromu hastaları 47 xxy karyotiptedir. Testis gelişimini ve sperm oluşumunu bozan bir hastalıktır. Klinefelter sendromu hastalarının jinekomasti adı verilen kız çocuğu tipinde memeleri vardır ve testisleri küçüktür. Bacak, kol ve ellerde orantısızlık görülür. Bu vakalarda ki çocuklarda öğrenme bozukluğu da görülebilir. Bu durumlarda ki hastalarda kalıtsal kromozom bozukluğuna bağlı olarak mikropenis görülebilmektedir.
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Klinefelter sendromu mikropenise neden olan faktörlerden biridir. Normal bir genetiğe sahip erkek 46 xy karyotipte görülür. Ancak Klinefelter sendromu hastaları 47 xxy karyotiptedir. Testis gelişimini ve sperm oluşumunu bozan bir hastalıktır. Klinefelter sendromu hastalarının jinekomasti adı verilen kız çocuğu tipinde memeleri vardır ve testisleri küçüktür. Bacak, kol ve ellerde orantısızlık görülür. Bu vakalarda ki çocuklarda öğrenme bozukluğu da görülebilir. Bu durumlarda ki hastalarda kalıtsal kromozom bozukluğuna bağlı olarak mikropenis görülebilmektedir.    
 
 Mikropenis hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/mikropenis)

@@ -19,21 +19,16 @@ summary: "Mesane Kanseri Nedir?  Kaç tip mesane kanseri vardır? Mesane kanseri
 youtubeId: false
 ---
 
-
-
-
-
 ## Mesane Nedir?
 
-Mesane insan vücudunda bulunan idrar torbasıdır. Karın bölgesinin alt tarafında bulunan mesane balon şekliyle benzerlik gösterir. Böbreklerden gelen idrarı kendi içinde biriktirme işlevini sağlayan bir organdır. Böbreklerin ürettiği idrarın depolanmasını sağlar. Mesanede bulunan kaslar genişleyip daralarak mesane içinde idrarın depolanmasına sebep olur. İnsanların bel bölgesinde, omurga kemiğinin iki tarafında iki tane böbrek bulunur. Böbreğin içindeki kanı süzer ve idrar oluşumunu sağlar. Böbrekte oluşan idrar üreter aracılığıyla mesaneye iletilir. Mesanede toplanan idrar ise üretra adı verilen idrar kanalı ile vücuttan dışarı çıkar.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mesane insan vücudunda bulunan idrar torbasıdır. Karın bölgesinin alt tarafında bulunan mesane balon şekliyle benzerlik gösterir. Böbreklerden gelen idrarı kendi içinde biriktirme işlevini sağlayan bir organdır. Böbreklerin ürettiği idrarın depolanmasını sağlar. Mesanede bulunan kaslar genişleyip daralarak mesane içinde idrarın depolanmasına sebep olur. İnsanların bel bölgesinde, omurga kemiğinin iki tarafında iki tane böbrek bulunur. Böbreğin içindeki kanı süzer ve idrar oluşumunu sağlar. Böbrekte oluşan idrar üreter aracılığıyla mesaneye iletilir. Mesanede toplanan idrar ise üretra adı verilen idrar kanalı ile vücuttan dışarı çıkar.
 
 ## Mesane Kanseri Nedir?
 
-Mesane kanserinin en büyük risk faktörü sigara kullanımıdır. İdrardan kan gelmesi gibi belirtileri mevcuttur. 50 yaş üstü erkeklerde daha yüksek risk grubundadır. Mesane kanserinin kapalı ve açık cerrahi yöntemleri vardır. Mesane kanseri mesanenin iç yüzeyinde oluşum gösterir. Daha sonra mesanede bulunan katmanlara doğru yönelir. Ancak kanserin yüzde 70’i daha derin katmanlara ulaşamaz. Bu yüzde 70’lik mesane kanseri ameliyatı kapalı teknik kullanılarak ameliyat edilebilir. Daha derin katmanlara ulaşan yüzde 30 oranında görülen mesane kanserlerinde ise mesanenin bütünüyle alınması ve yeni bir mesane yapılmasına ihtiyaç duyulur. Bu vakalarda yapılan ameliyatlar fazlasıyla tecrübe ve yetenek isteyen operasyonlardır. Mesane kanserinin tedavisi tipine göre ve evrelerine göre değişiklik gösterir. Mesane kanseri ameliyatları kanser cerrahisinde uzman hekimler tarafından planlanmalıdır.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mesane kanserinin en büyük risk faktörü sigara kullanımıdır. İdrardan kan gelmesi gibi belirtileri mevcuttur. 50 yaş üstü erkeklerde daha yüksek risk grubundadır. Mesane kanserinin kapalı ve açık cerrahi yöntemleri vardır. Mesane kanseri mesanenin iç yüzeyinde oluşum gösterir. Daha sonra mesanede bulunan katmanlara doğru yönelir. Ancak kanserin yüzde 70’i daha derin katmanlara ulaşamaz. Bu yüzde 70’lik mesane kanseri ameliyatı kapalı teknik kullanılarak ameliyat edilebilir. Daha derin katmanlara ulaşan yüzde 30 oranında görülen mesane kanserlerinde ise mesanenin bütünüyle alınması ve yeni bir mesane yapılmasına ihtiyaç duyulur. Bu vakalarda yapılan ameliyatlar fazlasıyla tecrübe ve yetenek isteyen operasyonlardır. Mesane kanserinin tedavisi tipine göre ve evrelerine göre değişiklik gösterir. Mesane kanseri ameliyatları kanser cerrahisinde uzman hekimler tarafından planlanmalıdır.
 
 ## Tekrarlayan Mesane Kanseri Ne Demektir?
 
-Mesane kanseri için gerekli tedavinin uygulanmasının akabinde tekrar mesanenin içinde ya da vücudun diğer bölgelerinde kanser görülmesidir.
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mesane kanseri için gerekli tedavinin uygulanmasının akabinde tekrar mesanenin içinde ya da vücudun diğer bölgelerinde kanser görülmesidir.    
 
 Mesane Kanseri hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/mesane-kanseri)

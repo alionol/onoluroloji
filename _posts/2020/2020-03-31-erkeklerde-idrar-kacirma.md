@@ -23,9 +23,9 @@ youtubeId: False
 
 ### İdrar Nasıl Atılır?
 
-Mesane (idrar torbası), böbreklerde oluşan idrarı depolar. Mesane duvarındaki sinir uçları, mesane belirli miktarda idrar dolduğunda beyine uyarı gönderir. Uyarı gittikten sonra, işemeye elverişli bir ortam varsa, mesane adalesi kasılır. Aynı anda 2 adet idrarı tutan sfinkter dediğimiz idrar tutucu mekanizma gevşer ve idrar dışarıya atılır. Ortam uygun değilse, beyin mesane adalesine “biraz daha sabret mesajı” göndererek idrar kesesi içerisinde idrar artışı olsa bile işeme hissi kaybolur.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mesane (idrar torbası), böbreklerde oluşan idrarı depolar. Mesane duvarındaki sinir uçları, mesane belirli miktarda idrar dolduğunda beyine uyarı gönderir. Uyarı gittikten sonra, işemeye elverişli bir ortam varsa, mesane adalesi kasılır. Aynı anda 2 adet idrarı tutan sfinkter dediğimiz idrar tutucu mekanizma gevşer ve idrar dışarıya atılır. Ortam uygun değilse, beyin mesane adalesine “biraz daha sabret mesajı” göndererek idrar kesesi içerisinde idrar artışı olsa bile işeme hissi kaybolur.
 
-İşeme kanalının arkasında bulunan iki adet sfinkterin (idrar tutucu adale halkası) birincisi, otomatik kontrolü sağlar. İstek dışı kasılarak idrarın kaçmasını önler. İkinci sfinkter ise istemlidir. İstenildiği zaman idrarı yaparken, idrarı tutabilmeyi sağlar.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;İşeme kanalının arkasında bulunan iki adet sfinkterin (idrar tutucu adale halkası) birincisi, otomatik kontrolü sağlar. İstek dışı kasılarak idrarın kaçmasını önler. İkinci sfinkter ise istemlidir. İstenildiği zaman idrarı yaparken, idrarı tutabilmeyi sağlar.
 
 
 ### İdrar Kaçırma Sebepleri
@@ -75,16 +75,16 @@ Her iki idrar tutucu mekanizmanın tamamen hasar gördüğü durumlarda idrar ko
 
 - Ürodinami denilen, mesanenin dolma ve boşalmasını grafiklerle gösteren kayıt cihazıyla idrar boşaltma sistemi incelenir.
 
-Hasta sorgulanırken idrar kaçırmasının aralıklı mı devamlı mı olduğu, sık işemesi, sıkışma ve idrar yaparken yanmanın olup olmadığı, kabızlık ve gaita kaçırmanın mevcudiyeti, daha önce prostat ameliyatı geçirip geçirmediği, sinir sistemiyle ilgili ameliyat geçirip geçirmediği, sigara, alkol ve kahve alışkanlığı, kullandığı ilaçlar, kronik öksürük, kalp rahatsızlığı, ileri akciğer hastalığı, şişmanlık, idrar söktürücü ilaçlar vs. gibi sorular sorularak idrar kaçırmanın sebebi saptanır.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hasta sorgulanırken idrar kaçırmasının aralıklı mı devamlı mı olduğu, sık işemesi, sıkışma ve idrar yaparken yanmanın olup olmadığı, kabızlık ve gaita kaçırmanın mevcudiyeti, daha önce prostat ameliyatı geçirip geçirmediği, sinir sistemiyle ilgili ameliyat geçirip geçirmediği, sigara, alkol ve kahve alışkanlığı, kullandığı ilaçlar, kronik öksürük, kalp rahatsızlığı, ileri akciğer hastalığı, şişmanlık, idrar söktürücü ilaçlar vs. gibi sorular sorularak idrar kaçırmanın sebebi saptanır.
 
 ## İdrar Kaçırmanın Tedavisi
 
 İdrar kaçırmanın pek çok sebebi vardır. Öncelikle sebep anlaşılmalıdır ki tedavi doğru bir şekilde yapılsın.
 
-Sıkışma ve stres tipi idrar kaçırmada; yaşam tarzı değişiklikleri, pelvik taban egzersizleri (kegel egzersizleri) ve bazı ilaçlarla hastanın şikayetlerinin çoğu düzeltilebilir.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sıkışma ve stres tipi idrar kaçırmada; yaşam tarzı değişiklikleri, pelvik taban egzersizleri (kegel egzersizleri) ve bazı ilaçlarla hastanın şikayetlerinin çoğu düzeltilebilir.
 
-Dolma, boşalma (overflow enkordinans) denilen mesane adalesinin kasılma gücünün tamamen kaybolduğu tembel mesane sendromunda ise temiz aralıklı veya daimi sonda ile idrar dışarı alınır. Veya ameliyatla, mesane ve karın duvarı arasında küçük bir köprü yapılarak idrar boşaltılması sağlanır. (mitrofanoff ameliyatı). Duruma görede bağırsaktan yeni mesane yapılabilir.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dolma, boşalma (overflow enkordinans) denilen mesane adalesinin kasılma gücünün tamamen kaybolduğu tembel mesane sendromunda ise temiz aralıklı veya daimi sonda ile idrar dışarı alınır. Veya ameliyatla, mesane ve karın duvarı arasında küçük bir köprü yapılarak idrar boşaltılması sağlanır. (mitrofanoff ameliyatı). Duruma görede bağırsaktan yeni mesane yapılabilir.
 
-Mesane sinirlerinin zedelenerek ya da diğer nedenlerle mesanenin küçülmesi durumunda mesane içindeki basınç artacağı için böbreklere idrar geri kaçar. Bu durum böbrek yetmezliğine kadar gidebilir. Bunun için bağırsaktan alınan yama ile mesane kapasitesi arttırılır. Buna mesane augmentasyonu denir. Önemli bir cerrahi müdahaledir.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mesane sinirlerinin zedelenerek ya da diğer nedenlerle mesanenin küçülmesi durumunda mesane içindeki basınç artacağı için böbreklere idrar geri kaçar. Bu durum böbrek yetmezliğine kadar gidebilir. Bunun için bağırsaktan alınan yama ile mesane kapasitesi arttırılır. Buna mesane augmentasyonu denir. Önemli bir cerrahi müdahaledir.
 
-Prostat ameliyatlarının bir sonucu olarak idrar tutucu mekanizmaların zarar görmesi ile birlikte idrar kaçırması söz konusu olabilir. Aynı durum trafik kazalarına bağlı olan idrar kopmalarında da gözükür. Her iki idrarı tutan idrar tutma mekanizmaları (sfinkter) hasar görmüşse tam idrar kaçma söz konusu olur. Bu durumda kesin çözüm yapay sfinkter ameliyatıdır. Yapay sfinkterin işleme prensibi; idrar kanalının etrafına içi sıvı dolduğunda şişebilen bir halka takılır. Bunun küçük deposu, karın içerisine yerleştirilir. Kontrol düğmesi testis torbasında olur. Hasta istediği zaman kontrol düğmesine basarak halkayı gevşetmiş olur ve işemesini sağlar. Bu sistem tamamen doğal bir boşaltım sistemini taklit eder. Yapay sfinkter ameliyatı hakkında detaylı bilgi için internet sitemizdeki menü üzerinden yapay sfinkter bölümünü inceleyebilirsiniz.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Prostat ameliyatlarının bir sonucu olarak idrar tutucu mekanizmaların zarar görmesi ile birlikte idrar kaçırması söz konusu olabilir. Aynı durum trafik kazalarına bağlı olan idrar kopmalarında da gözükür. Her iki idrarı tutan idrar tutma mekanizmaları (sfinkter) hasar görmüşse tam idrar kaçma söz konusu olur. Bu durumda kesin çözüm yapay sfinkter ameliyatıdır. Yapay sfinkterin işleme prensibi; idrar kanalının etrafına içi sıvı dolduğunda şişebilen bir halka takılır. Bunun küçük deposu, karın içerisine yerleştirilir. Kontrol düğmesi testis torbasında olur. Hasta istediği zaman kontrol düğmesine basarak halkayı gevşetmiş olur ve işemesini sağlar. Bu sistem tamamen doğal bir boşaltım sistemini taklit eder. Yapay sfinkter ameliyatı hakkında detaylı bilgi için internet sitemizdeki menü üzerinden yapay sfinkter bölümünü inceleyebilirsiniz.

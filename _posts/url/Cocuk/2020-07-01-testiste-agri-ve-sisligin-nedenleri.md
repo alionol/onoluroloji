@@ -20,11 +20,7 @@ youtubeId: false
 
 ---
 
-
-
-
-
-Testistede ki şişlik ve ağrılar daima testis torsiyonundan (Testis dönmesi) kaynaklanmayabilir. Bu ağrı ve şişlikler iyi bir şekilde incelenmesi doğru teşhis koyulması için önemlidir.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Testistede ki şişlik ve ağrılar daima testis torsiyonundan (Testis dönmesi) kaynaklanmayabilir. Bu ağrı ve şişlikler iyi bir şekilde incelenmesi doğru teşhis koyulması için önemlidir.
 
 •	Testisin etrafında su birikebilir. Bu duruma ürolojide farklı bir hastalık olan, su kesesi manasını taşıyan hidrosel denir.
 
@@ -42,7 +38,7 @@ Testistede ki şişlik ve ağrılar daima testis torsiyonundan (Testis dönmesi)
 
 •	Ergenlik çağındaki erkeklerde cinsel birliktelik düşüncesiyle testislerde salgı üretilir ve testis gerilir. Bu gerilme testiste ağrı yapar. Bu durumlarda mastürbasyon yapılması ağrının son bulmasına faydalı olur.
 
-•	Epidimal apandisit adını verdiğimiz bir oluşum vardır. Bu oluşum 1-2 mm çapındadır ve burada da dönme durumu saptanabilir. Testis torsiyonuna yakın ağrılar izlenebilir fakat bu durum ehemmiyetli değilidir. Ameliyat ile müdaheleye gerekmez. Ağrı zaman içinde kaybolur (Apendiks testis torsiyonu). 7-12 yaş aralığındaki çocuklarda görülen ve tehlike arz etmeyen bu duruma tecrübeli uzman doktorlar tarafından teşhis konur ve tedavi gerekli değildir.
+•	Epidimal apandisit adını verdiğimiz bir oluşum vardır. Bu oluşum 1-2 mm çapındadır ve burada da dönme durumu saptanabilir. Testis torsiyonuna yakın ağrılar izlenebilir fakat bu durum ehemmiyetli değilidir. Ameliyat ile müdaheleye gerekmez. Ağrı zaman içinde kaybolur (Apendiks testis torsiyonu). 7-12 yaş aralığındaki çocuklarda görülen ve tehlike arz etmeyen bu duruma tecrübeli uzman doktorlar tarafından teşhis konur ve tedavi gerekli değildir.    
 
 Testis torsiyonu hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/testis-torsiyonu)
 

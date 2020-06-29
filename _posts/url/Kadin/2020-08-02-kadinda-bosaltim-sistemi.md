@@ -20,10 +20,9 @@ youtubeId: false
 ---
 
 ![Kadınlarda Boşaltım Sistemi](/assets/img/kadinidrarkacirma.jpeg){:.size1}
-Böbreklerden gelen idrarı depolayan organa mesane denir. Kadınlarda üretra denilen idrar kanalı 4-5 cm uzunluğundadır. İdrarın vücuttan atılmasını sağlar. Vajina 5-6 cm boyutlarında kadın cinsel birleşme organıdır ve basık silindir görünümündedir. Kadınların idrar kanalları vajinanın üzerinde boydan boya uzanmıştır. Üretrayı 4 katman oluşturmaktadır. Bu katmanlar içten dışa; ağız içindeki dokuya benzer mukoza, damar ağından zengin doku ve iki farklı kas dokusudur. Kadın üretrasında iki adet idrar tutmaya yarayan mekanizma (sfinkter) mevcuttur. Bu mekanizmalardan biri istemsiz sfinkter, mesane çıkışında bulur.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Böbreklerden gelen idrarı depolayan organa mesane denir. Kadınlarda üretra denilen idrar kanalı 4-5 cm uzunluğundadır. İdrarın vücuttan atılmasını sağlar. Vajina 5-6 cm boyutlarında kadın cinsel birleşme organıdır ve basık silindir görünümündedir. Kadınların idrar kanalları vajinanın üzerinde boydan boya uzanmıştır. Üretrayı 4 katman oluşturmaktadır. Bu katmanlar içten dışa; ağız içindeki dokuya benzer mukoza, damar ağından zengin doku ve iki farklı kas dokusudur. Kadın üretrasında iki adet idrar tutmaya yarayan mekanizma (sfinkter) mevcuttur. Bu mekanizmalardan biri istemsiz sfinkter, mesane çıkışında bulur.
 
 ![Kadında İdrar Kaçırma](/assets/img/kadinuretradarligi.jpeg){:.size1}
-Vücudun otomatik olarak idrar tutmasını sağlar. Diğer istemli sfinkter dediğimiz mesanenin ortasında bulunan mekanizmadır. İdrarın istediğimizde tutulmasına veya bırakılmasına yarayan bir oluşumdur. Bu oluşumlara idrar tutucu sfinkter denir. (2. resim: internal ve external sfinkter) İdrar tutmayı sağlayan bu mekanizmalar oldukça kompleks oluşumlardır. Sinir sistemi, beyin ve östrojen dediğimiz kadınlık hormonu ile birlikte çalışır.
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vücudun otomatik olarak idrar tutmasını sağlar. Diğer istemli sfinkter dediğimiz mesanenin ortasında bulunan mekanizmadır. İdrarın istediğimizde tutulmasına veya bırakılmasına yarayan bir oluşumdur. Bu oluşumlara idrar tutucu sfinkter denir. (2. resim: internal ve external sfinkter) İdrar tutmayı sağlayan bu mekanizmalar oldukça kompleks oluşumlardır. Sinir sistemi, beyin ve östrojen dediğimiz kadınlık hormonu ile birlikte çalışır.    
 
 İdrar kaçırma hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/kadinlarda-idrar-kacirma)

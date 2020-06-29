@@ -19,15 +19,11 @@ summary: "Kadınlar neden idrar kaçırır? , Kadınlarda idrar boşaltma sistem
 youtubeId: false
 ---
 
-
-
-
-
-Kadınlarda idrar kaçırmanın bazı tipleri vardır. Hastada hangi tip idrar kaçırmanın olduğunun saptanması tedavi planlamasını belirler.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kadınlarda idrar kaçırmanın bazı tipleri vardır. Hastada hangi tip idrar kaçırmanın olduğunun saptanması tedavi planlamasını belirler.
 
 ##	Stres Tipi İdrar Kaçırma
 
-Üretra ve üretrada bulunan idrar tutucu mekanizmalardan kaynaklanır. Stres tipi idrar kaçırmalar derecesine göre 3 tipte görülür.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Üretra ve üretrada bulunan idrar tutucu mekanizmalardan kaynaklanır. Stres tipi idrar kaçırmalar derecesine göre 3 tipte görülür.
 
 **Tip 1:** Karın içinde ani basınç artışına neden olan durumlar vardır. Bunlar öksürme, hapşırma veya hıçkırmadır. Bu tipte basınç artışı yaşandığında idrar kaçırma görülür. En basit stres tipi idrar kaçırmadır. Çoğunlukla ilaç tedavisi ile düzeltilebilir. Apış arasında bulunan bağların gevşemesi veya kopması sonucunda üretra normal halinden daha hareketli bir hale gelir. İdrar kanalındaki bu hareketlilik idrar tutmayı güçleştirir. Bu hareketlilik tip 1’in başlıca sebebidir. Aynı zamanda rahim alınması operasyonu, sigara kullanımı, zorlu doğum, menopoz, genetik sebepler veya apış arasında bulunan sinirlerin zedelenmesinden de kaynaklanabilir.
 
@@ -37,19 +33,18 @@ Kadınlarda idrar kaçırmanın bazı tipleri vardır. Hastada hangi tip idrar k
 
 ##	Sıkışma Tipi İdrar Kaçırma (Urgency Inkontinans)
 
-Mesane kaslarından kaynaklanan bir idrar kaçırma türüdür. Hastalar idrarlarını ertelemekte güçlük çekerler. Hastalar aniden zorlayıcı bir idrar yapma hissine kapılırlar ve idrarlarını kaçırırlar. Sıkışma tipi idrar kaçırma birçok sebebi mevcuttur. Mesane kası istem dışı kasılarak idrarı kaçırır ve bu duruma yol açar.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mesane kaslarından kaynaklanan bir idrar kaçırma türüdür. Hastalar idrarlarını ertelemekte güçlük çekerler. Hastalar aniden zorlayıcı bir idrar yapma hissine kapılırlar ve idrarlarını kaçırırlar. Sıkışma tipi idrar kaçırma birçok sebebi mevcuttur. Mesane kası istem dışı kasılarak idrarı kaçırır ve bu duruma yol açar.
 
 ##	Karışık Tip İdrar Kaçırma (Hem Stres Hem Sıkışmaya Bağlı)
 
-Stres ve sıkışma tipi idrar kaçırmalarının bir arada görüldüğü durumdur. Bu tip idrar kaçırmalarda mesane fonksiyonunda ve işeme kanalı fonksiyonunda hasar vardır. Apış arası işlevinin zarar görmesi, kabızlık, yaşlanma, aşırı şişmanlık gibi sebeplerden kaynaklanır.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stres ve sıkışma tipi idrar kaçırmalarının bir arada görüldüğü durumdur. Bu tip idrar kaçırmalarda mesane fonksiyonunda ve işeme kanalı fonksiyonunda hasar vardır. Apış arası işlevinin zarar görmesi, kabızlık, yaşlanma, aşırı şişmanlık gibi sebeplerden kaynaklanır.
 
 ##	Fistüle Bağlı Devamlı İdrar Kaçırma
 
-Vücutta oluşan normalde olmaması gereken kanallara fistül denir. Rahim alınması, sezaryen doğum gibi sebeplere bağlı olarak fistül oluşabilir. Rektum kanseri vs. gibi genel cerrahi operasyonların bir yan etkisi olarak da görülebilir. Bu cerrahi girişimler sonucunda mesane ve vajina arasında normalde olmayan bir kanal oluşur. Ve bu kanal içerisinden idrar devamlı olarak akar. Bu kanala fistül denir. Mesanede depolanan idrar üretra kanalından atılması gerekirken fistülün içinden devamlı olarak dışarı akar. Fistül, idrar kaçırma ameliyatı olan gevşek sling operasyonunun bir yan etkisi olarak karşımıza çıkabilir. Fistül hasta için fiziksel, mental ve hijyen konularında sorun oluşturur. İdrar kaçırma ameliyatları arasında fistül tipi idrar kaçırma için yapılan operasyon en zorlu olanıdır. Büyük oranda deneyim ve teknik isteyen bir operasyondur. Fistül konusu sitemizde farklı bir sayfada detaylı olarak incelenmiştir. Fistül oluşumunun sebepleri, teşhisi ve tedavisi gibi bilgilere ulaşmak için Tıklayınız.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vücutta oluşan normalde olmaması gereken kanallara fistül denir. Rahim alınması, sezaryen doğum gibi sebeplere bağlı olarak fistül oluşabilir. Rektum kanseri vs. gibi genel cerrahi operasyonların bir yan etkisi olarak da görülebilir. Bu cerrahi girişimler sonucunda mesane ve vajina arasında normalde olmayan bir kanal oluşur. Ve bu kanal içerisinden idrar devamlı olarak akar. Bu kanala fistül denir. Mesanede depolanan idrar üretra kanalından atılması gerekirken fistülün içinden devamlı olarak dışarı akar. Fistül, idrar kaçırma ameliyatı olan gevşek sling operasyonunun bir yan etkisi olarak karşımıza çıkabilir. Fistül hasta için fiziksel, mental ve hijyen konularında sorun oluşturur. İdrar kaçırma ameliyatları arasında fistül tipi idrar kaçırma için yapılan operasyon en zorlu olanıdır. Büyük oranda deneyim ve teknik isteyen bir operasyondur. Fistül konusu sitemizde farklı bir sayfada detaylı olarak incelenmiştir. Fistül oluşumunun sebepleri, teşhisi ve tedavisi gibi bilgilere ulaşmak için Tıklayınız.
 
 ##	Cinsel İlişki Sırasında İdrar Kaçırma
 
-Bu tipteki idrar kaçırmaların yalnızca cinsel temas sırasında idrar kaçırdığı görülür. Stres tipi idrar kaçırmaların yüzde 40’ında cinsel ilişki sırasında idrar kaçırma durumu da vardır. Hastaya detaylı bir sorgulama yapılmadığı takdirde teşhis konamayabilir. Hastalar, cinsel ilişki sırasında kaçan idrarı zevk suyu sanılabilir. Fakat bu durumun asıl nedeni sanılanın aksine zevk suyu değil, üretradaki bağların hasar görmesidir.
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bu tipteki idrar kaçırmaların yalnızca cinsel temas sırasında idrar kaçırdığı görülür. Stres tipi idrar kaçırmaların yüzde 40’ında cinsel ilişki sırasında idrar kaçırma durumu da vardır. Hastaya detaylı bir sorgulama yapılmadığı takdirde teşhis konamayabilir. Hastalar, cinsel ilişki sırasında kaçan idrarı zevk suyu sanılabilir. Fakat bu durumun asıl nedeni sanılanın aksine zevk suyu değil, üretradaki bağların hasar görmesidir.    
 
 İdrar kaçırma hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/kadinlarda-idrar-kacirma)

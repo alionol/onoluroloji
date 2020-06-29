@@ -22,11 +22,11 @@ youtubeId: "jthmzhS6oRc"
 
 ## Geç Boşalma Nedir?
 
-Geç boşalma ereksiyon normal olduğu halde kişinin uzun süreli cinsel temasta bile spermlerini geç atması durumudur. Geç boşalmalarda cinsel temastan 30-40 dakika sonra dahi boşalamama durumu gözükebilir. Bu boşalamama durumu da geç boşalma konusu içerisinde değerlendirilir.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Geç boşalma ereksiyon normal olduğu halde kişinin uzun süreli cinsel temasta bile spermlerini geç atması durumudur. Geç boşalmalarda cinsel temastan 30-40 dakika sonra dahi boşalamama durumu gözükebilir. Bu boşalamama durumu da geç boşalma konusu içerisinde değerlendirilir.
 
 ## Geç Boşalma Nedenleri
 
-Boşalma, beyinden salgılanan kimyasalların sinirleri etkileyerek penisin boşalma refleks zincirini uyarması sonucu olur. Geç boşalma psikolojik nedenlerle olabildiği gibi bu refleksin bozulmasından dolayı da olabilir. Boşalma refleksin bozulması;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Boşalma, beyinden salgılanan kimyasalların sinirleri etkileyerek penisin boşalma refleks zincirini uyarması sonucu olur. Geç boşalma psikolojik nedenlerle olabildiği gibi bu refleksin bozulmasından dolayı da olabilir. Boşalma refleksin bozulması;
 
 * Alkol ve uyuşturucu kullanımı
 
@@ -46,6 +46,6 @@ gibi nedenlerle olur ve geç boşalma sorununu ortaya çıkarır. Bunun yanı s�
 
 ## Geç Boşalmanın Tedavisi
 
-Geç boşalmanın nedeni psikolojik ise erkeği boşalmaktan alıkoyan bilinçaltı çözülmeye çalışılır. Bu bilinçaltından kurtulmak için kadının erkekteki cinsel uyarıyı arttırması ve partnerler arası cinsel uyumun sağlanması lazımdır. Erkeğinde kadınla olan cinsel iletişimi yüksek olmalıdır ve kendini rahat hissetmelidir. Ayrıca sertleşme yeterince güçlü ve uzun sürmüyorsa iyi bir sorgulamadan sonra sertleştirici ilaçlar önerilebilir.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Geç boşalmanın nedeni psikolojik ise erkeği boşalmaktan alıkoyan bilinçaltı çözülmeye çalışılır. Bu bilinçaltından kurtulmak için kadının erkekteki cinsel uyarıyı arttırması ve partnerler arası cinsel uyumun sağlanması lazımdır. Erkeğinde kadınla olan cinsel iletişimi yüksek olmalıdır ve kendini rahat hissetmelidir. Ayrıca sertleşme yeterince güçlü ve uzun sürmüyorsa iyi bir sorgulamadan sonra sertleştirici ilaçlar önerilebilir.
 
-​Geç boşalma reflekse bağlı organik bir sebep ise bu yönde tedavi uygulanmalıdır. Geç boşalmanın sebebi tam olarak saptandıktan sonra kullanılan ilaçların kesilmesi, diyabetin kontrol altına alınması gibi önlemler tedavide uygulanır. Bu tip önlemler uygulandığında hastanın geç boşalma sorunu zamanla düzelmektedir. Ayrıca penis vibratörleri de geç boşalma tedavisinde kullanılabilir.
+​&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Geç boşalma reflekse bağlı organik bir sebep ise bu yönde tedavi uygulanmalıdır. Geç boşalmanın sebebi tam olarak saptandıktan sonra kullanılan ilaçların kesilmesi, diyabetin kontrol altına alınması gibi önlemler tedavide uygulanır. Bu tip önlemler uygulandığında hastanın geç boşalma sorunu zamanla düzelmektedir. Ayrıca penis vibratörleri de geç boşalma tedavisinde kullanılabilir.

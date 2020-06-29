@@ -19,20 +19,13 @@ summary: "Hipospadias hastalığı ve tedavisi hakkında detaylı bilgiler... , 
 youtubeId: false
 ---
 
-
-
-
-
 ![Penis Anatomisi](/assets/img/penisanotimisi.jpeg)
-Penisin 2 görevi vardır. Penis idrarı dışarıya atar ve cinsel birleşmeyi sağlar. Resimde görüldüğü gibi penis eninden kesildiğinde; 2 tane yan yana olan süngersi çubuklar görülür. Bu süngersi 2 çubuk korpus kavernozum olarak adlandırılır. Sertleşme esnasında bu süngerlerin içine kan dolar. Böylece sertleşme sağlanır. Bu 2 çubuğun altında ise içinden idrar geçen idrar kanalı vardır. İdrar kanalına tıp dilinde üretra denir. Üretra dışarısında bir tabaka tarafından örtülmüştür (korpus spongiozum). 2 tane sertleşmeyi gerçekleştiren çubuk ve idrar kanalı etrafında 4 farklı doku tabakası tarafından çevrelenmiştir. Çocuk anne karnındayken, bu katmanlardan biri veya daha fazlası gelişim göstermediğinde hipospadias meydana gelir. Bu kısımdaki dokular çok gelişmediği için penis, gelişmeyen tarafa doğru eğrilir. Eğriliğin derecesi ise katmanların gelişimine bağlıdır. Bu doku katmanları doğumsal olarak ne kadar gelişmemiş ise penisteki eğrilik o kadar fazladır.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Penisin 2 görevi vardır. Penis idrarı dışarıya atar ve cinsel birleşmeyi sağlar. Resimde görüldüğü gibi penis eninden kesildiğinde; 2 tane yan yana olan süngersi çubuklar görülür. Bu süngersi 2 çubuk korpus kavernozum olarak adlandırılır. Sertleşme esnasında bu süngerlerin içine kan dolar. Böylece sertleşme sağlanır. Bu 2 çubuğun altında ise içinden idrar geçen idrar kanalı vardır. İdrar kanalına tıp dilinde üretra denir. Üretra dışarısında bir tabaka tarafından örtülmüştür (korpus spongiozum). 2 tane sertleşmeyi gerçekleştiren çubuk ve idrar kanalı etrafında 4 farklı doku tabakası tarafından çevrelenmiştir. Çocuk anne karnındayken, bu katmanlardan biri veya daha fazlası gelişim göstermediğinde hipospadias meydana gelir. Bu kısımdaki dokular çok gelişmediği için penis, gelişmeyen tarafa doğru eğrilir. Eğriliğin derecesi ise katmanların gelişimine bağlıdır. Bu doku katmanları doğumsal olarak ne kadar gelişmemiş ise penisteki eğrilik o kadar fazladır.
 Penisin sertleşmesini sağlayan korpus kavernozum adlı, yan yana duran iki çubuğun üst yüzeyleri iyi bir gelişim göstermiş fakat alt yüzeyleri aynı oranda gelişmemişse bu durum da peniste eğriliğe sebep olabilir.
 Kısaca penis eğriliğinin sebebi penisin altındaki cilt, dartos ve buck fasyaları, korpus spongiyozumun gelişmemesi ve  korpus kavarnozumların altındaki tünika albugunia denilen dokunun doğumsal olarak gelişmesidir.
 
 ## Hipospadias Olmadığı Halde Peniste Eğrilik Olur Mu?
 
-Penis ucundaki idrar deliği olması gereken yerde ise de peniste eğriliği görülebilir. Bu vakalara hipospadiassız eğrilik adı verilir. Bu hastalara büyük oranda yetişkin yaşta teşhis konur. Hipospadiassız eğriliğin basit olan tiplerine cerrahi işlem gerekmez. Çünkü bu tiplerde eğrilik cinsel ilişkiyi etkileyecek derecede değildir. Fakat ileri derecede eğrilik gösteren hastaların ameliyat edilmesi gerekmektedir. Çünkü bu hastalar cinsel birleşme esnasında vajinaya girişinde eğrilikten dolayı sorun yaşarlar.
-
-
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Penis ucundaki idrar deliği olması gereken yerde ise de peniste eğriliği görülebilir. Bu vakalara hipospadiassız eğrilik adı verilir. Bu hastalara büyük oranda yetişkin yaşta teşhis konur. Hipospadiassız eğriliğin basit olan tiplerine cerrahi işlem gerekmez. Çünkü bu tiplerde eğrilik cinsel ilişkiyi etkileyecek derecede değildir. Fakat ileri derecede eğrilik gösteren hastaların ameliyat edilmesi gerekmektedir. Çünkü bu hastalar cinsel birleşme esnasında vajinaya girişinde eğrilikten dolayı sorun yaşarlar.    
 
 Hipospadias hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/hipospadias)

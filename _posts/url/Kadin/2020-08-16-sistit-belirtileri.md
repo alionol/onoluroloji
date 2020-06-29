@@ -19,11 +19,6 @@ summary: "Sistit nedir? Sistit belirtileri ve nedenleri, Bakteriye bağlı olan 
 youtubeId: false
 ---
 
-
-
-
-
-Sistitin kadınları ciddi anlamda rahatsız edici belirtileri vardır. Aniden gelen idrar yapma ihtiyacı sistitin önemli belirtilerindendir. İdrar kaçırma, işememe esnasında yanma hissi görülebilir. Sık ve az işeme, idrarda görülen kan, hafif ateşlenme ve alt karın bölgesinde hissedilen basınç hissi sistit belirtileridir. Çocuklarda sistitin, gündüz idrar kaçırmaları ile birlikte oluşması böbrek iltihabının belirtilerindedir. Bu durumda dikkatli olunmalıdır. Sistit bir çok durumda kadının günlük hayatını olumsuz etkileyen bir hastalıktır. Sistitin sebebinin belirlenmesi tedavinin kolaylaşmasını sağlayan önemli bir husustur. Bakteriyel olan sistitler antibiyotiklerle kolayca tedavi edilir. Antibiyotik kullanımının planlanması tecrübeli bir hekim tarafından yapılmalıdır. Çünkü antibiyotiğin yanlış kullanımı hastalığı azdırabilir ve kronikleştirebilir.
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sistitin kadınları ciddi anlamda rahatsız edici belirtileri vardır. Aniden gelen idrar yapma ihtiyacı sistitin önemli belirtilerindendir. İdrar kaçırma, işememe esnasında yanma hissi görülebilir. Sık ve az işeme, idrarda görülen kan, hafif ateşlenme ve alt karın bölgesinde hissedilen basınç hissi sistit belirtileridir. Çocuklarda sistitin, gündüz idrar kaçırmaları ile birlikte oluşması böbrek iltihabının belirtilerindedir. Bu durumda dikkatli olunmalıdır. Sistit bir çok durumda kadının günlük hayatını olumsuz etkileyen bir hastalıktır. Sistitin sebebinin belirlenmesi tedavinin kolaylaşmasını sağlayan önemli bir husustur. Bakteriyel olan sistitler antibiyotiklerle kolayca tedavi edilir. Antibiyotik kullanımının planlanması tecrübeli bir hekim tarafından yapılmalıdır. Çünkü antibiyotiğin yanlış kullanımı hastalığı azdırabilir ve kronikleştirebilir.    
 
 Sistit hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/sistit)

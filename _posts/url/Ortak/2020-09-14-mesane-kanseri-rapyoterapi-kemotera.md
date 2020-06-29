@@ -19,23 +19,20 @@ summary: "Mesane Kanseri Nedir?  Kaç tip mesane kanseri vardır? Mesane kanseri
 youtubeId: false
 ---
 
-Mesane kanserinin tedavisinde uygulanan operasyonlar büyük önem taşımaktadır. Fakat operasyona ek olarak kemoterapi ve radyoterapi de önemli ölçülerdir. Ameliyat ile birlikte kemoterapi ve radyoterapinin de uygulanması hastanın yaşam kalitesi ve süresinin artması bakımından etkili faktörlerdir.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mesane kanserinin tedavisinde uygulanan operasyonlar büyük önem taşımaktadır. Fakat operasyona ek olarak kemoterapi ve radyoterapi de önemli ölçülerdir. Ameliyat ile birlikte kemoterapi ve radyoterapinin de uygulanması hastanın yaşam kalitesi ve süresinin artması bakımından etkili faktörlerdir.
 
 ## Mesane Kanserinde Radyoterapi Tedavisi
 
-Kanser için uygulanan ışın tedavisinde; yüksek enerjili x ışınları veya farklı diğer tür ışınlar kullanılarak kanserli hücrelerin yok edilmesi ya da gelişimlerinin engellenmesi hedeflenir. 2 tür radyasyon bulunmaktadır.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kanser için uygulanan ışın tedavisinde; yüksek enerjili x ışınları veya farklı diğer tür ışınlar kullanılarak kanserli hücrelerin yok edilmesi ya da gelişimlerinin engellenmesi hedeflenir. 2 tür radyasyon bulunmaktadır.
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**•	Eksternal radyasyon:** Kanser hücrelerinin yok edilmesi amacıyla vücuda dışarıdan yüksek enerjili radyasyon verilir. Mesane kanserinin tedavisinde daha çok eksternal radyoterapi kullanılmaktadır.
 
-**•	Eksternal radyasyon:** Kanser hücrelerinin yok edilmesi amacıyla vücuda dışarıdan yüksek enerjili radyasyon verilir. Mesane kanserinin tedavisinde daha çok eksternal radyoterapi kullanılmaktadır.
-
-**•	İnternal radyasyon:** Kanser hücrelerine radyasyon yayan küçük teller, tohumlar veya kateterler yerleştirilir.
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**•	İnternal radyasyon:** Kanser hücrelerine radyasyon yayan küçük teller, tohumlar veya kateterler yerleştirilir.
 
 ## Mesane Kanserinde Kemoterapi Tedavisi
 
-Kemoterapi ilaçları, vücuttaki kanserli hücrelerin öldürülmesine ya da üremesine engel olmaya yarayan ilaçlardır. Ağızdan ya da enjeksiyon aracılığıyla damar dolaşımına girerek kanser hücrelerine ulaşır. Buna sistemik kemoterapi adı verilir. Bazı durumlarda kemoterapi vücut boşluğuna ya da kanserin oluştuğu organa gönderilerek direk olarak kanser hücrelerini etkiler. Buna bölgesel kemoterapi adı verilmektedir. Mesane kanseri için uygulanan bölgesel kemoterapide, idrar kanalından bir tüp aracılığıyla mesaneye ilaç verilir. Bilhassa yüzeysel mesane kanserinde sık bir biçimde kullanılmaktadır.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kemoterapi ilaçları, vücuttaki kanserli hücrelerin öldürülmesine ya da üremesine engel olmaya yarayan ilaçlardır. Ağızdan ya da enjeksiyon aracılığıyla damar dolaşımına girerek kanser hücrelerine ulaşır. Buna sistemik kemoterapi adı verilir. Bazı durumlarda kemoterapi vücut boşluğuna ya da kanserin oluştuğu organa gönderilerek direk olarak kanser hücrelerini etkiler. Buna bölgesel kemoterapi adı verilmektedir. Mesane kanseri için uygulanan bölgesel kemoterapide, idrar kanalından bir tüp aracılığıyla mesaneye ilaç verilir. Bilhassa yüzeysel mesane kanserinde sık bir biçimde kullanılmaktadır.
 
-Mesane kanserinin tedavisinde mesane içine zayıflatılmış verem mikrobu gönderilerek bağışıklık sisteminin uyarılması da sağlanır. Bu sayede mesane kanserinin tekrar etmesi engellenmiş olur.
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mesane kanserinin tedavisinde mesane içine zayıflatılmış verem mikrobu gönderilerek bağışıklık sisteminin uyarılması da sağlanır. Bu sayede mesane kanserinin tekrar etmesi engellenmiş olur.    
 
 Mesane Kanseri hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/mesane-kanseri)

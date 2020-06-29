@@ -20,15 +20,10 @@ youtubeId: false
 
 ---
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Böbrek reflüsü teşhisi için hastanın idrar analizi gerçekleştirilir. Mesane, böbrek ve idrar yolu ultrasonografi ile görüntülenir. Buralardan alınan sonuçlar ile organlarda olabilecek yapısal bozukluklar belli bir oranda anlaşılır.
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Böbrek reflüsü tanısında işeme sistoüretrografisi adı verilen bir yöntem de kullanılır. Bu yöntemde hastaya idrar kanalından kıl inceliğinde bir aparatla görüntü sağlayan kontras madde (boyalı madde) gönderilir. Kontras (boyalı) madde; röntgende organların daha görülebilir olmasını sağlar. İşeme sistemini , böbrek içini, böbrek kanallarını ve üst idrar yollarını görünür hale gelir.  Bu esnada mesane doluyken ve idrar vücuttan atılırken film çekilir. Bu yöntem sayesinde böbrek reflüsü ve dereceleri saptanır. Bu teknik kullanılarak kolaylıkla böbrek reflüsü teşhisi konulabilir. Erkek çocuklarda testisler, kız çocuklarda ise yumurtalıklar radyasyona karşı çok hassastırlar. Çocuklara gereksiz radyasyon verilmemesi adında bu işlem gereksiz yere yapılmamalıdır. Veya yapılsa bile çok fazla film çekilmesine gerek yoktur. Bu konuda dikkat gösterilmesi gereklidir.
 
-
-
-Böbrek reflüsü teşhisi için hastanın idrar analizi gerçekleştirilir. Mesane, böbrek ve idrar yolu ultrasonografi ile görüntülenir. Buralardan alınan sonuçlar ile organlarda olabilecek yapısal bozukluklar belli bir oranda anlaşılır.
-
-Böbrek reflüsü tanısında işeme sistoüretrografisi adı verilen bir yöntem de kullanılır. Bu yöntemde hastaya idrar kanalından kıl inceliğinde bir aparatla görüntü sağlayan kontras madde (boyalı madde) gönderilir. Kontras (boyalı) madde; röntgende organların daha görülebilir olmasını sağlar. İşeme sistemini , böbrek içini, böbrek kanallarını ve üst idrar yollarını görünür hale gelir.  Bu esnada mesane doluyken ve idrar vücuttan atılırken film çekilir. Bu yöntem sayesinde böbrek reflüsü ve dereceleri saptanır. Bu teknik kullanılarak kolaylıkla böbrek reflüsü teşhisi konulabilir. Erkek çocuklarda testisler, kız çocuklarda ise yumurtalıklar radyasyona karşı çok hassastırlar. Çocuklara gereksiz radyasyon verilmemesi adında bu işlem gereksiz yere yapılmamalıdır. Veya yapılsa bile çok fazla film çekilmesine gerek yoktur. Bu konuda dikkat gösterilmesi gereklidir.
-
-Renal sintigrafi adlı yöntem ile çocuğa damar yolundan radyoizotop madde gönderilir. Bu sayede böbreğin çalışması ölçülerek böbrekler de hasar olup olmadığı, varsa derecesi tespit edilir.
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Renal sintigrafi adlı yöntem ile çocuğa damar yolundan radyoizotop madde gönderilir. Bu sayede böbreğin çalışması ölçülerek böbrekler de hasar olup olmadığı, varsa derecesi tespit edilir.    
 
 Böbrek reflüsü hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/bobrek-reflusu)

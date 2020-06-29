@@ -19,27 +19,22 @@ summary: "Fistül oluşumuna bağlı idrar kaçırmalar. , Fistül nedir? , Fist
 youtubeId: false
 ---
 
-
-
-
-
 ## Vezikovajinal fistül
 
-Mesane ve vajina arasındaki bölgede oluşan fistül tipidir. Daha çok histerektomi adı verilen rahimin alınması ameliyatlarında ya da zorlu doğumlardan sonra oluşurlar.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mesane ve vajina arasındaki bölgede oluşan fistül tipidir. Daha çok histerektomi adı verilen rahimin alınması ameliyatlarında ya da zorlu doğumlardan sonra oluşurlar.
 
 ## Üreterovajinal fistül
 
-Böbreklerde oluşan idrarın mesaneye iletilmesini sağlayan üreter kanalının zedelenmesine bağlı olarak oluşur. Bu zedelenme histerektomi ya da pelvik organlara yapılan cerrahi girişimler esnasında yaşanabilir. Üreter dediğimiz kanal, idrarı böbrekten mesaneye taşımaktadır. Bu fistül tiplerinde idrar üreter üzerinden mesaneye değil, vajinaya akmaktadır.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Böbreklerde oluşan idrarın mesaneye iletilmesini sağlayan üreter kanalının zedelenmesine bağlı olarak oluşur. Bu zedelenme histerektomi ya da pelvik organlara yapılan cerrahi girişimler esnasında yaşanabilir. Üreter dediğimiz kanal, idrarı böbrekten mesaneye taşımaktadır. Bu fistül tiplerinde idrar üreter üzerinden mesaneye değil, vajinaya akmaktadır.
 
 ## Üretrovajinal fistül
 
-İdrar kanalı ve kadın cinsel organı arasında oluşum gösteren fistül tipidir. Bu tipteki fistülde idrarın, idrar kanalından vajinaya aktığı görülür.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;İdrar kanalı ve kadın cinsel organı arasında oluşum gösteren fistül tipidir. Bu tipteki fistülde idrarın, idrar kanalından vajinaya aktığı görülür.
 
 ## Vezikouterin (uterovajinal) fistül
 
-Mesane ile rahim arasında görülen bir fistül tipidir. Çok sık rastlanmayan bir fistül tipidir. Bu yüzden teşhisi daha zordur. Ameliyatı da deneyimli hekimlerce yapılması gereklidir. Mesanedeki idrar önce rahimin içine akarak rahim ağzına ulaşır. Bu noktadan da vajinaya geçerek akar.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mesane ile rahim arasında görülen bir fistül tipidir. Çok sık rastlanmayan bir fistül tipidir. Bu yüzden teşhisi daha zordur. Ameliyatı da deneyimli hekimlerce yapılması gereklidir. Mesanedeki idrar önce rahimin içine akarak rahim ağzına ulaşır. Bu noktadan da vajinaya geçerek akar.
 
-Fistül tiplerinin saptanması tedavi planlaması bakımından çok önemlidir. Fistül tipi saptandıktan sonra fistülün tam bölgesi ve uzunluğu saptanır. Ve ameliyat tekniğinin planlaması hekim tarafından yapılır.
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fistül tiplerinin saptanması tedavi planlaması bakımından çok önemlidir. Fistül tipi saptandıktan sonra fistülün tam bölgesi ve uzunluğu saptanır. Ve ameliyat tekniğinin planlaması hekim tarafından yapılır.    
 
 Fistül hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/fistul-idrar-kacirma)

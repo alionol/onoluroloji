@@ -19,15 +19,10 @@ summary: "Prostat büyümesi nedir? Prostat büyümesi teşhisi, Prostat büyüm
 youtubeId: false
 ---
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Prostatta görülen basit büyümelerden kaynaklanan işeme şikayetlerinin günümüzde, yaşlanmış mesaneden de kaynaklanıyor olabileceği düşünülmektedir. Bu ihtimal hastanın durumunun incelenmesinde göz ardı edilmemesi gereken bir konudur.
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Prostattaki basit büyümelerin teşhisi zor değildir. İdrar kanalı; prostatın ne kadar büyüme gösterdiğine bağlı olarak çok ya da az tıkanma yaşayabilir. Yaş aldıkça hastalarda devamlı idrar yapma ihtiyacı duyulabilir. Hastaların idrarları incedir ve işeme bittikten sonra idrar damlatma yaşanabilir. Bu hastalar aynı zamanda gece idrar yapma ihtiyacı da duyarlar ve idrarın bütünüyle dışarı atılamamasından dolayı mesanelerinde doluluk hissi yaşarlar. Bu şikayetler hastanın günlük yaşam kalitesini kötü anlamda etkilemektedir. Prostat organının içi büyür ve dış kısmında bulunan düz kası kasılır. Bu durum idrar kanalının sıkışmasına neden olur. Ancak prostatta görülen her basit büyümenin idrar kanalını sıkıştırmayacağı da bilinmesi gerekir. Bu durumda prostat büyür ancak işeme şikayetlerine neden olmayabilir.
 
-
-
-Prostatta görülen basit büyümelerden kaynaklanan işeme şikayetlerinin günümüzde, yaşlanmış mesaneden de kaynaklanıyor olabileceği düşünülmektedir. Bu ihtimal hastanın durumunun incelenmesinde göz ardı edilmemesi gereken bir konudur.
-
-Prostattaki basit büyümelerin teşhisi zor değildir. İdrar kanalı; prostatın ne kadar büyüme gösterdiğine bağlı olarak çok ya da az tıkanma yaşayabilir. Yaş aldıkça hastalarda devamlı idrar yapma ihtiyacı duyulabilir. Hastaların idrarları incedir ve işeme bittikten sonra idrar damlatma yaşanabilir. Bu hastalar aynı zamanda gece idrar yapma ihtiyacı da duyarlar ve idrarın bütünüyle dışarı atılamamasından dolayı mesanelerinde doluluk hissi yaşarlar. Bu şikayetler hastanın günlük yaşam kalitesini kötü anlamda etkilemektedir. Prostat organının içi büyür ve dış kısmında bulunan düz kası kasılır. Bu durum idrar kanalının sıkışmasına neden olur. Ancak prostatta görülen her basit büyümenin idrar kanalını sıkıştırmayacağı da bilinmesi gerekir. Bu durumda prostat büyür ancak işeme şikayetlerine neden olmayabilir.
-
-Hastanın bu şikayetleri yalnızca prostat büyümesinden kaynaklanmayabilir. Diyabet, kalp ve böbrek sorunları, üretra denilen idrar kanalı darlıkları gibi nedenler de hastada işeme şikayetlerine yol açabilir. Bu tip hastalıklar prostat büyümesiyle karıştırılmamalıdır.
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hastanın bu şikayetleri yalnızca prostat büyümesinden kaynaklanmayabilir. Diyabet, kalp ve böbrek sorunları, üretra denilen idrar kanalı darlıkları gibi nedenler de hastada işeme şikayetlerine yol açabilir. Bu tip hastalıklar prostat büyümesiyle karıştırılmamalıdır.    
 
 Prostat Büyümesi hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/prostat-buyumesi)

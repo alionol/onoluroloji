@@ -19,11 +19,6 @@ summary: "Mesane Kanseri Nedir?  Kaç tip mesane kanseri vardır? Mesane kanseri
 youtubeId: false
 ---
 
-
-
-
-
-Mesane kanserinin belirtilerinden şüphe eden hekim gerekli görüntüleme yöntemlerini kullanarak teşhis koyar. Mesane kanserinin evresini de saptamak önemlidir. Öncelikle teşhis koyulur sonrasında mesane kanserinin evresi tespit edilir. Akabinde bu bilgiler ışığında tedavi planlaması yapılır. Hastadan alınan idrarın incelenmesi ve analiz edilmesi mesane kanserine tanı koymakta yardımcı bir rol oynar. Mikroskop altında idrarın içinde kanser hücresi olup olmadığına bakılarak tanı konulabilir. Bilhassa yüksek evreli kanserlerin tanısında daha çok işe yarayan bir metottur. Yapılan bu işleme idrar sitolojisi adı verilir. Üretra dediğimiz idrar kanalından girilerek mesanenin sistoskop adı verilen ince bir tüp ve ışık altında izlenmesi daha faydalı bir teşhis aracıdır. Sistoskop kullanılarak mesaneden doku örnekleri de alınır ve patolojik incelemeler yapılır. Farklı bir teşhis yöntemi olarak; kontraslı yani boyalı madde kullanılarak yapılan tomografi de böbrekler ve mesaneyi daha net bir şekilde görülür hale getirir. Görüntüleme yöntemleri kullanılarak mesane kanserine teşhis konur. Kanser ile ilgili bilgi edinilir.
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mesane kanserinin belirtilerinden şüphe eden hekim gerekli görüntüleme yöntemlerini kullanarak teşhis koyar. Mesane kanserinin evresini de saptamak önemlidir. Öncelikle teşhis koyulur sonrasında mesane kanserinin evresi tespit edilir. Akabinde bu bilgiler ışığında tedavi planlaması yapılır. Hastadan alınan idrarın incelenmesi ve analiz edilmesi mesane kanserine tanı koymakta yardımcı bir rol oynar. Mikroskop altında idrarın içinde kanser hücresi olup olmadığına bakılarak tanı konulabilir. Bilhassa yüksek evreli kanserlerin tanısında daha çok işe yarayan bir metottur. Yapılan bu işleme idrar sitolojisi adı verilir. Üretra dediğimiz idrar kanalından girilerek mesanenin sistoskop adı verilen ince bir tüp ve ışık altında izlenmesi daha faydalı bir teşhis aracıdır. Sistoskop kullanılarak mesaneden doku örnekleri de alınır ve patolojik incelemeler yapılır. Farklı bir teşhis yöntemi olarak; kontraslı yani boyalı madde kullanılarak yapılan tomografi de böbrekler ve mesaneyi daha net bir şekilde görülür hale getirir. Görüntüleme yöntemleri kullanılarak mesane kanserine teşhis konur. Kanser ile ilgili bilgi edinilir.    
 
 Mesane Kanseri hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/mesane-kanseri)

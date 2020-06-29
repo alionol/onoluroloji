@@ -19,13 +19,7 @@ summary: "Çocuk fıtığı nedir?, Çocuklardaki kasık fıtığı?, Çocuk kas
 youtubeId: false
 ---
 
-
-
-
-
 ![Çocuk Kasık Fıtığı](/assets/img/kasikfitigi.jpeg)
-Çocuklarda görülen kasık fıtıkları doğuştandır. Çocuklarda ki kasık fıtıklarının ivedilikle ameliyatla düzeltilmesi gerekir. Bağırsak ve omentum gibi organların fıtık kesesi içine girmesi hastanın hayatı için tehlike yaratır. Kasık fıtığına ameliyatla hemen müdahale edilmez ise fıtık kesesi içine giren bağırsaklar, kese içerisinde sıkışıp boğulabilir. Bağırsakların kese içindeki sıkışma durumu bağırsak kangrenine neden olabilir ve delinebilir. Bu durum hasta için hayati tehlike oluşturur. Kasık fıtığı cilt altında bulunan bir şişlikle gözlemlenir. Bu şişlik; iç organların, kasık bölgesindeki adalelerin zayıf bir noktasından periton zarı adını verdiğimiz zardan dışarı çıkmasına bağlı olarak oluşur. Kasık fıtığının teşhisi kolaydır. Çocuk dünyaya geldikten hemen sonra bile fizik muayenede kasık fıtığı teşhis edilebilir.
-
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Çocuklarda görülen kasık fıtıkları doğuştandır. Çocuklarda ki kasık fıtıklarının ivedilikle ameliyatla düzeltilmesi gerekir. Bağırsak ve omentum gibi organların fıtık kesesi içine girmesi hastanın hayatı için tehlike yaratır. Kasık fıtığına ameliyatla hemen müdahale edilmez ise fıtık kesesi içine giren bağırsaklar, kese içerisinde sıkışıp boğulabilir. Bağırsakların kese içindeki sıkışma durumu bağırsak kangrenine neden olabilir ve delinebilir. Bu durum hasta için hayati tehlike oluşturur. Kasık fıtığı cilt altında bulunan bir şişlikle gözlemlenir. Bu şişlik; iç organların, kasık bölgesindeki adalelerin zayıf bir noktasından periton zarı adını verdiğimiz zardan dışarı çıkmasına bağlı olarak oluşur. Kasık fıtığının teşhisi kolaydır. Çocuk dünyaya geldikten hemen sonra bile fizik muayenede kasık fıtığı teşhis edilebilir.    
 
 Çocuk kasık fıtığı hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/cocuk-kasik-fitigi)

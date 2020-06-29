@@ -19,15 +19,10 @@ summary: "Gömük Penis Nedir? , Gömük Penisli çocuklar sünnet edilmeli midi
 youtubeId: false
 ---
 
-
-
-
-
-Gömük Penis, Küçük penis (mikro penis) adını verdiğimiz, penis boyutunun kısa olduğu hastalıkla karışabilir. Teşhiste dikkatli olunması gerekmektedir. Üroloji uzmanları ve çocuk cerrahlarının muayenesi ile teşhis koyulur.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gömük Penis, Küçük penis (mikro penis) adını verdiğimiz, penis boyutunun kısa olduğu hastalıkla karışabilir. Teşhiste dikkatli olunması gerekmektedir. Üroloji uzmanları ve çocuk cerrahlarının muayenesi ile teşhis koyulur.
 
 ## Gömük Penis Ameliyatı Ne Zaman Yapılmalıdır?
 
-Gömük penis ameliyatının erken yaşta yapılması tercih edilmelidir. Hastanın henüz çocukken, ideal penise kavuşması gereklidir. Bu sayede hastanın yetişkinlik döneminde karşılaşabileceği cinsel, ruhsal ve hijyenik sorunlar engellenmiş olur. Aynı zamanda erken yaşta yapılan ameliyatların başarı oranı daha yüksektir. Bu ameliyatların alanında uzman cerrahlar tarafından yapılması gereklidir.
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gömük penis ameliyatının erken yaşta yapılması tercih edilmelidir. Hastanın henüz çocukken, ideal penise kavuşması gereklidir. Bu sayede hastanın yetişkinlik döneminde karşılaşabileceği cinsel, ruhsal ve hijyenik sorunlar engellenmiş olur. Aynı zamanda erken yaşta yapılan ameliyatların başarı oranı daha yüksektir. Bu ameliyatların alanında uzman cerrahlar tarafından yapılması gereklidir.    
 
 Gömük penis hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/gomuk-penis)

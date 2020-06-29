@@ -19,18 +19,12 @@ summary: "Mesane Kanseri Nedir?  Kaç tip mesane kanseri vardır? Mesane kanseri
 youtubeId: false
 ---
 
-
-
-
-
-
 •	Mesane kanseri ameliyatı sonrasında meydana gelen komplikasyonlardan biri, idrar kanalının bağırsak bölümüne eklenmesinden kaynaklanan idrar kanalı daralmalarıdır.
 
 •	Ameliyat esnasında bağırsak kullanılarak yapılan yeni mesanenin iç yüzünde idrar emilmesine bağlı olarak oluşan metabolik bozukluklar da yan etkilerden biridir. Bağırsaktan yapılan yeni mesanenin vücudun orijinal mesanesinin yerini tutmamasına bağlı olarak oluşan bir komplikasyondur. Doku farkından dolayı idrarın içinde bulunan bazı elektrolitler yeni mesanenin iç yüzünden emilir. Bu komplikasyonların tedavisi zor değildir. Hastalara gece 2 kez idrar yapması tavsiye edilir. Korumaya yönelik bir takım ilaçlar verilir.
 
 •	Mesane kanseri ameliyatında hastanın bağırsağı kullanılarak yapılan yeni mesane de işeme ve boşaltma hisleri işlev kaybına uğrayabilir. Hastada farklı algılar görülebilir. Yer yer idrar kaçırmalar yaşanabilir. Bağırsak ara parçası kullanılarak karın cildine ağızlaştırılan teknik hekim için daha basittir ve benzer komplikasyonları vardır. Bu teknikle metabolik bozukluklara rastlanılmaz. Çünkü idrar bağırsakta depolanmadan vücuttan dışarı atılır. İki yönteminde yararları ve zararları vardır. Konu ile ilgili hasta ve yakınları detaylıca bilgilendirildikten sonra nihai karar alınır.
 
-•	Lenf düğüm zincirlerinin çıkarılması sebebiyle lenfosel adı verilen kistik oluşumların görülmesi diğer komplikasyonlardan biridir. Bizim karın zarına girmeden uyguladığımız teknikle bu oluşumlar da karın zarı arkasında kalır. Zamanla kendiliğinden kaybolurlar. Erken müdahale ile kistlerin gereksiz yere boşaltılması ciddi problemlere neden olabilir.
-
+•	Lenf düğüm zincirlerinin çıkarılması sebebiyle lenfosel adı verilen kistik oluşumların görülmesi diğer komplikasyonlardan biridir. Bizim karın zarına girmeden uyguladığımız teknikle bu oluşumlar da karın zarı arkasında kalır. Zamanla kendiliğinden kaybolurlar. Erken müdahale ile kistlerin gereksiz yere boşaltılması ciddi problemlere neden olabilir.    
 
 Mesane Kanseri hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/mesane-kanseri)

@@ -19,23 +19,18 @@ summary: "Gömük Penis Nedir? , Gömük Penisli çocuklar sünnet edilmeli midi
 youtubeId: false
 ---
 
-
-
-
-
-Gömük penis doğuştan veya sonradan görünebilir. Erkek çocukların genital bölgelerinin üzerinde fazla yağ dokusu oluşumuna bağlı gözükür. Veya cilt ve cilt altı dokuları doğumsal olarak gelişmediğinde görünür. Bu sebeplerle penis gömük gözükür ve bu duruma Gömük Penis adı verilir. Normal penisin 3’te 2’si dışarda gözükür. Gömük penis hastalarında ise penisin 3’te 2’si veya daha fazlası deri içinde gömüktür. Normalde penis, tutucu bir bağ ile arka tarafındaki dokulara tutunmuş durumdadır. Doğuştan gömük penis hastalığı gözüken hastalarda, penisin tutucu bağı yeteri kadar gelişmediği için gömüklüğe sebep olur.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gömük penis doğuştan veya sonradan görünebilir. Erkek çocukların genital bölgelerinin üzerinde fazla yağ dokusu oluşumuna bağlı gözükür. Veya cilt ve cilt altı dokuları doğumsal olarak gelişmediğinde görünür. Bu sebeplerle penis gömük gözükür ve bu duruma Gömük Penis adı verilir. Normal penisin 3’te 2’si dışarda gözükür. Gömük penis hastalarında ise penisin 3’te 2’si veya daha fazlası deri içinde gömüktür. Normalde penis, tutucu bir bağ ile arka tarafındaki dokulara tutunmuş durumdadır. Doğuştan gömük penis hastalığı gözüken hastalarda, penisin tutucu bağı yeteri kadar gelişmediği için gömüklüğe sebep olur.
 
 ## Penis boyutları gömük peniste normal midir?
 
-Gömük penis hastalarında penis boyu genelde normaldir. Ancak penis doku içerisine gömüldüğü için penis boyu kısa gözükür. Gömük penis hastalığının, küçük penis hastalığı ile karıştırılmaması gerekir.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gömük penis hastalarında penis boyu genelde normaldir. Ancak penis doku içerisine gömüldüğü için penis boyu kısa gözükür. Gömük penis hastalığının, küçük penis hastalığı ile karıştırılmaması gerekir.
 
 ## Gömük Penisli çocukların sünnet edilmesi sakıncalı mıdır?
 
-Gömük penis hastalığı olan bebekler sünnet edilmemelidir. Gömük penisli bebeklerin sünneti için 6 ile 12 ay arasında beklenmesi gerekir. Çünkü 6-12 aylık periyotta gömük penisin kendi kendine düzelme ihtimali vardır. Eğer gömük peniste, bu zaman aralığında bir düzelme görünmez ise gömük penisin ameliyat ile düzeltilmesi gereklidir.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gömük penis hastalığı olan bebekler sünnet edilmemelidir. Gömük penisli bebeklerin sünneti için 6 ile 12 ay arasında beklenmesi gerekir. Çünkü 6-12 aylık periyotta gömük penisin kendi kendine düzelme ihtimali vardır. Eğer gömük peniste, bu zaman aralığında bir düzelme görünmez ise gömük penisin ameliyat ile düzeltilmesi gereklidir.
 
 ## Gömük Penis, obez çocuklarda zayıflama halinde düzelir mi?
 
-Obez çocuklar zayıfladıkları takdirde, gömük penislerinde belirli oranda iyileşme görülebilir. Ancak kısmi iyileşme görülse bile vakaların büyük çoğunluğunda ameliyat gereklidir.
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Obez çocuklar zayıfladıkları takdirde, gömük penislerinde belirli oranda iyileşme görülebilir. Ancak kısmi iyileşme görülse bile vakaların büyük çoğunluğunda ameliyat gereklidir.    
 
 Gömük penis hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/gomuk-penis)

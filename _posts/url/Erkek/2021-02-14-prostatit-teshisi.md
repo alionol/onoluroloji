@@ -19,17 +19,12 @@ summary: "Prostatitin birçok farklı tipi vardır. Doğru tip belirlendiğinde 
 youtubeId: false
 ---
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ateşli bakteriyel tipte ki prostatite basit bir fizik muayene ile rahatlıkla tanı konulabilir. Ateşli bakteriyel prostatit hastalarının PSA değerleri yüksektir. Bu nedenle hastalık, prostat kanseri ile karıştırılabilir. Hastalığın detaylı bir şekilde incelenmesi gerekmektedir.
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kronik bakteriyel tipte görülen prostatitin teşhisi için prostata masaj yapılır. Masaj sonucunda hastanın erkeklik organının uç kısmına prostat sıvısı gelir. Bu sıvı alınarak mikroskobik incelemeler yapılır. Kronik baktetiyel prostatite tanı koyma da bir diğer yöntem ise hastadan sperm kültürünün alınmasıdır.
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bakteriyel prostatit hastada herhangi bir yakınmaya neden olmadığından bir semptomu yoktur. Hastaya farklı nedenlerden yapılan tahliller neticesinde tesadüfen teşhis edilir.
 
-
-Ateşli bakteriyel tipte ki prostatite basit bir fizik muayene ile rahatlıkla tanı konulabilir. Ateşli bakteriyel prostatit hastalarının PSA değerleri yüksektir. Bu nedenle hastalık, prostat kanseri ile karıştırılabilir. Hastalığın detaylı bir şekilde incelenmesi gerekmektedir.
-
-Kronik bakteriyel tipte görülen prostatitin teşhisi için prostata masaj yapılır. Masaj sonucunda hastanın erkeklik organının uç kısmına prostat sıvısı gelir. Bu sıvı alınarak mikroskobik incelemeler yapılır. Kronik baktetiyel prostatite tanı koyma da bir diğer yöntem ise hastadan sperm kültürünün alınmasıdır.
-
-Bakteriyel prostatit hastada herhangi bir yakınmaya neden olmadığından bir semptomu yoktur. Hastaya farklı nedenlerden yapılan tahliller neticesinde tesadüfen teşhis edilir.
-
-Virüs kaynaklı meydana gelen prostatitin kan tahlili desteğiyle detaylı bir şekilde incelenmesi gerekmektedir. Bilhassa cinsel yolla bulaşan hastalıklarda gerekli tahliller uygulanmalıdır. Prostatitin virüsten kaynaklandığı durumlarda kullanılan antibiyotik tedavisi hastalığın daha yoğun seyretmesine neden olur. Bu nedenle hastalığa doğru tanı konması büyük önem taşımaktadır.
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Virüs kaynaklı meydana gelen prostatitin kan tahlili desteğiyle detaylı bir şekilde incelenmesi gerekmektedir. Bilhassa cinsel yolla bulaşan hastalıklarda gerekli tahliller uygulanmalıdır. Prostatitin virüsten kaynaklandığı durumlarda kullanılan antibiyotik tedavisi hastalığın daha yoğun seyretmesine neden olur. Bu nedenle hastalığa doğru tanı konması büyük önem taşımaktadır.    
 
 Prostatit hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/prostatit)

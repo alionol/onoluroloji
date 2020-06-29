@@ -19,20 +19,14 @@ summary: "Cinsel yolla bulaşan hastalıklar ve tedavileri...,  Klamidiya, Şank
 youtubeId: false
 ---
 
-
-
-
-
-Birçok cinsel hastalığa doktor tarafından yapılan muayene ile rahatlıkla tanı konabilmekte ve tedavi planlanabilmektedir. Erkek hastalara fizik muayene uygulanır ve hastalık belirtileri incelenir. Kadın hastaların muayene sırasında vajina içi ve rahim ağzına bakılır. Fakat bazı cinsel hastalıklar herhangi bir semptom göstermediğinden idrar tahlili ve kan tahlili yapılarak tanı konabilir. Merkezimizde cinsel yolla bulaşan hastalıklar paneli sayesinde belirti veren ve vermeyen 16 hastalığın tanısını kan ve idrar tahlili yöntemlerini kullanarak koyabilmekteyiz. PCR adı verilen bu panel, cinsel hastalıklara tanı koymakta rahatlık sağlayan bir yöntemdir. Semptom göstermeyen cinsel hastalıklar da bu panel yardımıyla belirlenebilir. Kan testinin uygulanması bilhassa Sifilis gibi hastalıklarda önemlidir. Panel testler sayesinde hastalıklar kesin olarak teşhis edilir.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Birçok cinsel hastalığa doktor tarafından yapılan muayene ile rahatlıkla tanı konabilmekte ve tedavi planlanabilmektedir. Erkek hastalara fizik muayene uygulanır ve hastalık belirtileri incelenir. Kadın hastaların muayene sırasında vajina içi ve rahim ağzına bakılır. Fakat bazı cinsel hastalıklar herhangi bir semptom göstermediğinden idrar tahlili ve kan tahlili yapılarak tanı konabilir. Merkezimizde cinsel yolla bulaşan hastalıklar paneli sayesinde belirti veren ve vermeyen 16 hastalığın tanısını kan ve idrar tahlili yöntemlerini kullanarak koyabilmekteyiz. PCR adı verilen bu panel, cinsel hastalıklara tanı koymakta rahatlık sağlayan bir yöntemdir. Semptom göstermeyen cinsel hastalıklar da bu panel yardımıyla belirlenebilir. Kan testinin uygulanması bilhassa Sifilis gibi hastalıklarda önemlidir. Panel testler sayesinde hastalıklar kesin olarak teşhis edilir.
 
 ## Koruyucu Yöntemler Nedir?
 
-Cinsel temas esnasında kondom kullanılması, cinsel hastalıkların meydana gelmesini önlemekte en ideal korunma yöntemidir. Fakat oral seks sonucunda da bir takım cinsel hastalıklar bulaşabilir. Bu nedenle hastalar bu konuda dikkatli davranmalıdır. Riskli ve şüphe uyandıran durumlarda oral seks yapılmamalıdır.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cinsel temas esnasında kondom kullanılması, cinsel hastalıkların meydana gelmesini önlemekte en ideal korunma yöntemidir. Fakat oral seks sonucunda da bir takım cinsel hastalıklar bulaşabilir. Bu nedenle hastalar bu konuda dikkatli davranmalıdır. Riskli ve şüphe uyandıran durumlarda oral seks yapılmamalıdır.
 
-HPV dediğimiz Human papillomavirus adlı hastalık cinsel organda siğil oluşumuna neden olmaktadır. Kadınların vajinasında oluşan siğil rahim ağzı kanserine bile yol açabilmektedir. Bu hastalığa önlem alınması için aşı geliştirilmiştir. Batı ülkelerinde 9 - 26 yaş arası genç kızlar bu HPV aşısını 2-3 sefer olmak zorundadır. Yapılan araştırmalara göre; geliştirilen bu aşı HPV’den kaynaklanan rahim ağzı kanserinin yaşanmasını engellemektedir. Aynı zamanda Hepatit B hastalığına yönelik aşı da geliştirilmiştir. Bu tip aşılar hastalıkların meydana gelmesini önlemekte en etkili yöntemlerdir.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HPV dediğimiz Human papillomavirus adlı hastalık cinsel organda siğil oluşumuna neden olmaktadır. Kadınların vajinasında oluşan siğil rahim ağzı kanserine bile yol açabilmektedir. Bu hastalığa önlem alınması için aşı geliştirilmiştir. Batı ülkelerinde 9 - 26 yaş arası genç kızlar bu HPV aşısını 2-3 sefer olmak zorundadır. Yapılan araştırmalara göre; geliştirilen bu aşı HPV’den kaynaklanan rahim ağzı kanserinin yaşanmasını engellemektedir. Aynı zamanda Hepatit B hastalığına yönelik aşı da geliştirilmiştir. Bu tip aşılar hastalıkların meydana gelmesini önlemekte en etkili yöntemlerdir.
 
-Erkeklerin sünnet olması ise birtakım cinsel hastalıklardan korunma da rol oynar. Çalışmalar; sünnetli erkeklerin HIV dediğimiz Aids virüsünün bulaşmasını 4 kat engellediğini göstermiştir.
-
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Erkeklerin sünnet olması ise birtakım cinsel hastalıklardan korunma da rol oynar. Çalışmalar; sünnetli erkeklerin HIV dediğimiz Aids virüsünün bulaşmasını 4 kat engellediğini göstermiştir.    
 
 Cinsel Hastalıklar hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/cinsel-hastaliklar)

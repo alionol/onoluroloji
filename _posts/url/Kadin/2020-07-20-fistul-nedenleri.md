@@ -19,11 +19,6 @@ summary: "Fistül oluşumuna bağlı idrar kaçırmalar. , Fistül nedir? , Fist
 youtubeId: false
 ---
 
-
-
-
-
-
 •	Fistül dediğimiz vücutta olmaması gereken kanal en fazla histerektomi adı verilen rahim ameliyatı komplikasyonu olarak görülür. Rahim alınırken mesane ve üreter hasar görür. Bu hasar vücutta olmayan bir yol oluşturur. İdrar bu yol içerisinden geçerek vajinadan akar.
 
 •	Fistül; vajina, anüs, apış arası, rahim ya da bağırsağa yapılan cerrahi müdahalelere bağlı olarak oluşum gösterir. Bu cerrahi müdehalelerin komplikasyonu istenmeyen bir kanal oluşur.
@@ -38,7 +33,6 @@ youtubeId: false
 
 •	Zorlu doğumlarda, doğum kanalını büyütmek amacıyla kesi yapılır. Yapılan bu kesiler de fistül oluşumuna neden olabilir. Bu duruma epizotomiye bağlı fistüller adı verilir.
 
-Kısacası bir çok ameliyatın komplikasyonu olarak fistül oluşur. Fistüller hastaya ciddi psikolojik travmalar verir.
-
+Kısacası bir çok ameliyatın komplikasyonu olarak fistül oluşur. Fistüller hastaya ciddi psikolojik travmalar verir.    
 
 Fistül hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/fistul-idrar-kacirma)

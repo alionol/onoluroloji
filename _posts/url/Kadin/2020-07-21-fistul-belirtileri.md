@@ -19,10 +19,6 @@ summary: "Fistül oluşumuna bağlı idrar kaçırmalar. , Fistül nedir? , Fist
 youtubeId: false
 ---
 
-
-
-
-
 •	Fistül idrar kanalıyla bağlantılı olduğunda hasta vajinasından sürekli olarak idrar kaçırır.
 
 •	Fistül bağırsak ile ilişkili ise hastanın vajinasından gaz ve dışkı gelir.
@@ -33,7 +29,6 @@ youtubeId: false
 
 •	Vajina çevresinde görülen kızarıklık, iltihaplanma ve karın bölgesinde hissedilen ağrı
 
-Fistül belirtileri, fistülün oluştuğu bölgeye göre farklılık gösterir. Belirtilerin iyi incelenmesi fistülün yerini saptamada etkilidir. Teşhis esnasında fistülün bölgesi ve uzunluğu saptanır. Buna göre fistülün tedavi planlaması yapılır. Fistülün ameliyatları fistülün tipine göre değişir. Belirtilerin iyi analiz edilmesi teşhisi ve tedaviyi kolaylaştırır.
-
+Fistül belirtileri, fistülün oluştuğu bölgeye göre farklılık gösterir. Belirtilerin iyi incelenmesi fistülün yerini saptamada etkilidir. Teşhis esnasında fistülün bölgesi ve uzunluğu saptanır. Buna göre fistülün tedavi planlaması yapılır. Fistülün ameliyatları fistülün tipine göre değişir. Belirtilerin iyi analiz edilmesi teşhisi ve tedaviyi kolaylaştırır.    
 
 Fistül hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/fistul-idrar-kacirma)
