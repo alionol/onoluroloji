@@ -10,18 +10,10 @@ layout: default
   {%- assign doctors_base = site.thumbnail.base | append: site.thumbnail.author.dir -%}
   <div class="container">
     <div class="row my-5">
-      <div class="col-md-6">
-        ​<picture>
-          <source srcset="{{- doctors_base | append: page.who_img | append: '.webp' | relative_url -}}" type="image/webp">
-          <source srcset="{{- doctors_base | append: page.who_img | append: '.jpg' | relative_url -}}" type="image/jpeg">
-          <img src="{{- doctors_base | append: page.who_img | append: '.jpg' | relative_url -}}" class="card-img-top doctors-img" alt="{{- page.who_img_alt -}}">
-        </picture>
-      </div>
-      <div class="col-md-6">
-        {{- page.who_summary -}}
-      </div>
       <div class="col-md-12">
-        {{ page.content }}
+        <div class="clearfix">
+          {{ content }}
+        </div>
       </div>
     </div>
   </div>
