@@ -63,7 +63,7 @@
             {% for post in sortedPosts %}
             {%- if post.category_id == my_page.id and post.lang == page.lang -%}
             <a class="dropdown-item" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-            {%- elsif post.category_id == 'common' and post.lang == page.lang -%}
+            {%- elsif post.category_id == 'common' and post.lang == page.lang and my_page.id != 'child' -%}
             <a class="dropdown-item" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
             {%- endif -%}
             {% endfor %}
