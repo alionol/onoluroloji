@@ -6,7 +6,7 @@ date: 2020-03-28 12:00:00 +0300
 published: true
 tags: ["Böbrek kanseri belirti", "Böbrek kanseri" ,  "Böbrek kanseri nedir", "Böbrek kanserinin nedeni", "Böbrek kanseri erken teşhis", "Böbrek kanseri tümör büyüklüğü", "Böbrek kisti nedir", "Parsiyel Nefrektomi", "Böbrek kanseri komplikasyonu", "Böbrek Kanseri Ameliyatı Sonrası" , "Böbrek Kanseri Ameliyatı yan etkileri" ,"Böbreğin görevi nedir" , "Böbrek kanseri belirti" , "Böbrek kanseri teşhis", "Böbrek Kanseri Ameliyatı", "Parsiyel Nefrektomi nedir" , "Parsiyel nefrektomi ameliyatı" ,"Böbrek kanseri açık ameliyatı" , " Böbrek kanseri kapalı ameliyatı" , "Radikal nefrektomi ameliyatı" , "Radikal nefrektomi"]
 category: "erkek-hastaliklari"
-category_id: "male"
+category_id: "common"
 category_title:
     tr: "Erkek Hastalıkları"
 i18n-link: "bobrek-kanseri"

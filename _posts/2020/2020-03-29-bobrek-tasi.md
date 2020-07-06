@@ -6,7 +6,7 @@ date: 2020-03-29 12:00:00 +0300
 published: true
 tags: ["Böbrek Taşı Nedir", "Böbrek Taşı" , "Böbek Taşı neden olur", "Böbrek Taşı Tipi", "Kimlerde Böbrek Taşı Olur", "Böbrek Taşı Belirti", "Böbrek Taşı Teşhis", "Böbrek Taşı Nasıl Önlenir", "Böbrek Taşı Ağrısı", "Böbrek Taşı Tedavisi", "Böbrek taşı açık ameliyat", "Böbrek Taşı Kapalı Ameliyat" , "Böbrek nedir" , "Böbrek taşı ESWL" , "Üreteroskopi" , "Perkutan Nefrolitotomi" , "Böbrek taşı önleme"]
 category: "erkek-hastaliklari"
-category_id: "male"
+category_id: "common"
 category_title:
     tr: "Erkek Hastalıkları"
 i18n-link: "bobrek-tasi"

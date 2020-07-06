@@ -6,7 +6,7 @@ date: 2020-04-09 12:00:00 +0300
 published: true
 tags: ["Cinsel hastalık", "cinsel hastalık teşhis" , "cinsel hastalık tedavi" , "cinsel hastalık belirti" , "cinsel hastalık kan tahlili" , "cinsel hastalık korunma yöntemleri" , "frengi", "genital herpes", "Klamidiya", "Genital bit", "Genital uçuk", "Hepatit B", "aids", "HPV", "hiv", "Trikomnas","Sifiliz", "Moluskum kantagiyozum", "Genital Uyuz", "Bel soğukluğu" , "gonore" , "cinsel hastalık çözüm" , "Moluskum kantagiyozum tedavi", "Bel soğukluğu tedavi" , "klamidya tedavi" , "frengi tedavi"  , " genital bit tedavi"  , " genital uçuk tedavi"  , "hepatit b tedavi"  , "hiv tedavi"  , "hpv tedavi" , "Trikomonas tedavi", "cinsel hastalık tahlil", "cinsel hastalık pcr testi" ]
 category: "erkek-hastaliklari"
-category_id: "male"
+category_id: "common"
 category_title:
     tr: "Erkek Hastalıkları"
 i18n-link: "cinsel-hastaliklar"

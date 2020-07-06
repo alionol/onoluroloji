@@ -6,7 +6,7 @@ date: 2020-03-27 12:00:00 +0300
 published: true
 tags: ["Mesane Kanseri Nedir", "mesane kanseri tipleri " , "Mesane Kanseri neden olur" , "Mesane kanseri ve sigara", "Mesane Kanseri belirti", "Mesane kanseri teşhis", "Mesane kanseri evre", "Mesane kanseri tedavi", "Mesane kanseri ameliyatı", "Mesane kanseri kapalı ameliyatı" , "Mesane kanseri açık ameliyatı" , "Radikal sistektomi nedir", "Radikal sistektomi ameliyatı", "Radikal sistektomi", "Mesane Kanseri" , Bağırsaktan mesane yapılması", "Yapay mesane" , "Yapay mesane ameliyatı" , "Mesane kanseri radyoterapi" , "Mesane kanseri kemoterapi" , "Mesane kanseri ameliyatı komplikasyonları", " Mesane kanseri yan etkileri"]
 category: "erkek-hastaliklari"
-category_id: "male"
+category_id: "common"
 category_title:
     tr: "Erkek Hastalıkları"
 i18n-link: "mesane-kanseri"
