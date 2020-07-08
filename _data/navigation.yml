@@ -32,7 +32,7 @@
   name:
     tr: "Hakkımızda"
   link:
-    tr: "/about/"
+    tr: "/hakkımızda/"
   category: false
   invisible: false
   subitem:
@@ -40,19 +40,19 @@
       name:
         tr: "Prof. Dr. Ş. Yavuz Önol"
       link:
-        tr: "/about/prof-dr-s-yavuz-onol/"
+        tr: "/hakkımızda/prof-dr-s-yavuz-onol/"
       invisible: false
     - id: "about-2"
       name:
         tr: "Doç. Dr. F. Fatih Önol"
       link:
-        tr: "/about/doc-dr-f-fatih-onol/"
+        tr: "/hakkımızda/doc-dr-f-fatih-onol/"
       invisible: false
 - id: "contact"
   name:
     tr: "İletişim"
   link:
-    tr: "/contact/"
+    tr: "/iletisim/"
   category: false
   invisible: false
 
@@ -60,6 +60,6 @@
   name:
     tr: "Ara"
   link:
-    tr: "/search/"
+    tr: "/arama/"
   category: false
   invisible: false
