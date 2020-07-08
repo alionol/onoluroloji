@@ -313,104 +313,105 @@ blockquote {
     }
   }
 
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6 {
-    text-align: left;
-    color: darken($brand, 2.5%);
-    font-family: $font-family-serif;
-    font-weight: $headings-font-weight-post;
+  .main-content {
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+      text-align: left;
+      color: darken($brand, 2.5%);
+      font-family: $font-family-serif;
+      font-weight: $headings-font-weight-post;
+    }
+
+    h2 {
+      color: darken($brand, 10%);
+      margin-top: 20px;
+    }
+
+    img {
+      margin-right: 20px;
+    }
+
+    img {
+      max-width: 100%;
+
+      @media only all and (min-width: map-get($grid-breakpoints, sm)) {
+        width: 100%;
+      }
+
+      @media only all and (min-width: map-get($grid-breakpoints, md)) {
+        float: left;
+        width: 35%;
+      }
+
+      @media only all and (min-width: map-get($grid-breakpoints, lg)) {
+        float: left;
+        width: 35%;
+      }
+
+      @media only all and (min-width: map-get($grid-breakpoints, xl)) {
+        float: left;
+        width: 35%;
+      }
+    }
+
+    img.size2 {
+      max-width: 100%;
+
+      @media only all and (min-width: map-get($grid-breakpoints, sm)) {
+        width: 100%;
+      }
+
+      @media only all and (min-width: map-get($grid-breakpoints, md)) {
+        float: left;
+        width: 75%;
+      }
+
+      @media only all and (min-width: map-get($grid-breakpoints, lg)) {
+        float: left;
+        width: 75%;
+      }
+
+      @media only all and (min-width: map-get($grid-breakpoints, xl)) {
+        float: left;
+        width: 75%;
+      }
+    }
+
+    img.size1 {
+      max-width: 100%;
+
+      @media only all and (min-width: map-get($grid-breakpoints, sm)) {
+        width: 100%;
+      }
+
+      @media only all and (min-width: map-get($grid-breakpoints, md)) {
+        float: left;
+        width: 50%;
+      }
+
+      @media only all and (min-width: map-get($grid-breakpoints, lg)) {
+        float: left;
+        width: 50%;
+      }
+
+      @media only all and (min-width: map-get($grid-breakpoints, xl)) {
+        float: left;
+        width: 50%;
+      }
+    }
+
+    .center {
+      position: relative;          /* where the next element will be automatically positioned */
+      display: inline-block;       /* causes element width to shrink to fit content */
+      left: 50%;                   /* moves left side of image/element to center of parent element */
+      transform: translate(-50%);  /* centers image/element on "left: 50%" position */
+      margin-right: 0px;
+    }
   }
-
-  h2 {
-    color: darken($brand, 10%);
-    margin-top: 20px;
-  }
-
-  img {
-    margin-right: 20px;
-  }
-
-  img {
-    max-width: 100%;
-
-    @media only all and (min-width: map-get($grid-breakpoints, sm)) {
-      width: 100%;
-    }
-
-    @media only all and (min-width: map-get($grid-breakpoints, md)) {
-      float: left;
-      width: 35%;
-    }
-
-    @media only all and (min-width: map-get($grid-breakpoints, lg)) {
-      float: left;
-      width: 35%;
-    }
-
-    @media only all and (min-width: map-get($grid-breakpoints, xl)) {
-      float: left;
-      width: 35%;
-    }
-  }
-
-  img.size2 {
-    max-width: 100%;
-
-    @media only all and (min-width: map-get($grid-breakpoints, sm)) {
-      width: 100%;
-    }
-
-    @media only all and (min-width: map-get($grid-breakpoints, md)) {
-      float: left;
-      width: 75%;
-    }
-
-    @media only all and (min-width: map-get($grid-breakpoints, lg)) {
-      float: left;
-      width: 75%;
-    }
-
-    @media only all and (min-width: map-get($grid-breakpoints, xl)) {
-      float: left;
-      width: 75%;
-    }
-  }
-
-  img.size1 {
-    max-width: 100%;
-
-    @media only all and (min-width: map-get($grid-breakpoints, sm)) {
-      width: 100%;
-    }
-
-    @media only all and (min-width: map-get($grid-breakpoints, md)) {
-      float: left;
-      width: 50%;
-    }
-
-    @media only all and (min-width: map-get($grid-breakpoints, lg)) {
-      float: left;
-      width: 50%;
-    }
-
-    @media only all and (min-width: map-get($grid-breakpoints, xl)) {
-      float: left;
-      width: 50%;
-    }
-  }
-
-  .center {
-    position: relative;          /* where the next element will be automatically positioned */
-    display: inline-block;       /* causes element width to shrink to fit content */
-    left: 50%;                   /* moves left side of image/element to center of parent element */
-    transform: translate(-50%);  /* centers image/element on "left: 50%" position */
-    margin-right: 0px;
-  }
-
 }
 
 // CONTACT PAGE
