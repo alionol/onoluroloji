@@ -58,7 +58,7 @@
             {{- my_page.name[page.lang] | strip_html | strip_newlines | xml_escape -}}
           </a>
 
-          <div class="dropdown-menu text-center" aria-labelledby="">
+          <div class="dropdown-menu text-center pt-0 mt-0" aria-labelledby="">
             {% assign sortedPosts = site.posts | sort: 'date' %}
             {% for post in sortedPosts %}
             {%- if post.category_id == my_page.id and post.lang == page.lang -%}
