@@ -45,7 +45,7 @@
       <img src="{{- headerlogo | strip_html | strip_newlines | uri_escape | relative_url -}}" height="40" alt="{{- site.data.organization.name | strip_html | strip_newlines | xml_escape }} Logo" class="d-inline-block align-botton pr-2 pb-1" />
       {{- site.title | strip_html | strip_newlines | xml_escape -}}
     </a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation" id="navbarTogglerButton">
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarNavDropdown">
