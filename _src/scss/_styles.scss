@@ -709,12 +709,14 @@ blockquote {
 .navbar {
   line-height: $alt-line-height * 0.95;
 
-  .dropdown:hover > .dropdown-menu {
-   display: block;
-  }
+  @media only all and (min-width: map-get($grid-breakpoints, xl)) {
+    .dropdown:hover > .dropdown-menu {
+      display: block;
+     }
 
-  .dropdown-toggle::after {
-    display: none;
+     .dropdown-toggle::after {
+       display: none;
+     }
   }
 
   .navbar-toggler {
@@ -757,7 +759,8 @@ blockquote {
     font-size: $alt-font-size * 0.85;
     line-height: $alt-line-height;
     border: none;
-    left: -50%;
+    max-height: 85px;
+    overflow-y: scroll;
 
     .dropdown-item {
       font-size: $alt-font-size * 0.85;
@@ -769,6 +772,15 @@ blockquote {
       color: $link-color;
     }
   }
+
+  @media only all and (min-width: map-get($grid-breakpoints, xl)) {
+    .dropdown-menu {
+      left: -50%;
+      max-height: none;
+      overflow-y: visible;
+    }
+  }
+
 }
 
 // FOOTER
