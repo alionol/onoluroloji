@@ -759,8 +759,9 @@ blockquote {
     font-size: $alt-font-size * 0.85;
     line-height: $alt-line-height;
     border: none;
-    max-height: 85px;
-    overflow-y: scroll;
+    // max-height: 85px;
+    // overflow-y: scroll;
+    left: -50%;
 
     .dropdown-item {
       font-size: $alt-font-size * 0.85;
@@ -773,13 +774,13 @@ blockquote {
     }
   }
 
-  @media only all and (min-width: map-get($grid-breakpoints, xl)) {
-    .dropdown-menu {
-      left: -50%;
-      max-height: none;
-      overflow-y: visible;
-    }
-  }
+  // @media only all and (min-width: map-get($grid-breakpoints, xl)) {
+  //   .dropdown-menu {
+  //     left: -50%;
+  //     max-height: none;
+  //     overflow-y: visible;
+  //   }
+  // }
 
 }
 
