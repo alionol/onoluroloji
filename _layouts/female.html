@@ -4,10 +4,15 @@ layout: default
 <br/>
 <br/>
 <div class="container">
-{% for post in site.posts %}
-{%- if post.category_id == "female" or post.category_id == "common" -%}
+{{- site.data.i18n.diseases[page.lang] | strip_html | strip_newlines | xml_escape }}
+<br/>
+{% assign sortedPosts = site.posts | sort: 'date' %}
+{% for post in sortedPosts %}
+{%- if post.category_id == "female" or post.category_id == "common" and post.lang == page.lang -%}
+{%- if post.lang == page.lang -%}
 <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
 <br/>
+{%- endif -%}
 {%- endif -%}
 {% endfor %}
 </div>

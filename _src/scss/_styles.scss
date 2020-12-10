@@ -77,12 +77,22 @@ blockquote {
   font-size: 3em;
   z-index: 999;
   color: $icon-green;
+  display: inline-block;
+  width: 72px;
+  height: 72px;
   .fa-phone{
-    padding: 12px;
+    display: inline-block;
+    padding-top: 8px;
+    padding-bottom: 12px;
+    padding-right: 8px;
+    padding-left: 14px;
+
     border: 2px solid $icon-green;
     border-radius: 50%;
     color: $white;
     background: $icon-green;
+    width: 72px;
+    height: 72px;
   }
 
   @media only all and (min-width: map-get($grid-breakpoints, lg)) {
@@ -163,6 +173,11 @@ blockquote {
       color: $white;
       opacity: 0.875;
       line-height: $alt-line-height;
+
+      @media only all and (max-width: map-get($grid-breakpoints, sm)) {
+        margin-right: 25px;
+        margin-left: 25px;
+      }
 
       .card-title {
         font-family: $font-family-sans-serif;
@@ -613,6 +628,8 @@ blockquote {
 
       .carousel-inner {
         height: 100%;
+        filter: blur(5px);
+        transition: filter 0.75s;
 
         .carousel-item {
           height: 100%;
@@ -622,20 +639,25 @@ blockquote {
             height: 100%;
             width: auto;
             object-fit: contain;
-            filter: blur(5px);
-            transition: filter 0.75s;
+            // filter: blur(5px);
+            // transition: filter 0.75s;
           }
 
-          img:hover {
-            transition: filter 0.75s;
-            filter: none;
-          }
+          // img:hover {
+          //   transition: filter 0.75s;
+          //   filter: none;
+          // }
         }
 
         // .carousel-item:hover {
         //   transition: filter 0.75s;
         //   filter: none;
         // }
+      }
+
+      .carousel-inner:hover {
+        transition: filter 0.75s;
+        filter: none;
       }
     }
   }
@@ -653,7 +675,7 @@ blockquote {
   }
 
   .navbar-above-social {
-    font-size: 2.30rem;
+    font-size: 2rem;
     i {
       color: $gray-600;
     }
@@ -663,12 +685,12 @@ blockquote {
   .navbar-above-phone {
     i {
       color: $icon-green;
-      font-size: 1.275em;
+      font-size: 1.05em;
     }
     a {
 
       display: inline-block;
-      font-size: 1.30em;
+      font-size: 1.1em;
     }
     span {
       display: inline-block;
@@ -728,8 +750,29 @@ blockquote {
     font-family: $font-family-serif;
     color: $urologue-green;
     font-size: 1.70em;
+
+    display: flex;
+    flex-grow: 1;
+
+    @media only all and (max-width: map-get($grid-breakpoints, md)) {
+      text-align: center;
+      align-items: center;
+      justify-content: center;
+    }
+
     img {
       width: auto;
+    }
+  }
+
+  .navbar-brand-wrapper {
+    display: flex;
+    flex-grow: 1;
+
+    @media only all and (max-width: map-get($grid-breakpoints, md)) {
+      text-align: center;
+      align-items: center;
+      justify-content: center;
     }
   }
 
@@ -763,9 +806,17 @@ blockquote {
     // overflow-y: scroll;
     left: -50%;
 
+    @media only all and (max-width: map-get($grid-breakpoints, sm)) {
+      text-align: left !important;
+    }
+
     .dropdown-item {
-      font-size: $alt-font-size * 0.85;
+      font-size: $alt-font-size;
       line-height: $alt-line-height;
+
+      @media only all and (max-width: map-get($grid-breakpoints, sm)) {
+        text-align: left !important;
+      }
     }
 
     .dropdown-item:hover {
@@ -791,7 +842,7 @@ footer {
   line-height: $alt-line-height;
   color: $gray-800;
   padding-top: 90px;
-  padding-bottom: 90px;
+  padding-bottom: 30px;
   a {
     color: $gray-800;
   }
@@ -859,6 +910,10 @@ footer {
 .embed-container {
   width: 100%;
   height: 450px;
+
+  @media only all and (max-width: map-get($grid-breakpoints, sm)) {
+    height: 300px;
+  }
 
   .embed-container-downstream {
     width: 100%;

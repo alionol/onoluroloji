@@ -1,7 +1,7 @@
 ---
 # Global vars
 layout: posts
-title: "Erkek Üretra Darlığı"
+title: "Üretra Darlığı"
 date: 2020-03-31 12:00:00 +0300
 published: true
 tags: ["Erkek idrar kanalı darlığı", "İdrar kanalı darlığı", "Üretra darlığı" , "Erkek üretra darlığı", "Üretra nedir", " Üretra darlığı belirti", "Üretra darlığı teşhis", "Üretra darlığı tedavi", "Üretra darlığı ameliyatı", "Üretroplasti nedir", "Üretroplasti", "Üretroplasti ameliyatı tipleri", "Bulber üretroplasti,", "Bulbomembranöz üretroplasti", "Üretra kopması", "ön üretra darlığı" , "idrar kanalı darlığı tedavi", "Üretra darlığı nedeni" , "Üretra darlığı kapalı ameliyat" , "Üretra darlığı açık ameliyat" , "Perineal Üretroplasti" , "Penis başı darlığı" , "idrar kanalı darlığı ameliyatı" , "idrar kanalı kopması"]

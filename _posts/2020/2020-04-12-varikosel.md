@@ -63,5 +63,6 @@ lightBoxImages: ["/assets/img/varikoselameliyati1.jpeg", "/assets/img/varikosela
 
 Mikroskop ve lup kullanılarak yapılan açık cerrahi ameliyatı tedavi için en uygun yöntemdir.
 
+{:.text-center}
 ## Varikosel Ameliyatı Görselleri
 {% include lightbox.html paths=page.lightBoxImages no=1 %}

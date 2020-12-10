@@ -34,7 +34,7 @@ footer:
   address_name:
     tr: "Adres"
   address:
-    tr: ["Halaskargazi Caddesi No:81", "Osmanbey", "Istanbul"]
+    tr: ["Halaskargazi Caddesi No:81", "Osmanbey / Şişli", "Istanbul"]
   email_name:
     tr: "Email"
   phone_name:
@@ -74,3 +74,7 @@ legal:
 toc:
   tr: "İçindekiler"
   en: "Table of Contents"
+
+diseases:
+  tr: "Bilgi edinmek istediğiniz hastalığı seçiniz."
+  en: "Click on the specific disease for more info."

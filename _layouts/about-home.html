@@ -16,56 +16,68 @@ layout: default
     {%- assign doctors_base = site.thumbnail.base | append: site.thumbnail.author.dir -%}
     <div class="row row-cols-1 row-cols-md-3 justify-content-around">
       <div class="col-md-4 mb-4 px-3">
+        {%- for my_page in site.data.navigation -%}
+        {%- if my_page.id == "about" -%}
+        {%- for about_page in my_page.subitem -%}
+        {%- if about_page.id == "about-1" -%}
         <div class="card h-100 border-0">
+          <a href="{{- about_page.link[page.lang] | strip_html | strip_newlines | uri_escape | relative_url -}}">
           ​<picture>
             <source srcset="{{- doctors_base | append: site.thumbnail.author.doctor_1 | append: '.webp' | relative_url -}}" type="image/webp">
             <source srcset="{{- doctors_base | append: site.thumbnail.author.doctor_1 | append: '.jpg' | relative_url -}}" type="image/jpeg">
             <img src="{{- doctors_base | append: site.thumbnail.author.doctor_1 | append: '.jpg' | relative_url -}}" class="card-img-top doctors-img w-100" alt="{{- doctors_base | append: site.thumbnail.author.doctor_1_alt -}}">
           </picture>
+          </a>
           <div class="card-body px-0">
-            <h5 class="card-title text-center pt-3">{{- site.data.i18n.home.doctors.title[page.lang][0] | strip_html | strip_newlines | xml_escape -}}</h5>
+            <h5 class="card-title text-center pt-3">
+              <a href="{{- about_page.link[page.lang] | strip_html | strip_newlines | uri_escape | relative_url -}}">
+              {{- site.data.i18n.home.doctors.title[page.lang][0] | strip_html | strip_newlines | xml_escape -}}
+              </a>
+            </h5>
             <p class="card-text text-justify">{{- site.data.i18n.home.doctors.desc[page.lang][0] | strip_html | strip_newlines | xml_escape -}}</p>
           </div>
           <div class="card-footer border-0 pl-0">
-            {%- for my_page in site.data.navigation -%}
-            {%- if my_page.id == "about" -%}
-            {%- for about_page in my_page.subitem -%}
-            {%- if about_page.id == "about-1" -%}
             <a href="{{- about_page.link[page.lang] | strip_html | strip_newlines | uri_escape | relative_url -}}" class="btn btn-primary btn-sm" role="button">
             {{- site.data.i18n.continue[page.lang] | strip_html | strip_newlines | xml_escape -}}
             </a>
-            {%- endif -%}
-            {%- endfor -%}
-            {%- endif -%}
-            {%- endfor -%}
           </div>
         </div>
+        {%- endif -%}
+        {%- endfor -%}
+        {%- endif -%}
+        {%- endfor -%}
       </div>
       <div class="col-md-4 mb-4 px-3">
+        {%- for my_page in site.data.navigation -%}
+        {%- if my_page.id == "about" -%}
+        {%- for about_page in my_page.subitem -%}
+        {%- if about_page.id == "about-2" -%}
         <div class="card h-100 border-0">
+          <a href="{{- about_page.link[page.lang] | strip_html | strip_newlines | uri_escape | relative_url -}}">
           ​<picture>
             <source srcset="{{- doctors_base | append: site.thumbnail.author.doctor_2 | append: '.webp' | relative_url -}}" type="image/webp">
             <source srcset="{{- doctors_base | append: site.thumbnail.author.doctor_2 | append: '.jpg' | relative_url -}}" type="image/jpeg">
             <img src="{{- doctors_base | append: site.thumbnail.author.doctor_2 | append: '.jpg' | relative_url -}}" class="card-img-top doctors-img w-100" alt="{{- doctors_base | append: site.thumbnail.author.doctor_2_alt -}}">
           </picture>
+          </a>
           <div class="card-body px-0">
-            <h5 class="card-title text-center pt-3">{{- site.data.i18n.home.doctors.title[page.lang][1] | strip_html | strip_newlines | xml_escape -}}</h5>
+            <h5 class="card-title text-center pt-3">
+              <a href="{{- about_page.link[page.lang] | strip_html | strip_newlines | uri_escape | relative_url -}}">
+              {{- site.data.i18n.home.doctors.title[page.lang][1] | strip_html | strip_newlines | xml_escape -}}
+              </a>
+            </h5>
             <p class="card-text text-justify">{{- site.data.i18n.home.doctors.desc[page.lang][1] | strip_html | strip_newlines | xml_escape -}}</p>
           </div>
           <div class="card-footer border-0 pl-0">
-            {%- for my_page in site.data.navigation -%}
-            {%- if my_page.id == "about" -%}
-            {%- for about_page in my_page.subitem -%}
-            {%- if about_page.id == "about-2" -%}
             <a href="{{- about_page.link[page.lang] | strip_html | strip_newlines | uri_escape | relative_url -}}" class="btn btn-primary btn-sm" role="button">
             {{- site.data.i18n.continue[page.lang] | strip_html | strip_newlines | xml_escape -}}
             </a>
-            {%- endif -%}
-            {%- endfor -%}
-            {%- endif -%}
-            {%- endfor -%}
           </div>
         </div>
+        {%- endif -%}
+        {%- endfor -%}
+        {%- endif -%}
+        {%- endfor -%}
       </div>
     </div>
   </div>

@@ -1,7 +1,7 @@
 ---
 # Global vars
 layout: posts
-title: "Kadınlarda İdrar Kaçırma"
+title: "İdrar Kaçırma"
 date: 2020-04-21 12:00:00 +0300
 published: true
 tags: ["Kadınlar neden idrar kaçırır", "idrar boşaltma sistemi", "idrar kaçırma tipi", "Stres tipi idrar kaçırma", "Sıkışma tipi idrar kaçırma", "Cinsel ilişkide idrar kaçırma", "İdrar kaçırma ameliyat", "TVT ameliyatı", "TOT ameliyatı" , "idrar kaçırma ilaç", "idrar kaçırma nedeni" , "karışık tip idrar kaçırma" , "fistül idrar kaçırma" , "idrar kaçırma teşhis" , "idrar tutamama" , "idrar kaçırma tedavi", "idrar kaçırma çözüm", "idrar tutamama tedavi", "idrar kaçırma ameliyatı yan etkisi" , ]

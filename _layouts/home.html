@@ -112,7 +112,7 @@ layout: default
 
   <div class="jumbotron jumbotron-fluid jumbotron-info">
     <div class="container">
-      <p class="text-justify">{{- site.data.i18n.home.jumbotron[page.lang] | strip_html | strip_newlines | xml_escape -}}</p>
+      <p class="text-justify mb-4">{{- site.data.i18n.home.jumbotron[page.lang] | strip_html | strip_newlines | xml_escape -}}</p>
       {%- for my_page in site.data.navigation -%}
       {%- if my_page.id == "contact" -%}
       <a href="{{- my_page.link[page.lang] | strip_html | strip_newlines | uri_escape | relative_url -}}" class="btn" role="button">
@@ -128,56 +128,68 @@ layout: default
     <h2 class="text-center doctors-title pb-4">{{- site.data.i18n.home.about[page.lang] | strip_html | strip_newlines | xml_escape -}}</h2>
     <div class="row row-cols-1 row-cols-md-3 justify-content-around">
       <div class="col-md-4 mb-4 px-3">
+        {%- for my_page in site.data.navigation -%}
+        {%- if my_page.id == "about" -%}
+        {%- for about_page in my_page.subitem -%}
+        {%- if about_page.id == "about-1" -%}
         <div class="card h-100 border-0">
+          <a href="{{- about_page.link[page.lang] | strip_html | strip_newlines | uri_escape | relative_url -}}">
           ​<picture>
             <source data-srcset="{{- doctors_base | append: site.thumbnail.author.doctor_1 | append: '.webp' | relative_url -}}" type="image/webp">
             <source data-srcset="{{- doctors_base | append: site.thumbnail.author.doctor_1 | append: '.jpg' | relative_url -}}" type="image/jpeg">
             <img data-src="{{- doctors_base | append: site.thumbnail.author.doctor_1 | append: '.jpg' | relative_url -}}" class="card-img-top doctors-img lazyload" alt="{{- doctors_base | append: site.thumbnail.author.doctor_1_alt -}}">
           </picture>
+          </a>
           <div class="card-body px-0">
-            <h3 class="card-title text-center pt-3">{{- site.data.i18n.home.doctors.title[page.lang][0] | strip_html | strip_newlines | xml_escape -}}</h3>
+            <h3 class="card-title text-center pt-3">
+              <a href="{{- about_page.link[page.lang] | strip_html | strip_newlines | uri_escape | relative_url -}}">
+              {{- site.data.i18n.home.doctors.title[page.lang][0] | strip_html | strip_newlines | xml_escape -}}
+              </a>
+            </h3>
             <p class="card-text text-justify">{{- site.data.i18n.home.doctors.desc[page.lang][0] | strip_html | strip_newlines | xml_escape -}}</p>
           </div>
           <div class="card-footer border-0 pl-0">
-            {%- for my_page in site.data.navigation -%}
-            {%- if my_page.id == "about" -%}
-            {%- for about_page in my_page.subitem -%}
-            {%- if about_page.id == "about-1" -%}
-            <a href="{{- about_page.link[page.lang] | strip_html | strip_newlines | uri_escape | relative_url -}}" class="btn btn-primary btn-sm" role="button">
+            <a href="{{- about_page.link[page.lang] | strip_html | strip_newlines | uri_escape | relative_url -}}" class="btn btn-primary" role="button">
             {{- site.data.i18n.continue[page.lang] | strip_html | strip_newlines | xml_escape -}}
             </a>
-            {%- endif -%}
-            {%- endfor -%}
-            {%- endif -%}
-            {%- endfor -%}
           </div>
         </div>
+        {%- endif -%}
+        {%- endfor -%}
+        {%- endif -%}
+        {%- endfor -%}
       </div>
       <div class="col-md-4 mb-4 px-3">
+        {%- for my_page in site.data.navigation -%}
+        {%- if my_page.id == "about" -%}
+        {%- for about_page in my_page.subitem -%}
+        {%- if about_page.id == "about-2" -%}
         <div class="card h-100 border-0">
+          <a href="{{- about_page.link[page.lang] | strip_html | strip_newlines | uri_escape | relative_url -}}">
           ​<picture>
             <source data-srcset="{{- doctors_base | append: site.thumbnail.author.doctor_2 | append: '.webp' | relative_url -}}" type="image/webp">
             <source data-srcset="{{- doctors_base | append: site.thumbnail.author.doctor_2 | append: '.jpg' | relative_url -}}" type="image/jpeg">
             <img data-src="{{- doctors_base | append: site.thumbnail.author.doctor_2 | append: '.jpg' | relative_url -}}" class="card-img-top doctors-img lazyload" alt="{{- doctors_base | append: site.thumbnail.author.doctor_2_alt -}}">
           </picture>
+          </a>
           <div class="card-body px-0">
-            <h3 class="card-title text-center pt-3">{{- site.data.i18n.home.doctors.title[page.lang][1] | strip_html | strip_newlines | xml_escape -}}</h3>
+            <h3 class="card-title text-center pt-3">
+              <a href="{{- about_page.link[page.lang] | strip_html | strip_newlines | uri_escape | relative_url -}}">
+              {{- site.data.i18n.home.doctors.title[page.lang][1] | strip_html | strip_newlines | xml_escape -}}
+              </a>
+            </h3>
             <p class="card-text text-justify">{{- site.data.i18n.home.doctors.desc[page.lang][1] | strip_html | strip_newlines | xml_escape -}}</p>
           </div>
           <div class="card-footer border-0 pl-0">
-            {%- for my_page in site.data.navigation -%}
-            {%- if my_page.id == "about" -%}
-            {%- for about_page in my_page.subitem -%}
-            {%- if about_page.id == "about-2" -%}
-            <a href="{{- about_page.link[page.lang] | strip_html | strip_newlines | uri_escape | relative_url -}}" class="btn btn-primary btn-sm" role="button">
+            <a href="{{- about_page.link[page.lang] | strip_html | strip_newlines | uri_escape | relative_url -}}" class="btn btn-primary" role="button">
             {{- site.data.i18n.continue[page.lang] | strip_html | strip_newlines | xml_escape -}}
             </a>
-            {%- endif -%}
-            {%- endfor -%}
-            {%- endif -%}
-            {%- endfor -%}
           </div>
         </div>
+        {%- endif -%}
+        {%- endfor -%}
+        {%- endif -%}
+        {%- endfor -%}
       </div>
     </div>
   </div>

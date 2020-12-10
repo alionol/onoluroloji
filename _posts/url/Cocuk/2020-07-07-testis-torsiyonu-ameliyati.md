@@ -28,7 +28,7 @@ lightBoxImages3: ["/assets/img/inmemistestiskasikfitigi.jpeg", "/assets/img/inme
 
 Testis torsiyonu hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/testis-torsiyonu)
 
-
+{:.text-center}
 ## Testis Torsiyonu Ameliyatı Görselleri
 {% include lightbox.html paths=page.lightBoxImages no=1 %}  
 

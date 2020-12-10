@@ -2,7 +2,7 @@
 <footer id="footer" class="mt-4 bg-light">
   <div class="container">
     <div class="row justify-content-between px-2">
-      <div class="col-md-auto py-2 footer-contact">
+      <div class="col-md-auto pt-2 pb-3 footer-contact">
         <h3>{{- site.data.i18n.footer.contact[page.lang] | strip_html | strip_newlines | xml_escape -}}</h3>
         <div>
           <i class="fa-phone-square mr-1 align-middle"></i>
@@ -44,7 +44,7 @@
         </div>
       </div>
 
-      <div class="col-md-auto py-2 footer-navigation">
+      <div class="col-md-auto py-3 footer-navigation">
         <h3>{{- site.data.i18n.footer.nav[page.lang] | strip_html | strip_newlines | xml_escape -}}</h3>
         <ul class="footer-navigation-links pl-0">
           {%- for my_page in site.data.navigation -%}
@@ -59,12 +59,12 @@
         </ul>
       </div>
 
-      <div class="col-md-auto py-2 footer-navigation">
+      <div class="col-md-auto py-3 footer-navigation">
         <h3>{{- site.data.i18n.footer.nav_popular[page.lang] | strip_html | strip_newlines | xml_escape -}}</h3>
         <ul class="footer-navigation-links pl-0">
           {%- for post in site.posts -%}
           {%- if post.lang == page.lang -%}
-          {%- if post.i18n-link == "prostat-kanseri" or post.i18n-link == "mesane-kanseri" or post.i18n-link == "sertlesme-problemleri" or post.i18n-link == "kadin-uretra-darliklari" or post.i18n-link == "mesane-kanseri" -%}
+          {%- if post.i18n-link == "prostat-kanseri" or post.i18n-link == "penis-buyutme" or post.i18n-link == "erken-bosalma" or post.i18n-link == "mesane-kanseri" or post.i18n-link == "sertlesme-problemleri" or post.i18n-link == "kadin-uretra-darliklari" or post.i18n-link == "mesane-kanseri" -%}
           <li class="my-2">
             <a class="" href="{{ post.url | prepend: site.baseurl }}">
               {{ post.title }}
@@ -76,7 +76,7 @@
         </ul>
       </div>
 
-      <div class="col-md-auto social-media py-2">
+      <div class="col-md-auto social-media py-3">
         <h3 class="social-media-title">{{- site.data.i18n.footer.social_name[page.lang] | strip_html | strip_newlines | xml_escape -}}</h3>
         <a rel="nofollow noreferrer noopener" target="_blank" href="https://www.instagram.com/prof.dr.yavuz.onol/" aria-label="On Instagram">
           <i class="fa-instagram"></i>

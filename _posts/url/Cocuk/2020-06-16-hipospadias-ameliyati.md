@@ -67,7 +67,7 @@ Bazı durumlarda mevcut olan cilt dokusu idrar kanalı tüpünü oluşturmaya ye
 
 Hipospadias hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/hipospadias)
 
-
+{:.text-center}
 ## Hipospadias Ameliyatı Görselleri
 {% include lightbox.html paths=page.lightBoxImages no=1 %}
 

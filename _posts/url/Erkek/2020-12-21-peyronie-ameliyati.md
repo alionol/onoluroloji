@@ -33,7 +33,7 @@ lightBoxImages: ["/assets/img/peyronie1.jpeg", "/assets/img/peyronie2.jpeg", "/a
 Peyronie hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/peyronie)
 
 
-
+{:.text-center}
 ## Peyronie Ameliyatı Görselleri
 
 {% include lightbox.html paths=page.lightBoxImages no=1 %}

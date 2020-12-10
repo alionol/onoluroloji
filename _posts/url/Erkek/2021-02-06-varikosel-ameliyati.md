@@ -38,6 +38,7 @@ Varikoselin tedavisinde en ideal yöntem mikroskop ve lup yardımıyla uygulanan
 
 Varikosel hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/varikosel)
 
+{:.text-center}
 ## Varikosel Ameliyatı Görselleri
 
 {% include lightbox.html paths=page.lightBoxImages no=1 %}

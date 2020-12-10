@@ -59,6 +59,6 @@ lightBoxImages: ["/assets/img/Fistul.jpeg", "/assets/img/Fistul2.jpeg","/assets/
 Fistül hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/fistul-idrar-kacirma)
 
 
-
+{:.text-center}
 ## Fistül Ameliyatı Görselleri
 {% include lightbox.html paths=page.lightBoxImages no=1 %}

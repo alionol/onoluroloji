@@ -163,11 +163,10 @@ Sayfanın altında bu konunun ameliyat video ve görselleri sunulmaktadır.
 
 * Bir diğer komplikasyon lenf düğüm zincirlerinin çıkarılmasına bağlı olarak lenfosel denilen kistik oluşumların meydana gelmesidir. Özellikle bizim uyguladığımız teknikle bu kistik oluşumlar karın zarı arkasında kalacağından zamanla kendi kendine kaybolur. Maalesef gereksiz yere erken müdahale ile kistlerin boşaltılmaya çalışıldığından ciddi problemler gözükebilir.
 
+{:.text-center}
 ## Mesane Kanseri Ameliyat Görselleri
 
 {% include lightbox.html paths=page.lightBoxImages no=1 %}
-
-{% include lightbox.html paths=page.lightBoxImages2 no=2 %}
 
 {% include lightbox.html paths=page.lightBoxImages3 no=3 %}
 

@@ -58,7 +58,7 @@ lightBoxImages: ["/assets/img/bobrekreflusuameliyati1.jpg","/assets/img/bobrekre
 
 Böbrek reflüsü hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/bobrek-reflusu)
 
-
+{:.text-center}
 ## Böbrek Reflüsü Ameliyatı Görselleri
 
 {% include youtubePlayer.html id=page.youtubeId2 %}

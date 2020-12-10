@@ -62,6 +62,7 @@ lightBoxImages2: ["/assets/img/BuyukBobrekTasi1.jpg", "/assets/img/BobrekTasi1.j
 
 Böbrek Taşı hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/bobrek-tasi)
 
+{:.text-center}
 ## Böbrek Taşı Ameliyat Görselleri
 
 {% include lightbox.html paths=page.lightBoxImages no=1 %}

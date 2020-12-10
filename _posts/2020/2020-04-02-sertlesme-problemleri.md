@@ -1,7 +1,7 @@
 ---
 # Global vars
 layout: posts
-title: "Sertleşme Problemleri (İktidarsızlık)"
+title: "Sertleşme Problemleri"
 date: 2020-04-02 12:00:00 +0300
 published: true
 tags: ["iktidarsızlık" , "İktidarsızlık tedavi", "Cinsel arzu", "Penis nasıl sertleşir", "Penisin sertleşme sorunları", "Sertleşme sorunu tedavisi", "iktidarsızlık çözümü" , "sertleşme sorunu çözüm" , "sertleşme problemi çözüm" , "sertleşme sorunu ameliyat" , "sertleşme sorunu iğne" , "sertleşme sorunu ilaç", "iktidarsızlık ilaç" , "iktidarsızlık iğne" , "sertleşme sorunu ESWT" , "mutluluk çubuğu", "Penil protez" , "sertleşme sorunu neden olur" , "ereksiyon sorunu" , "penis sertleşmesi" , "sertleşme problemi" , "sertleşme sorunu" , "sertleşmeme" , "penis neden sertleşmez" , "sertleşme sorunu ameliyatı" , "ereksiyon tedavi" ]

@@ -84,6 +84,7 @@ Prostat kanseri ameliyatında 3 ayrı teknik vardır;
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Prostat kanseri organ içerisinde büyüdükten sonra etraf dokulara yayılmaya başlar. Penisi serleştiren sinir ve damarlara, meni keselerine ve göden bağırsağın dış yüzüne yayılır. Buna organı aşmış prostat kanserleri denir. Bu organı aşmış kanserlerde bile deneyimli ellerde yapılan kompleks bir ameliyat sayesinde hastalar kanserlerinden tamamen kurtulabilir.
 
+{:.text-center}
 #### Prostat kanseri ameliyatında lenf düğümleri neden çıkarılmalıdır?
 
 {% include lightbox.html paths=page.lightBoxImages no=1 %}
@@ -122,12 +123,12 @@ Prostat kanseri ameliyatında 3 ayrı teknik vardır;
 Prostat kanserinde radyoterapi iki şekilde uygulanır.
 
 **Primer (ilk tedavi)​**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Günümüzde, modern teknik ve uygulamalarla radyoterapi sonrası önceden yaşanan yan etkiler büyük ölçüde azalmıştır. Eskiden 39 günde aralıklı olarak verilen radyoterapi günümüzde 20 günde aynı dozda verilebiliyor. Yine de cerrahi tedavinin yerini aldığı söylenemez. Çünkü kanserin nereye kadar yayıldığı modern görüntüleme yöntemleri ile bile tam olarak belirlenemez. Cerrahiyi kabul etmeyen yaşam beklentisi uzun olmayan hastalara uygulanabilir. Radyoterapi de cinsel fonksiyonları bozar. Genç hastalara cerrahi operasyon daha faydalıdır. Radyoterapinin etkisini arttırmak için hastaya 18-24 ay süreyle hormon tedavisi uygulanır. Bu tedavide kanseri besleyen erkeklik hormonu bastırılır. Kemik erimesi, depresyon, düşünme yetisinde kayıp gibi yan etkileri vardır. Bunlar hastaların fiziksel aktivitelerini arttırarak kısmen engellenebilir.
+&nbsp;Günümüzde, modern teknik ve uygulamalarla radyoterapi sonrası önceden yaşanan yan etkiler büyük ölçüde azalmıştır. Eskiden 39 günde aralıklı olarak verilen radyoterapi günümüzde 20 günde aynı dozda verilebiliyor. Yine de cerrahi tedavinin yerini aldığı söylenemez. Çünkü kanserin nereye kadar yayıldığı modern görüntüleme yöntemleri ile bile tam olarak belirlenemez. Cerrahiyi kabul etmeyen yaşam beklentisi uzun olmayan hastalara uygulanabilir. Radyoterapi de cinsel fonksiyonları bozar. Genç hastalara cerrahi operasyon daha faydalıdır. Radyoterapinin etkisini arttırmak için hastaya 18-24 ay süreyle hormon tedavisi uygulanır. Bu tedavide kanseri besleyen erkeklik hormonu bastırılır. Kemik erimesi, depresyon, düşünme yetisinde kayıp gibi yan etkileri vardır. Bunlar hastaların fiziksel aktivitelerini arttırarak kısmen engellenebilir.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Prostat kanseri ameliyatı için başvuran hastalara cerrahi tedavi yerine radyoterapi seçeneği de etraflıca anlatılmalıdır.
 
 **Sekonder (İkincil, İlave)​**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yüksek riskli kanserlerde ameliyat sonrası geride kanser kaldığı veya daha sonra kanserin tekrar ettiği durumlarda ek olarak uygulanır. Radyoterapinin etkisi hormon (TAB) uygulaması ile artırılır.
+&nbsp;Yüksek riskli kanserlerde ameliyat sonrası geride kanser kaldığı veya daha sonra kanserin tekrar ettiği durumlarda ek olarak uygulanır. Radyoterapinin etkisi hormon (TAB) uygulaması ile artırılır.
 
 ## Prostat Kanseri Ameliyatı Yan Etkileri
 

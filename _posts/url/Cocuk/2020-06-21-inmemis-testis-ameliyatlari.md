@@ -46,6 +46,7 @@ lightBoxImages: ["/assets/img/inmemistestiskasikfitigi.jpeg","/assets/img/inmemi
 
 İnmemiş testis hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/inmemis-testis)
 
+{:.text-center}
 ## İnmemiş Testis Ameliyatı Görselleri
 {% include youtubePlayer.html id=page.youtubeId2 %}
 {% include lightbox.html paths=page.lightBoxImages no=1 %}

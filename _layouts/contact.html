@@ -23,7 +23,9 @@ layout: default
               </small>
               <br/>
               <small>
-              {{- site.data.i18n.footer.phone[page.lang] | strip_html | strip_newlines | xml_escape -}}
+                <a href="tel:{{- site.data.i18n.footer.phone[page.lang] | remove: '(' | remove: ')' | remove: ' ' | strip_html | strip_newlines | xml_escape -}}">
+                  {{- site.data.i18n.footer.phone[page.lang] | strip_html | strip_newlines | xml_escape -}}
+                </a>
               </small>
             </div>
           </div>

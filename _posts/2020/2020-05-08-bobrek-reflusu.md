@@ -1,7 +1,7 @@
 ---
 # Global vars
 layout: posts
-title: "Böbrek Reflüsü (Vezikoüreteral Reflü)"
+title: "Böbrek Reflüsü"
 date: 2020-05-08 12:00:00 +0300
 published: true
 tags: ["Vezikoüreteral reflü nedir", "Vezikoüreteral reflü belirti", "böbrek Reflüsü neden tehlikeli", "Vezikoüreteral reflü teşhis", "Vezikoüreteral reflü tedavi", "Vezikoüreteral reflü ameliyat", "böbrek Reflüsü ameliyatı" , "Vezikoüreteral reflü ", "böbrek reflüsü nedir","böbrek reflüsü belirti","böbrek reflüsü teşhis","böbrek reflüsü derece", "böbrek reflüsü tedavi", "böbrek reflüsü çözüm", "böbrek reflüsü ilaç", "böbrek reflüsü açık ameliyat", "böbrek reflüsü kapalı ameliyat"]

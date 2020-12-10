@@ -30,7 +30,7 @@ lightBoxImages4: ["/assets/img/KalinBagirsakYapayMesane1.jpeg", "/assets/img/Kal
 
 Mesane Kanseri hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/mesane-kanseri)
 
-
+{:.text-center}
 ## Bağırsaktan Mesane Yapımı Ameliyatı Görselleri
 
 {% include lightbox.html paths=page.lightBoxImages2 no=2 %}

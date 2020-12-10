@@ -1,7 +1,7 @@
 ---
 # Global vars
 layout: posts
-title: "Çocuklarda İdrar Kaçırma"
+title: "İdrar Kaçırma"
 date: 2020-05-07 12:00:00 +0300
 published: true
 tags: ["Çocuklarda idrar kaçırma", "Gece idrar kaçırma", "çocuklarda idrar kaçırma tipleri", "Gece idrar kaçırma tedavi", "Enüretik alarm", "çocuklarda idrar kaçırma ilaç", "Çocuklarda İdrar Kaçırma Teşhis", "Çocuklarda idrar kaçırma Tedavi", "Çocuklarda İdrar Kaçırma Nedir" ,  "çocuklarda idrar kaçırma çözüm", "çocuklarda idrar kaçırma ilaç tedavi"]

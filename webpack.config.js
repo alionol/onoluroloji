@@ -157,7 +157,7 @@ module.exports = {
         liveReload: true, // hot must be disabled, watchContentBase must be enabled
         writeToDisk: true,
         watchOptions: {
-            aggregateTimeout: 1000,
+            aggregateTimeout: 1500,
             poll: true,
             ignored: [
                 '.git/**',

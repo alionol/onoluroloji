@@ -41,13 +41,16 @@
 <nav class="navbar navbar-expand-xl pt-2 pb-2 navbar-light bg-white border-bottom">
   <div class="container">
     {%- assign headerlogo = site.thumbnail.base | append: site.thumbnail.header_logo.dir | append: site.thumbnail.header_logo.name | append: '.png' -%}
-    <a class="navbar-brand pt-3 mr-2" href="{{- '/' | uri_escape | relative_url -}}">
-      <img src="{{- headerlogo | strip_html | strip_newlines | uri_escape | relative_url -}}" height="40" alt="{{- site.data.organization.name | strip_html | strip_newlines | xml_escape }} Logo" class="d-inline-block align-botton pr-2 pb-1" />
-      {{- site.title | strip_html | strip_newlines | xml_escape -}}
-    </a>
+    <div class="navbar-brand-wrapper">
+      <a class="navbar-brand pt-3 mr-0" href="{{- '/' | uri_escape | relative_url -}}">
+        <img src="{{- headerlogo | strip_html | strip_newlines | uri_escape | relative_url -}}" height="40" alt="{{- site.data.organization.name | strip_html | strip_newlines | xml_escape }} Logo" class="d-inline-block align-botton pr-2 pb-1" />
+        {{- site.title | strip_html | strip_newlines | xml_escape -}}
+      </a>
+    </div>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation" id="navbarTogglerButton">
       <span class="navbar-toggler-icon"></span>
     </button>
+
     <div class="collapse navbar-collapse" id="navbarNavDropdown">
       <ul class="navbar-nav ml-auto pt-2">
         {%- for my_page in site.data.navigation -%}

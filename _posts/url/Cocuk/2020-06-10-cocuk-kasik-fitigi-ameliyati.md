@@ -28,6 +28,6 @@ lightBoxImages: ["/assets/img/inmemistestiskasikfitigi.jpeg","/assets/img/inmemi
 
 Çocuk kasık fıtığı hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/cocuk-kasik-fitigi)
 
-
+{:.text-center}
 ## Çocuk Kasık Fıtığı Ameliyatı Görselleri
 {% include lightbox.html paths=page.lightBoxImages no=1 %}

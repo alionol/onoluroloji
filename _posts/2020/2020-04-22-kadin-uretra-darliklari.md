@@ -1,7 +1,7 @@
 ---
 # Global vars
 layout: posts
-title: "Kadında Üretra (idrar kanalı) Darlığı"
+title: "Üretra (idrar kanalı) Darlığı"
 date: 2020-04-22 12:00:00 +0300
 published: true
 tags: ["üretra nedir", "idrar kanalı nedir", "Üretra darlığı nedeni", "Üretra darlığı belirti", "Üretra darlığı teşhisi", "Üretra darlığı tedavisi" , "kadında üretra darlığı" , "üretra darlığı nedeni", "üretra darlığı ameliyatı" , "üretra darlığı çözüm", "kadında dilatasyon", "üretra darlığı açık ameliyat", "üretra darlığı kapalı ameliyat", "idrar kanalı darlığı", "idrar kanalı darlığı ameliyatı", "kadında idrar kanalı darlığı"]

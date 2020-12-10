@@ -52,6 +52,7 @@ Kadın hastalarda uygulanan standart radikal sistektomi operasyonunda mesane; yu
 
 Mesane Kanseri hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/mesane-kanseri)
 
+{:.text-center}
 ## Mesane Kanseri Ameliyatı Görselleri
 
 {% include lightbox.html paths=page.lightBoxImages no=1 %}

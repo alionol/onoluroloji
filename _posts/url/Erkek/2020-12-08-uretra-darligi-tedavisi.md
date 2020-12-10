@@ -141,24 +141,30 @@ lightBoxImages3: ["/assets/img/idrarKanaliDarligi.jpeg", "/assets/img/idrarKanal
 
 İdrar Kanalı Darlığı hakkında detaylı bilgi için [Tıklayınız.](https://www.onoluroloji.com/erkek-uretra-darligi)
 
+{:.text-center}
 ## Üretra Darlığı Ameliyatı Fotoğrafları ve Videoları
 
+{:.text-center}
 ### Bulber Üretroplasti
 
 {% include lightbox.html paths=page.lightBoxImages no=1 %}
 
+{:.text-center}
 ### Penil Üretroplasti
 
 {% include lightbox.html paths=page.lightBoxImages2 no=2 %}
 
+{:.text-center}
 ### Fossa Naviküler Üretroplasti
 
 {% include lightbox.html paths=page.lightBoxImages3 no=3 %}
 
+{:.text-center}
 ### Bulbomembranöz Üretroplasti (arka üretra darlık ameliyatı)
 
 {% include youtubePlayer.html id=page.youtubeId2 %}
 
+{:.text-center}
 ### Prostat kanseri ameliyatı komplikasyonu olarak oluşan mesane çıkışındaki darlık ameliyatı
 
 {% include youtubePlayer.html id=page.youtubeId3 %}
