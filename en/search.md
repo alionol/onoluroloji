@@ -1,7 +1,7 @@
 ---
 # Global vars
-layout: contact
-title: "Contact"
+layout: search
+title: "Search"
 # Theme specific vars
 summary: ""
 lang: "en"

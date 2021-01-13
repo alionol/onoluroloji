@@ -1,62 +1,87 @@
 home:
   carousel:
     tr: ["Ulusal ve Uluslararası 427 Yayın ve Bildiri", "42 Yıllık Eğitim ve Araştırma Kariyeri", "Dünya Tıp Literatürüne Girmiş 2 Ameliyat Tekniği"]
+    en: ["427 publications and proceedings at national and international venues", "Two surgical techniques that have made into the international medical literature", "A career of education and research that spanned over 42 years"]
   card:
     title:
       tr: ["Erkek Ürolojisi", "Kadın Ürolojisi", "Çocuk Ürolojisi"]
+      en: ["Male Urology", "Female Urology", "Pediatric Urology"]
     desc:
       tr: ["Ekibimiz erkek üroloji hastlalıkları hakkında video, makale ve görseller ile sizi hastalığınız hakkındaki bütün detaylara ulaştırıyor.", "Kadın ürolojisi dalında deneyimli hekimlerimiz, hastalara fiziksel ve psikolojik tramvalarından kurtulmaları için gereken tıbbi ve cerrahi tedaviler hakkında bilgi veriyor.", "Çocuk üroloji sertifikasına da sahip olan doktorumuz, doğumsal veya sonradan oluşan çocuk hastalıklarının tedavi ve ameliyatları hakkında bilgiler veriyor."]
+      en: ["Our team provides extensive information on your diseases with videos, articles and images about male urological diseases.", "Our physicians who are experienced in female urology give information on the medical and surgical treatments that will save patients from their physical and psychological traumas.", "Our physician who is certified in pediatric urology relived parents of their concerns in the light of up-to-date information by briefing them about treatment and surgical operation about the congenital or postnatal pediatric conditions."]
   jumbotron:
     tr: "Üroloji bilim dalı hakkında detaylı bilgiler içeren platformumuz, Prof. Dr. Ş. Yavuz ÖNOL ve Doç. Dr. F. Fatih ÖNOL 'un geniş deneyimlerinden yararlanılarak hazırlanmıştır. Amacımız, Ürolojik rahatsızlıklar ve tedavi yöntemleri hakkında video, makale ve görsellerle hastaların bilgilenmesini sağlamaktır. Özellikle başarısız operasyon geçirmiş hastaların tedavisiyle ilgili uluslararası standarttaki tıbbi ve cerrahi konular ele alınmaktadır. Hastalığınız hakkında teşhis ve doğru tedavi için bize ulaşabilirsiniz."
+    en: "Our platform contains detailed information on the science of urology and it has been developed based on extensive experience of Prof. Dr. S. Yavuz Önol and Assoc. Prof. Dr. F. Fatih Önol. Our aim is to provide information on urological disorders and treatment methods with videos, articles and images. Emphasis is particularly placed on the internationally accepted medical and surgical approaches to the treatment of the patients who have undergone unsuccessful surgical operations. You can contact us for diagnosis and correct treatment of your medical problems."
   doctors:
     title:
       tr: ["Prof. Dr. Ş. Yavuz ÖNOL", "Doç. Dr. F. Fatih ÖNOL"]
+      en: ["Prof. Dr. Ş. Yavuz ÖNOL", "Doç. Dr. F. Fatih ÖNOL"]
     desc:
       tr: ["Prof Dr. Ş. Yavuz ÖNOL, Türk Silahlı Kuvvetlerinin değişik kademelerinde 33 yıl boyunca başasistan, yardımcı doçent, doçent ve profesör olarak eğitim ve araştırma faaliyetlerinde bulunup öğretim üyesi ve klinik şefliği görevlerini icra ettikten sonra kıdemli Albay olarak emekli olmuştur. Sonrasında eğitim araştırma faaliyetlerine Üroloji Klinik Şefi ve Üroloji Anabilim Dalı Başkanı olarak devam etmiştir. Bu görevler esnasında bir çok üroloğun eğitiminde rol oynamıştır. Kariyeri boyunca 427 adet ulusal ve uluslararası yayın ve bildiriye imza atmıştır. Ayrıca dünya tıp literatürüne girmiş ameliyat teknikleriyle (TURC Tekniği Ve ONOL Tekniği), üroloji bilim dalına katkı sağlamıştır.", "Üroloji Uzmanlık eğitimini Marmara Üniversitesi Tıp Fakültesi Üroloji Ana Bilim Dalı'nda tamamlayan Dr. F. Fatih ÖNOL, 2001 ve 2002 yılları arasında A.B.D.'nin Philadelphia kentindeki Thomas Jefferson University Hospital (TJU Üniversitesi Hastanesi) Üroloji Anabilim Dalı'nda gözlemci doktor olarak bulundu.Aynı üniversitede Mart-Haziran 2002 tarihleri arasında Genel Cerrahi rotasyonu yaptı. 2003 yılında A.B.D.'nin Philadelphia kentindeki University of Pennsylvania Hospital – UPENN Hastanesi Üroloji Anabilim Dalı ve Children's Hospital of Philadelphia – CHOP Hastanesi Pediatrik Üroloji Anabilim Dalı'nda gözlemci doktor olarak çalıştı."]
+      en: ["Prof. Dr. Ş. Yavuz Önol served as a chief assistant, an assistant professor, an associate professor and a professor at various positions at the Turkish Armed Forces and conducted training and research activities and worked as a faculty member and clinic chief during his 33-year service before retiring as a senior colonel. Afterwards, he resumed his training activities as a urology clinic chief and urology department head. At these positions, he contributed to the education of many urologists. During his career, he has made 427 publications and proceedings at national and international venues. In addition, he is known for the two surgical techniques he had developed: TURC (Total Utilization of Retroperitoneum for Colpopexy) technique and ONOL technique.", "Having completed his medical specialty in urology at the Department of Urology of the Faculty of Medicine at Marmara University, Dr. F. Fatih Önol attended the clinical observership program at the Department of Urology of Thomas Jefferson University Hospital in Philadelphia, the US, between 2001 and 2002. He went through the general surgery rotation at the same university between March and June 2002.  In 2003, he worked as the clinical observer at the Department of Urology of the University of Pennsylvania (UPENN) Hospital and the Department of Pediatric Urology of the Children’s Hospital of Philadelphia (CHOP), located in Philadelphia, the US."]
   about:
     tr: "Hakkımızda"
+    en: "About"
 
 contact:
   namesurname:
     tr: "Ad/Soyad"
+    en: "Name/Surname"
   email:
     tr: "Email"
+    en: "Email"
   subject:
     tr: "Konu"
+    en: "Subject"
   msg:
     tr: "Mesaj"
+    en: "Message"
   submit:
     tr: "Gönder"
+    en: "Submit"
 
 footer:
   contact:
     tr: "İletişim"
+    en: "Contact"
   address_name:
     tr: "Adres"
+    en: "Address"
   address:
     tr: ["Halaskargazi Caddesi No:81", "Osmanbey / Şişli", "Istanbul"]
+    en: ["Halaskargazi Caddesi No:81", "Osmanbey / Şişli", "Istanbul"]
   email_name:
     tr: "Email"
+    en: "Email"
   phone_name:
     tr: "Telefon"
+    en: "Phone"
   phone:
     tr: "+90 (212) 230 76 44"
+    en: "+90 (212) 230 76 44"
   phone_link:
     tr: "+902122307644"
+    en: "+902122307644"
   social_name:
     tr: "Sosyal Medya"
+    en: "Social Media"
   copyright:
     tr: ["&#169;", "Tüm Hakları Saklıdır"]
+    en: ["&#169;", "All rights reserved"]
   nav:
     tr: "Sayfalar"
+    en: "Pages"
   nav_popular:
     tr: "Yaygın Hastalıklar"
+    en: "Common Diseases"
 
 navigation:
   lang:
     tr: "Dil"
+    en: "Language"
 continue:
   tr: "Devamı"
+  en: "More"
 
 copyright:
   tr: "Copyright"

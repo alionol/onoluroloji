@@ -10,56 +10,72 @@
 - id: "male"
   name:
     tr: "Erkek Hastalıkları"
+    en: "Male Diseases"
   link:
     tr: "/erkek-hastaliklari/"
+    en: "/en/male-diseases/"
   category: "erkek-hastaliklari"
   invisible: false
 - id: "female"
   name:
     tr: "Kadın Hastalıkları"
+    en: "Female Diseases"
   link:
     tr: "/kadin-hastaliklari/"
+    en: "/en/female-diseases/"
   category: "kadin-hastaliklari"
   invisible: false
 - id: "child"
   name:
     tr: "Çocuk Hastalıkları"
+    en: "Child diseases"
   link:
     tr: "/cocuk-hastaliklari/"
+    en: "/en/child-diseases/"
   category: "cocuk-hastaliklari"
   invisible: false
 - id: "about"
   name:
     tr: "Hakkımızda"
+    en: "About"
   link:
     tr: "/hakkımızda/"
+    en: "/en/about/"
   category: false
   invisible: false
   subitem:
     - id: "about-1"
       name:
         tr: "Prof. Dr. Ş. Yavuz Önol"
+        en: "Prof. Dr. Ş. Yavuz Önol"
       link:
         tr: "/hakkımızda/prof-dr-s-yavuz-onol/"
+        en: "/en/about/prof-dr-s-yavuz-onol/"
       invisible: false
     - id: "about-2"
       name:
         tr: "Doç. Dr. F. Fatih Önol"
+        en: "Doç. Dr. F. Fatih Önol"
       link:
         tr: "/hakkımızda/doc-dr-f-fatih-onol/"
+        en: "/en/about/doc-dr-f-fatih-onol/"
       invisible: false
 - id: "contact"
   name:
     tr: "İletişim"
+    en: "Contact"
   link:
     tr: "/iletisim/"
+    en: "/en/contact/"
   category: false
   invisible: false
 
 - id: "search"
   name:
     tr: "Ara"
+    en: "Search"
   link:
     tr: "/arama/"
+    en: "/en/search/"
   category: false
   invisible: false

@@ -59,6 +59,7 @@
         </ul>
       </div>
 
+      {%- if post.lang == "tr" -%}
       <div class="col-md-auto py-3 footer-navigation">
         <h3>{{- site.data.i18n.footer.nav_popular[page.lang] | strip_html | strip_newlines | xml_escape -}}</h3>
         <ul class="footer-navigation-links pl-0">
@@ -75,6 +76,7 @@
           {%- endfor -%}
         </ul>
       </div>
+      {%- endif -%}
 
       <div class="col-md-auto social-media py-3">
         <h3 class="social-media-title">{{- site.data.i18n.footer.social_name[page.lang] | strip_html | strip_newlines | xml_escape -}}</h3>
