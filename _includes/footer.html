@@ -11,7 +11,7 @@
           </small>
           <br/>
           <small>
-            <a href="tel:{{- site.data.i18n.footer.phone[page.lang] | remove: '(' | remove: ')' | remove: ' ' | strip_html | strip_newlines | xml_escape -}}">
+            <a class="phone-trigger-dummy" href="tel:{{- site.data.i18n.footer.phone[page.lang] | remove: '(' | remove: ')' | remove: ' ' | strip_html | strip_newlines | xml_escape -}}">
           {{- site.data.i18n.footer.phone[page.lang] | strip_html | strip_newlines | xml_escape -}}
             </a>
           </small>

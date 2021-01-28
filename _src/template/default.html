@@ -8,14 +8,16 @@
   <body>
     <!-- Google Tag Manager (noscript) -->
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-52XD7RL"
-    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+      height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
     <!-- End Google Tag Manager (noscript) -->
+
     <div class="push-footer">
       {% include navigation.html %}
 
       {{ content }}
 
-      <a class="fixed-phone" href="{{- 'tel:' | append: site.data.i18n.footer.phone_link[page.lang] -}}" title="{{- site.data.i18n.footer.phone_name[page.lang] -}}" aria-label="{{- site.data.i18n.footer.phone_name[page.lang] -}}"><i class="fa-phone"></i></a>
+      <a class="phone-trigger-dummy fixed-phone" href="{{- 'tel:' | append: site.data.i18n.footer.phone_link[page.lang] -}}" title="{{- site.data.i18n.footer.phone_name[page.lang] -}}" aria-label="{{- site.data.i18n.footer.phone_name[page.lang] -}}"><i class="fa-phone"></i></a>
     </div>
 
     {% include footer.html %}

@@ -24,7 +24,7 @@
         </a>
       </div>
       <div class="col-md-auto navbar-above-phone mw-100">
-        <i class="fa-phone-square mr-1 align-middle"></i><a href="tel:{{- site.data.i18n.footer.phone[page.lang] | remove: '(' | remove: ')' | remove: ' ' | strip_html | strip_newlines | xml_escape -}}" class="align-middle">
+        <i class="fa-phone-square mr-1 align-middle"></i><a href="tel:{{- site.data.i18n.footer.phone[page.lang] | remove: '(' | remove: ')' | remove: ' ' | strip_html | strip_newlines | xml_escape -}}" class="phone-trigger-dummy align-middle">
       {{- site.data.i18n.footer.phone[page.lang] | strip_html | strip_newlines | xml_escape -}}</a>
       </div>
       <div class="col-md-auto dropdown language mw-100">
