@@ -20,9 +20,9 @@ youtubeId: False
 lightBoxImages: ["/assets/img/varikoselameliyati1.jpeg", "/assets/img/varikoselameliyati2.jpeg"]
 lightBoxDesc: ["Varicocele Surgery", "Varicocele Surgery"]
 ---
-{% include youtubePlayer.html id=page.youtubeId %}
 
 * TOC
+{:toc}
 
 ## What is Varicosele?
 
@@ -67,6 +67,7 @@ lightBoxDesc: ["Varicocele Surgery", "Varicocele Surgery"]
 
 Open surgery that uses microscope and loupe is the most appropriate treatment method.
 
+{:.text-center}
 ## Visuals of Varicosele Surgery
 
 {% include lightbox.html paths=page.lightBoxImages descs=page.lightBoxDesc no=1 %}

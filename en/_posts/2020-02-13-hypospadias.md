@@ -28,9 +28,9 @@ lightBoxDesc3: ["Adult Hypospadias Premier Surgery", "Adult Hypospadias Premier 
 lightBoxDesc4: ["Adult Hypospadias Second Surgery", "Adult Hypospadias Second Surgery", "Adult Hypospadias Second Surgery", "Adult Hypospadias Second Surgery", "Adult Hypospadias Second Surgery", "Adult Hypospadias Second Surgery", "Adult Hypospadias Second Surgery", "Adult Hypospadias Second Surgery"]
 lightBoxDesc5: ["Hypospadias Surgery", "Hypospadias Surgery"]
 ---
-{% include youtubePlayer.html id=page.youtubeId %}
 
 * TOC
+{:toc}
 
 This article will touch upon the Hypospadias disease, its types, surgical techniques and the anatomy of the penis in order to better clarify the subject. We will initially explain the treatment phases of patients with complex Hypospadias , who previously underwent several unsuccessful surgeries.
 
@@ -116,6 +116,7 @@ In Snodgrass technique, a stricture may occur in the 3-4 mm gap during the rehab
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Treatment is much more difficult for patients that have undergone various unsuccessful surgeries. It requires the complete repair of the penis again. If there is insufficient skin to cover the penis after the tube is created, the penis skin is then created by taking skin grafts from hairless regions of the body (both groins etcetera).
 
+{:.text-center}
 ## Visuals of Hypospadias Surgery
 
 {% include lightbox.html paths=page.lightBoxImages descs=page.lightBoxDesc no=1 %}

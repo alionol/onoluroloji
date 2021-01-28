@@ -21,9 +21,9 @@ youtubeId2: "tli6ff248DQ"
 lightBoxImages: ["/assets/img/inmemistestiskasikfitigi.jpeg","/assets/img/inmemistestiskasikfitigi1.jpeg","/assets/img/inmemistestiskasikfitigi2.jpeg","/assets/img/inmemistestiskasikfitigi3.jpeg","/assets/img/inmemistestiskasikfitigi4.jpeg","/assets/img/inmemistestiskasikfitigi5.jpeg"]
 lightBoxDesc: ["Undescended Testicle Surgery", "Undescended Testicle Surgery", "Undescended Testicle Surgery", "Undescended Testicle Surgery", "Undescended Testicle Surgery", "Undescended Testicle Surgery"]
 ---
-{% include youtubePlayer.html id=page.youtubeId %}
 
 * TOC
+{:toc}
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This article will touch upon the importance of testes, classification of undescended testes, their diagnosis and treatment methods. We will emphasize the importance of descending testes at early age despite the fact that in our country, patients still apply at late ages. We will explain the surgical techniques applied to patients, whose previous testis descending surgeries failed, and applied to cases where the surgery for undescended testis (intra-abdominal testis) is even more difficult.
 
@@ -121,6 +121,7 @@ failure here owes to technical error.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Any undescended but healthy testis, which is diagnosed by imaging methods and laparoscopy, can be successfully descended to the scrotum, inclusive of the ones that couldn't be descended during a previous unsuccessful operation.
 
+{:.text-center}
 ## Visuals of Undescended Testis Surgery
 
 {% include youtubePlayer.html id=page.youtubeId2 %}

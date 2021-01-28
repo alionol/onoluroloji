@@ -666,7 +666,7 @@ blockquote {
 // NAVIGATION BAR
 .navbar-above {
   line-height: $alt-line-height;
-  font-size: $alt-font-size * 0.875;
+  font-size: $alt-font-size * 0.9;
   color: $gray-700;
 
   @media only all and (min-width: map-get($grid-breakpoints, xl)) {
@@ -694,6 +694,9 @@ blockquote {
     }
     span {
       display: inline-block;
+      a {
+        font-size: 1.0em;
+      }
     }
 
     @media only all and (max-width: map-get($grid-breakpoints, md)) {
@@ -712,7 +715,7 @@ blockquote {
   .language {
     a {
       color: $gray-700;
-      font-size: 1.30em;
+      font-size: 1.05em;
     }
     @media only all and (max-width: map-get($grid-breakpoints, md)) {
       a {
@@ -731,14 +734,24 @@ blockquote {
 .navbar {
   line-height: $alt-line-height * 0.95;
 
+  @media only all and (min-width: map-get($grid-breakpoints, lg)) {
+    .container {
+      max-width: 950px;
+    }
+  }
+
   @media only all and (min-width: map-get($grid-breakpoints, xl)) {
     .dropdown:hover > .dropdown-menu {
       display: block;
      }
 
-     .dropdown-toggle::after {
+    .dropdown-toggle::after {
        display: none;
      }
+
+    .container {
+      max-width: 1200px;
+    }
   }
 
   .navbar-toggler {
@@ -749,7 +762,7 @@ blockquote {
   .navbar-brand {
     font-family: $font-family-serif;
     color: $urologue-green;
-    font-size: 1.70em;
+    font-size: 1.80em;
 
     display: flex;
     flex-grow: 1;

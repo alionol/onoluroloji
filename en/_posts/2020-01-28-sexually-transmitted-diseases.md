@@ -6,7 +6,7 @@ date: 2020-01-28 12:00:00 +0300
 published: true
 tags: ["Sexual disease", "sexual disease diagnosis", "sexual disease treatment", "sexual disease symptom", "sexual disease blood test", "sexual disease prevention methods", "syphilis", "genital herpes", "Chlamydia", "Genital lice", "Genital herpes", "Hepatitis B", "aids", "HPV", "hiv", "Trikomnas", "Syphilis", "Moluscum cantagiosum", "Genital Scabies", "Gonorrhea", "gonorrhea", "sexual disease solution", "Molusum cantagiosum treatment", "Gonorrhea treatment", "chlamydia treatment", "syphilis treatment", "genital lice treatment", "genital herpes treatment", "hepatitis b treatment", "hiv treatment", "hpv treatment", "Trichomoniasis treatment", "sexual disease assay", "sexual disease pcr test"]
 category: "erkek-hastaliklari"
-category_id: "male"
+category_id: "common"
 category_title:
     en: "Male Disease"
 i18n-link: "sexually-transmitted-diseases"
@@ -18,9 +18,9 @@ thumbnail:
 summary: "Sexually transmitted diseases and their treatment ..., Chlamydia, Şankı, Genital lice, Genital herpes, Hepatitis B, AIDS, HPV, Trichomonas, Syphilis, Scabies, Symptoms of metastasis and the symptoms of gonorrhea."
 youtubeId: False
 ---
-{% include youtubePlayer.html id=page.youtubeId %}
 
 * TOC
+{:toc}
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sexually transmitted diseases are communicable diseases which are transmitted from one person to another through vaginal, oral or anal sex. In addition, they may also be transmitted through the needles that are not properly sterilized. They may be transmitted from the mother to the baby during the birth as well as through breast feeding. They can be transmitted by blood as well. The transmitting agents are bacteria, parasites, fungi and viruses. They can cause disease both in men and women. They can be dangerous in women, especially the pregnant ones. Most diseases are transmitted after sexual intercourse without condoms. (safe sex)
 

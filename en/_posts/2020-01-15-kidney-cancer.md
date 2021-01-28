@@ -6,7 +6,7 @@ date: 2020-01-15 12:03:00 +0300
 published: true
 tags: ["Kidney cancer symptom", "Kidney cancer", "What is kidney cancer", "The cause of kidney cancer", "Kidney cancer early detection", "Kidney cancer tumor size", "What is kidney cyst", "Partial Nephrectomy", "Kidney cancer complication "," After Kidney Cancer Surgery "," Kidney Cancer Surgery side effects "," What is the role of kidney cancer "," Kidney cancer symptom "," Kidney cancer diagnosis "," Kidney Cancer Surgery "," What is Partial Nephrectomy "," Partial nephrectomy surgery "," Kidney cancer open surgery "," Kidney cancer closed surgery "," Radical nephrectomy surgery "," Radical nephrectomy"]
 category: "erkek-hastaliklari"
-category_id: "male"
+category_id: "common"
 category_title:
     en: "Male Disease"
 i18n-link: "kidney-cancer"
@@ -21,7 +21,6 @@ youtubeId2: "JM_OTjd3LVY"
 lightBoxImages: ["/assets/img/BobrekKanseriAmeliyati1.jpeg", "/assets/img/BobrekKanseriAmeliyati2.jpeg","/assets/img/BobrekKanseriAmeliyati3.jpeg","/assets/img/BobrekKanseriAmeliyati4.jpeg","/assets/img/BobrekKanseriAmeliyati5.jpeg","/assets/img/BobrekKanseriAmeliyati6.jpeg","/assets/img/BobrekKanseriAmeliyati7.jpeg","/assets/img/BobrekKanseriAmeliyati8.jpeg"]
 lightBoxDesc: ["Kidney Cancer Surgery", "Kidney Cancer Surgery", "Kidney Cancer Surgery", "Kidney Cancer Surgery", "Kidney Cancer Surgery", "Kidney Cancer Surgery", "Kidney Cancer Surgery", "Kidney Cancer Surgery"]
 ---
-{% include youtubePlayer.html id=page.youtubeId %}
 
 * TOC
 {:toc}
@@ -162,6 +161,7 @@ lightBoxDesc: ["Kidney Cancer Surgery", "Kidney Cancer Surgery", "Kidney Cancer 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In stage T3, kidney cancer may spread to the heart (atrium) via the inferior vena cava. Its location can be determined definitively using radiologically, especially MRI. In such cases, partial nephrectomy has no place. Radical nephrectomy is performed. The inferior vena cava is incised longitudinally. The tumor is cleared.
 The inferior vena cava is stitched. As seen in the image next to the page, in the cases where kidney cancer has spread to the heart, even the atrium is incised to remove the tumor. These patients can live for years thanks to a successful surgical operation. We have presented our radical nephrectomy vena cava and atrial thrombectomy series in advanced stage kidney cancers at an international congress in the US.
 
+{:.text-center}
 ## The video showing the kidney cancer operation
 
 {% include youtubePlayer.html id=page.youtubeId2 %}

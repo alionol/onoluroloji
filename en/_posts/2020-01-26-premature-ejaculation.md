@@ -18,9 +18,9 @@ thumbnail:
 summary: "What is sexuality? What are the treatment methods of impotence? What is your sexual desire? How does the penis harden? , Erection problems of the penis, treatments of erection problems, impotence treatments; medication, penile implant (penile prosthesis). Premature ejaculation and premature ejaculation treatment, causes of premature ejaculation, premature ejaculation causes, premature ejaculation, premature ejaculation solution, premature ejaculation"
 youtubeId: False
 ---
-{% include youtubePlayer.html id=page.youtubeId %}
 
 * TOC
+{:toc}
 
 ## What is Premature Ejaculation?
 

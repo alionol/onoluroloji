@@ -22,16 +22,14 @@ youtubeId3: "0bXrMSSynC4"
 lightBoxImages: ["/assets/img/bobrekreflusuameliyati1.jpg","/assets/img/bobrekreflusuameliyati2.jpg","/assets/img/bobrekreflusuameliyati3.jpg","/assets/img/bobrekreflusuameliyati4.jpg","/assets/img/bobrekreflusuameliyati5.jpg","/assets/img/bobrekreflusuameliyati6.jpg","/assets/img/bobrekreflusuameliyati7.jpg","/assets/img/bobrekreflusuameliyati8.jpg","/assets/img/bobrekreflusuameliyati9.jpg","/assets/img/bobrekreflusuameliyati10.jpg","/assets/img/bobrekreflusuameliyati11.jpg","/assets/img/bobrekreflusuameliyati12.jpg"]
 lightBoxDesc: ["Vesicoureteral Reflux Surgery", "Vesicoureteral Reflux Surgery", "Vesicoureteral Reflux Surgery", "Vesicoureteral Reflux Surgery", "Vesicoureteral Reflux Surgery", "Vesicoureteral Reflux Surgery", "Vesicoureteral Reflux Surgery", "Vesicoureteral Reflux Surgery", "Vesicoureteral Reflux Surgery", "Vesicoureteral Reflux Surgery", "Vesicoureteral Reflux Surgery", "Vesicoureteral Reflux Surgery"]
 ---
-{% include youtubePlayer.html id=page.youtubeId %}
 
 * TOC
+{:toc}
 
 ## What is Vesicoureteral Reflux?
 
 ![Böbrek Reflüsü](/assets/img/bobrek.jpeg){:.size1}
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vesicoureteral reflux is a condition in which urine flows backward from the bladder into the kidneys. It is common among newborn infants and young children and can cause inflammation of the urinary tract. Without treatment, infection can spread to the kidneys, leading to the loss of kidney function and kidney failure. It is a congenital anomaly.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kidneys regulate the fluid balance in the body by filtering out wastes, and excess water and minerals in the blood. The urine collected in the kidneys is transferred to the bladder through tiny vessels called ureters. The urine from the kidneys is stored in the bladder. At the junction point of the ureters with the bladder, there is a tunnel-shaped check-valve mechanism that prevents flow of the urine from the bladder back to the kidneys. When there is no such check-valve, reflux of the urine from the bladder to the kidneys may occur. The urine that flows back may lead to serious kidney damage. As infants grow, their ureters get elongated and they have stronger muscles, and thus, their valve mechanisms improve. As kids grow, the reflux problems minimize and eventually disappear. Vesicoureteral reflux is a condition that can be likened to the reversal of the traffic on a one-way road.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;At advanced ages, secondary reflux may develop. In other words, a person may have a normal check-valve mechanism, but this mechanism may be impaired due to increases in the pressure inside the bladder because of occlusions in the bladder exit and contraction disorders of the bladder muscles or damage to the bladder nerves, and eventually, that person my develop vesicoureteral reflux.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vesicoureteral reflux is a condition in which urine flows backward from the bladder into the kidneys. It is common among newborn infants and young children and can cause inflammation of the urinary tract. Without treatment, infection can spread to the kidneys, leading to the loss of kidney function and kidney failure. It is a congenital anomaly. Kidneys regulate the fluid balance in the body by filtering out wastes, and excess water and minerals in the blood. The urine collected in the kidneys is transferred to the bladder through tiny vessels called ureters. The urine from the kidneys is stored in the bladder. At the junction point of the ureters with the bladder, there is a tunnel-shaped check-valve mechanism that prevents flow of the urine from the bladder back to the kidneys. When there is no such check-valve, reflux of the urine from the bladder to the kidneys may occur. The urine that flows back may lead to serious kidney damage. As infants grow, their ureters get elongated and they have stronger muscles, and thus, their valve mechanisms improve. As kids grow, the reflux problems minimize and eventually disappear. Vesicoureteral reflux is a condition that can be likened to the reversal of the traffic on a one-way road. At advanced ages, secondary reflux may develop. In other words, a person may have a normal check-valve mechanism, but this mechanism may be impaired due to increases in the pressure inside the bladder because of occlusions in the bladder exit and contraction disorders of the bladder muscles or damage to the bladder nerves, and eventually, that person my develop vesicoureteral reflux.
 
 ## What are the symptoms for vesicoureteral reflux?
 
@@ -101,6 +99,7 @@ Our technique, on the other hand, is more complicated, and requires more experie
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Endoscopic surgery: This method may be useful in lower-degree vesicoureteral reflux. A tube with an illuminator at its end is used to enter the bladder. An agent is injected into the submucosal tissue where the ureter merges into the bladder. It is an easy operation. A single operation may not prove useful even for moderate cases of vesicoureteral reflux. Several operations may be needed. This means repeated anesthesia for the child.
 
+{:.text-center}
 ## Images of Surgical Operations for Reflux
 
 {% include youtubePlayer.html id=page.youtubeId2 %}

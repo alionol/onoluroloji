@@ -20,9 +20,9 @@ youtubeId: False
 lightBoxImages: ["/assets/img/inmemistestiskasikfitigi.jpeg","/assets/img/inmemistestiskasikfitigi1.jpeg","/assets/img/inmemistestiskasikfitigi2.jpeg","/assets/img/inmemistestiskasikfitigi3.jpeg","/assets/img/inmemistestiskasikfitigi4.jpeg","/assets/img/inmemistestiskasikfitigi5.jpeg"]
 lightBoxDesc: ["Inguinal Hernia", "Inguinal Hernia", "Inguinal Hernia", "Inguinal Hernia", "Inguinal Hernia", "Inguinal Hernia"]
 ---
-{% include youtubePlayer.html id=page.youtubeId %}
 
 * TOC
+{:toc}
 
 ## What is a Hernia?
 
@@ -67,6 +67,7 @@ lightBoxDesc: ["Inguinal Hernia", "Inguinal Hernia", "Inguinal Hernia", "Inguina
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In case of emergency procedures, surgery is complicated and challenging. The parents should be briefed about the risks of surgery. They should be particularly informed that if the intestines had become gangrenous, some portion of the intestines may be removed.
 
+{:.text-center}
 ## Images of Pediatric Inguinal Hernia Surgery
 
 {% include lightbox.html paths=page.lightBoxImages descs=page.lightBoxDesc no=1 %}

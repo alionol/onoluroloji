@@ -18,7 +18,6 @@ thumbnail:
 summary: "vagina aesthetics, how the vagina should be, vaginal aesthetics, vaginal aesthetic fee, vaginal aesthetic surgery, advantages of vaginal aesthetics, conditions that require vaginal aesthetics, What is Vagina Aesthetics, Which doctor for vagina aesthetics, Purpose of Vagina Aesthetics, Vagina Shape Disorders, Laser in Vagina Aesthetics"
 youtubeId: False
 ---
-{% include youtubePlayer.html id=page.youtubeId %}
 
 * TOC
 {:toc}
@@ -71,7 +70,7 @@ These represent the most common deformities. Especially long small lips may caus
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;There are several procedures called Hymenoplasty, which aim at restructuring the hymen. We don't perform this surgery due to ethical reasons.
 
-* ###	Vagina Tighten-Up Surgery (Vaginoplasty)
+###	Vagina Tighten-Up Surgery (Vaginoplasty)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vagina can become slack during difficult childbirths. This situation causes sexual function disorder in men and women. The reason is the occurrence of ruptures in the rear wall. The ruptured tissue is approximated to each other by an incision of the vagina rear wall.
 

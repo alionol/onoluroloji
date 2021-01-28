@@ -21,7 +21,6 @@ youtubeId2: "RW7fMM66P_k"
 lightBoxImages: ["/assets/img/ProstatKanseri1.jpeg","/assets/img/ProstatKanseri2.jpeg", "/assets/img/ProstatKanseri3.jpeg", "/assets/img/ProstatKanseri4.jpeg","/assets/img/ProstatKanseri5.jpeg"]
 lightBoxDesc: ["Prostate Cancer Open Surgery", "Prostate Cancer Open Surgery", "Prostate Cancer Open Surgery", "Prostate Cancer Open Surgery", "Prostate Cancer Open Surgery"]
 ---
-{% include youtubePlayer.html id=page.youtubeId %}
 
 * TOC
 {:toc}
@@ -32,7 +31,7 @@ lightBoxDesc: ["Prostate Cancer Open Surgery", "Prostate Cancer Open Surgery", "
 
 ## What is Prostate Cancer?
 
-![Prostat Nedir](/assets/img/Prostate_Cancer_Stages.jpeg){:.size2}
+![Prostat Nedir](/assets/img/prostatkanserinedir.jpeg){:.size2}
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Prostate Cancer is the malign enlargement of the prostate. The prostate, its shell and the seminal vesicles are removed as a whole during prostate cancer surgeries. It is also mandatory to remove all lymph nodes that are located on both sides of the pelvis as well as all lymph nodes that are located on the main blood vessels of the rear abdominal wall (Radical prostatectomy + Extended lymph adenectomy). When performed duly, prostate cancer surgery is a very sophisticated and difficult surgery. Today, prostate cancer surgeries not accompanied by extended lymph node surgery are considered to be inadequate. One cannot understand the extent of upwards cancer metastasis that has jumped into lymph nodes. For this reason, all lymph nodes should always be removed in order not to leave any cancerous tissues behind.
 
 ### Is Prostate Cancer Genetic?
@@ -151,6 +150,7 @@ One should explain radiotherapy option instead of surgical treatment to patients
 
 We successfully repair all complications mentioned above.
 
+{:.text-center}
 ## Operation to Remove the Prostate and Lymph Nodes
 
 {% include youtubePlayer.html id=page.youtubeId2 %}

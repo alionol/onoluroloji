@@ -18,9 +18,9 @@ thumbnail:
 summary: "What is Testicular Cancer ?, Causes of Testicular Cancer ?, Symptoms of Testicular Cancer, Types of Testicular Cancer, Diagnosis of Testicular Cancer, Testicular Cancer Stages, Testicular Cancer Treatment, Chemotherapy After Testicular Cancer, Sperm Bank Application in Testicular Cancer, Post-Testicular Cancer Problem"
 youtubeId: False
 ---
-{% include youtubePlayer.html id=page.youtubeId %}
 
 * TOC
+{:toc}
 
 ## What is Testicular Cancer?
 

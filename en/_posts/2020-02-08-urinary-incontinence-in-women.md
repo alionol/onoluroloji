@@ -1,7 +1,7 @@
 ---
 # Global vars
 layout: posts
-title: "Urinary Incontinence in Women"
+title: "Urinary Incontinence"
 date: 2020-02-08 12:00:00 +0300
 published: true
 tags: ["Why do women leak urine", "urinary drain system", "urinary incontinence", "Stress-type urinary incontinence", "Jam-type urinary incontinence", "Sexual urine incontinence", "Urinary incontinence surgery", "TVT surgery" , "TOT surgery", "urinary incontinence drug", "urinary incontinence cause", "mixed type urinary incontinence", "fistula urinary incontinence", "urinary incontinence diagnosis", "urinary incontinence", "urinary incontinence treatment", "urine incontinence solution "," urinary incontinence treatment "," incontinence surgery side effect"]
@@ -19,7 +19,6 @@ summary: "Why do women leak urine ?, Urinary emptying system in women, types of 
 youtubeId: False
 youtubeId2: "0y6DVkG3lFM"
 ---
-{% include youtubePlayer.html id=page.youtubeId %}
 
 * TOC
 {:toc}
@@ -120,6 +119,7 @@ The primary cause in stress type urinary incontinence is the urethra (urinary ch
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Late complications include the slipping of synthetic slings towards the interior of the urinary channel or the bladder (erosion). This may lead to serious problems. Another complication is the extrusion of synthetic slings (mesh) within the female organ.  It causes gleet and inflammation. It may cause pain for the man and woman during sexual intercourse. Correcting serious complications and re-enabling urinary retention requires more experience.
 
+{:.text-center}
 ## Visuals of Urinary Incontinence Surgery in Women
 
 {% include youtubePlayer.html id=page.youtubeId2 %}

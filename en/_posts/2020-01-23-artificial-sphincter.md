@@ -18,9 +18,9 @@ thumbnail:
 summary: How Is Urine Excreted From The Body? What is Artificial Sphincter ?, What are Artificial Sphincter Surgery Performed ?, Artificial Sphincter Surgery, Complete urinary incontinence, Male urinary incontinence, Urinary incontinence, Artificial Sphincter fee, Artificial Sphincter is inserted ?, How to Install Artificial Sphincter ?, Artificial Sphincter before surgery, Artificial Sphincter is harmful, Artificial Sphincter after surgery, How to do Artificial Sphincter surgery?
 youtubeId: False
 ---
-{% include youtubePlayer.html id=page.youtubeId %}
 
 * TOC
+{:toc}
 
 ## How is Urine Discharged from the Body?
 

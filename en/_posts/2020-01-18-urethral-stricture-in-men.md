@@ -26,9 +26,9 @@ lightBoxDesc: ["Urethroplasty", "Urethroplasty", "Urethroplasty", "Urethroplasty
 lightBoxDesc2: ["Urethroplasty", "Urethroplasty", "Urethroplasty"]
 lightBoxDesc3: ["Urethroplasty", "Urethroplasty", "Urethroplasty", "Urethroplasty"]
 ---
-{% include youtubePlayer.html id=page.youtubeId %}
 
 * TOC
+{:toc}
 
 ## What is Urethra?
 
@@ -181,24 +181,30 @@ The front urethra consists of 3 sections. The bulbar urethra is the widest secti
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It is applied for patients that offer no means of repair even they are healthy. Patients that have undergone many unsuccessful surgeries have no intact urethra tissue left and the surgeon may not reconstruct the urinary channel as no tissue is left. The solution is to construct a bridge between the bladder and the skin by a 5-6 cm channel that is created from the bowels. By using a catheter, the patient personally discharges his urine 4-5 times a day from a small hole opened on the skin. No urine bag is placed outside as the technique operates with a check-valve mechanism. No hygienic problems occur. These cases are extremely rare.
 
+{:.text-center}
 ## Photographs and Videos on Urethra Stricture
 
+{:.text-center}
 ### Bulbar Urethroplasty;
 
 {% include lightbox.html paths=page.lightBoxImages descs=page.lightBoxDesc no=1 %}
 
+{:.text-center}
 ### Penile Urethroplasty;
 
 {% include lightbox.html paths=page.lightBoxImages2 descs=page.lightBoxDesc2 no=2 %}
 
+{:.text-center}
 ### Fossa Navicular Urethroplasty
 
 {% include lightbox.html paths=page.lightBoxImages3 descs=page.lightBoxDesc3 no=3 %}
 
+{:.text-center}
 ### Bulbomembranous Urethroplasty (surgery for strictures in the rear urethra)
 
 {% include youtubePlayer.html id=page.youtubeId2 %}
 
+{:.text-center}
 ### Surgery for strictures in the bladder outlet that occur as a complication of prostate cancer surgery;
 
 {% include youtubePlayer.html id=page.youtubeId3 %}

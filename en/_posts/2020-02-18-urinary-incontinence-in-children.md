@@ -1,7 +1,7 @@
 ---
 # Global vars
 layout: posts
-title: "Urinary Incontinence in Children"
+title: "Urinary Incontinence"
 date: 2020-02-18 12:00:00 +0300
 published: true
 tags: ["Incontinence in children", "Incontinence in the night", "Incontinence in children", "Incontinence in the night", "Enuretic alarm", "Incontinence in children", "Incontinence Diagnosis in Children", "Incontinence in children Treatment"," What is Urinary Incontinence in Children "," Incontinence solution in children "," Incontinence drug treatment in children "]
@@ -18,9 +18,9 @@ thumbnail:
 summary: "Detailed information about urinary incontinence in children ... What is nighttime urinary incontinence? how many types are there? How is urinary incontinence treated at night? Enuretic alarm, drug therapy ... What is done in treatment resistant urinary incontinence?"
 youtubeId: False
 ---
-{% include youtubePlayer.html id=page.youtubeId %}
 
 * TOC
+{:toc}
 
 ## What is Urinary Incontinence in Children?
 

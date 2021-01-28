@@ -1,7 +1,7 @@
 ---
 # Global vars
 layout: posts
-title: "Erection Problems (Impotence)"
+title: "Erection Problems"
 date: 2020-01-21 12:00:00 +0300
 published: true
 tags: ["Impotence", "Impotence treatment", "Sexual desire", "How the penis hardens", "Penis erection problems", "Erection problem treatment", "Impotence solution", "erection problem solution", "erection problem solution", " erection problem surgery "," erection problem needle "," erection problem drug "," impotence drug "," impotence needle "," erection problem ESWT "," happiness stick "," Penile prosthesis "," causes erection problem ", "erection problem", "penis erection", "erection problem", "erection problem", "non-erection", "why the penis does not erect", "erection problem surgery", "erection treatment"]
@@ -18,9 +18,9 @@ thumbnail:
 summary: Cinsellik nedir? İktidarsızlığın tedavi yöntemleri nelerdir? Cinsel arzu nedir? Penis nasıl sertleşir? Penisin sertleşme sorunları, Sertleşme sorunlarının tedavileri, İktidarsızlık tedavileri; ilaçla tedavi, mutluluk çubuğu, penil protez Erken boşalma ve Erken boşalma tedavisi...
 youtubeId: False
 ---
-{% include youtubePlayer.html id=page.youtubeId %}
 
 * TOC
+{:toc}
 
 Sexuality is evaluated under two topics. Desire for the opposite sex and erection of the male organ.
 

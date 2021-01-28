@@ -6,7 +6,7 @@ date: 2020-01-13 12:02:00 +0300
 published: true
 tags: ["What Is Bladder Cancer", "Types of Bladder Cancer", "Causes Bladder Cancer", "Bladder Cancer and Smoking", "Bladder Cancer Symptom", "Bladder Cancer Diagnosis", "Bladder Cancer Stage", "Bladder Cancer Treatment", "Bladder cancer surgery", "Bladder cancer closed surgery", "Bladder cancer open surgery", "What is radical cystectomy", "Radical cystectomy surgery", "Radical cystectomy", "Bladder Cancer", Making bladder from bowel "," Artificial bladder "," Artificial bladder surgery "," Bladder cancer radiotherapy "," Bladder cancer chemotherapy "," Bladder cancer surgery complications "," Bladder cancer side effects"]
 category: "erkek-hastaliklari"
-category_id: "male"
+category_id: "common"
 category_title:
     en: "Male Disease"
 i18n-link: "bladder-cancer"
@@ -67,7 +67,7 @@ lightBoxDes4: ["Neobladder Surgery", "Neobladder Surgery", "Neobladder Surgery",
 ## Phases of Bladder Cancer
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;After the bladder cancer is diagnosed, the treatment is determined according to the spreading of cancer inside the bladder and to other parts of the body. Cancer spreads to other parts of the body after starting within the bladder. It is examined under 5 phases depending on the degree of spreading.
-![Mesane Kanseri Evreleri](/assets/img/AdobeStock_75549266-1024x854.jpeg)
+![Mesane Kanseri Evreleri](/assets/img/Mesanekanserievre.jpeg)
 *	**Phase 0:** Non-aggressive papillary cancer or aggressive inter-epithelium cancer (carcinoma insitu).
 *	**Phase 1:** The cancer has spread to the connective tissue that is located right beneath the most interior epithelium layer. 70 percent of the diagnosed cancers have not spread to the deep muscle layer of the bladder. Meaning that they represent tumors on the interior surface of the bladder.
 With closed method, it is removed by resecting it with high-frequency electric current. Nearly 25 percent of these surface cancers may spread to the muscle layer and gain aggressive character at any point of life. Meaning that these patients should be followed-up.
@@ -171,7 +171,7 @@ You can find the surgery videos and visuals on this subject at the bottom of thi
 
 *	Another complication is the occurrence of cystic formations called lymphocele, which owe to the removal of lymph node chains. Especially in our technique, such cystic formations stay behind the peritoneum and spontaneously disappear overtime. Unfortunately, serious problems may occur during unnecessary early interventions that try to discharge these cysts.
 
-
+{:.text-center}
 ## Visuals on Bladder Cancer Surgery
 
 {% include lightbox.html paths=page.lightBoxImages descs=page.lightBoxDesc no=1 %}

@@ -6,7 +6,7 @@ date: 2020-01-16 12:04:00 +0300
 published: true
 tags: ["What Is Kidney Stone", "Kidney Stone", "Causes Kidney Stone", "Kidney Stone Type", "Who Has Kidney Stone", "Kidney Stone Symptom", "Kidney Stone Diagnosis", "How To Prevent Kidney Stone", "Kidney Stone Pain", "Kidney Stone Treatment", "Kidney stone open surgery", "Kidney Stone Closed Surgery", "What is kidney", "Kidney stone ESWL", "Ureteroscopy", "Percutaneous Nephrolithotomy", "Kidney stone prevention "]
 category: "erkek-hastaliklari"
-category_id: "male"
+category_id: "common"
 category_title:
     en: "Male Disease"
 i18n-link: "kidney-stone"
@@ -111,6 +111,7 @@ lightBoxDesc2: ["Kidney Stone", "Kidney Stone", "Kidney Stone", "Kidney Stone"]
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In the technique we have been implementing for many years, no damage is given to the body except the scar from the incision of 4-6 cm on the skin. Stones are removed as a whole. In addition, when needed, a flexible systoscope may be inserted into the renal pelvis to remove the remaining stones. The related videos and images are given below.
 
+{:.text-center}
 ## Images of Kidney Stone Operation
 
 {% include lightbox.html paths=page.lightBoxImages descs=page.lightBoxDesc no=1 %}

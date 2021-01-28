@@ -18,7 +18,6 @@ thumbnail:
 summary: "What is prostate enlargement? , When is prostate enlargement diagnosis, prostate enlargement symptoms, prostate enlargement treatment, prostate enlargement surgery, prostate enlargement surgery? Prostate enlargement drug therapy, Prostate enlargement complaints, Why does the prostate grow? Does prostate enlargement turn into cancer? Prostate enlargement open surgery Prostate enlargement closed surgery"
 youtubeId: False
 ---
-{% include youtubePlayer.html id=page.youtubeId %}
 
 * TOC
 {:toc}

@@ -1,7 +1,7 @@
 ---
 # Global vars
 layout: posts
-title: "Testis Torsion (Turning of Testis)"
+title: "Testis Torsion"
 date: 2020-02-17 12:00:00 +0300
 published: true
 tags: ["Tertis torsion", "What is testis", "What is testicular torsion", "Testicular torsion testicular cancer", "testicular torsion type", "Testicular torsion early intervention", "Testicular torsion diagnosis", "Testicular torsion treatment", "Testis torsion surgery "," testicular rotation "," when testicular torsion "," cause testicular torsion "," testicular torsion emergency "," testicular torsion symptom "," testicular torsion ultrasonography "," testicular torsion type "," testicular torsion therapy "," testicular torsion solution "," testicular rotation surgery "," testicular rotation treatment"]
@@ -24,9 +24,9 @@ lightBoxDesc: ["Tertis Torsion", "Tertis Torsion"]
 lightBoxDesc2: ["Testis Torsion Surgery", "Testis Torsion Surgery", "Testis Torsion Surgery", "Testis Torsion Surgery", "Testis Torsion Surgery"]
 lightBoxDesc3: ["Testis Torsion Complex Surgery", "Testis Torsion Complex Surgery", "Testis Torsion Complex Surgery", "Testis Torsion Complex Surgery", "Testis Torsion Complex Surgery", "Testis Torsion Complex Surgery"]
 ---
-{% include youtubePlayer.html id=page.youtubeId %}
 
 * TOC
+{:toc}
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This article will touch upon testis torsion, meaning when the eggs turn around their blood vessel stem. We will explain the importance, functions, anatomy and disorders of the testes in order to better clarify the subject.
 
@@ -116,6 +116,7 @@ There are 2 types of testis torsion: intravaginal torsion (inside the testis mem
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A 2-4 cm incision made from the groin region or over the sacs. The membrane over the testis is open. The torsion (turning) is correcting by turning the testis towards the opposite side. We apply heat in order to increase blood flow and observe whether there is blood built-up in the testis. In the meanwhile, an incision is made at other side of the groin in order to solidify the other testis. The intact testis is fixated onto the scrotum base in order to prevent possible torsion in the future. The turned testis is fixated onto its position if it blood built-up has occurred and its color became partially lighter. If there is no blood built-up, this means that the testis has decayed. The testis is incised and removed.
 
+{:.text-center}
 ## Visuals of Testis Torsion Surgery
 
 {% include lightbox.html paths=page.lightBoxImages descs=page.lightBoxDesc no=1 %}  

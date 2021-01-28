@@ -18,9 +18,9 @@ thumbnail:
 summary: "What is male infertility ?, Causes of male infertility?, Sperm-induced infertility?, Testicular-induced infertility?, Ejaculation-induced infertility?, Infertility diagnosis?, Infertility Treatment ?, Classical methods, Methods to facilitate fertilization, IVF Donor sperm"
 youtubeId: False
 ---
-{% include youtubePlayer.html id=page.youtubeId %}
 
 * TOC
+{:toc}
 
 ## What is Male Infertility?
 

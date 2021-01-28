@@ -1,7 +1,7 @@
 ---
 # Global vars
 layout: posts
-title: "Urethral (Urinary Channel) Stricture in Women"
+title: "Urethral Stricture"
 date: 2020-02-09 12:00:00 +0300
 published: true
 tags: ["what is urethra", "what is urinary tract", "cause of urethral stricture", "urethral stricture symptom", "urethral stricture diagnosis", "urethral stricture treatment", "urethral stenosis in woman", "cause of urethral stenosis", "urethral stenosis surgery "," urethral stricture solution "," dilatation in woman "," urethral stenosis open surgery "," urethral stenosis closed surgery "," urinary duct stenosis "," urinary duct stenosis surgery" , "urinary duct stenosis in woman"]
@@ -19,7 +19,6 @@ summary: "What is urethra (urinary tract)?, Detailed information about the cause
 youtubeId: False
 youtubeId2: "BW89QLwkGP0"
 ---
-{% include youtubePlayer.html id=page.youtubeId %}
 
 * TOC
 {:toc}
@@ -67,6 +66,7 @@ youtubeId2: "BW89QLwkGP0"
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In sum, strictures in the urethra are repaired with reconstructive (restructuring) urology and the urinary channel resumes its normal function thereafter. The patient is entirely relieved from such complaints.
 
+{:.text-center}
 ## Visuals of Urethra Stricture Surgery in Women
 
 {% include youtubePlayer.html id=page.youtubeId2 %}
